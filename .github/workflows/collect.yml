@@ -59,6 +59,9 @@ jobs:
       - name: Collect highlights
         run: python collect_highlights.py || echo "  (highlights fetch skipped)"
 
+      - name: Collect player channels
+        run: python collect_players.py || echo "  (player channels skipped)"
+
       - name: Commit any new or changed data
         run: |
           git config user.name "github-actions"
