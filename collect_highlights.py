@@ -44,6 +44,8 @@ def fetch(ch):
             continue
         if SKIP.search(title) or not KEEP.search(title):
             continue
+        if "fpo" in title.lower():   # MPO only
+            continue
         out.append({
             "channel": ch["name"],
             "title": title,
