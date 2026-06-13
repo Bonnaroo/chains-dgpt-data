@@ -1,19 +1,24 @@
 #!/usr/bin/env python3
 """
-Chains - video fetcher (Jomez, organized by tournament).
-Pulls Jomez Pro's per-tournament playlists via public RSS (no API key) and saves
-data/videos.json grouped by tournament, each with its round videos in order.
-Thumbnails + links point at YouTube; we never re-host anything.
+Chains - video fetcher (YouTube Data API, MPO only, by tournament).
+Uses the YouTube Data API v3 to get the FULL video list of each Jomez Pro
+tournament playlist (the RSS feed caps at 15 and was dropping final rounds on
+big events). MPO only. Grouped by tournament, rounds in chronological order.
+Requires env var YOUTUBE_API_KEY (stored as a GitHub Actions secret).
+If the key is missing, it falls back to the RSS method (15-video cap) so the
+pipeline never hard-fails.
 Usage:  python collect_videos.py
 Output: data/videos.json
 """
 
-import json, re, urllib.request
+import json, os, re, urllib.request, urllib.parse
 from datetime import datetime, timezone
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
+JOMEZ_CHANNEL_ID = "UCmGyCEbHfY91NFwHgioNLMQ"
 JOMEZ_PLAYLISTS_URL = "https://www.youtube.com/@JomezPro/playlists"
+API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 
@@ -21,62 +26,93 @@ def get(url):
     req = urllib.request.Request(url, headers=HEADERS)
     return urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
 
-def fetch_playlist(pid):
+def discover_playlists():
+    """Find Jomez playlist IDs from their playlists page."""
+    html = get(JOMEZ_PLAYLISTS_URL)
+    return list(dict.fromkeys(re.findall(r'"playlistId":"(PL[^"]+)"', html)))
+
+def playlist_title_via_rss(pid):
+    try:
+        x = get(f"https://www.youtube.com/feeds/videos.xml?playlist_id={pid}")
+        root = ET.fromstring(x)
+        return root.findtext("a:title", default="", namespaces=NS).strip()
+    except Exception:
+        return ""
+
+def playlist_videos_api(pid):
+    """Full playlist via API with pagination. Returns list of (title, video_id, published)."""
+    items, page = [], ""
+    while True:
+        params = urllib.parse.urlencode({
+            "part": "snippet", "playlistId": pid, "maxResults": 50,
+            "pageToken": page, "key": API_KEY,
+        })
+        data = json.loads(get(f"https://www.googleapis.com/youtube/v3/playlistItems?{params}"))
+        for it in data.get("items", []):
+            sn = it.get("snippet", {})
+            vid = sn.get("resourceId", {}).get("videoId")
+            title = sn.get("title", "")
+            pub = sn.get("publishedAt", "")
+            if vid and title:
+                items.append((title, vid, pub))
+        page = data.get("nextPageToken", "")
+        if not page:
+            break
+    return items
+
+def playlist_videos_rss(pid):
+    """Fallback: RSS (capped at 15)."""
     x = get(f"https://www.youtube.com/feeds/videos.xml?playlist_id={pid}")
     root = ET.fromstring(x)
-    pl_title = root.findtext("a:title", default="", namespaces=NS).strip()
-    vids = []
-    for entry in root.findall("a:entry", NS):
-        vid = entry.findtext("yt:videoId", default="", namespaces=NS)
-        title = entry.findtext("a:title", default="", namespaces=NS).strip()
-        published = entry.findtext("a:published", default="", namespaces=NS)
-        if not vid:
-            continue
-        vids.append({
-            "title": title,
-            "video_id": vid,
-            "link": f"https://www.youtube.com/watch?v={vid}",
-            "thumbnail": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
-            "published": published,
-        })
-    return pl_title, vids
+    out = []
+    for e in root.findall("a:entry", NS):
+        vid = e.findtext("yt:videoId", default="", namespaces=NS)
+        title = e.findtext("a:title", default="", namespaces=NS).strip()
+        pub = e.findtext("a:published", default="", namespaces=NS)
+        if vid and title:
+            out.append((title, vid, pub))
+    return out
 
 def main():
-    html = get(JOMEZ_PLAYLISTS_URL)
-    ids = list(dict.fromkeys(re.findall(r'"playlistId":"(PL[^"]+)"', html)))
+    use_api = bool(API_KEY)
+    print(f"  mode: {'API (full playlists)' if use_api else 'RSS fallback (15-cap)'}")
+    pids = discover_playlists()
     tournaments = []
-    for pid in ids[:40]:
-        try:
-            title, vids = fetch_playlist(pid)
-        except Exception:
-            continue
+    for pid in pids[:40]:
+        title = playlist_title_via_rss(pid)
         if not (title.startswith("2025") or title.startswith("2026")):
             continue
-        # MPO only: skip women's-championship playlists
         if any(w in title.lower() for w in ("women", "throw pink")):
             continue
-        # drop FPO (women's division) round videos
-        vids = [v for v in vids if "fpo" not in v["title"].lower()]
+        try:
+            raw = playlist_videos_api(pid) if use_api else playlist_videos_rss(pid)
+        except Exception as e:
+            print(f"    {title}: fetch error ({e}); skipping")
+            continue
+        # MPO only, drop FPO
+        vids = []
+        for t, v, pub in raw:
+            if "fpo" in t.lower():
+                continue
+            vids.append({
+                "title": t.strip(), "video_id": v,
+                "link": f"https://www.youtube.com/watch?v={v}",
+                "thumbnail": f"https://i.ytimg.com/vi/{v}/hqdefault.jpg",
+                "published": pub,
+            })
         if not vids:
             continue
-        # sort chronologically so rounds read R1 -> final
-        vids.sort(key=lambda v: v.get("published",""))
-        year = title[:4]
+        vids.sort(key=lambda x: x.get("published", ""))  # R1 -> final
         tournaments.append({
-            "tournament": title,
-            "year": year,
-            "channel": "JomezPro",
-            "playlist_id": pid,
-            "video_count": len(vids),
-            "videos": vids,
+            "tournament": title, "year": title[:4], "channel": "JomezPro",
+            "playlist_id": pid, "video_count": len(vids), "videos": vids,
         })
-        print(f"  {title}: {len(vids)} videos")
-    # sort: 2026 before 2025, otherwise by most recent video
+        print(f"    {title}: {len(vids)} MPO videos")
     tournaments.sort(key=lambda t: (t["year"], max((v["published"] for v in t["videos"]), default="")), reverse=True)
     out = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "source": "JomezPro playlists",
-        "note": "Thumbnails/titles link to YouTube. Grouped by tournament, rounds in order.",
+        "source": "JomezPro playlists (YouTube Data API)" if use_api else "JomezPro playlists (RSS, 15-cap)",
+        "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
         "tournaments": tournaments,
     }
     Path("data").mkdir(parents=True, exist_ok=True)
