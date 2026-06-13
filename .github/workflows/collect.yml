@@ -54,6 +54,9 @@ jobs:
       - name: Collect videos
         run: python collect_videos.py || echo "  (video fetch skipped)"
 
+      - name: Collect highlights
+        run: python collect_highlights.py || echo "  (highlights fetch skipped)"
+
       - name: Commit any new or changed data
         run: |
           git config user.name "github-actions"
