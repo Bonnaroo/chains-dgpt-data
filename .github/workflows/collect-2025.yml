@@ -1,0 +1,46 @@
+name: Collect 2025 Season (one-time)
+
+# Run this ONCE to back-fill the finished 2025 season into data/events-2025/.
+# It is manual-only (no schedule) because 2025 is complete and never changes.
+# After it runs successfully and commits the data, you never need it again.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect-2025:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect every 2025 event
+        run: |
+          mkdir -p data/events-2025
+          while read -r id; do
+            [ -z "$id" ] && continue
+            case "$id" in \#*) continue ;; esac
+            echo "Collecting 2025 event $id"
+            python collect_event.py "$id" --out data/events-2025 || echo "  (skipped $id)"
+          done < events-2025.txt
+
+      - name: Commit the 2025 data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/events-2025/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Back-fill 2025 season data (one-time)"
+            git push
+          fi
