@@ -22,6 +22,13 @@ API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 
+import re as _re
+ROUNDRE = re.compile(r'\b(R[1-9][FB]9|FINAL\s*[FB]9|FINALF9|FINALB9)\b', re.I)
+
+def classify_kind(title):
+    """Tournament round vs practice/extra, based on the R#F9/FINAL pattern."""
+    return "round" if ROUNDRE.search(title or "") else "practice"
+
 def get(url):
     req = urllib.request.Request(url, headers=HEADERS)
     return urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
@@ -96,6 +103,7 @@ def main():
                 continue
             vids.append({
                 "title": t.strip(), "video_id": v,
+                "kind": classify_kind(t),
                 "link": f"https://www.youtube.com/watch?v={v}",
                 "thumbnail": f"https://i.ytimg.com/vi/{v}/hqdefault.jpg",
                 "published": pub,
@@ -103,9 +111,13 @@ def main():
         if not vids:
             continue
         vids.sort(key=lambda x: x.get("published", ""))  # R1 -> final
+        rounds_n = sum(1 for v in vids if v["kind"] == "round")
+        practice_n = sum(1 for v in vids if v["kind"] == "practice")
         tournaments.append({
             "tournament": title, "year": title[:4], "channel": "JomezPro",
-            "playlist_id": pid, "video_count": len(vids), "videos": vids,
+            "playlist_id": pid, "video_count": len(vids),
+            "round_count": rounds_n, "practice_count": practice_n,
+            "videos": vids,
         })
         print(f"    {title}: {len(vids)} MPO videos")
     tournaments.sort(key=lambda t: (t["year"], max((v["published"] for v in t["videos"]), default="")), reverse=True)
