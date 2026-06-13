@@ -52,6 +52,11 @@ def main():
             continue
         if not (title.startswith("2025") or title.startswith("2026")):
             continue
+        # MPO only: skip women's-championship playlists
+        if any(w in title.lower() for w in ("women", "throw pink")):
+            continue
+        # drop FPO (women's division) round videos
+        vids = [v for v in vids if "fpo" not in v["title"].lower()]
         if not vids:
             continue
         # sort chronologically so rounds read R1 -> final
