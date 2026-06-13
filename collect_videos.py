@@ -1,87 +1,82 @@
 #!/usr/bin/env python3
-
 """
-Chains - video fetcher.
-
-Pulls the latest videos from disc golf YouTube channels via their public RSS
-feeds (no API key) and saves data/videos.json for the app. We store the video
-title, link, channel, published date, and the official YouTube thumbnail URL.
-
-The app shows thumbnails that LINK OUT to YouTube -- we never re-host video or
-images, we point at YouTube's own.
-
+Chains - video fetcher (Jomez, organized by tournament).
+Pulls Jomez Pro's per-tournament playlists via public RSS (no API key) and saves
+data/videos.json grouped by tournament, each with its round videos in order.
+Thumbnails + links point at YouTube; we never re-host anything.
 Usage:  python collect_videos.py
-
 Output: data/videos.json
 """
 
-import json
-import re
-import urllib.request
+import json, re, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-# Public YouTube channel RSS feeds (no API key needed).
-CHANNELS = [
-    {"name": "JomezPro",          "channel_id": "UCmGyCEbHfY91NFwHgioNLMQ"},
-    {"name": "Disc Golf Network", "channel_id": "UCKw8iyzuymljxkzu7HdZ1zA"},
-    {"name": "Gatekeeper Media",  "channel_id": "UC9a1V9evArQaHOlkqeY63Iw"},
-    {"name": "Disc Golf Pro Tour","channel_id": "UCw0WzNn6m2Na6ZW7rKqWI3g"},
-]
-
+JOMEZ_PLAYLISTS_URL = "https://www.youtube.com/@JomezPro/playlists"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
-PER_CHANNEL = 6
-NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015",
-      "media": "http://search.yahoo.com/mrss/"}
+NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 
-def fetch_channel(ch):
-    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={ch['channel_id']}"
+def get(url):
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        raw = resp.read().decode("utf-8", "replace")
-    root = ET.fromstring(raw)
-    out = []
+    return urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+
+def fetch_playlist(pid):
+    x = get(f"https://www.youtube.com/feeds/videos.xml?playlist_id={pid}")
+    root = ET.fromstring(x)
+    pl_title = root.findtext("a:title", default="", namespaces=NS).strip()
+    vids = []
     for entry in root.findall("a:entry", NS):
         vid = entry.findtext("yt:videoId", default="", namespaces=NS)
-        title = entry.findtext("a:title", default="", namespaces=NS)
+        title = entry.findtext("a:title", default="", namespaces=NS).strip()
         published = entry.findtext("a:published", default="", namespaces=NS)
-        if not vid or not title:
+        if not vid:
             continue
-        out.append({
-            "channel": ch["name"],
-            "title": title.strip(),
+        vids.append({
+            "title": title,
             "video_id": vid,
             "link": f"https://www.youtube.com/watch?v={vid}",
             "thumbnail": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
             "published": published,
         })
-        if len(out) >= PER_CHANNEL:
-            break
-    return out
+    return pl_title, vids
 
 def main():
-    all_videos = []
-    for ch in CHANNELS:
+    html = get(JOMEZ_PLAYLISTS_URL)
+    ids = list(dict.fromkeys(re.findall(r'"playlistId":"(PL[^"]+)"', html)))
+    tournaments = []
+    for pid in ids[:40]:
         try:
-            got = fetch_channel(ch)
-            print(f"  {ch['name']}: {len(got)} videos")
-            all_videos.extend(got)
-        except Exception as e:
-            print(f"  {ch['name']}: ERROR {e}")
-
-    # newest first across all channels (published is ISO-ish, sortable as string)
-    all_videos.sort(key=lambda v: v.get("published", ""), reverse=True)
-
+            title, vids = fetch_playlist(pid)
+        except Exception:
+            continue
+        if not (title.startswith("2025") or title.startswith("2026")):
+            continue
+        if not vids:
+            continue
+        # sort chronologically so rounds read R1 -> final
+        vids.sort(key=lambda v: v.get("published",""))
+        year = title[:4]
+        tournaments.append({
+            "tournament": title,
+            "year": year,
+            "channel": "JomezPro",
+            "playlist_id": pid,
+            "video_count": len(vids),
+            "videos": vids,
+        })
+        print(f"  {title}: {len(vids)} videos")
+    # sort: 2026 before 2025, otherwise by most recent video
+    tournaments.sort(key=lambda t: (t["year"], max((v["published"] for v in t["videos"]), default="")), reverse=True)
     out = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "note": "Thumbnails and titles link to YouTube. Tap to watch there.",
-        "videos": all_videos,
+        "source": "JomezPro playlists",
+        "note": "Thumbnails/titles link to YouTube. Grouped by tournament, rounds in order.",
+        "tournaments": tournaments,
     }
-
     Path("data").mkdir(parents=True, exist_ok=True)
     (Path("data") / "videos.json").write_text(json.dumps(out, indent=2), encoding="utf-8")
-    print(f"  saved data/videos.json with {len(all_videos)} videos")
+    print(f"  saved data/videos.json: {len(tournaments)} tournaments")
 
 if __name__ == "__main__":
     main()
