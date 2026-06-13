@@ -52,6 +52,8 @@ jobs:
         run: python collect_news.py || echo "  (news fetch skipped)"
 
       - name: Collect videos
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python collect_videos.py || echo "  (video fetch skipped)"
 
       - name: Collect highlights
