@@ -12,7 +12,10 @@ on:
         required: false
         default: ""
   schedule:
-    - cron: "0 14 * * 1"
+    # Twice daily, every day (UTC). ~7am and ~5pm US Eastern-ish.
+    # Quiet days are harmless no-ops; weekends stay fresh.
+    - cron: "0 12 * * *"
+    - cron: "0 22 * * *"
 
 # Allow the job to write files back into the repo
 permissions:
