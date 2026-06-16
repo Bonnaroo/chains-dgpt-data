@@ -60,6 +60,9 @@ jobs:
         run: python collect_highlights.py || echo "  (highlights fetch skipped)"
 
       - name: Collect player channels
+
+              - name: Collect upcoming event field
+                        run: python collect_field.py || echo " (field fetch skipped)"
         run: python collect_players.py || echo "  (player channels skipped)"
 
       - name: Commit any new or changed data
