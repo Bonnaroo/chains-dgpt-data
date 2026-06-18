@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T04:17:12.576306+00:00",
+  "updated_at": "2026-06-18T10:25:36.988659+00:00",
   "event_tag": "T10",
   "event_id": 96411,
   "player_count": 110,
@@ -33,6 +33,12 @@
       "firstName": "Bradley",
       "lastName": "Williams",
       "pdgaNumber": 31644,
+      "place": 0
+    },
+    {
+      "firstName": "Knut",
+      "lastName": "H\u00e5land",
+      "pdgaNumber": 35070,
       "place": 0
     },
     {
@@ -441,12 +447,6 @@
       "firstName": "Arvid",
       "lastName": "H\u00e5kansson",
       "pdgaNumber": 119628,
-      "place": 0
-    },
-    {
-      "firstName": "Ricko",
-      "lastName": "Kokko",
-      "pdgaNumber": 120749,
       "place": 0
     },
     {
