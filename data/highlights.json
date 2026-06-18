@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-18T15:33:04.695392+00:00",
+  "updated_at": "2026-06-18T18:28:09.853270+00:00",
   "note": "Short highlight clips. Tap to watch on YouTube.",
   "clips": [
+    {
+      "channel": "Disc Golf Pro Tour",
+      "title": "Round 1 Highlights | MPO | 2026 European Open",
+      "video_id": "VGaJn9ZYbqY",
+      "link": "https://www.youtube.com/watch?v=VGaJn9ZYbqY",
+      "thumbnail": "https://i.ytimg.com/vi/VGaJn9ZYbqY/hqdefault.jpg",
+      "published": "2026-06-18T17:01:00+00:00"
+    },
     {
       "channel": "Disc Golf Pro Tour",
       "title": "Stroke Play Highlights (Round 3) | 2026 Presidents Cup",
@@ -73,14 +81,6 @@
       "link": "https://www.youtube.com/watch?v=gn4QFR3DVMY",
       "thumbnail": "https://i.ytimg.com/vi/gn4QFR3DVMY/hqdefault.jpg",
       "published": "2026-06-09T12:30:26+00:00"
-    },
-    {
-      "channel": "Disc Golf Pro Tour",
-      "title": "Final Round Highlights | MPO | 2026 Northwest Championship",
-      "video_id": "PXB5WlUmbKM",
-      "link": "https://www.youtube.com/watch?v=PXB5WlUmbKM",
-      "thumbnail": "https://i.ytimg.com/vi/PXB5WlUmbKM/hqdefault.jpg",
-      "published": "2026-06-08T01:44:23+00:00"
     }
   ]
 }
