@@ -12,9 +12,9 @@ on:
         required: false
         default: ""
   schedule:
-    # Twice daily, every day (UTC). ~7am and ~5pm US Eastern-ish.
-    # Quiet days are harmless no-ops; weekends stay fresh.
-    - cron: "0 */2 * * *"
+    # Every 15 minutes, all week, for near-live tournament scoring.
+    # Public repo: Actions minutes are free and unlimited.
+    - cron: "*/15 * * * *"
 
 # Allow the job to write files back into the repo
 permissions:
