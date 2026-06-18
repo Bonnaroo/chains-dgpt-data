@@ -61,6 +61,12 @@ def playlist_videos_api(pid):
             title = sn.get("title", "")
             pub = sn.get("publishedAt", "")
             if vid and title:
+                # skip private/unavailable videos
+                if title.lower() in ('private video', 'deleted video'):
+                    continue
+                thumbs = sn.get('thumbnails', {})
+                if not thumbs:
+                    continue
                 items.append((title, vid, pub))
         page = data.get("nextPageToken", "")
         if not page:
