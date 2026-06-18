@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T18:28:09.705553+00:00",
+  "updated_at": "2026-06-18T20:42:22.151107+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,26 +8,10 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLZ1LrAadOyA0N37DBZtmhlImHNEq0_YQL",
-      "video_count": 10,
+      "video_count": 8,
       "round_count": 8,
-      "practice_count": 2,
+      "practice_count": 0,
       "videos": [
-        {
-          "title": "Private video",
-          "video_id": "DQfMMUaHgGM",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=DQfMMUaHgGM",
-          "thumbnail": "https://i.ytimg.com/vi/DQfMMUaHgGM/hqdefault.jpg",
-          "published": "2026-06-05T10:06:48Z"
-        },
-        {
-          "title": "Private video",
-          "video_id": "22CyF6KZVTQ",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=22CyF6KZVTQ",
-          "thumbnail": "https://i.ytimg.com/vi/22CyF6KZVTQ/hqdefault.jpg",
-          "published": "2026-06-05T10:08:06Z"
-        },
         {
           "title": "2026 Northwest Championship | MPO R1F9 | Buhr, Heimburg, Robinson, Klein | Jomez Disc Golf",
           "video_id": "HylAqHFrIUw",
