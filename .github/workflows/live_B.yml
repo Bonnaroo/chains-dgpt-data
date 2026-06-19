@@ -1,0 +1,40 @@
+name: Live Scores B
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * 4,5,6,0"
+
+permissions:
+  contents: write
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Stagger offset (+100s)
+        run: sleep 100
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect live scores
+        run: python collect_live.py || echo "  (live fetch skipped)"
+
+      - name: Commit live data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git pull --rebase --autostash || true
+          git add data/live.json
+          if git diff --staged --quiet; then
+            echo "No change."
+          else
+            git commit -m "Live scores update (B)"
+            git push || (git pull --rebase --autostash && git push)
+          fi
