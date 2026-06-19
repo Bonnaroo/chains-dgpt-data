@@ -1,0 +1,33 @@
+name: Backup League Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Backup league data
+        run: python backup_league.py
+      - name: Commit backups
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/backups/
+          if git diff --staged --quiet; then
+            echo "No backup change."
+          else
+            git commit -m "Daily league backup ($(date -u +%Y-%m-%d))"
+            git push
+          fi
