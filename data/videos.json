@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-06-19T13:49:17.346447+00:00",
+  "updated_at": "2026-06-19T16:29:19.310361+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 European Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA1JTU6Qtxd7Z4ZkN8Ex2WSE",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 European Open | MPO R1F9 | Heimburg, Buhr, Anttila, Villman | Jomez Disc Golf",
+          "video_id": "AsGDXty9dwE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=AsGDXty9dwE",
+          "thumbnail": "https://i.ytimg.com/vi/AsGDXty9dwE/hqdefault.jpg",
+          "published": "2026-06-18T22:52:07Z"
+        },
+        {
+          "title": "2026 European Open  | MPO R1B9 | Heimburg, Buhr, Anttila, Villman | Jomez Disc Golf",
+          "video_id": "jd4K9_AfLGE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=jd4K9_AfLGE",
+          "thumbnail": "https://i.ytimg.com/vi/jd4K9_AfLGE/hqdefault.jpg",
+          "published": "2026-06-18T22:53:36Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 Northwest Championship",
       "year": "2026",
