@@ -23,18 +23,32 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Pull latest first
+        run: git pull origin main --no-rebase || true
+
       - name: Collect live scores
         run: python collect_live.py || echo "  (live fetch skipped)"
 
-      - name: Commit live data
+      - name: Commit and push (retry on conflict)
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git pull --rebase --autostash || true
           git add data/live.json
           if git diff --staged --quiet; then
             echo "No change."
-          else
-            git commit -m "Live scores update (A)"
-            git push || (git pull --rebase --autostash && git push)
+            exit 0
           fi
+          git commit -m "Live scores update (A)"
+          # retry push up to 3 times; on conflict, regenerate fresh and retry
+          for i in 1 2 3; do
+            if git push; then
+              echo "pushed"
+              break
+            fi
+            echo "push failed, syncing and regenerating..."
+            git reset --hard HEAD~1
+            git pull origin main --no-rebase || true
+            python collect_live.py || true
+            git add data/live.json
+            git commit -m "Live scores update (A retry $i)" || break
+          done
