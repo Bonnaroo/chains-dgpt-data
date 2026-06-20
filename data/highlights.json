@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-20T15:25:52.690247+00:00",
+  "updated_at": "2026-06-20T16:59:46.832974+00:00",
   "note": "Short highlight clips. Tap to watch on YouTube.",
   "clips": [
+    {
+      "channel": "Disc Golf Pro Tour",
+      "title": "Round 3 Highlights | MPO | 2026 European Open",
+      "video_id": "qHGMNBkkiCY",
+      "link": "https://www.youtube.com/watch?v=qHGMNBkkiCY",
+      "thumbnail": "https://i.ytimg.com/vi/qHGMNBkkiCY/hqdefault.jpg",
+      "published": "2026-06-20T16:54:04+00:00"
+    },
     {
       "channel": "Disc Golf Pro Tour",
       "title": "Round 2 Highlights | MPO | 2026 European Open",
@@ -33,14 +41,6 @@
       "link": "https://www.youtube.com/watch?v=Uy8H0V_xtmo",
       "thumbnail": "https://i.ytimg.com/vi/Uy8H0V_xtmo/hqdefault.jpg",
       "published": "2026-06-16T20:30:01+00:00"
-    },
-    {
-      "channel": "Disc Golf Pro Tour",
-      "title": "Match Play Highlights (Round 1) | 2026 Presidents Cup",
-      "video_id": "DHZXcM8lsj8",
-      "link": "https://www.youtube.com/watch?v=DHZXcM8lsj8",
-      "thumbnail": "https://i.ytimg.com/vi/DHZXcM8lsj8/hqdefault.jpg",
-      "published": "2026-06-16T17:23:33+00:00"
     }
   ]
 }
