@@ -1,0 +1,101 @@
+{
+  "note": "MASTER INDEX of every season Chains has data for. READ THIS FIRST. For each season, open its `file` to get the event list; each event_id maps to data/events/{event_id}-MPO.json (results + stats) and Firebase /rounds/{event_id}-r{N} (hole-by-hole, where archived). `stats` tells you how rich a season is so the UI can show the right panels: 'full' = advanced shot stats present; 'results' = finishes/scores/ratings/prize only; 'partial' = advanced stats on some events. Range is continuous 2016 -> current.",
+  "generated": "2026-06-21",
+  "earliest_year": 2016,
+  "current_year": 2026,
+  "stats_legend": {
+    "full": "results + advanced per-player shot stats",
+    "results": "results, round scores, ratings, prize (no advanced shot stats)",
+    "partial": "advanced stats on a subset of events"
+  },
+  "seasons": [
+    {
+      "year": 2016,
+      "file": "data/season-2016.json",
+      "events": 7,
+      "stats": "partial",
+      "status": "complete",
+      "note": "First DGPT season. Full results + scores; advanced shot stats on a few events only."
+    },
+    {
+      "year": 2017,
+      "file": "data/season-2017.json",
+      "events": 13,
+      "stats": "partial",
+      "status": "complete",
+      "note": "Full results + scores; advanced shot stats sparse."
+    },
+    {
+      "year": 2018,
+      "file": "data/season-2018.json",
+      "events": 12,
+      "stats": "results",
+      "status": "complete",
+      "note": "Full results, round scores, ratings, prize money. No advanced shot stats at source."
+    },
+    {
+      "year": 2019,
+      "file": "data/season-2019.json",
+      "events": 14,
+      "stats": "results",
+      "status": "complete",
+      "note": "Full results, round scores, ratings, prize money. No advanced shot stats at source."
+    },
+    {
+      "year": 2020,
+      "file": "data/season-2020.json",
+      "events": 11,
+      "stats": "results",
+      "status": "complete",
+      "note": "Full results, round scores, ratings, prize money. No advanced shot stats at source."
+    },
+    {
+      "year": 2021,
+      "file": "data/season-2021.json",
+      "events": 16,
+      "stats": "full",
+      "status": "complete",
+      "note": "Complete: results + full advanced shot stats (putting %, fairway hits, C1/C2, OB, scramble)."
+    },
+    {
+      "year": 2022,
+      "file": "data/season-2022.json",
+      "events": 20,
+      "stats": "full",
+      "status": "complete",
+      "note": "Complete: results + full advanced shot stats."
+    },
+    {
+      "year": 2023,
+      "file": "data/season-2023.json",
+      "events": 20,
+      "stats": "full",
+      "status": "complete",
+      "note": "Complete: results + full advanced shot stats."
+    },
+    {
+      "year": 2024,
+      "file": "data/season-2024.json",
+      "events": 27,
+      "stats": "full",
+      "status": "complete",
+      "note": "Complete: results + full advanced shot stats."
+    },
+    {
+      "year": 2025,
+      "file": "data/season-2025.json",
+      "events": 25,
+      "stats": "full",
+      "status": "complete",
+      "note": "Complete: results + full advanced shot stats."
+    },
+    {
+      "year": 2026,
+      "file": "data/season.json",
+      "events": 13,
+      "stats": "full",
+      "status": "current",
+      "note": "Live season. Current/most-recent event scores stream via Firebase /live; finished events collected to event files like every other season."
+    }
+  ]
+}

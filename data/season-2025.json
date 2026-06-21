@@ -1,0 +1,231 @@
+{
+  "note": "Read-only historical archive of the 2025 DGPT season (MPO). Per-event rich stats in data/events/{event_id}-MPO.json.",
+  "year": 2025,
+  "events": [
+    {
+      "name": "DGPT - Discraft Supreme Flight Open",
+      "event_id": "88276",
+      "start_date": "2025-02-28",
+      "end_date": "2025-03-02",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT - Prodigy presents WACO",
+      "event_id": "88277",
+      "start_date": "2025-03-14",
+      "end_date": "2025-03-16",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "MVP's Open at Austin",
+      "event_id": "88279",
+      "start_date": "2025-03-20",
+      "end_date": "2025-03-23",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "MVP Music City Open",
+      "event_id": "88282",
+      "start_date": "2025-04-04",
+      "end_date": "2025-04-06",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "GRIPeq Kansas City Wide Open",
+      "event_id": "88283",
+      "start_date": "2025-04-18",
+      "end_date": "2025-04-20",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Champions Cup",
+      "event_id": "88638",
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-04",
+      "tier": "Major",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Discraft's Cascade Challenge",
+      "event_id": "88284",
+      "start_date": "2025-05-16",
+      "end_date": "2025-05-18",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Konopi\u0161t\u011b Open",
+      "event_id": "88285",
+      "start_date": "2025-05-23",
+      "end_date": "2025-05-25",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Northwest Disc Golf Championship",
+      "event_id": "88286",
+      "start_date": "2025-05-29",
+      "end_date": "2025-06-01",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Ale Open presented by Discraft",
+      "event_id": "88287",
+      "start_date": "2025-06-06",
+      "end_date": "2025-06-08",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "The Preserve Championship",
+      "event_id": "88357",
+      "start_date": "2025-06-13",
+      "end_date": "2025-06-15",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Discmania Challenge",
+      "event_id": "88288",
+      "start_date": "2025-06-27",
+      "end_date": "2025-06-29",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "PCS Open presented by Innova",
+      "event_id": "88289",
+      "start_date": "2025-07-04",
+      "end_date": "2025-07-06",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Krokhol Open",
+      "event_id": "90652",
+      "start_date": "2025-07-11",
+      "end_date": "2025-07-13",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "European Disc Golf Festival",
+      "event_id": "89546",
+      "start_date": "2025-07-17",
+      "end_date": "2025-07-20",
+      "tier": "Major",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Professional World Championships",
+      "event_id": "90947",
+      "start_date": "2025-07-30",
+      "end_date": "2025-08-03",
+      "tier": "Major",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Turku Open powered by Prodigy",
+      "event_id": "88290",
+      "start_date": "2025-08-08",
+      "end_date": "2025-08-10",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Discraft Ledgestone Open",
+      "event_id": "88293",
+      "start_date": "2025-08-14",
+      "end_date": "2025-08-17",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "LWS Open at Idlewild",
+      "event_id": "88294",
+      "start_date": "2025-08-22",
+      "end_date": "2025-08-24",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "Discraft Great Lakes Open",
+      "event_id": "88296",
+      "start_date": "2025-09-04",
+      "end_date": "2025-09-07",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Playoffs - Green Mountain Championship",
+      "event_id": "88299",
+      "start_date": "2025-09-18",
+      "end_date": "2025-09-21",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Playoffs - MVP Open x OTB",
+      "event_id": "88301",
+      "start_date": "2025-09-25",
+      "end_date": "2025-09-28",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "United States Disc Golf Championship",
+      "event_id": "88656",
+      "start_date": "2025-10-09",
+      "end_date": "2025-10-12",
+      "tier": "Major",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Championship",
+      "event_id": "88302",
+      "start_date": "2025-10-16",
+      "end_date": "2025-10-19",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Match Play Championship",
+      "event_id": "97054",
+      "start_date": "2025-11-07",
+      "end_date": "2025-11-09",
+      "tier": "Elite",
+      "year": 2025,
+      "status": "complete"
+    }
+  ]
+}
