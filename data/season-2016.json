@@ -1,0 +1,69 @@
+{
+  "note": "Read-only historical archive of the 2016 DGPT season (MPO). Per-event rich stats live in data/events/{event_id}-MPO.json. Used by the app to look back at past results, winnings, and hole difficulty.",
+  "year": 2016,
+  "events": [
+    {
+      "name": "The Vibram Open",
+      "event_id": "24333",
+      "start_date": "2016-06-23",
+      "end_date": "2016-06-26",
+      "tier": "Elite",
+      "year": 2016,
+      "status": "complete"
+    },
+    {
+      "name": "Legacy Discs Silver Cup XVI",
+      "event_id": "24328",
+      "start_date": "2016-07-08",
+      "end_date": "2016-07-10",
+      "tier": "Elite",
+      "year": 2016,
+      "status": "complete"
+    },
+    {
+      "name": "The Majestic (Minnesota Majestic)",
+      "event_id": "24684",
+      "start_date": "2016-07-29",
+      "end_date": "2016-07-31",
+      "tier": "Elite",
+      "year": 2016,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Professional Disc Golf World Championships",
+      "event_id": "24339",
+      "start_date": "2016-08-06",
+      "end_date": "2016-08-13",
+      "tier": "Major",
+      "year": 2016,
+      "status": "complete"
+    },
+    {
+      "name": "Ledgestone Insurance Open",
+      "event_id": "22313",
+      "start_date": "2016-08-18",
+      "end_date": "2016-08-21",
+      "tier": "Elite",
+      "year": 2016,
+      "status": "complete"
+    },
+    {
+      "name": "Green Mountain Championship",
+      "event_id": "25011",
+      "start_date": "2016-09-15",
+      "end_date": "2016-09-17",
+      "tier": "Elite",
+      "year": 2016,
+      "status": "complete"
+    },
+    {
+      "name": "United States Disc Golf Championship",
+      "event_id": "22317",
+      "start_date": "2016-10-05",
+      "end_date": "2016-10-08",
+      "tier": "Major",
+      "year": 2016,
+      "status": "complete"
+    }
+  ]
+}

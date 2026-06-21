@@ -1,0 +1,132 @@
+{
+  "note": "Read-only historical archive of the 2019 DGPT season (MPO). Per-event rich stats live in data/events/{event_id}-MPO.json. Used by the app to look back at past results, winnings, and hole difficulty.",
+  "year": 2019,
+  "events": [
+    {
+      "name": "DGPT - Memorial Championship",
+      "event_id": "38761",
+      "start_date": "2019-02-28",
+      "end_date": "2019-03-03",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "Waco Annual Charity Open",
+      "event_id": "38890",
+      "start_date": "2019-03-14",
+      "end_date": "2019-03-17",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "Jonesboro Open",
+      "event_id": "38682",
+      "start_date": "2019-04-12",
+      "end_date": "2019-04-14",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "San Francisco Open",
+      "event_id": "39807",
+      "start_date": "2019-05-10",
+      "end_date": "2019-05-12",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "Portland Open",
+      "event_id": "40686",
+      "start_date": "2019-05-25",
+      "end_date": "2019-05-27",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "Discraft Ledgestone Insurance Open",
+      "event_id": "38717",
+      "start_date": "2019-06-21",
+      "end_date": "2019-06-23",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "Great Lakes Open",
+      "event_id": "39325",
+      "start_date": "2019-07-05",
+      "end_date": "2019-07-07",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "European Open",
+      "event_id": "38397",
+      "start_date": "2019-07-18",
+      "end_date": "2019-07-21",
+      "tier": "Major",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "Idlewild Open",
+      "event_id": "38723",
+      "start_date": "2019-07-26",
+      "end_date": "2019-07-28",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Professional Disc Golf World Championships",
+      "event_id": "38709",
+      "start_date": "2019-08-13",
+      "end_date": "2019-08-17",
+      "tier": "Major",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "MVP Open at Maple Hill",
+      "event_id": "38873",
+      "start_date": "2019-08-30",
+      "end_date": "2019-09-01",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "Green Mountain Championship",
+      "event_id": "40853",
+      "start_date": "2019-09-12",
+      "end_date": "2019-09-15",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "United States Disc Golf Championship",
+      "event_id": "39018",
+      "start_date": "2019-10-02",
+      "end_date": "2019-10-05",
+      "tier": "Major",
+      "year": 2019,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Tour Championship",
+      "event_id": "42360",
+      "start_date": "2019-10-18",
+      "end_date": "2019-10-20",
+      "tier": "Elite",
+      "year": 2019,
+      "status": "complete"
+    }
+  ]
+}

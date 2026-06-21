@@ -1,0 +1,123 @@
+{
+  "note": "Read-only historical archive of the 2017 DGPT season (MPO). Per-event rich stats live in data/events/{event_id}-MPO.json. Used by the app to look back at past results, winnings, and hole difficulty.",
+  "year": 2017,
+  "events": [
+    {
+      "name": "DGPT - Memorial Championship",
+      "event_id": "30783",
+      "start_date": "2017-03-01",
+      "end_date": "2017-03-04",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Waco Annual Charity Open",
+      "event_id": "30581",
+      "start_date": "2017-03-16",
+      "end_date": "2017-03-19",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Nick Hyde Memorial",
+      "event_id": "30556",
+      "start_date": "2017-03-31",
+      "end_date": "2017-04-02",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Jonesboro Open",
+      "event_id": "30695",
+      "start_date": "2017-04-13",
+      "end_date": "2017-04-16",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Utah Open",
+      "event_id": "31940",
+      "start_date": "2017-06-01",
+      "end_date": "2017-06-03",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Professional Disc Golf World Championships",
+      "event_id": "30813",
+      "start_date": "2017-06-21",
+      "end_date": "2017-06-25",
+      "tier": "Major",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "European Open",
+      "event_id": "31709",
+      "start_date": "2017-07-20",
+      "end_date": "2017-07-23",
+      "tier": "Major",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Ledgestone Insurance Open",
+      "event_id": "30560",
+      "start_date": "2017-08-03",
+      "end_date": "2017-08-06",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Idlewild Open",
+      "event_id": "31385",
+      "start_date": "2017-08-17",
+      "end_date": "2017-08-19",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Vibram Open",
+      "event_id": "31343",
+      "start_date": "2017-08-31",
+      "end_date": "2017-09-03",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "Green Mountain Championship",
+      "event_id": "32553",
+      "start_date": "2017-09-13",
+      "end_date": "2017-09-16",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "United States Disc Golf Championship",
+      "event_id": "30714",
+      "start_date": "2017-10-04",
+      "end_date": "2017-10-07",
+      "tier": "Major",
+      "year": 2017,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Tour Championship",
+      "event_id": "33862",
+      "start_date": "2017-10-19",
+      "end_date": "2017-10-22",
+      "tier": "Elite",
+      "year": 2017,
+      "status": "complete"
+    }
+  ]
+}

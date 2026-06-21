@@ -1,0 +1,114 @@
+{
+  "note": "Read-only historical archive of the 2020 DGPT season (MPO). Per-event rich stats live in data/events/{event_id}-MPO.json. Used by the app to look back at past results, winnings, and hole difficulty.",
+  "year": 2020,
+  "events": [
+    {
+      "name": "DGPT - The Memorial Championship",
+      "event_id": "44118",
+      "start_date": "2020-02-27",
+      "end_date": "2020-03-01",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "Waco Annual Charity Open",
+      "event_id": "45313",
+      "start_date": "2020-03-13",
+      "end_date": "2020-03-15",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "Dynamic Discs Open",
+      "event_id": "45796",
+      "start_date": "2020-06-26",
+      "end_date": "2020-06-28",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "The Preserve Championship",
+      "event_id": "45795",
+      "start_date": "2020-07-03",
+      "end_date": "2020-07-05",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "Great Lakes Open (DGLO)",
+      "event_id": "44224",
+      "start_date": "2020-07-24",
+      "end_date": "2020-07-26",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "Idlewild Open",
+      "event_id": "43983",
+      "start_date": "2020-08-07",
+      "end_date": "2020-08-09",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "Discraft Ledgestone Insurance Open",
+      "event_id": "43452",
+      "start_date": "2020-08-13",
+      "end_date": "2020-08-16",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "Green Mountain Championship",
+      "event_id": "44114",
+      "start_date": "2020-09-03",
+      "end_date": "2020-09-06",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "MVP Open at Maple Hill",
+      "event_id": "44653",
+      "start_date": "2020-09-11",
+      "end_date": "2020-09-13",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "Jonesboro Open",
+      "event_id": "43778",
+      "start_date": "2020-10-01",
+      "end_date": "2020-10-03",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "United States Disc Golf Championship",
+      "event_id": "43838",
+      "start_date": "2020-10-07",
+      "end_date": "2020-10-10",
+      "tier": "Major",
+      "year": 2020,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Tour Championship",
+      "event_id": "44743",
+      "start_date": "2020-10-15",
+      "end_date": "2020-10-18",
+      "tier": "Elite",
+      "year": 2020,
+      "status": "complete"
+    }
+  ]
+}
