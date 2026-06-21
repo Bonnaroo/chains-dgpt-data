@@ -1,0 +1,186 @@
+{
+  "season": 2022,
+  "note": "2022 DGPT pro season archive (Elite Series + Majors). Stats in data/events/{event_id}-MPO.json. Read-only historical look-back.",
+  "events": [
+    {
+      "name": "Las Vegas Challenge",
+      "event_id": "55580",
+      "start_date": "2022-02-24",
+      "end_date": "2022-02-27",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "WACO",
+      "event_id": "55582",
+      "start_date": "2022-03-11",
+      "end_date": "2022-03-13",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Texas State Championship",
+      "event_id": "55583",
+      "start_date": "2022-03-25",
+      "end_date": "2022-03-27",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Champions Cup",
+      "event_id": "55451",
+      "start_date": "2022-04-14",
+      "end_date": "2022-04-17",
+      "tier": "Major",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Jonesboro Open",
+      "event_id": "55584",
+      "start_date": "2022-04-22",
+      "end_date": "2022-04-24",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Dynamic Discs Open",
+      "event_id": "55585",
+      "start_date": "2022-04-28",
+      "end_date": "2022-05-01",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "OTB Open",
+      "event_id": "55586",
+      "start_date": "2022-05-20",
+      "end_date": "2022-05-22",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Portland Open",
+      "event_id": "55587",
+      "start_date": "2022-06-02",
+      "end_date": "2022-06-05",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "The Preserve Championship",
+      "event_id": "55588",
+      "start_date": "2022-06-24",
+      "end_date": "2022-06-26",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "US Women's DG Championships",
+      "event_id": "56288",
+      "start_date": "2022-06-30",
+      "end_date": "2022-07-03",
+      "tier": "Major",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "LWS Open at Idlewild",
+      "event_id": "55589",
+      "start_date": "2022-07-08",
+      "end_date": "2022-07-10",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "European Open",
+      "event_id": "56013",
+      "start_date": "2022-07-21",
+      "end_date": "2022-07-24",
+      "tier": "Major",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Great Lakes Open",
+      "event_id": "55590",
+      "start_date": "2022-07-29",
+      "end_date": "2022-07-31",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Ledgestone Open",
+      "event_id": "55591",
+      "start_date": "2022-08-11",
+      "end_date": "2022-08-14",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Des Moines Challenge",
+      "event_id": "55592",
+      "start_date": "2022-08-19",
+      "end_date": "2022-08-21",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Pro Worlds",
+      "event_id": "55460",
+      "start_date": "2022-08-30",
+      "end_date": "2022-09-03",
+      "tier": "Major",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "Green Mountain Championship",
+      "event_id": "55593",
+      "start_date": "2022-09-15",
+      "end_date": "2022-09-18",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "MVP Open at Maple Hill",
+      "event_id": "55594",
+      "start_date": "2022-09-22",
+      "end_date": "2022-09-25",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "US Disc Golf Championship",
+      "event_id": "55454",
+      "start_date": "2022-10-06",
+      "end_date": "2022-10-09",
+      "tier": "Major",
+      "year": 2022,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Championship",
+      "event_id": "55595",
+      "start_date": "2022-10-13",
+      "end_date": "2022-10-16",
+      "tier": "Elite",
+      "year": 2022,
+      "status": "complete"
+    }
+  ]
+}

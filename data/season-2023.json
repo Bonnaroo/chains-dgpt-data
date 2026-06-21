@@ -1,0 +1,186 @@
+{
+  "season": 2023,
+  "note": "2023 DGPT pro season archive (Elite Series + Majors). Stats in data/events/{event_id}-MPO.json. Read-only historical look-back.",
+  "events": [
+    {
+      "name": "Las Vegas Challenge",
+      "event_id": "65206",
+      "start_date": "2023-02-23",
+      "end_date": "2023-02-26",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "WACO",
+      "event_id": "66457",
+      "start_date": "2023-03-10",
+      "end_date": "2023-03-12",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "The Open at Austin",
+      "event_id": "65288",
+      "start_date": "2023-03-17",
+      "end_date": "2023-03-19",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "Music City Open",
+      "event_id": "65208",
+      "start_date": "2023-04-07",
+      "end_date": "2023-04-09",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Champions Cup",
+      "event_id": "64955",
+      "start_date": "2023-04-20",
+      "end_date": "2023-04-23",
+      "tier": "Major",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "Jonesboro Open",
+      "event_id": "66458",
+      "start_date": "2023-04-28",
+      "end_date": "2023-04-30",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "OTB Open",
+      "event_id": "65207",
+      "start_date": "2023-05-12",
+      "end_date": "2023-05-14",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "Portland Open",
+      "event_id": "69022",
+      "start_date": "2023-06-01",
+      "end_date": "2023-06-04",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "Dynamic Discs Open",
+      "event_id": "65289",
+      "start_date": "2023-06-16",
+      "end_date": "2023-06-18",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "Des Moines Challenge",
+      "event_id": "67392",
+      "start_date": "2023-06-23",
+      "end_date": "2023-06-25",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "The Preserve Championship",
+      "event_id": "68353",
+      "start_date": "2023-06-30",
+      "end_date": "2023-07-02",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "European Open",
+      "event_id": "67202",
+      "start_date": "2023-07-20",
+      "end_date": "2023-07-23",
+      "tier": "Major",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "Ledgestone Open",
+      "event_id": "65115",
+      "start_date": "2023-08-03",
+      "end_date": "2023-08-06",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "LWS Open at Idlewild",
+      "event_id": "66174",
+      "start_date": "2023-08-11",
+      "end_date": "2023-08-13",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "Great Lakes Open",
+      "event_id": "65116",
+      "start_date": "2023-08-17",
+      "end_date": "2023-08-20",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Pro Worlds",
+      "event_id": "68748",
+      "start_date": "2023-08-30",
+      "end_date": "2023-09-03",
+      "tier": "Major",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "MVP Open",
+      "event_id": "65291",
+      "start_date": "2023-09-14",
+      "end_date": "2023-09-17",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "US Women's DG Championships",
+      "event_id": "67761",
+      "start_date": "2023-09-21",
+      "end_date": "2023-09-24",
+      "tier": "Major",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "US Disc Golf Championship",
+      "event_id": "64957",
+      "start_date": "2023-10-05",
+      "end_date": "2023-10-08",
+      "tier": "Major",
+      "year": 2023,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Championship",
+      "event_id": "74356",
+      "start_date": "2023-10-12",
+      "end_date": "2023-10-15",
+      "tier": "Elite",
+      "year": 2023,
+      "status": "complete"
+    }
+  ]
+}

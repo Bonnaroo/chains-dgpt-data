@@ -1,0 +1,150 @@
+{
+  "season": 2021,
+  "note": "2021 DGPT pro season archive (Elite Series + Majors). Stats in data/events/{event_id}-MPO.json. Read-only historical look-back.",
+  "events": [
+    {
+      "name": "Las Vegas Challenge",
+      "event_id": "47877",
+      "start_date": "2021-02-25",
+      "end_date": "2021-02-28",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "WACO",
+      "event_id": "48685",
+      "start_date": "2021-03-12",
+      "end_date": "2021-03-14",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "Jonesboro Open",
+      "event_id": "48567",
+      "start_date": "2021-04-16",
+      "end_date": "2021-04-18",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "OTB Open",
+      "event_id": "48172",
+      "start_date": "2021-05-14",
+      "end_date": "2021-05-16",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "US Women's DG Championships",
+      "event_id": "47519",
+      "start_date": "2021-05-21",
+      "end_date": "2021-05-23",
+      "tier": "Major",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "Portland Open",
+      "event_id": "48686",
+      "start_date": "2021-06-04",
+      "end_date": "2021-06-06",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Pro Worlds",
+      "event_id": "47784",
+      "start_date": "2021-06-22",
+      "end_date": "2021-06-26",
+      "tier": "Major",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "Des Moines Challenge",
+      "event_id": "52009",
+      "start_date": "2021-07-09",
+      "end_date": "2021-07-11",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "Great Lakes Open",
+      "event_id": "48338",
+      "start_date": "2021-07-23",
+      "end_date": "2021-07-25",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "The Preserve Championship",
+      "event_id": "48687",
+      "start_date": "2021-07-30",
+      "end_date": "2021-08-01",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "Ledgestone Open",
+      "event_id": "47981",
+      "start_date": "2021-08-05",
+      "end_date": "2021-08-08",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "Idlewild Open",
+      "event_id": "48688",
+      "start_date": "2021-08-13",
+      "end_date": "2021-08-15",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "MVP Open at Maple Hill",
+      "event_id": "49214",
+      "start_date": "2021-09-03",
+      "end_date": "2021-09-05",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "Green Mountain Championship",
+      "event_id": "48690",
+      "start_date": "2021-09-09",
+      "end_date": "2021-09-12",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "US Disc Golf Championship",
+      "event_id": "47518",
+      "start_date": "2021-10-06",
+      "end_date": "2021-10-09",
+      "tier": "Major",
+      "year": 2021,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Championship",
+      "event_id": "48691",
+      "start_date": "2021-10-14",
+      "end_date": "2021-10-17",
+      "tier": "Elite",
+      "year": 2021,
+      "status": "complete"
+    }
+  ]
+}
