@@ -1,96 +1,19 @@
 {
   "season": 2026,
-  "note": "Single source of truth for the Chains schedule. event_id is the PDGA live/results TournID. The live poller auto-selects the event live today (by start/end), falling back to the next upcoming event. The app reads this for the current event, slot->eventId mapping, and rollover timing.",
+  "note": "Single source of truth for the Chains schedule. event_id is the PDGA live/results TournID. start_date/end_date are the authoritative dates (end_date is the safe 'tournament is over' signal). rounds = qualifying round count (finals are extra and numbered oddly by PDGA - never trust round numbers for 'final'; use end_date + all players completed). The live poller auto-selects the event live today, writes event_final to /live when an event is truly over, and archives every round to /rounds. The app reads this for the current event, schedule, and rollover timing.",
   "events": [
-    {
-      "t": 1,
-      "name": "Supreme Flight Open",
-      "event_id": 96401,
-      "status": "complete"
-    },
-    {
-      "t": 2,
-      "name": "Big Easy Open",
-      "event_id": 96402,
-      "status": "complete"
-    },
-    {
-      "t": 3,
-      "name": "Queen City Classic",
-      "event_id": 96403,
-      "status": "complete"
-    },
-    {
-      "t": 4,
-      "name": "PDGA Champions Cup",
-      "event_id": 97336,
-      "status": "complete"
-    },
-    {
-      "t": 5,
-      "name": "Jonesboro Open",
-      "event_id": 96404,
-      "status": "complete"
-    },
-    {
-      "t": 6,
-      "name": "Kansas City Wide Open",
-      "event_id": 96407,
-      "status": "complete"
-    },
-    {
-      "t": 7,
-      "name": "The Open at Austin",
-      "event_id": 96408,
-      "status": "complete"
-    },
-    {
-      "t": 8,
-      "name": "OTB Open",
-      "event_id": 96409,
-      "status": "complete"
-    },
-    {
-      "t": 9,
-      "name": "Northwest Championship",
-      "event_id": 96410,
-      "status": "complete"
-    },
-    {
-      "t": 10,
-      "name": "European Open",
-      "event_id": 97339,
-      "start": "2026-06-18",
-      "end": "2026-06-21",
-      "rounds": 3,
-      "tier": "Major"
-    },
-    {
-      "t": 11,
-      "name": "Swedish Open",
-      "event_id": 96411,
-      "start": "2026-06-26",
-      "end": "2026-06-28",
-      "rounds": 3,
-      "tier": "Elite"
-    },
-    {
-      "t": 12,
-      "name": "Ale Open",
-      "event_id": 96412,
-      "start": "2026-07-03",
-      "end": "2026-07-05",
-      "rounds": 3,
-      "tier": "Elite"
-    },
-    {
-      "t": 13,
-      "name": "Heinola Open",
-      "event_id": 96413,
-      "start": "2026-07-10",
-      "end": "2026-07-12",
-      "rounds": 3,
-      "tier": "Elite"
-    }
+    { "t": 1,  "name": "Supreme Flight Open",   "event_id": "96401", "start_date": "2026-02-27", "end_date": "2026-03-01", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 2,  "name": "Big Easy Open",         "event_id": "96402", "start_date": "2026-03-13", "end_date": "2026-03-15", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 3,  "name": "Queen City Classic",    "event_id": "96403", "start_date": "2026-03-27", "end_date": "2026-03-29", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 4,  "name": "PDGA Champions Cup",    "event_id": "97336", "start_date": "2026-04-09", "end_date": "2026-04-12", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 5,  "name": "Jonesboro Open",        "event_id": "96404", "start_date": "2026-04-17", "end_date": "2026-04-19", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 6,  "name": "Kansas City Wide Open", "event_id": "96407", "start_date": "2026-04-24", "end_date": "2026-04-26", "rounds": 2, "year": 2026, "status": "complete" },
+    { "t": 7,  "name": "The Open at Austin",    "event_id": "96408", "start_date": "2026-05-07", "end_date": "2026-05-10", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 8,  "name": "OTB Open",              "event_id": "96409", "start_date": "2026-05-21", "end_date": "2026-05-24", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 9,  "name": "Northwest Championship","event_id": "96410", "start_date": "2026-06-04", "end_date": "2026-06-07", "rounds": 3, "year": 2026, "status": "complete" },
+    { "t": 10, "name": "European Open",         "event_id": "97339", "start_date": "2026-06-18", "end_date": "2026-06-21", "rounds": 3, "year": 2026, "tier": "Major" },
+    { "t": 11, "name": "Swedish Open",          "event_id": "96411", "start_date": "2026-06-26", "end_date": "2026-06-28", "rounds": 3, "year": 2026, "tier": "Elite" },
+    { "t": 12, "name": "Ale Open",              "event_id": "96412", "start_date": "2026-07-03", "end_date": "2026-07-05", "rounds": 3, "year": 2026, "tier": "Elite" },
+    { "t": 13, "name": "Heinola Open",          "event_id": "96413", "start_date": "2026-07-10", "end_date": "2026-07-12", "rounds": 3, "year": 2026, "tier": "Elite" }
   ]
 }
