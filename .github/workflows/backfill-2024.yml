@@ -1,0 +1,26 @@
+name: Backfill 2024 events (one-time)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect 2024 DGPT events
+        run: |
+          for id in 77775 77758 77759 77760 77761 77762 77099 77763 78193 77764 77765 77766 78194 78271 78195 77768 78196 77750 78197 77769 77771 71315 77772 82419 77773 77098 77774; do
+            echo "=== $id ==="
+            python collect_event.py "$id" || echo "FAILED $id"
+          done
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/events
+          git commit -m "Backfill 2024 DGPT event stats (27 events)" || echo "no changes"
+          git push
