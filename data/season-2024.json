@@ -1,0 +1,249 @@
+{
+  "season": 2024,
+  "note": "2024 DGPT pro season archive (Elite Series + Majors). Stats per event in data/events/{event_id}-MPO.json. Read-only historical look-back; not the league's draft schedule.",
+  "events": [
+    {
+      "name": "Chess.com Invitational",
+      "event_id": "77775",
+      "start_date": "2024-02-23",
+      "end_date": "2024-02-25",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "WACO Open",
+      "event_id": "77758",
+      "start_date": "2024-03-07",
+      "end_date": "2024-03-10",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "The Open at Austin",
+      "event_id": "77759",
+      "start_date": "2024-03-15",
+      "end_date": "2024-03-17",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Texas State DG Championships",
+      "event_id": "77760",
+      "start_date": "2024-03-29",
+      "end_date": "2024-03-31",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Jonesboro Open",
+      "event_id": "77761",
+      "start_date": "2024-04-12",
+      "end_date": "2024-04-14",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Music City Open",
+      "event_id": "77762",
+      "start_date": "2024-04-19",
+      "end_date": "2024-04-21",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Champions Cup",
+      "event_id": "77099",
+      "start_date": "2024-04-25",
+      "end_date": "2024-04-28",
+      "tier": "Major",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Dynamic Discs Open",
+      "event_id": "77763",
+      "start_date": "2024-05-03",
+      "end_date": "2024-05-05",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Copenhagen Open",
+      "event_id": "78193",
+      "start_date": "2024-05-10",
+      "end_date": "2024-05-12",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "OTB Open",
+      "event_id": "77764",
+      "start_date": "2024-05-17",
+      "end_date": "2024-05-19",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Portland Open",
+      "event_id": "77765",
+      "start_date": "2024-05-30",
+      "end_date": "2024-06-02",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Beaver State Fling",
+      "event_id": "77766",
+      "start_date": "2024-06-07",
+      "end_date": "2024-06-09",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Turku Open",
+      "event_id": "78194",
+      "start_date": "2024-06-14",
+      "end_date": "2024-06-16",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "The Preserve Championship",
+      "event_id": "78271",
+      "start_date": "2024-06-21",
+      "end_date": "2024-06-23",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Swedish Open",
+      "event_id": "78195",
+      "start_date": "2024-06-28",
+      "end_date": "2024-06-30",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Des Moines Challenge",
+      "event_id": "77768",
+      "start_date": "2024-07-05",
+      "end_date": "2024-07-07",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Krokhol Open",
+      "event_id": "78196",
+      "start_date": "2024-07-12",
+      "end_date": "2024-07-14",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "European Open",
+      "event_id": "77750",
+      "start_date": "2024-07-18",
+      "end_date": "2024-07-21",
+      "tier": "Major",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "European Disc Golf Festival",
+      "event_id": "78197",
+      "start_date": "2024-07-26",
+      "end_date": "2024-07-28",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Ledgestone Open",
+      "event_id": "77769",
+      "start_date": "2024-08-01",
+      "end_date": "2024-08-04",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "LWS Open at Idlewild",
+      "event_id": "77771",
+      "start_date": "2024-08-09",
+      "end_date": "2024-08-11",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "PDGA Pro Worlds",
+      "event_id": "71315",
+      "start_date": "2024-08-21",
+      "end_date": "2024-08-25",
+      "tier": "Major",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Great Lakes Open",
+      "event_id": "77772",
+      "start_date": "2024-09-05",
+      "end_date": "2024-09-08",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "Green Mountain Championship",
+      "event_id": "82419",
+      "start_date": "2024-09-19",
+      "end_date": "2024-09-22",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "MVP Open x OTB",
+      "event_id": "77773",
+      "start_date": "2024-09-26",
+      "end_date": "2024-09-29",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "US Disc Golf Championship",
+      "event_id": "77098",
+      "start_date": "2024-10-10",
+      "end_date": "2024-10-13",
+      "tier": "Major",
+      "year": 2024,
+      "status": "complete"
+    },
+    {
+      "name": "DGPT Championship",
+      "event_id": "77774",
+      "start_date": "2024-10-17",
+      "end_date": "2024-10-20",
+      "tier": "Elite",
+      "year": 2024,
+      "status": "complete"
+    }
+  ]
+}
