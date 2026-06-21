@@ -1,0 +1,914 @@
+{
+  "event_id": "33862",
+  "division": "MPO",
+  "event_name": "DGPT Tour Championship",
+  "rounds_count": 4,
+  "round_ids": [
+    121259034,
+    121518001,
+    121710372,
+    121812918
+  ],
+  "collected_at": "2026-06-21T12:39:25.114812+00:00",
+  "source": "https://www.pdga.com/api/v1/feat/live-tournaments/33862/event-division-results/MPO",
+  "players": [
+    {
+      "pdga_number": 38008,
+      "first_name": "Richard",
+      "last_name": "Wysocki",
+      "place": 1,
+      "tied": false,
+      "total_strokes": 112,
+      "to_par": null,
+      "prize_usd": 10000,
+      "points": 340,
+      "dnf": false,
+      "event_rating": 1050,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 56,
+          "rating": 1054,
+          "place_after": 1
+        },
+        {
+          "round_id": 121812918,
+          "score": 56,
+          "rating": 1045,
+          "place_after": 1
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 27523,
+      "first_name": "Paul",
+      "last_name": "Mcbeth",
+      "place": 2,
+      "tied": false,
+      "total_strokes": 114,
+      "to_par": null,
+      "prize_usd": 2500,
+      "points": 330,
+      "dnf": false,
+      "event_rating": 1042,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 56,
+          "rating": 1054,
+          "place_after": 1
+        },
+        {
+          "round_id": 121812918,
+          "score": 58,
+          "rating": 1030,
+          "place_after": 2
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 8332,
+      "first_name": "Simon",
+      "last_name": "Lizotte",
+      "place": 3,
+      "tied": false,
+      "total_strokes": 114,
+      "to_par": null,
+      "prize_usd": 2500,
+      "points": 320,
+      "dnf": false,
+      "event_rating": 1042,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 56,
+          "rating": 1054,
+          "place_after": 1
+        },
+        {
+          "round_id": 121812918,
+          "score": 58,
+          "rating": 1030,
+          "place_after": 2
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 17295,
+      "first_name": "James",
+      "last_name": "Conrad",
+      "place": 4,
+      "tied": false,
+      "total_strokes": 120,
+      "to_par": null,
+      "prize_usd": 1500,
+      "points": 310,
+      "dnf": false,
+      "event_rating": 1020,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 57,
+          "rating": 1047,
+          "place_after": 4
+        },
+        {
+          "round_id": 121812918,
+          "score": 63,
+          "rating": 993,
+          "place_after": 4
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 26228,
+      "first_name": "Dana",
+      "last_name": "Vicich",
+      "place": 5,
+      "tied": false,
+      "total_strokes": 261,
+      "to_par": null,
+      "prize_usd": 1250,
+      "points": 300,
+      "dnf": false,
+      "event_rating": 985,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 66,
+          "rating": 984,
+          "place_after": 10
+        },
+        {
+          "round_id": 121518001,
+          "score": 60,
+          "rating": 1026,
+          "place_after": 20
+        },
+        {
+          "round_id": 121710372,
+          "score": 60,
+          "rating": 1026,
+          "place_after": 16
+        },
+        {
+          "round_id": 121812918,
+          "score": 75,
+          "rating": 905,
+          "place_after": 5
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 15857,
+      "first_name": "Gregg",
+      "last_name": "Barsby",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 69,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 963,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 69,
+          "rating": 963,
+          "place_after": 10
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 26416,
+      "first_name": "Philo",
+      "last_name": "Brathwaite",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 116,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1040,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 59,
+          "rating": 1033,
+          "place_after": 2
+        },
+        {
+          "round_id": 121710372,
+          "score": 57,
+          "rating": 1047,
+          "place_after": 5
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 27171,
+      "first_name": "Paul",
+      "last_name": "Ulibarri",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 64,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 998,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 64,
+          "rating": 998,
+          "place_after": 7
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 29690,
+      "first_name": "James",
+      "last_name": "Cole",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 183,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1019,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 62,
+          "rating": 1012,
+          "place_after": 4
+        },
+        {
+          "round_id": 121518001,
+          "score": 60,
+          "rating": 1026,
+          "place_after": 16
+        },
+        {
+          "round_id": 121710372,
+          "score": 61,
+          "rating": 1019,
+          "place_after": 14
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 33705,
+      "first_name": "Jeremy",
+      "last_name": "Koling",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 62,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1012,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 62,
+          "rating": 1012,
+          "place_after": 5
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 34463,
+      "first_name": "Peter",
+      "last_name": "Mcbride",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 120,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1026,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 57,
+          "rating": 1047,
+          "place_after": 1
+        },
+        {
+          "round_id": 121710372,
+          "score": 63,
+          "rating": 1005,
+          "place_after": 8
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 48338,
+      "first_name": "Reid",
+      "last_name": "Frescura",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 184,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1017,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 60,
+          "rating": 1026,
+          "place_after": 2
+        },
+        {
+          "round_id": 121518001,
+          "score": 60,
+          "rating": 1026,
+          "place_after": 13
+        },
+        {
+          "round_id": 121710372,
+          "score": 64,
+          "rating": 998,
+          "place_after": 15
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 48346,
+      "first_name": "Drew",
+      "last_name": "Gibson",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 68,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 970,
+      "rounds": [
+        {
+          "round_id": 121710372,
+          "score": 68,
+          "rating": 970,
+          "place_after": 9
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 50312,
+      "first_name": "Zackeriath",
+      "last_name": "Johnson",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 181,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1024,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 63,
+          "rating": 1005,
+          "place_after": 7
+        },
+        {
+          "round_id": 121518001,
+          "score": 60,
+          "rating": 1026,
+          "place_after": 18
+        },
+        {
+          "round_id": 121710372,
+          "score": 58,
+          "rating": 1040,
+          "place_after": 13
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 53332,
+      "first_name": "Tim",
+      "last_name": "Barham",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 179,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1028,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 60,
+          "rating": 1026,
+          "place_after": 2
+        },
+        {
+          "round_id": 121518001,
+          "score": 56,
+          "rating": 1054,
+          "place_after": 5
+        },
+        {
+          "round_id": 121710372,
+          "score": 63,
+          "rating": 1005,
+          "place_after": 11
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 54049,
+      "first_name": "Austin",
+      "last_name": "Turner",
+      "place": 6,
+      "tied": false,
+      "total_strokes": 126,
+      "to_par": null,
+      "prize_usd": 1000,
+      "points": 290,
+      "dnf": false,
+      "event_rating": 1005,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 59,
+          "rating": 1033,
+          "place_after": 2
+        },
+        {
+          "round_id": 121710372,
+          "score": 67,
+          "rating": 977,
+          "place_after": 12
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 12626,
+      "first_name": "David",
+      "last_name": "Feldberg",
+      "place": 9,
+      "tied": false,
+      "total_strokes": 61,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 260,
+      "dnf": false,
+      "event_rating": 1019,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 61,
+          "rating": 1019,
+          "place_after": 4
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 34344,
+      "first_name": "Paul",
+      "last_name": "Oman",
+      "place": 9,
+      "tied": false,
+      "total_strokes": 119,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 260,
+      "dnf": false,
+      "event_rating": 1030,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 58,
+          "rating": 1040,
+          "place_after": 1
+        },
+        {
+          "round_id": 121518001,
+          "score": 61,
+          "rating": 1019,
+          "place_after": 11
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 18824,
+      "first_name": "Nathan",
+      "last_name": "Sexton",
+      "place": 11,
+      "tied": false,
+      "total_strokes": 62,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 240,
+      "dnf": false,
+      "event_rating": 1012,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 62,
+          "rating": 1012,
+          "place_after": 5
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 25168,
+      "first_name": "Devan",
+      "last_name": "Owens",
+      "place": 11,
+      "tied": false,
+      "total_strokes": 125,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 240,
+      "dnf": false,
+      "event_rating": 1009,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 63,
+          "rating": 1005,
+          "place_after": 7
+        },
+        {
+          "round_id": 121518001,
+          "score": 62,
+          "rating": 1012,
+          "place_after": 19
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 65737,
+      "first_name": "Nate",
+      "last_name": "Perkins",
+      "place": 11,
+      "tied": false,
+      "total_strokes": 62,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 240,
+      "dnf": false,
+      "event_rating": 1012,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 62,
+          "rating": 1012,
+          "place_after": 5
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 20300,
+      "first_name": "Michael",
+      "last_name": "Johansen",
+      "place": 14,
+      "tied": false,
+      "total_strokes": 63,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 210,
+      "dnf": false,
+      "event_rating": 1005,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 63,
+          "rating": 1005,
+          "place_after": 8
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 9852,
+      "first_name": "Johne",
+      "last_name": "Mccray",
+      "place": 15,
+      "tied": false,
+      "total_strokes": 126,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 200,
+      "dnf": false,
+      "event_rating": 1005,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 62,
+          "rating": 1012,
+          "place_after": 4
+        },
+        {
+          "round_id": 121518001,
+          "score": 64,
+          "rating": 998,
+          "place_after": 20
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 38631,
+      "first_name": "Zach",
+      "last_name": "Melton",
+      "place": 15,
+      "tied": false,
+      "total_strokes": 64,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 200,
+      "dnf": false,
+      "event_rating": 998,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 64,
+          "rating": 998,
+          "place_after": 9
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 62467,
+      "first_name": "Chris",
+      "last_name": "Dickerson",
+      "place": 15,
+      "tied": false,
+      "total_strokes": 64,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 200,
+      "dnf": false,
+      "event_rating": 998,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 64,
+          "rating": 998,
+          "place_after": 9
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 11534,
+      "first_name": "Nikko",
+      "last_name": "Locastro",
+      "place": 18,
+      "tied": false,
+      "total_strokes": 65,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 170,
+      "dnf": false,
+      "event_rating": 991,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 65,
+          "rating": 991,
+          "place_after": 11
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 41267,
+      "first_name": "Mike",
+      "last_name": "Conlee",
+      "place": 18,
+      "tied": false,
+      "total_strokes": 127,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 170,
+      "dnf": false,
+      "event_rating": 1002,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 62,
+          "rating": 1012,
+          "place_after": 4
+        },
+        {
+          "round_id": 121518001,
+          "score": 65,
+          "rating": 991,
+          "place_after": 22
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 25890,
+      "first_name": "A.j.",
+      "last_name": "Risley",
+      "place": 20,
+      "tied": false,
+      "total_strokes": 66,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 150,
+      "dnf": false,
+      "event_rating": 984,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 66,
+          "rating": 984,
+          "place_after": 13
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 31473,
+      "first_name": "Dutch",
+      "last_name": "Napier",
+      "place": 20,
+      "tied": false,
+      "total_strokes": 130,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 150,
+      "dnf": false,
+      "event_rating": 991,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 64,
+          "rating": 998,
+          "place_after": 9
+        },
+        {
+          "round_id": 121518001,
+          "score": 66,
+          "rating": 984,
+          "place_after": 23
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 35187,
+      "first_name": "Dustin",
+      "last_name": "Keegan",
+      "place": 20,
+      "tied": false,
+      "total_strokes": 135,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 150,
+      "dnf": false,
+      "event_rating": 974,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 69,
+          "rating": 963,
+          "place_after": 12
+        },
+        {
+          "round_id": 121518001,
+          "score": 66,
+          "rating": 984,
+          "place_after": 25
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 39152,
+      "first_name": "Jon",
+      "last_name": "Perry",
+      "place": 23,
+      "tied": false,
+      "total_strokes": 133,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 120,
+      "dnf": false,
+      "event_rating": 981,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 66,
+          "rating": 984,
+          "place_after": 10
+        },
+        {
+          "round_id": 121518001,
+          "score": 67,
+          "rating": 977,
+          "place_after": 24
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 63765,
+      "first_name": "Andrew",
+      "last_name": "Presnell",
+      "place": 23,
+      "tied": false,
+      "total_strokes": 67,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 120,
+      "dnf": false,
+      "event_rating": 977,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 67,
+          "rating": 977,
+          "place_after": 15
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 53565,
+      "first_name": "Eric",
+      "last_name": "Oakley",
+      "place": 25,
+      "tied": false,
+      "total_strokes": 68,
+      "to_par": null,
+      "prize_usd": 600,
+      "points": 100,
+      "dnf": false,
+      "event_rating": 970,
+      "rounds": [
+        {
+          "round_id": 121518001,
+          "score": 68,
+          "rating": 970,
+          "place_after": 16
+        }
+      ],
+      "stats": {}
+    },
+    {
+      "pdga_number": 67313,
+      "first_name": "Jeffrey",
+      "last_name": "Renner",
+      "place": 26,
+      "tied": false,
+      "total_strokes": 69,
+      "to_par": null,
+      "prize_usd": 400,
+      "points": 90,
+      "dnf": false,
+      "event_rating": 963,
+      "rounds": [
+        {
+          "round_id": 121259034,
+          "score": 69,
+          "rating": 963,
+          "place_after": 12
+        }
+      ],
+      "stats": {}
+    }
+  ]
+}
