@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T11:14:44.476895+00:00",
+  "updated_at": "2026-06-22T16:02:01.121420+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLZ1LrAadOyA1JTU6Qtxd7Z4ZkN8Ex2WSE",
-      "video_count": 6,
-      "round_count": 6,
+      "video_count": 8,
+      "round_count": 8,
       "practice_count": 0,
       "videos": [
         {
@@ -59,6 +59,22 @@
           "link": "https://www.youtube.com/watch?v=McPqNfc_u50",
           "thumbnail": "https://i.ytimg.com/vi/McPqNfc_u50/hqdefault.jpg",
           "published": "2026-06-20T23:40:45Z"
+        },
+        {
+          "title": "2026 European Open | MPO FINALF9 | Buhr, Wysocki, Heimburg, Lampainen | Jomez Disc Golf",
+          "video_id": "ePeisQ-tHkg",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=ePeisQ-tHkg",
+          "thumbnail": "https://i.ytimg.com/vi/ePeisQ-tHkg/hqdefault.jpg",
+          "published": "2026-06-22T00:10:36Z"
+        },
+        {
+          "title": "2026 European Open | MPO FINALB9 | Buhr, Wysocki, Heimburg, Lampainen | Jomez Disc Golf",
+          "video_id": "LHn7SMjDwLw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=LHn7SMjDwLw",
+          "thumbnail": "https://i.ytimg.com/vi/LHn7SMjDwLw/hqdefault.jpg",
+          "published": "2026-06-22T00:10:56Z"
         }
       ]
     },
