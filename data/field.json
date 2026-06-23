@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T05:35:21.227436+00:00",
+  "updated_at": "2026-06-23T08:46:50.105802+00:00",
   "event_tag": "T11",
   "event_id": 96411,
-  "player_count": 110,
+  "player_count": 112,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event.",
   "players": [
     {
@@ -624,6 +624,12 @@
       "place": 0
     },
     {
+      "firstName": "Arvid",
+      "lastName": "Hansson",
+      "pdgaNumber": 176145,
+      "place": 0
+    },
+    {
       "firstName": "Bj\u00f6rn",
       "lastName": "Marrandi",
       "pdgaNumber": 180865,
@@ -657,6 +663,12 @@
       "firstName": "Miio",
       "lastName": "H\u00e4m\u00e4l\u00e4inen",
       "pdgaNumber": 201845,
+      "place": 0
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Karanzas",
+      "pdgaNumber": 204855,
       "place": 0
     },
     {
