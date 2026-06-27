@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-06-26T23:22:49.273370+00:00",
+  "updated_at": "2026-06-27T01:28:02.379630+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 Swedish Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLIOT_i9bE_YU",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Swedish Open | MPO R1F9 | Buhr, Carlsson, Villmann, Anderson | Jomez Disc Golf",
+          "video_id": "t4cKPkgx2R8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=t4cKPkgx2R8",
+          "thumbnail": "https://i.ytimg.com/vi/t4cKPkgx2R8/hqdefault.jpg",
+          "published": "2026-06-27T00:09:11Z"
+        },
+        {
+          "title": "2026 Swedish Open  | MPO R1B9 | Buhr, Carlsson, Villmann, Anderson | Jomez Disc Golf",
+          "video_id": "GMdJcN7TwWg",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=GMdJcN7TwWg",
+          "thumbnail": "https://i.ytimg.com/vi/GMdJcN7TwWg/hqdefault.jpg",
+          "published": "2026-06-27T00:26:00Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 European Open",
       "year": "2026",
