@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T03:38:46.917096+00:00",
+  "updated_at": "2026-06-28T07:40:46.705413+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLIOT_i9bE_YU",
-      "video_count": 3,
-      "round_count": 3,
+      "video_count": 4,
+      "round_count": 4,
       "practice_count": 0,
       "videos": [
         {
@@ -35,6 +35,14 @@
           "link": "https://www.youtube.com/watch?v=b8nghPxbDV8",
           "thumbnail": "https://i.ytimg.com/vi/b8nghPxbDV8/hqdefault.jpg",
           "published": "2026-06-28T02:56:46Z"
+        },
+        {
+          "title": "2026 Swedish Open  | MPO R2B9 | Anttila, Heimburg, Villmann, Kn\u00e1pek | Jomez Disc Golf",
+          "video_id": "Wi5HSoVCOh4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Wi5HSoVCOh4",
+          "thumbnail": "https://i.ytimg.com/vi/Wi5HSoVCOh4/hqdefault.jpg",
+          "published": "2026-06-28T03:07:30Z"
         }
       ]
     },
