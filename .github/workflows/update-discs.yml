@@ -1,0 +1,29 @@
+# Weekly auto-update of the disc catalog. Goes in .github/workflows/update-discs.yml
+# Runs on GitHub's servers (free) — re-pulls DiscIt and commits data/discs.json if it changed.
+name: Update disc catalog
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"      # every Monday 09:00 UTC
+  workflow_dispatch: {}       # also lets you run it manually from the Actions tab
+
+permissions:
+  contents: write             # allow the action to commit
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Rebuild discs.json
+        run: python update_discs.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/discs.json
+          git diff --staged --quiet || git commit -m "Auto-update disc catalog (weekly)"
+          git push
