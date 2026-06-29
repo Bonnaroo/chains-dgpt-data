@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-29T20:21:11.774542+00:00",
+  "updated_at": "2026-06-29T21:50:20.447048+00:00",
   "event_tag": "T12",
   "event_id": 96412,
-  "player_count": 111,
+  "player_count": 112,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event.",
   "players": [
     {
@@ -645,6 +645,12 @@
       "firstName": "Miio",
       "lastName": "H\u00e4m\u00e4l\u00e4inen",
       "pdgaNumber": 201845,
+      "place": 0
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Karanzas",
+      "pdgaNumber": 204855,
       "place": 0
     },
     {
