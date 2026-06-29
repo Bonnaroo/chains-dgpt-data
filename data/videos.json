@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T02:39:00.997134+00:00",
+  "updated_at": "2026-06-29T07:15:57.505538+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLIOT_i9bE_YU",
-      "video_count": 4,
-      "round_count": 4,
+      "video_count": 6,
+      "round_count": 6,
       "practice_count": 0,
       "videos": [
         {
@@ -43,6 +43,22 @@
           "link": "https://www.youtube.com/watch?v=Wi5HSoVCOh4",
           "thumbnail": "https://i.ytimg.com/vi/Wi5HSoVCOh4/hqdefault.jpg",
           "published": "2026-06-28T03:07:30Z"
+        },
+        {
+          "title": "2026 Swedish Open | MPO FINALF9 | McMahon, Heimburg, Robinson, Anttila | Jomez Disc Golf",
+          "video_id": "yUnIN9Ybqgk",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=yUnIN9Ybqgk",
+          "thumbnail": "https://i.ytimg.com/vi/yUnIN9Ybqgk/hqdefault.jpg",
+          "published": "2026-06-29T02:12:59Z"
+        },
+        {
+          "title": "2026 Swedish Open | MPO FINALB9 | McMahon, Heimburg, Robinson, Anttila | Jomez Disc Golf",
+          "video_id": "_MCefyjCGik",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=_MCefyjCGik",
+          "thumbnail": "https://i.ytimg.com/vi/_MCefyjCGik/hqdefault.jpg",
+          "published": "2026-06-29T03:05:40Z"
         }
       ]
     },
