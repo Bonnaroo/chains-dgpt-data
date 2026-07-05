@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-05T12:03:35.420969+00:00",
+  "updated_at": "2026-07-05T14:07:17.972888+00:00",
   "event_tag": "T13",
   "event_id": 96413,
-  "player_count": 105,
+  "player_count": 106,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event.",
   "players": [
     {
@@ -147,6 +147,12 @@
       "firstName": "Silas",
       "lastName": "Schultz",
       "pdgaNumber": 79047,
+      "place": 0
+    },
+    {
+      "firstName": "Jere",
+      "lastName": "Kukkurainen",
+      "pdgaNumber": 80454,
       "place": 0
     },
     {
