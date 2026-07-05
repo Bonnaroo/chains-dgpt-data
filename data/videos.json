@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T23:42:39.839678+00:00",
+  "updated_at": "2026-07-05T05:30:27.952520+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLC8m_2VIPPW4",
-      "video_count": 2,
-      "round_count": 2,
+      "video_count": 4,
+      "round_count": 4,
       "practice_count": 0,
       "videos": [
         {
@@ -27,6 +27,22 @@
           "link": "https://www.youtube.com/watch?v=KmxHqfacf70",
           "thumbnail": "https://i.ytimg.com/vi/KmxHqfacf70/hqdefault.jpg",
           "published": "2026-07-04T00:09:39Z"
+        },
+        {
+          "title": "2026 Ale Open  | MPO R2F9 | Schultz, Williams, Wysocki, Robinson | Jomez Disc Golf",
+          "video_id": "Q5aDpc-MnkA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Q5aDpc-MnkA",
+          "thumbnail": "https://i.ytimg.com/vi/Q5aDpc-MnkA/hqdefault.jpg",
+          "published": "2026-07-04T23:51:20Z"
+        },
+        {
+          "title": "2026 Ale Open  | MPO R2B9 | Schultz, Williams, Wysocki, Robinson | Jomez Disc Golf",
+          "video_id": "k8x0X4iUD7Y",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=k8x0X4iUD7Y",
+          "thumbnail": "https://i.ytimg.com/vi/k8x0X4iUD7Y/hqdefault.jpg",
+          "published": "2026-07-05T00:06:40Z"
         }
       ]
     },
