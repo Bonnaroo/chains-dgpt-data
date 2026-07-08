@@ -1,5 +1,30 @@
 {
-  "updated_at": "2026-07-08T05:13:28.884278+00:00",
+  "updated_at": "2026-07-08T07:42:17.741612+00:00",
   "note": "Short highlight clips. Tap to watch on YouTube.",
-  "clips": []
+  "clips": [
+    {
+      "channel": "Disc Golf Pro Tour",
+      "title": "Final Round Highlights | MPO | 2026 Ale Open",
+      "video_id": "PpWd67jkTlM",
+      "link": "https://www.youtube.com/watch?v=PpWd67jkTlM",
+      "thumbnail": "https://i.ytimg.com/vi/PpWd67jkTlM/hqdefault.jpg",
+      "published": "2026-07-05T19:15:18+00:00"
+    },
+    {
+      "channel": "Disc Golf Pro Tour",
+      "title": "Round 2 Highlights | MPO | 2026 Ale Open",
+      "video_id": "kSwnoQt7zbQ",
+      "link": "https://www.youtube.com/watch?v=kSwnoQt7zbQ",
+      "thumbnail": "https://i.ytimg.com/vi/kSwnoQt7zbQ/hqdefault.jpg",
+      "published": "2026-07-04T19:15:12+00:00"
+    },
+    {
+      "channel": "Disc Golf Pro Tour",
+      "title": "Round 1 Highlights | MPO | 2026 Ale Open",
+      "video_id": "FvTxE5NVaEs",
+      "link": "https://www.youtube.com/watch?v=FvTxE5NVaEs",
+      "thumbnail": "https://i.ytimg.com/vi/FvTxE5NVaEs/hqdefault.jpg",
+      "published": "2026-07-03T19:00:04+00:00"
+    }
+  ]
 }
