@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-08T07:42:18.160476+00:00",
+  "updated_at": "2026-07-08T09:59:42.116756+00:00",
   "note": "Latest from pro players' own channels. Tap to watch on YouTube.",
   "videos": [
+    {
+      "player": "Aaron Gossage",
+      "title": "Heinola Open with Ezra and AB | Back 9",
+      "video_id": "jaLQPflGEVc",
+      "link": "https://www.youtube.com/watch?v=jaLQPflGEVc",
+      "thumbnail": "https://i.ytimg.com/vi/jaLQPflGEVc/hqdefault.jpg",
+      "published": "2026-07-08T09:26:35+00:00"
+    },
     {
       "player": "Ezra Aderhold",
       "title": "2026 HEINOLA OPEN COURSE PREVIEW!! | EZRA, GOOSE, BARELA",
@@ -121,14 +129,6 @@
       "link": "https://www.youtube.com/watch?v=mVUsDTUww2E",
       "thumbnail": "https://i.ytimg.com/vi/mVUsDTUww2E/hqdefault.jpg",
       "published": "2026-05-30T18:32:33+00:00"
-    },
-    {
-      "player": "Aaron Gossage",
-      "title": "We Battled The Crush Boys in DOUBLES (Front 9 at OTB Open)",
-      "video_id": "pLzFRTVI44s",
-      "link": "https://www.youtube.com/watch?v=pLzFRTVI44s",
-      "thumbnail": "https://i.ytimg.com/vi/pLzFRTVI44s/hqdefault.jpg",
-      "published": "2026-05-20T15:00:34+00:00"
     }
   ]
 }
