@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T01:50:15.832077+00:00",
+  "updated_at": "2026-07-11T04:56:50.837510+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLbvr28h4FmeY",
-      "video_count": 1,
-      "round_count": 1,
+      "video_count": 2,
+      "round_count": 2,
       "practice_count": 0,
       "videos": [
         {
@@ -19,6 +19,14 @@
           "link": "https://www.youtube.com/watch?v=p_SZFy9JoOs",
           "thumbnail": "https://i.ytimg.com/vi/p_SZFy9JoOs/hqdefault.jpg",
           "published": "2026-07-11T01:12:34Z"
+        },
+        {
+          "title": "2026 Heinola Open  | MPO R1B9 | Buhr, Semer\u00e1d, Gossage, Arkko | Jomez Disc Golf",
+          "video_id": "SyA_rA6aZfI",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=SyA_rA6aZfI",
+          "thumbnail": "https://i.ytimg.com/vi/SyA_rA6aZfI/hqdefault.jpg",
+          "published": "2026-07-11T01:23:17Z"
         }
       ]
     },
