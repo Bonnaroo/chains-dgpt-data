@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-07-10T23:51:19.984089+00:00",
+  "updated_at": "2026-07-11T01:50:15.832077+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 Heinola Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLbvr28h4FmeY",
+      "video_count": 1,
+      "round_count": 1,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Heinola Open | MPO R1F9 | Buhr, Semer\u00e1d, Gossage, Arkko | Jomez Disc Golf",
+          "video_id": "p_SZFy9JoOs",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=p_SZFy9JoOs",
+          "thumbnail": "https://i.ytimg.com/vi/p_SZFy9JoOs/hqdefault.jpg",
+          "published": "2026-07-11T01:12:34Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 Ale Open",
       "year": "2026",
@@ -1861,89 +1880,6 @@
           "link": "https://www.youtube.com/watch?v=B5onhzx6JTg",
           "thumbnail": "https://i.ytimg.com/vi/B5onhzx6JTg/hqdefault.jpg",
           "published": "2025-07-02T17:38:18Z"
-        }
-      ]
-    },
-    {
-      "tournament": "2025 Preserve Championship",
-      "year": "2025",
-      "channel": "JomezPro",
-      "playlist_id": "PLZ1LrAadOyA041YIfbx2dlmPxxzWV2JOH",
-      "video_count": 9,
-      "round_count": 6,
-      "practice_count": 3,
-      "videos": [
-        {
-          "title": "The OLD and the BEAUTIFUL take on Airborn Preserve | Jomez Practice Round F9",
-          "video_id": "m4O9umxW5VU",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=m4O9umxW5VU",
-          "thumbnail": "https://i.ytimg.com/vi/m4O9umxW5VU/hqdefault.jpg",
-          "published": "2025-06-12T01:31:47Z"
-        },
-        {
-          "title": "Brotherly Love on the Back 9 | 2025 Preserve | Jomez Practice Round B9",
-          "video_id": "7NlPwMZf58A",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=7NlPwMZf58A",
-          "thumbnail": "https://i.ytimg.com/vi/7NlPwMZf58A/hqdefault.jpg",
-          "published": "2025-06-13T04:08:30Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R1F9 | Barela, Lizotte, Wysocki, Marwede | Jomez Disc Golf",
-          "video_id": "4uJD6wUXH9Y",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=4uJD6wUXH9Y",
-          "thumbnail": "https://i.ytimg.com/vi/4uJD6wUXH9Y/hqdefault.jpg",
-          "published": "2025-06-14T08:15:40Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R1B9 | Barela, Lizotte, Wysocki, Marwede | Jomez Disc Golf",
-          "video_id": "NMJZgHSsFdw",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=NMJZgHSsFdw",
-          "thumbnail": "https://i.ytimg.com/vi/NMJZgHSsFdw/hqdefault.jpg",
-          "published": "2025-06-14T08:17:19Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R2B9 | Buhr, Ellis, Tipton, Heimburg | Jomez Disc Golf",
-          "video_id": "ufSQWaRublU",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=ufSQWaRublU",
-          "thumbnail": "https://i.ytimg.com/vi/ufSQWaRublU/hqdefault.jpg",
-          "published": "2025-06-15T08:16:55Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R2F9 | Buhr, Ellis, Tipton, Heimburg | Jomez Disc Golf",
-          "video_id": "nGjvkR1zWh4",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=nGjvkR1zWh4",
-          "thumbnail": "https://i.ytimg.com/vi/nGjvkR1zWh4/hqdefault.jpg",
-          "published": "2025-06-15T08:19:39Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO FINALF9 | Buhr, Ellis, Schultz, Barela | Jomez Disc Golf",
-          "video_id": "7rMcMAfkV3M",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=7rMcMAfkV3M",
-          "thumbnail": "https://i.ytimg.com/vi/7rMcMAfkV3M/hqdefault.jpg",
-          "published": "2025-06-16T10:03:59Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO FINALB9 | Buhr, Ellis, Schultz, Barela | Jomez Disc Golf",
-          "video_id": "aId0zKnjO8k",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=aId0zKnjO8k",
-          "thumbnail": "https://i.ytimg.com/vi/aId0zKnjO8k/hqdefault.jpg",
-          "published": "2025-06-16T10:05:31Z"
-        },
-        {
-          "title": "Top 10 MPO Shots from the 2025 Preserve Championship | Jomez Disc Golf",
-          "video_id": "TA1j6dcDDyI",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=TA1j6dcDDyI",
-          "thumbnail": "https://i.ytimg.com/vi/TA1j6dcDDyI/hqdefault.jpg",
-          "published": "2025-06-17T23:40:00Z"
         }
       ]
     }
