@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T04:36:38.742723+00:00",
+  "updated_at": "2026-07-12T09:16:53.678672+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -43,6 +43,65 @@
           "link": "https://www.youtube.com/watch?v=qO8iELB-Org",
           "thumbnail": "https://i.ytimg.com/vi/qO8iELB-Org/hqdefault.jpg",
           "published": "2026-07-12T00:04:03Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2026 Ale Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLC8m_2VIPPW4",
+      "video_count": 6,
+      "round_count": 6,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Ale Open | MPO R1F9 | McMahon, Barela, Anttila, H\u00e5kansson | Jomez Disc Golf",
+          "video_id": "2ZzTMzOfPSU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=2ZzTMzOfPSU",
+          "thumbnail": "https://i.ytimg.com/vi/2ZzTMzOfPSU/hqdefault.jpg",
+          "published": "2026-07-04T00:07:51Z"
+        },
+        {
+          "title": "2026 Ale Open  | MPO R1B9 | McMahon, Barela, Anttila, H\u00e5kansson | Jomez Disc Golf",
+          "video_id": "KmxHqfacf70",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=KmxHqfacf70",
+          "thumbnail": "https://i.ytimg.com/vi/KmxHqfacf70/hqdefault.jpg",
+          "published": "2026-07-04T00:09:39Z"
+        },
+        {
+          "title": "2026 Ale Open  | MPO R2F9 | Schultz, Williams, Wysocki, Robinson | Jomez Disc Golf",
+          "video_id": "Q5aDpc-MnkA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Q5aDpc-MnkA",
+          "thumbnail": "https://i.ytimg.com/vi/Q5aDpc-MnkA/hqdefault.jpg",
+          "published": "2026-07-04T23:51:20Z"
+        },
+        {
+          "title": "2026 Ale Open  | MPO R2B9 | Schultz, Williams, Wysocki, Robinson | Jomez Disc Golf",
+          "video_id": "k8x0X4iUD7Y",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=k8x0X4iUD7Y",
+          "thumbnail": "https://i.ytimg.com/vi/k8x0X4iUD7Y/hqdefault.jpg",
+          "published": "2026-07-05T00:06:40Z"
+        },
+        {
+          "title": "2026 Ale Open | MPO FINALF9 | Redalen, Robinson, Barela, Wysocki | Jomez Disc Golf",
+          "video_id": "LFgPy3THUfA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=LFgPy3THUfA",
+          "thumbnail": "https://i.ytimg.com/vi/LFgPy3THUfA/hqdefault.jpg",
+          "published": "2026-07-06T00:32:19Z"
+        },
+        {
+          "title": "2026 Ale Open | MPO FINALB9 | Redalen, Robinson, Barela, Wysocki | Jomez Disc Golf",
+          "video_id": "e0wqX0SzcdM",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=e0wqX0SzcdM",
+          "thumbnail": "https://i.ytimg.com/vi/e0wqX0SzcdM/hqdefault.jpg",
+          "published": "2026-07-06T00:43:40Z"
         }
       ]
     },
@@ -114,77 +173,77 @@
       ]
     },
     {
-      "tournament": "2026 OTB Open",
+      "tournament": "2026 European Open",
       "year": "2026",
       "channel": "JomezPro",
-      "playlist_id": "PLZ1LrAadOyA0mmLPChERHeZu4R8zp8I-0",
+      "playlist_id": "PLZ1LrAadOyA1JTU6Qtxd7Z4ZkN8Ex2WSE",
       "video_count": 8,
       "round_count": 8,
       "practice_count": 0,
       "videos": [
         {
-          "title": "2026 OTB Open | MPO R1F9 | Lizotte, Ulibarri, Robinson, Gossage | Jomez Disc Golf",
-          "video_id": "d_AvhiIN6wg",
+          "title": "2026 European Open | MPO R1F9 | Heimburg, Buhr, Anttila, Villman | Jomez Disc Golf",
+          "video_id": "AsGDXty9dwE",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=d_AvhiIN6wg",
-          "thumbnail": "https://i.ytimg.com/vi/d_AvhiIN6wg/hqdefault.jpg",
-          "published": "2026-05-22T09:17:21Z"
+          "link": "https://www.youtube.com/watch?v=AsGDXty9dwE",
+          "thumbnail": "https://i.ytimg.com/vi/AsGDXty9dwE/hqdefault.jpg",
+          "published": "2026-06-18T22:52:07Z"
         },
         {
-          "title": "2026 OTB Open | MPO R1B9 | Lizotte, Ulibarri, Robinson, Gossage | Jomez Disc Golf",
-          "video_id": "M0tM1D_RcWU",
+          "title": "2026 European Open  | MPO R1B9 | Heimburg, Buhr, Anttila, Villman | Jomez Disc Golf",
+          "video_id": "jd4K9_AfLGE",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=M0tM1D_RcWU",
-          "thumbnail": "https://i.ytimg.com/vi/M0tM1D_RcWU/hqdefault.jpg",
-          "published": "2026-05-22T09:19:30Z"
+          "link": "https://www.youtube.com/watch?v=jd4K9_AfLGE",
+          "thumbnail": "https://i.ytimg.com/vi/jd4K9_AfLGE/hqdefault.jpg",
+          "published": "2026-06-18T22:53:36Z"
         },
         {
-          "title": "2026 OTB Open | MPO R2F9 | Heimburg, Nash, Welck, Babcock | Jomez Disc Golf",
-          "video_id": "x3M8NvzASH4",
+          "title": "2026 European Open  | MPO R2F9 | Buhr, Wysocki, K\u00f5ur, Kivisilla | Jomez Disc Golf",
+          "video_id": "h_wHLzx1OM8",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=x3M8NvzASH4",
-          "thumbnail": "https://i.ytimg.com/vi/x3M8NvzASH4/hqdefault.jpg",
-          "published": "2026-05-23T08:19:24Z"
+          "link": "https://www.youtube.com/watch?v=h_wHLzx1OM8",
+          "thumbnail": "https://i.ytimg.com/vi/h_wHLzx1OM8/hqdefault.jpg",
+          "published": "2026-06-20T01:14:25Z"
         },
         {
-          "title": "2026 OTB Open | MPO R2B9 | Heimburg, Nash, Welck, Babcock | Jomez Disc Golf",
-          "video_id": "2FBHA-PdA5o",
+          "title": "2026 European Open  | MPO R2B9 | Buhr, Wysocki, K\u00f5ur, Kivisilla | Jomez Disc Golf",
+          "video_id": "2jz8RENlDFQ",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=2FBHA-PdA5o",
-          "thumbnail": "https://i.ytimg.com/vi/2FBHA-PdA5o/hqdefault.jpg",
-          "published": "2026-05-23T08:22:38Z"
+          "link": "https://www.youtube.com/watch?v=2jz8RENlDFQ",
+          "thumbnail": "https://i.ytimg.com/vi/2jz8RENlDFQ/hqdefault.jpg",
+          "published": "2026-06-20T01:15:56Z"
         },
         {
-          "title": "2026 OTB Open  | MPO R3F9 | Heimburg, Babcock, Welck, Nash | Jomez Disc Golf",
-          "video_id": "_L3HKrOVMIo",
+          "title": "2026 European Open  | MPO R3F9 | Buhr, Lampainen, Wysocki, Heimburg | Jomez Disc Golf",
+          "video_id": "x3cWSDZ0UUw",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=_L3HKrOVMIo",
-          "thumbnail": "https://i.ytimg.com/vi/_L3HKrOVMIo/hqdefault.jpg",
-          "published": "2026-05-24T09:29:34Z"
+          "link": "https://www.youtube.com/watch?v=x3cWSDZ0UUw",
+          "thumbnail": "https://i.ytimg.com/vi/x3cWSDZ0UUw/hqdefault.jpg",
+          "published": "2026-06-20T23:39:00Z"
         },
         {
-          "title": "2026 OTB Open  | MPO R3B9 | Heimburg, Babcock, Welck, Nash | Jomez Disc Golf",
-          "video_id": "XNiSaZ8gepA",
+          "title": "2026 European Open  | MPO R3B9 | Buhr, Lampainen, Wysocki, Heimburg | Jomez Disc Golf",
+          "video_id": "McPqNfc_u50",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=XNiSaZ8gepA",
-          "thumbnail": "https://i.ytimg.com/vi/XNiSaZ8gepA/hqdefault.jpg",
-          "published": "2026-05-24T09:43:08Z"
+          "link": "https://www.youtube.com/watch?v=McPqNfc_u50",
+          "thumbnail": "https://i.ytimg.com/vi/McPqNfc_u50/hqdefault.jpg",
+          "published": "2026-06-20T23:40:45Z"
         },
         {
-          "title": "2026 OTB Open | MPO FINALF9 | Heimburg, Buhr, Hammes, Nash | Jomez Disc Golf",
-          "video_id": "QmrmBjsgMiQ",
+          "title": "2026 European Open | MPO FINALF9 | Buhr, Wysocki, Heimburg, Lampainen | Jomez Disc Golf",
+          "video_id": "ePeisQ-tHkg",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=QmrmBjsgMiQ",
-          "thumbnail": "https://i.ytimg.com/vi/QmrmBjsgMiQ/hqdefault.jpg",
-          "published": "2026-05-25T09:38:00Z"
+          "link": "https://www.youtube.com/watch?v=ePeisQ-tHkg",
+          "thumbnail": "https://i.ytimg.com/vi/ePeisQ-tHkg/hqdefault.jpg",
+          "published": "2026-06-22T00:10:36Z"
         },
         {
-          "title": "2026 OTB Open | MPO FINALB9 | Heimburg, Buhr, Hammes, Nash | Jomez Disc Golf",
-          "video_id": "fe1KREk5tg0",
+          "title": "2026 European Open | MPO FINALB9 | Buhr, Wysocki, Heimburg, Lampainen | Jomez Disc Golf",
+          "video_id": "LHn7SMjDwLw",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=fe1KREk5tg0",
-          "thumbnail": "https://i.ytimg.com/vi/fe1KREk5tg0/hqdefault.jpg",
-          "published": "2026-05-25T09:39:31Z"
+          "link": "https://www.youtube.com/watch?v=LHn7SMjDwLw",
+          "thumbnail": "https://i.ytimg.com/vi/LHn7SMjDwLw/hqdefault.jpg",
+          "published": "2026-06-22T00:10:56Z"
         }
       ]
     },
@@ -252,6 +311,488 @@
           "link": "https://www.youtube.com/watch?v=Q2CqqCTx0L8",
           "thumbnail": "https://i.ytimg.com/vi/Q2CqqCTx0L8/hqdefault.jpg",
           "published": "2026-05-04T06:29:50Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2026 Jonesboro Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA2ULIajZY0DX9KMO7Huox-V",
+      "video_count": 7,
+      "round_count": 6,
+      "practice_count": 1,
+      "videos": [
+        {
+          "title": "2026 Jonesboro Open | MPO R1F9 | Barela, Heimburg, Orum, Callaway | Jomez Disc Golf",
+          "video_id": "OBHwdxhXmk0",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=OBHwdxhXmk0",
+          "thumbnail": "https://i.ytimg.com/vi/OBHwdxhXmk0/hqdefault.jpg",
+          "published": "2026-04-18T06:22:52Z"
+        },
+        {
+          "title": "2026 Jonesboro Open | MPO R1B9 | Barela, Heimburg, Orum, Callaway | Jomez Disc Golf",
+          "video_id": "gPIM56VclDM",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=gPIM56VclDM",
+          "thumbnail": "https://i.ytimg.com/vi/gPIM56VclDM/hqdefault.jpg",
+          "published": "2026-04-18T06:25:48Z"
+        },
+        {
+          "title": "2026 Jonesboro Open | MPO R2F9 | Buhr, Semer\u00e1d, Gossage, Hammes | Jomez Disc Golf",
+          "video_id": "dWY7fWkqN3U",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=dWY7fWkqN3U",
+          "thumbnail": "https://i.ytimg.com/vi/dWY7fWkqN3U/hqdefault.jpg",
+          "published": "2026-04-19T06:17:27Z"
+        },
+        {
+          "title": "2026 Jonesboro Open | MPO R2B9 |  Buhr, Semer\u00e1d, Gossage, Hammes | Jomez Disc Golf",
+          "video_id": "YLscBauxOr4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=YLscBauxOr4",
+          "thumbnail": "https://i.ytimg.com/vi/YLscBauxOr4/hqdefault.jpg",
+          "published": "2026-04-19T06:19:35Z"
+        },
+        {
+          "title": "2026 Jonesboro Open | MPO FINALF9 | Buhr, Hammes, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "s9RmNHvl5L0",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=s9RmNHvl5L0",
+          "thumbnail": "https://i.ytimg.com/vi/s9RmNHvl5L0/hqdefault.jpg",
+          "published": "2026-04-20T05:33:43Z"
+        },
+        {
+          "title": "2026 Jonesboro Open | MPO FINALB9 | Buhr, Hammes, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "XP4QGExHdXU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=XP4QGExHdXU",
+          "thumbnail": "https://i.ytimg.com/vi/XP4QGExHdXU/hqdefault.jpg",
+          "published": "2026-04-20T05:36:04Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 Jonesboro Open | Jomez Disc Golf",
+          "video_id": "SyC4OYw21jc",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=SyC4OYw21jc",
+          "thumbnail": "https://i.ytimg.com/vi/SyC4OYw21jc/hqdefault.jpg",
+          "published": "2026-04-22T16:14:20Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2026 PDGA Champions Cup",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA05xOZP7HlgsRiy0U4dTyGY",
+      "video_count": 9,
+      "round_count": 8,
+      "practice_count": 1,
+      "videos": [
+        {
+          "title": "2026 PDGA Champions Cup | MPO R1F9 | Buhr, McBeth, Robinson, Anttila | Jomez Disc Golf",
+          "video_id": "27ZHUi6Ser8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=27ZHUi6Ser8",
+          "thumbnail": "https://i.ytimg.com/vi/27ZHUi6Ser8/hqdefault.jpg",
+          "published": "2026-04-10T06:54:54Z"
+        },
+        {
+          "title": "2026 PDGA Champions Cup | MPO R1B9 | Buhr, McBeth, Robinson, Anttila | Jomez Disc Golf",
+          "video_id": "s0-hNNWAYgU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=s0-hNNWAYgU",
+          "thumbnail": "https://i.ytimg.com/vi/s0-hNNWAYgU/hqdefault.jpg",
+          "published": "2026-04-10T06:55:54Z"
+        },
+        {
+          "title": "2026 PDGA Champions Cup | MPO R2F9 | Anttila, Wysocki, Hammes, Smith | Jomez Disc Golf",
+          "video_id": "Z7ZjD5Py5_A",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Z7ZjD5Py5_A",
+          "thumbnail": "https://i.ytimg.com/vi/Z7ZjD5Py5_A/hqdefault.jpg",
+          "published": "2026-04-11T05:49:05Z"
+        },
+        {
+          "title": "2026 PDGA Champions Cup | MPO R2B9 | Anttila, Wysocki, Hammes, Smith | Jomez Disc Golf",
+          "video_id": "VNq4nGFKjj4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=VNq4nGFKjj4",
+          "thumbnail": "https://i.ytimg.com/vi/VNq4nGFKjj4/hqdefault.jpg",
+          "published": "2026-04-11T05:51:11Z"
+        },
+        {
+          "title": "2026 PDGA Champions Cup | MPO R3F9 | Anttila, Barela, Wysocki, Buhr | Jomez Disc Golf",
+          "video_id": "GLzn77nUMow",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=GLzn77nUMow",
+          "thumbnail": "https://i.ytimg.com/vi/GLzn77nUMow/hqdefault.jpg",
+          "published": "2026-04-12T07:02:58Z"
+        },
+        {
+          "title": "2026 PDGA Champions Cup | MPO R3B9 | Anttila, Barela, Wysocki, Buhr | Jomez Disc Golf",
+          "video_id": "5aKGQ92e92A",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=5aKGQ92e92A",
+          "thumbnail": "https://i.ytimg.com/vi/5aKGQ92e92A/hqdefault.jpg",
+          "published": "2026-04-12T07:04:53Z"
+        },
+        {
+          "title": "2026 PDGA Champions Cup | MPO FINALF9 | Barela, Anttila, Buhr, Wysocki | Jomez Disc Golf",
+          "video_id": "k28ec500LoY",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=k28ec500LoY",
+          "thumbnail": "https://i.ytimg.com/vi/k28ec500LoY/hqdefault.jpg",
+          "published": "2026-04-13T07:14:03Z"
+        },
+        {
+          "title": "2026 PDGA Champions Cup | MPO FINALB9 | Barela, Anttila, Buhr, Wysocki | Jomez Disc Golf",
+          "video_id": "LTWgAqepCVw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=LTWgAqepCVw",
+          "thumbnail": "https://i.ytimg.com/vi/LTWgAqepCVw/hqdefault.jpg",
+          "published": "2026-04-13T07:15:44Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 PDGA Champions Cup | Jomez Disc Golf",
+          "video_id": "S65Idil6lFA",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=S65Idil6lFA",
+          "thumbnail": "https://i.ytimg.com/vi/S65Idil6lFA/hqdefault.jpg",
+          "published": "2026-04-15T20:20:11Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2026 MVP Big Easy Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA0BUXkbhJQzgkqK9gnigYTj",
+      "video_count": 7,
+      "round_count": 6,
+      "practice_count": 1,
+      "videos": [
+        {
+          "title": "2026 MVP Big Easy Open | MPO R1F9 | Lizotte, Heimburg, Orum, Schultz | Jomez Disc Golf",
+          "video_id": "4QiWIVFjM1k",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=4QiWIVFjM1k",
+          "thumbnail": "https://i.ytimg.com/vi/4QiWIVFjM1k/hqdefault.jpg",
+          "published": "2026-03-14T09:06:58Z"
+        },
+        {
+          "title": "2026 MVP Big Easy Open | MPO R1B9 | Lizotte, Heimburg, Orum, Schultz | Jomez Disc Golf",
+          "video_id": "oYyUCfYxZEw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=oYyUCfYxZEw",
+          "thumbnail": "https://i.ytimg.com/vi/oYyUCfYxZEw/hqdefault.jpg",
+          "published": "2026-03-14T09:09:17Z"
+        },
+        {
+          "title": "2026 MVP Big Easy Open | MPO R2F9 | Love, Anderson, Gurthie, Robinson | Jomez Disc Golf",
+          "video_id": "0CzbT7BufYI",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=0CzbT7BufYI",
+          "thumbnail": "https://i.ytimg.com/vi/0CzbT7BufYI/hqdefault.jpg",
+          "published": "2026-03-15T09:04:38Z"
+        },
+        {
+          "title": "2026 MVP Big Easy Open | MPO R2B9 | Love, Anderson, Gurthie, Robinson | Jomez Disc Golf",
+          "video_id": "zYdYUdkEFKE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=zYdYUdkEFKE",
+          "thumbnail": "https://i.ytimg.com/vi/zYdYUdkEFKE/hqdefault.jpg",
+          "published": "2026-03-15T09:09:52Z"
+        },
+        {
+          "title": "2026 MVP Big Easy Open | MPO FINALF9 | Wysocki, Robinson, Buhr, Taylor | Jomez Disc Golf",
+          "video_id": "0LhTTFkIrBs",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=0LhTTFkIrBs",
+          "thumbnail": "https://i.ytimg.com/vi/0LhTTFkIrBs/hqdefault.jpg",
+          "published": "2026-03-16T09:52:35Z"
+        },
+        {
+          "title": "2026 MVP Big Easy Open | MPO FINALB9 | Wysocki, Robinson, Buhr, Taylor | Jomez Disc Golf",
+          "video_id": "C97McE-yusY",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=C97McE-yusY",
+          "thumbnail": "https://i.ytimg.com/vi/C97McE-yusY/hqdefault.jpg",
+          "published": "2026-03-16T09:54:04Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 Big Easy Open | Jomez Disc Golf",
+          "video_id": "9tu9U4NdWN0",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=9tu9U4NdWN0",
+          "thumbnail": "https://i.ytimg.com/vi/9tu9U4NdWN0/hqdefault.jpg",
+          "published": "2026-03-18T17:38:19Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2025 LWS Open at Idlewild",
+      "year": "2025",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA2UVbmnsdyJQ4iI-mxXwwXp",
+      "video_count": 9,
+      "round_count": 6,
+      "practice_count": 3,
+      "videos": [
+        {
+          "title": "Playing Triples at Idlewild with the Champ! | 2025 LWS Open at Idlewild | Practice Round Part 1",
+          "video_id": "c9MkJD4TsQI",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=c9MkJD4TsQI",
+          "thumbnail": "https://i.ytimg.com/vi/c9MkJD4TsQI/hqdefault.jpg",
+          "published": "2025-08-21T00:01:38Z"
+        },
+        {
+          "title": "SO MANY TREES on the Back 9 | 2025 LWS Open at Idlewild | Practice Round Part 2",
+          "video_id": "UmDgXYisj44",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=UmDgXYisj44",
+          "thumbnail": "https://i.ytimg.com/vi/UmDgXYisj44/hqdefault.jpg",
+          "published": "2025-08-22T00:44:56Z"
+        },
+        {
+          "title": "2025 LWS Open at Idlewild | MPO R1B9 | Buckets, Buhr, Robinson, Klein | Jomez Disc Golf",
+          "video_id": "O50QwVPQvXU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=O50QwVPQvXU",
+          "thumbnail": "https://i.ytimg.com/vi/O50QwVPQvXU/hqdefault.jpg",
+          "published": "2025-08-23T05:31:51Z"
+        },
+        {
+          "title": "2025 LWS Open at Idlewild | MPO R2F9 | McBeth, Babcock, Longenecker, Buhr | Jomez Disc Golf",
+          "video_id": "4QPweKzbPP8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=4QPweKzbPP8",
+          "thumbnail": "https://i.ytimg.com/vi/4QPweKzbPP8/hqdefault.jpg",
+          "published": "2025-08-24T05:16:33Z"
+        },
+        {
+          "title": "2025 LWS Open at Idlewild | MPO R2B9 | McBeth, Babcock, Longenecker, Buhr | Jomez DiscGolf",
+          "video_id": "N4s9RJcwV4c",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=N4s9RJcwV4c",
+          "thumbnail": "https://i.ytimg.com/vi/N4s9RJcwV4c/hqdefault.jpg",
+          "published": "2025-08-24T05:28:21Z"
+        },
+        {
+          "title": "2025 LWS Open at Idlewild | MPO FINALF9 | McBeth, Buhr, Klein, Newsom | Jomez Disc Golf",
+          "video_id": "jkLOop6LlqY",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=jkLOop6LlqY",
+          "thumbnail": "https://i.ytimg.com/vi/jkLOop6LlqY/hqdefault.jpg",
+          "published": "2025-08-25T06:18:02Z"
+        },
+        {
+          "title": "2025 LWS Open at Idlewild | MPO FINALB9 | McBeth, Buhr, Klein, Newsom | Jomez Disc Golf",
+          "video_id": "q924CxncHZU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=q924CxncHZU",
+          "thumbnail": "https://i.ytimg.com/vi/q924CxncHZU/hqdefault.jpg",
+          "published": "2025-08-25T06:19:26Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2025 LWS Open at Idlewild | Jomez Disc Golf",
+          "video_id": "ee35Qv72VAA",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=ee35Qv72VAA",
+          "thumbnail": "https://i.ytimg.com/vi/ee35Qv72VAA/hqdefault.jpg",
+          "published": "2025-08-28T02:54:25Z"
+        },
+        {
+          "title": "2025 LWS Open at Idlewild | MPO R1F9 | Buckets, Buhr, Robinson, Klein | Jomez Disc Golf",
+          "video_id": "JsDOivA7o88",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=JsDOivA7o88",
+          "thumbnail": "https://i.ytimg.com/vi/JsDOivA7o88/hqdefault.jpg",
+          "published": "2025-11-06T16:49:16Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2025 Disc Golf Pro Tour Championship",
+      "year": "2025",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA2CwPNjUpS8kz_JQ_73irfB",
+      "video_count": 9,
+      "round_count": 8,
+      "practice_count": 1,
+      "videos": [
+        {
+          "title": "2025 DGPT Championship | MPO R1F9 | Buhr, Heimburg, McBeth, Robinson | Jomez Disc Golf",
+          "video_id": "2gEVpGrYESk",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=2gEVpGrYESk",
+          "thumbnail": "https://i.ytimg.com/vi/2gEVpGrYESk/hqdefault.jpg",
+          "published": "2025-10-17T06:16:46Z"
+        },
+        {
+          "title": "2025 DGPT Championship | MPO R1B9 | Buhr, Heimburg, McBeth, Robinson | Jomez Disc Golf",
+          "video_id": "E36dbHrdKZw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=E36dbHrdKZw",
+          "thumbnail": "https://i.ytimg.com/vi/E36dbHrdKZw/hqdefault.jpg",
+          "published": "2025-10-17T06:18:17Z"
+        },
+        {
+          "title": "2025 DGPT Championship | MPO R2F9 | Heimburg, Klein, Robinson, Gossage | Jomez Disc Golf",
+          "video_id": "X6N6RNiDmpI",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=X6N6RNiDmpI",
+          "thumbnail": "https://i.ytimg.com/vi/X6N6RNiDmpI/hqdefault.jpg",
+          "published": "2025-10-18T05:46:44Z"
+        },
+        {
+          "title": "2025 DGPT Championship | MPO R2B9 | Heimburg, Klein, Robinson, Gossage | Jomez Disc Golf",
+          "video_id": "yAP0ARb7mqw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=yAP0ARb7mqw",
+          "thumbnail": "https://i.ytimg.com/vi/yAP0ARb7mqw/hqdefault.jpg",
+          "published": "2025-10-18T05:48:09Z"
+        },
+        {
+          "title": "2025 DGPT Championship | MPO R3F9 | Heimburg, Robinson, Gossage, Klein | Jomez Disc Golf",
+          "video_id": "9ksEJTKnueY",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=9ksEJTKnueY",
+          "thumbnail": "https://i.ytimg.com/vi/9ksEJTKnueY/hqdefault.jpg",
+          "published": "2025-10-19T05:40:45Z"
+        },
+        {
+          "title": "2025 DGPT Championship | MPO R3B9 | Heimburg, Robinson, Gossage, Klein | Jomez Disc Golf",
+          "video_id": "hZr6jy3l-lI",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=hZr6jy3l-lI",
+          "thumbnail": "https://i.ytimg.com/vi/hZr6jy3l-lI/hqdefault.jpg",
+          "published": "2025-10-19T05:42:02Z"
+        },
+        {
+          "title": "2025 DGPT Championship | MPO FINALF9 | I. Robinson, Heimburg, Gossage, E. Robinson | Jomez Disc Golf",
+          "video_id": "RLM2XO9jkVE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=RLM2XO9jkVE",
+          "thumbnail": "https://i.ytimg.com/vi/RLM2XO9jkVE/hqdefault.jpg",
+          "published": "2025-10-20T06:42:11Z"
+        },
+        {
+          "title": "2025 DGPT Championship | MPO FINALB9 | I. Robinson, Heimburg, Gossage, E. Robinson | Jomez Disc Golf",
+          "video_id": "ERBXLFZjTfE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=ERBXLFZjTfE",
+          "thumbnail": "https://i.ytimg.com/vi/ERBXLFZjTfE/hqdefault.jpg",
+          "published": "2025-10-20T06:47:48Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2025 DGPT Championship | Jomez Disc Golf",
+          "video_id": "A1q78bbcD3I",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=A1q78bbcD3I",
+          "thumbnail": "https://i.ytimg.com/vi/A1q78bbcD3I/hqdefault.jpg",
+          "published": "2025-10-22T13:43:35Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2025 European Disc Golf Festival",
+      "year": "2025",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA0GRdbsggEB1DmmS7G_pt-J",
+      "video_count": 11,
+      "round_count": 8,
+      "practice_count": 3,
+      "videos": [
+        {
+          "title": "Across the Pond with Bazooka Tamm! | 2025 European Disc Golf Festival | Practice Round Part 1",
+          "video_id": "24bwch_482A",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=24bwch_482A",
+          "thumbnail": "https://i.ytimg.com/vi/24bwch_482A/hqdefault.jpg",
+          "published": "2025-07-16T12:18:49Z"
+        },
+        {
+          "title": "Albert Tamm SHREDS in Tallinn | 2025 European Disc Golf Festival | Practice Round Part 2",
+          "video_id": "vp4RIDIMVIU",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=vp4RIDIMVIU",
+          "thumbnail": "https://i.ytimg.com/vi/vp4RIDIMVIU/hqdefault.jpg",
+          "published": "2025-07-16T22:24:48Z"
+        },
+        {
+          "title": "2025 EDGF | MPO R1F9 | Buhr, Wysocki, Anttila, Tamm | Jomez DiscGolf",
+          "video_id": "v1Wl3yo0CCE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=v1Wl3yo0CCE",
+          "thumbnail": "https://i.ytimg.com/vi/v1Wl3yo0CCE/hqdefault.jpg",
+          "published": "2025-07-20T13:17:16Z"
+        },
+        {
+          "title": "2025 EDGF | MPO R1B9 | Buhr, Wysocki, Anttila, Tamm | Jomez DiscGolf",
+          "video_id": "NEg-SoYxQUE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=NEg-SoYxQUE",
+          "thumbnail": "https://i.ytimg.com/vi/NEg-SoYxQUE/hqdefault.jpg",
+          "published": "2025-07-20T17:12:47Z"
+        },
+        {
+          "title": "2025 EDGF | MPO R2F9 | Barela, Robinson, Wysocki, Anttila | Jomez DiscGolf",
+          "video_id": "4kSmqJ6x0Dw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=4kSmqJ6x0Dw",
+          "thumbnail": "https://i.ytimg.com/vi/4kSmqJ6x0Dw/hqdefault.jpg",
+          "published": "2025-07-22T14:15:28Z"
+        },
+        {
+          "title": "2025 EDGF | MPO R2B9 | Barela, Robinson, Wysocki, Anttila | Jomez DiscGolf",
+          "video_id": "qu9ecodf6M4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=qu9ecodf6M4",
+          "thumbnail": "https://i.ytimg.com/vi/qu9ecodf6M4/hqdefault.jpg",
+          "published": "2025-07-22T15:50:44Z"
+        },
+        {
+          "title": "2025 EDGF | MPO R3F9 | Robinson, Barela, Heimburg, Buhr | Jomez Disc Golf",
+          "video_id": "KP3N8ufgpFQ",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=KP3N8ufgpFQ",
+          "thumbnail": "https://i.ytimg.com/vi/KP3N8ufgpFQ/hqdefault.jpg",
+          "published": "2025-07-22T16:18:56Z"
+        },
+        {
+          "title": "2025 EDGF | MPO R3B9 | Robinson, Barela, Heimburg, Buhr | Jomez DiscGolf",
+          "video_id": "oNtG4Q6WUjM",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=oNtG4Q6WUjM",
+          "thumbnail": "https://i.ytimg.com/vi/oNtG4Q6WUjM/hqdefault.jpg",
+          "published": "2025-07-22T16:21:07Z"
+        },
+        {
+          "title": "2025 EDGF | MPO FINALF9 | Buhr, Robinson, Heimburg, McBeth | Jomez Disc Golf",
+          "video_id": "vdyr3-6N3dA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=vdyr3-6N3dA",
+          "thumbnail": "https://i.ytimg.com/vi/vdyr3-6N3dA/hqdefault.jpg",
+          "published": "2025-07-22T17:21:16Z"
+        },
+        {
+          "title": "2025 EDGF | MPO FINALB9 | Buhr, Robinson, Heimburg, McBeth | Jomez DiscGolf",
+          "video_id": "PLAVoYPERDk",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=PLAVoYPERDk",
+          "thumbnail": "https://i.ytimg.com/vi/PLAVoYPERDk/hqdefault.jpg",
+          "published": "2025-07-22T17:23:07Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2025 EDGF | Jomez Disc Golf",
+          "video_id": "vHAv1BTcx9I",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=vHAv1BTcx9I",
+          "thumbnail": "https://i.ytimg.com/vi/vHAv1BTcx9I/hqdefault.jpg",
+          "published": "2025-07-28T14:42:11Z"
         }
       ]
     }
