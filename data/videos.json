@@ -1,66 +1,6 @@
 {
-  "updated_at": "2026-07-14T21:29:08.284466+00:00",
+  "updated_at": "2026-07-14T22:28:41.597978+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
-  "tournaments": [
-    {
-      "tournament": "2026 Heinola Open",
-      "year": "2026",
-      "channel": "JomezPro",
-      "playlist_id": "PLbvr28h4FmeY",
-      "video_count": 6,
-      "round_count": 6,
-      "practice_count": 0,
-      "videos": [
-        {
-          "title": "2026 Heinola Open | MPO R1F9 | Buhr, Semer\u00e1d, Gossage, Arkko | Jomez Disc Golf",
-          "video_id": "p_SZFy9JoOs",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=p_SZFy9JoOs",
-          "thumbnail": "https://i.ytimg.com/vi/p_SZFy9JoOs/hqdefault.jpg",
-          "published": "2026-07-11T01:12:34Z"
-        },
-        {
-          "title": "2026 Heinola Open  | MPO R1B9 | Buhr, Semer\u00e1d, Gossage, Arkko | Jomez Disc Golf",
-          "video_id": "SyA_rA6aZfI",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=SyA_rA6aZfI",
-          "thumbnail": "https://i.ytimg.com/vi/SyA_rA6aZfI/hqdefault.jpg",
-          "published": "2026-07-11T01:23:17Z"
-        },
-        {
-          "title": "2026 Heinola Open  | MPO R2F9 | Lehtinen, Buhr, Davidsson, Anttila | Jomez Disc Golf",
-          "video_id": "qwxhB05N_d0",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=qwxhB05N_d0",
-          "thumbnail": "https://i.ytimg.com/vi/qwxhB05N_d0/hqdefault.jpg",
-          "published": "2026-07-12T00:02:35Z"
-        },
-        {
-          "title": "2026 Heinola Open  | MPO R2B9 | Lehtinen, Buhr, Davidsson, Anttila | Jomez Disc Golf",
-          "video_id": "qO8iELB-Org",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=qO8iELB-Org",
-          "thumbnail": "https://i.ytimg.com/vi/qO8iELB-Org/hqdefault.jpg",
-          "published": "2026-07-12T00:04:03Z"
-        },
-        {
-          "title": "2026 Heinola Open | MPO FINALF9 | Davidsson, Sarvi, Buhr, Ruusunen | Jomez Disc Golf",
-          "video_id": "DpNGOgX1SvM",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=DpNGOgX1SvM",
-          "thumbnail": "https://i.ytimg.com/vi/DpNGOgX1SvM/hqdefault.jpg",
-          "published": "2026-07-13T00:41:38Z"
-        },
-        {
-          "title": "2026 Heinola Open | MPO FINALB9 | Davidsson, Sarvi, Buhr, Ruusunen | Jomez Disc Golf",
-          "video_id": "09BGyG-5o-s",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=09BGyG-5o-s",
-          "thumbnail": "https://i.ytimg.com/vi/09BGyG-5o-s/hqdefault.jpg",
-          "published": "2026-07-13T01:02:51Z"
-        }
-      ]
-    }
-  ]
+  "tournaments": []
 }
