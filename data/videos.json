@@ -1,6 +1,74 @@
 {
-  "updated_at": "2026-07-15T22:13:10.338873+00:00",
+  "updated_at": "2026-07-15T23:12:22.601989+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
-  "tournaments": []
+  "tournaments": [
+    {
+      "tournament": "2026 Waco Annual Charity Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA2xC4IpS8Sldwl7oT1wPwOw",
+      "video_count": 7,
+      "round_count": 6,
+      "practice_count": 1,
+      "videos": [
+        {
+          "title": "Colten, Gregg, and Double G take on the bEast! | 2026 WACO | Jomez Practice Round B9",
+          "video_id": "oL6S_qYoS6U",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=oL6S_qYoS6U",
+          "thumbnail": "https://i.ytimg.com/vi/oL6S_qYoS6U/hqdefault.jpg",
+          "published": "2026-05-01T13:06:21Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO | MPO R1F9 | Heimburg, Anttila, Hammes, Nash | Jomez Disc Golf",
+          "video_id": "N8FmP4mEA0g",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=N8FmP4mEA0g",
+          "thumbnail": "https://i.ytimg.com/vi/N8FmP4mEA0g/hqdefault.jpg",
+          "published": "2026-05-02T05:37:28Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO R1B9 | Heimburg, Anttila, Hammes, Nash | Jomez Disc Golf",
+          "video_id": "oMAoMOf8dMM",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=oMAoMOf8dMM",
+          "thumbnail": "https://i.ytimg.com/vi/oMAoMOf8dMM/hqdefault.jpg",
+          "published": "2026-05-02T05:39:11Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO R2F9 | Heimburg, Anttila, O\u2019Reilly, Scott | Jomez Disc Golf",
+          "video_id": "7rvEx92AXBE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=7rvEx92AXBE",
+          "thumbnail": "https://i.ytimg.com/vi/7rvEx92AXBE/hqdefault.jpg",
+          "published": "2026-05-03T06:42:41Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO R2B9 |  Heimburg, Anttila, O\u2019Reilly, Scott | Jomez Disc Golf",
+          "video_id": "Y_C9Tc-VaU4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Y_C9Tc-VaU4",
+          "thumbnail": "https://i.ytimg.com/vi/Y_C9Tc-VaU4/hqdefault.jpg",
+          "published": "2026-05-03T06:44:30Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO FINALF9 | Anttila, Keith, Krans, Scott | Jomez Disc Golf",
+          "video_id": "wkyFouD3dow",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=wkyFouD3dow",
+          "thumbnail": "https://i.ytimg.com/vi/wkyFouD3dow/hqdefault.jpg",
+          "published": "2026-05-04T06:28:21Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO | MPO FINALB9 | Anttila, Keith, Krans, Scott | Jomez Disc Golf",
+          "video_id": "Q2CqqCTx0L8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Q2CqqCTx0L8",
+          "thumbnail": "https://i.ytimg.com/vi/Q2CqqCTx0L8/hqdefault.jpg",
+          "published": "2026-05-04T06:29:50Z"
+        }
+      ]
+    }
+  ]
 }
