@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T17:55:05.229645+00:00",
+  "updated_at": "2026-07-15T18:57:21.576914+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -63,144 +63,69 @@
       ]
     },
     {
-      "tournament": "2026 Ale Open",
+      "tournament": "2026 Waco Annual Charity Open",
       "year": "2026",
       "channel": "JomezPro",
-      "playlist_id": "PLC8m_2VIPPW4",
-      "video_count": 6,
+      "playlist_id": "PLZ1LrAadOyA2xC4IpS8Sldwl7oT1wPwOw",
+      "video_count": 7,
       "round_count": 6,
-      "practice_count": 0,
-      "videos": [
-        {
-          "title": "2026 Ale Open | MPO R1F9 | McMahon, Barela, Anttila, H\u00e5kansson | Jomez Disc Golf",
-          "video_id": "2ZzTMzOfPSU",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=2ZzTMzOfPSU",
-          "thumbnail": "https://i.ytimg.com/vi/2ZzTMzOfPSU/hqdefault.jpg",
-          "published": "2026-07-04T00:07:51Z"
-        },
-        {
-          "title": "2026 Ale Open  | MPO R1B9 | McMahon, Barela, Anttila, H\u00e5kansson | Jomez Disc Golf",
-          "video_id": "KmxHqfacf70",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=KmxHqfacf70",
-          "thumbnail": "https://i.ytimg.com/vi/KmxHqfacf70/hqdefault.jpg",
-          "published": "2026-07-04T00:09:39Z"
-        },
-        {
-          "title": "2026 Ale Open  | MPO R2F9 | Schultz, Williams, Wysocki, Robinson | Jomez Disc Golf",
-          "video_id": "Q5aDpc-MnkA",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=Q5aDpc-MnkA",
-          "thumbnail": "https://i.ytimg.com/vi/Q5aDpc-MnkA/hqdefault.jpg",
-          "published": "2026-07-04T23:51:20Z"
-        },
-        {
-          "title": "2026 Ale Open  | MPO R2B9 | Schultz, Williams, Wysocki, Robinson | Jomez Disc Golf",
-          "video_id": "k8x0X4iUD7Y",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=k8x0X4iUD7Y",
-          "thumbnail": "https://i.ytimg.com/vi/k8x0X4iUD7Y/hqdefault.jpg",
-          "published": "2026-07-05T00:06:40Z"
-        },
-        {
-          "title": "2026 Ale Open | MPO FINALF9 | Redalen, Robinson, Barela, Wysocki | Jomez Disc Golf",
-          "video_id": "LFgPy3THUfA",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=LFgPy3THUfA",
-          "thumbnail": "https://i.ytimg.com/vi/LFgPy3THUfA/hqdefault.jpg",
-          "published": "2026-07-06T00:32:19Z"
-        },
-        {
-          "title": "2026 Ale Open | MPO FINALB9 | Redalen, Robinson, Barela, Wysocki | Jomez Disc Golf",
-          "video_id": "e0wqX0SzcdM",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=e0wqX0SzcdM",
-          "thumbnail": "https://i.ytimg.com/vi/e0wqX0SzcdM/hqdefault.jpg",
-          "published": "2026-07-06T00:43:40Z"
-        }
-      ]
-    },
-    {
-      "tournament": "2026 PDGA Champions Cup",
-      "year": "2026",
-      "channel": "JomezPro",
-      "playlist_id": "PLZ1LrAadOyA05xOZP7HlgsRiy0U4dTyGY",
-      "video_count": 9,
-      "round_count": 8,
       "practice_count": 1,
       "videos": [
         {
-          "title": "2026 PDGA Champions Cup | MPO R1F9 | Buhr, McBeth, Robinson, Anttila | Jomez Disc Golf",
-          "video_id": "27ZHUi6Ser8",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=27ZHUi6Ser8",
-          "thumbnail": "https://i.ytimg.com/vi/27ZHUi6Ser8/hqdefault.jpg",
-          "published": "2026-04-10T06:54:54Z"
-        },
-        {
-          "title": "2026 PDGA Champions Cup | MPO R1B9 | Buhr, McBeth, Robinson, Anttila | Jomez Disc Golf",
-          "video_id": "s0-hNNWAYgU",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=s0-hNNWAYgU",
-          "thumbnail": "https://i.ytimg.com/vi/s0-hNNWAYgU/hqdefault.jpg",
-          "published": "2026-04-10T06:55:54Z"
-        },
-        {
-          "title": "2026 PDGA Champions Cup | MPO R2F9 | Anttila, Wysocki, Hammes, Smith | Jomez Disc Golf",
-          "video_id": "Z7ZjD5Py5_A",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=Z7ZjD5Py5_A",
-          "thumbnail": "https://i.ytimg.com/vi/Z7ZjD5Py5_A/hqdefault.jpg",
-          "published": "2026-04-11T05:49:05Z"
-        },
-        {
-          "title": "2026 PDGA Champions Cup | MPO R2B9 | Anttila, Wysocki, Hammes, Smith | Jomez Disc Golf",
-          "video_id": "VNq4nGFKjj4",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=VNq4nGFKjj4",
-          "thumbnail": "https://i.ytimg.com/vi/VNq4nGFKjj4/hqdefault.jpg",
-          "published": "2026-04-11T05:51:11Z"
-        },
-        {
-          "title": "2026 PDGA Champions Cup | MPO R3F9 | Anttila, Barela, Wysocki, Buhr | Jomez Disc Golf",
-          "video_id": "GLzn77nUMow",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=GLzn77nUMow",
-          "thumbnail": "https://i.ytimg.com/vi/GLzn77nUMow/hqdefault.jpg",
-          "published": "2026-04-12T07:02:58Z"
-        },
-        {
-          "title": "2026 PDGA Champions Cup | MPO R3B9 | Anttila, Barela, Wysocki, Buhr | Jomez Disc Golf",
-          "video_id": "5aKGQ92e92A",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=5aKGQ92e92A",
-          "thumbnail": "https://i.ytimg.com/vi/5aKGQ92e92A/hqdefault.jpg",
-          "published": "2026-04-12T07:04:53Z"
-        },
-        {
-          "title": "2026 PDGA Champions Cup | MPO FINALF9 | Barela, Anttila, Buhr, Wysocki | Jomez Disc Golf",
-          "video_id": "k28ec500LoY",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=k28ec500LoY",
-          "thumbnail": "https://i.ytimg.com/vi/k28ec500LoY/hqdefault.jpg",
-          "published": "2026-04-13T07:14:03Z"
-        },
-        {
-          "title": "2026 PDGA Champions Cup | MPO FINALB9 | Barela, Anttila, Buhr, Wysocki | Jomez Disc Golf",
-          "video_id": "LTWgAqepCVw",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=LTWgAqepCVw",
-          "thumbnail": "https://i.ytimg.com/vi/LTWgAqepCVw/hqdefault.jpg",
-          "published": "2026-04-13T07:15:44Z"
-        },
-        {
-          "title": "Top 10 MPO Shots from the 2026 PDGA Champions Cup | Jomez Disc Golf",
-          "video_id": "S65Idil6lFA",
+          "title": "Colten, Gregg, and Double G take on the bEast! | 2026 WACO | Jomez Practice Round B9",
+          "video_id": "oL6S_qYoS6U",
           "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=S65Idil6lFA",
-          "thumbnail": "https://i.ytimg.com/vi/S65Idil6lFA/hqdefault.jpg",
-          "published": "2026-04-15T20:20:11Z"
+          "link": "https://www.youtube.com/watch?v=oL6S_qYoS6U",
+          "thumbnail": "https://i.ytimg.com/vi/oL6S_qYoS6U/hqdefault.jpg",
+          "published": "2026-05-01T13:06:21Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO | MPO R1F9 | Heimburg, Anttila, Hammes, Nash | Jomez Disc Golf",
+          "video_id": "N8FmP4mEA0g",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=N8FmP4mEA0g",
+          "thumbnail": "https://i.ytimg.com/vi/N8FmP4mEA0g/hqdefault.jpg",
+          "published": "2026-05-02T05:37:28Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO R1B9 | Heimburg, Anttila, Hammes, Nash | Jomez Disc Golf",
+          "video_id": "oMAoMOf8dMM",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=oMAoMOf8dMM",
+          "thumbnail": "https://i.ytimg.com/vi/oMAoMOf8dMM/hqdefault.jpg",
+          "published": "2026-05-02T05:39:11Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO R2F9 | Heimburg, Anttila, O\u2019Reilly, Scott | Jomez Disc Golf",
+          "video_id": "7rvEx92AXBE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=7rvEx92AXBE",
+          "thumbnail": "https://i.ytimg.com/vi/7rvEx92AXBE/hqdefault.jpg",
+          "published": "2026-05-03T06:42:41Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO R2B9 |  Heimburg, Anttila, O\u2019Reilly, Scott | Jomez Disc Golf",
+          "video_id": "Y_C9Tc-VaU4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Y_C9Tc-VaU4",
+          "thumbnail": "https://i.ytimg.com/vi/Y_C9Tc-VaU4/hqdefault.jpg",
+          "published": "2026-05-03T06:44:30Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO  | MPO FINALF9 | Anttila, Keith, Krans, Scott | Jomez Disc Golf",
+          "video_id": "wkyFouD3dow",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=wkyFouD3dow",
+          "thumbnail": "https://i.ytimg.com/vi/wkyFouD3dow/hqdefault.jpg",
+          "published": "2026-05-04T06:28:21Z"
+        },
+        {
+          "title": "Innova presents 2026 WACO | MPO FINALB9 | Anttila, Keith, Krans, Scott | Jomez Disc Golf",
+          "video_id": "Q2CqqCTx0L8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Q2CqqCTx0L8",
+          "thumbnail": "https://i.ytimg.com/vi/Q2CqqCTx0L8/hqdefault.jpg",
+          "published": "2026-05-04T06:29:50Z"
         }
       ]
     }
