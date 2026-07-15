@@ -1,131 +1,104 @@
 {
-  "updated_at": "2026-07-15T18:57:21.576914+00:00",
+  "updated_at": "2026-07-15T20:05:02.966986+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
     {
-      "tournament": "2026 Heinola Open",
-      "year": "2026",
+      "tournament": "2025 Discraft Great Lakes Open",
+      "year": "2025",
       "channel": "JomezPro",
-      "playlist_id": "PLbvr28h4FmeY",
-      "video_count": 6,
-      "round_count": 6,
-      "practice_count": 0,
+      "playlist_id": "PLZ1LrAadOyA3bUXgeyO-g0lWyLq6m4MkY",
+      "video_count": 11,
+      "round_count": 8,
+      "practice_count": 3,
       "videos": [
         {
-          "title": "2026 Heinola Open | MPO R1F9 | Buhr, Semer\u00e1d, Gossage, Arkko | Jomez Disc Golf",
-          "video_id": "p_SZFy9JoOs",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=p_SZFy9JoOs",
-          "thumbnail": "https://i.ytimg.com/vi/p_SZFy9JoOs/hqdefault.jpg",
-          "published": "2026-07-11T01:12:34Z"
-        },
-        {
-          "title": "2026 Heinola Open  | MPO R1B9 | Buhr, Semer\u00e1d, Gossage, Arkko | Jomez Disc Golf",
-          "video_id": "SyA_rA6aZfI",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=SyA_rA6aZfI",
-          "thumbnail": "https://i.ytimg.com/vi/SyA_rA6aZfI/hqdefault.jpg",
-          "published": "2026-07-11T01:23:17Z"
-        },
-        {
-          "title": "2026 Heinola Open  | MPO R2F9 | Lehtinen, Buhr, Davidsson, Anttila | Jomez Disc Golf",
-          "video_id": "qwxhB05N_d0",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=qwxhB05N_d0",
-          "thumbnail": "https://i.ytimg.com/vi/qwxhB05N_d0/hqdefault.jpg",
-          "published": "2026-07-12T00:02:35Z"
-        },
-        {
-          "title": "2026 Heinola Open  | MPO R2B9 | Lehtinen, Buhr, Davidsson, Anttila | Jomez Disc Golf",
-          "video_id": "qO8iELB-Org",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=qO8iELB-Org",
-          "thumbnail": "https://i.ytimg.com/vi/qO8iELB-Org/hqdefault.jpg",
-          "published": "2026-07-12T00:04:03Z"
-        },
-        {
-          "title": "2026 Heinola Open | MPO FINALF9 | Davidsson, Sarvi, Buhr, Ruusunen | Jomez Disc Golf",
-          "video_id": "DpNGOgX1SvM",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=DpNGOgX1SvM",
-          "thumbnail": "https://i.ytimg.com/vi/DpNGOgX1SvM/hqdefault.jpg",
-          "published": "2026-07-13T00:41:38Z"
-        },
-        {
-          "title": "2026 Heinola Open | MPO FINALB9 | Davidsson, Sarvi, Buhr, Ruusunen | Jomez Disc Golf",
-          "video_id": "09BGyG-5o-s",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=09BGyG-5o-s",
-          "thumbnail": "https://i.ytimg.com/vi/09BGyG-5o-s/hqdefault.jpg",
-          "published": "2026-07-13T01:02:51Z"
-        }
-      ]
-    },
-    {
-      "tournament": "2026 Waco Annual Charity Open",
-      "year": "2026",
-      "channel": "JomezPro",
-      "playlist_id": "PLZ1LrAadOyA2xC4IpS8Sldwl7oT1wPwOw",
-      "video_count": 7,
-      "round_count": 6,
-      "practice_count": 1,
-      "videos": [
-        {
-          "title": "Colten, Gregg, and Double G take on the bEast! | 2026 WACO | Jomez Practice Round B9",
-          "video_id": "oL6S_qYoS6U",
+          "title": "Raven Newsom joins BigBarri at DGLO! | 2025 Discraft Great Lakes Open | Practice Round Part 1",
+          "video_id": "Jcb5Xr7v2I4",
           "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=oL6S_qYoS6U",
-          "thumbnail": "https://i.ytimg.com/vi/oL6S_qYoS6U/hqdefault.jpg",
-          "published": "2026-05-01T13:06:21Z"
+          "link": "https://www.youtube.com/watch?v=Jcb5Xr7v2I4",
+          "thumbnail": "https://i.ytimg.com/vi/Jcb5Xr7v2I4/hqdefault.jpg",
+          "published": "2025-09-03T05:03:31Z"
         },
         {
-          "title": "Innova presents 2026 WACO | MPO R1F9 | Heimburg, Anttila, Hammes, Nash | Jomez Disc Golf",
-          "video_id": "N8FmP4mEA0g",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=N8FmP4mEA0g",
-          "thumbnail": "https://i.ytimg.com/vi/N8FmP4mEA0g/hqdefault.jpg",
-          "published": "2026-05-02T05:37:28Z"
+          "title": "Toboggan is hard. | 2025 Discraft Great Lakes Open | Practice Round Part 2",
+          "video_id": "3sEmb2uIFTs",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=3sEmb2uIFTs",
+          "thumbnail": "https://i.ytimg.com/vi/3sEmb2uIFTs/hqdefault.jpg",
+          "published": "2025-09-04T04:22:23Z"
         },
         {
-          "title": "Innova presents 2026 WACO  | MPO R1B9 | Heimburg, Anttila, Hammes, Nash | Jomez Disc Golf",
-          "video_id": "oMAoMOf8dMM",
+          "title": "2025 Discraft Great Lakes Open | MPO R1F9 | Buhr, McBeth, Klein, Barela | Jomez Disc Golf",
+          "video_id": "a38Q7Jmih8Q",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=oMAoMOf8dMM",
-          "thumbnail": "https://i.ytimg.com/vi/oMAoMOf8dMM/hqdefault.jpg",
-          "published": "2026-05-02T05:39:11Z"
+          "link": "https://www.youtube.com/watch?v=a38Q7Jmih8Q",
+          "thumbnail": "https://i.ytimg.com/vi/a38Q7Jmih8Q/hqdefault.jpg",
+          "published": "2025-09-05T05:49:39Z"
         },
         {
-          "title": "Innova presents 2026 WACO  | MPO R2F9 | Heimburg, Anttila, O\u2019Reilly, Scott | Jomez Disc Golf",
-          "video_id": "7rvEx92AXBE",
+          "title": "2025 Discraft Great Lakes Open | MPO R1B9 | Buhr, McBeth, Klein, Barela | Jomez DiscGolf",
+          "video_id": "_nb-kqLXuPY",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=7rvEx92AXBE",
-          "thumbnail": "https://i.ytimg.com/vi/7rvEx92AXBE/hqdefault.jpg",
-          "published": "2026-05-03T06:42:41Z"
+          "link": "https://www.youtube.com/watch?v=_nb-kqLXuPY",
+          "thumbnail": "https://i.ytimg.com/vi/_nb-kqLXuPY/hqdefault.jpg",
+          "published": "2025-09-05T05:50:49Z"
         },
         {
-          "title": "Innova presents 2026 WACO  | MPO R2B9 |  Heimburg, Anttila, O\u2019Reilly, Scott | Jomez Disc Golf",
-          "video_id": "Y_C9Tc-VaU4",
+          "title": "2025 Discraft Great Lakes Open | MPO R2F9 | McBeth, Heimburg, Anttila, Hein\u00e4nen | Jomez Disc Golf",
+          "video_id": "QT_pr0mnPyo",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=Y_C9Tc-VaU4",
-          "thumbnail": "https://i.ytimg.com/vi/Y_C9Tc-VaU4/hqdefault.jpg",
-          "published": "2026-05-03T06:44:30Z"
+          "link": "https://www.youtube.com/watch?v=QT_pr0mnPyo",
+          "thumbnail": "https://i.ytimg.com/vi/QT_pr0mnPyo/hqdefault.jpg",
+          "published": "2025-09-06T05:45:17Z"
         },
         {
-          "title": "Innova presents 2026 WACO  | MPO FINALF9 | Anttila, Keith, Krans, Scott | Jomez Disc Golf",
-          "video_id": "wkyFouD3dow",
+          "title": "2025 Discraft Great Lakes Open | MPO R2B9 | McBeth, Heimburg, Anttila, Hein\u00e4nen | Jomez Disc Golf",
+          "video_id": "hLuYG0eerc4",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=wkyFouD3dow",
-          "thumbnail": "https://i.ytimg.com/vi/wkyFouD3dow/hqdefault.jpg",
-          "published": "2026-05-04T06:28:21Z"
+          "link": "https://www.youtube.com/watch?v=hLuYG0eerc4",
+          "thumbnail": "https://i.ytimg.com/vi/hLuYG0eerc4/hqdefault.jpg",
+          "published": "2025-09-06T05:56:44Z"
         },
         {
-          "title": "Innova presents 2026 WACO | MPO FINALB9 | Anttila, Keith, Krans, Scott | Jomez Disc Golf",
-          "video_id": "Q2CqqCTx0L8",
+          "title": "2025 Discraft Great Lakes Open | MPO R3F9 | Heimburg, McBeth, Buhr, Anttila | Jomez Disc Golf",
+          "video_id": "-N3Y0CItuxE",
           "kind": "round",
-          "link": "https://www.youtube.com/watch?v=Q2CqqCTx0L8",
-          "thumbnail": "https://i.ytimg.com/vi/Q2CqqCTx0L8/hqdefault.jpg",
-          "published": "2026-05-04T06:29:50Z"
+          "link": "https://www.youtube.com/watch?v=-N3Y0CItuxE",
+          "thumbnail": "https://i.ytimg.com/vi/-N3Y0CItuxE/hqdefault.jpg",
+          "published": "2025-09-07T06:43:29Z"
+        },
+        {
+          "title": "2025 Discraft Great Lakes Open | MPO R3B9 | Heimburg, McBeth, Buhr, Anttila | Jomez Disc Golf",
+          "video_id": "g90U-MZhUHw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=g90U-MZhUHw",
+          "thumbnail": "https://i.ytimg.com/vi/g90U-MZhUHw/hqdefault.jpg",
+          "published": "2025-09-07T06:44:50Z"
+        },
+        {
+          "title": "2025 Discraft Great Lakes Open | MPO FINALF9 | Heimburg, Buhr, Anttila, Wysocki | Jomez Disc Golf",
+          "video_id": "vhUkMKuREbw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=vhUkMKuREbw",
+          "thumbnail": "https://i.ytimg.com/vi/vhUkMKuREbw/hqdefault.jpg",
+          "published": "2025-09-08T06:01:04Z"
+        },
+        {
+          "title": "2025 Discraft Great Lakes Open | MPO FINALB9 | Heimburg, Buhr, Anttila, Wysocki | Jomez Disc Golf",
+          "video_id": "fGsQT-fmxVA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=fGsQT-fmxVA",
+          "thumbnail": "https://i.ytimg.com/vi/fGsQT-fmxVA/hqdefault.jpg",
+          "published": "2025-09-08T06:02:18Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2025 DGLO | Jomez Disc Golf",
+          "video_id": "TVkGQns7gGs",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=TVkGQns7gGs",
+          "thumbnail": "https://i.ytimg.com/vi/TVkGQns7gGs/hqdefault.jpg",
+          "published": "2025-09-10T14:31:55Z"
         }
       ]
     }
