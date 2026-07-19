@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:08:48.848694+00:00",
+  "updated_at": "2026-07-19T23:08:54.443275+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -1330,6 +1330,105 @@
       ]
     },
     {
+      "tournament": "2025 MVP Open",
+      "year": "2025",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA3L_88rOus2cVRPVOoGtpOM",
+      "video_count": 11,
+      "round_count": 8,
+      "practice_count": 3,
+      "videos": [
+        {
+          "title": "Casey White and Paul Krans join us at Maple Hill! | 2025 MVP Open | Practice Round F9",
+          "video_id": "n-7h3ikGdtk",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=n-7h3ikGdtk",
+          "thumbnail": "https://i.ytimg.com/vi/n-7h3ikGdtk/hqdefault.jpg",
+          "published": "2025-09-24T01:55:40Z"
+        },
+        {
+          "title": "Pauls vs Talls (Back 9 Showdown) | 2025 MVP Open | Practice Round B9",
+          "video_id": "0Jus7DjPL3c",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=0Jus7DjPL3c",
+          "thumbnail": "https://i.ytimg.com/vi/0Jus7DjPL3c/hqdefault.jpg",
+          "published": "2025-09-25T01:28:01Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO R1F9 | McBeth, Buhr, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "CgeMhiolqU8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=CgeMhiolqU8",
+          "thumbnail": "https://i.ytimg.com/vi/CgeMhiolqU8/hqdefault.jpg",
+          "published": "2025-09-26T04:15:21Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO R1B9 | McBeth, Buhr, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "X5xOY672YR0",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=X5xOY672YR0",
+          "thumbnail": "https://i.ytimg.com/vi/X5xOY672YR0/hqdefault.jpg",
+          "published": "2025-09-26T04:17:03Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO R2F9 | Queen, Lizotte, Buhr, Redalen | Jomez Disc Golf",
+          "video_id": "9Q_PdO4koV8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=9Q_PdO4koV8",
+          "thumbnail": "https://i.ytimg.com/vi/9Q_PdO4koV8/hqdefault.jpg",
+          "published": "2025-09-27T05:42:04Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO R2B9 | Queen, Lizotte, Buhr, Redalen | Jomez Disc Golf",
+          "video_id": "gqHrmyTsHD4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=gqHrmyTsHD4",
+          "thumbnail": "https://i.ytimg.com/vi/gqHrmyTsHD4/hqdefault.jpg",
+          "published": "2025-09-27T05:43:23Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO R3F9 | Buhr, Wysocki, Redalen, White | Jomez Disc Golf",
+          "video_id": "ZxKx5iTv298",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=ZxKx5iTv298",
+          "thumbnail": "https://i.ytimg.com/vi/ZxKx5iTv298/hqdefault.jpg",
+          "published": "2025-09-28T05:02:46Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO R3B9 | Buhr, Wysocki, Redalen, White | Jomez Disc Golf",
+          "video_id": "9T8sOUw2Jnk",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=9T8sOUw2Jnk",
+          "thumbnail": "https://i.ytimg.com/vi/9T8sOUw2Jnk/hqdefault.jpg",
+          "published": "2025-09-28T05:03:52Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO FINALF9 | Redalen, Buhr, Wysocki, Krans | Jomez Disc Golf",
+          "video_id": "Pki1L4eZ_DU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Pki1L4eZ_DU",
+          "thumbnail": "https://i.ytimg.com/vi/Pki1L4eZ_DU/hqdefault.jpg",
+          "published": "2025-09-29T06:58:27Z"
+        },
+        {
+          "title": "2025 MVP Open | MPO FINALB9 | Redalen, Buhr, Wysocki, Krans | Jomez Disc Golf",
+          "video_id": "hqzrIFtmXWw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=hqzrIFtmXWw",
+          "thumbnail": "https://i.ytimg.com/vi/hqzrIFtmXWw/hqdefault.jpg",
+          "published": "2025-09-29T07:00:08Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2025 MVP Open | Jomez Disc Golf",
+          "video_id": "Tqsj2RvVLwU",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=Tqsj2RvVLwU",
+          "thumbnail": "https://i.ytimg.com/vi/Tqsj2RvVLwU/hqdefault.jpg",
+          "published": "2025-10-01T13:45:32Z"
+        }
+      ]
+    },
+    {
       "tournament": "2025 Discraft Great Lakes Open",
       "year": "2025",
       "channel": "JomezPro",
@@ -1821,89 +1920,6 @@
           "link": "https://www.youtube.com/watch?v=B5onhzx6JTg",
           "thumbnail": "https://i.ytimg.com/vi/B5onhzx6JTg/hqdefault.jpg",
           "published": "2025-07-02T17:38:18Z"
-        }
-      ]
-    },
-    {
-      "tournament": "2025 Preserve Championship",
-      "year": "2025",
-      "channel": "JomezPro",
-      "playlist_id": "PLZ1LrAadOyA041YIfbx2dlmPxxzWV2JOH",
-      "video_count": 9,
-      "round_count": 6,
-      "practice_count": 3,
-      "videos": [
-        {
-          "title": "The OLD and the BEAUTIFUL take on Airborn Preserve | Jomez Practice Round F9",
-          "video_id": "m4O9umxW5VU",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=m4O9umxW5VU",
-          "thumbnail": "https://i.ytimg.com/vi/m4O9umxW5VU/hqdefault.jpg",
-          "published": "2025-06-12T01:31:47Z"
-        },
-        {
-          "title": "Brotherly Love on the Back 9 | 2025 Preserve | Jomez Practice Round B9",
-          "video_id": "7NlPwMZf58A",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=7NlPwMZf58A",
-          "thumbnail": "https://i.ytimg.com/vi/7NlPwMZf58A/hqdefault.jpg",
-          "published": "2025-06-13T04:08:30Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R1F9 | Barela, Lizotte, Wysocki, Marwede | Jomez Disc Golf",
-          "video_id": "4uJD6wUXH9Y",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=4uJD6wUXH9Y",
-          "thumbnail": "https://i.ytimg.com/vi/4uJD6wUXH9Y/hqdefault.jpg",
-          "published": "2025-06-14T08:15:40Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R1B9 | Barela, Lizotte, Wysocki, Marwede | Jomez Disc Golf",
-          "video_id": "NMJZgHSsFdw",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=NMJZgHSsFdw",
-          "thumbnail": "https://i.ytimg.com/vi/NMJZgHSsFdw/hqdefault.jpg",
-          "published": "2025-06-14T08:17:19Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R2B9 | Buhr, Ellis, Tipton, Heimburg | Jomez Disc Golf",
-          "video_id": "ufSQWaRublU",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=ufSQWaRublU",
-          "thumbnail": "https://i.ytimg.com/vi/ufSQWaRublU/hqdefault.jpg",
-          "published": "2025-06-15T08:16:55Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO R2F9 | Buhr, Ellis, Tipton, Heimburg | Jomez Disc Golf",
-          "video_id": "nGjvkR1zWh4",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=nGjvkR1zWh4",
-          "thumbnail": "https://i.ytimg.com/vi/nGjvkR1zWh4/hqdefault.jpg",
-          "published": "2025-06-15T08:19:39Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO FINALF9 | Buhr, Ellis, Schultz, Barela | Jomez Disc Golf",
-          "video_id": "7rMcMAfkV3M",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=7rMcMAfkV3M",
-          "thumbnail": "https://i.ytimg.com/vi/7rMcMAfkV3M/hqdefault.jpg",
-          "published": "2025-06-16T10:03:59Z"
-        },
-        {
-          "title": "2025 Preserve Championship | MPO FINALB9 | Buhr, Ellis, Schultz, Barela | Jomez Disc Golf",
-          "video_id": "aId0zKnjO8k",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=aId0zKnjO8k",
-          "thumbnail": "https://i.ytimg.com/vi/aId0zKnjO8k/hqdefault.jpg",
-          "published": "2025-06-16T10:05:31Z"
-        },
-        {
-          "title": "Top 10 MPO Shots from the 2025 Preserve Championship | Jomez Disc Golf",
-          "video_id": "TA1j6dcDDyI",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=TA1j6dcDDyI",
-          "thumbnail": "https://i.ytimg.com/vi/TA1j6dcDDyI/hqdefault.jpg",
-          "published": "2025-06-17T23:40:00Z"
         }
       ]
     }
