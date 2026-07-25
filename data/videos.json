@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-07-25T13:14:45.981921+00:00",
+  "updated_at": "2026-07-25T14:42:56.561379+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 Champions Landing Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLHcN7LyGKnM4",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Champions Landing Open | MPO R1F9 | Buhr, Orum, Welck, Rye | Jomez Disc Golf",
+          "video_id": "-DbhEWrGfrI",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=-DbhEWrGfrI",
+          "thumbnail": "https://i.ytimg.com/vi/-DbhEWrGfrI/hqdefault.jpg",
+          "published": "2026-07-25T04:41:14Z"
+        },
+        {
+          "title": "2026 Champions Landing Open  | MPO R1B9 | Buhr, Orum, Welck, Rye | Jomez Disc Golf",
+          "video_id": "QtNKuNi4RPk",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=QtNKuNi4RPk",
+          "thumbnail": "https://i.ytimg.com/vi/QtNKuNi4RPk/hqdefault.jpg",
+          "published": "2026-07-25T04:42:46Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 Heinola Open",
       "year": "2026",
