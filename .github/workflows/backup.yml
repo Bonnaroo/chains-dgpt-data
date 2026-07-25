@@ -20,6 +20,8 @@ jobs:
           python-version: "3.12"
       - name: Backup league data
         run: python backup_league.py
+      - name: Backup Go Throw rounds
+        run: python backup_rounds.py
       - name: Commit backups
         run: |
           git config user.name "github-actions"
@@ -28,6 +30,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No backup change."
           else
-            git commit -m "Daily league backup ($(date -u +%Y-%m-%d))"
+            git commit -m "Daily backup ($(date -u +%Y-%m-%d))"
             git push
           fi
