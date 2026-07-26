@@ -15,12 +15,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # 2026 event IDs in order - script picks the first one without final results
-# (i.e. the next upcoming event). Add T11/T12 ids as the season progresses.
+# (i.e. the next upcoming event). Keep this list current as the season progresses.
 EVENT_IDS = [
     ("T1",  96401), ("T2",  96402), ("T3",  96403), ("T4",  97336),
     ("T5",  96404), ("T6",  96407), ("T7",  96408), ("T8",  96409),
     ("T9",  96410), ("T10", 97339), ("T11", 96411), ("T12", 96412),
-    ("T13", 96413),
+    ("T13", 96413), ("T14", 96414),
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
