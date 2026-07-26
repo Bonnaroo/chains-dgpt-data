@@ -1,0 +1,23 @@
+{
+ "_meta": {
+  "schema": "chains-courses-index-v1",
+  "updated": "2026-07-26",
+  "note": "Index of per-state course files. MI lives at data/courses.json (legacy seed); all other states at data/courses/<st>.json."
+ },
+ "states": {
+  "MI": {
+   "file": "data/courses.json",
+   "status": "done",
+   "course_count": 473,
+   "per_hole": "full",
+   "updated": "2026-06-20"
+  },
+  "OH": {
+   "file": "data/courses/oh.json",
+   "status": "partial",
+   "course_count": 150,
+   "per_hole": "none",
+   "updated": "2026-07-26"
+  }
+ }
+}
