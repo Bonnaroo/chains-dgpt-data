@@ -5,6 +5,19 @@ Automated state-by-state disc golf course collection for `chains-dgpt-data`
 One state per scheduled run. Read this file first; pick the next
 uncollected state; update it when done.
 
+## ✅ 2026-07-26 run #2 — IN pass 1 (150 courses)
+
+Same recipe as OH pass 1, applied to Indiana:
+- **DiscGolfScene** `/courses/Indiana` (robots: allowed, crawl-delay 20): 318 courses (name, city, grade, rating count).
+- **PDGA advanced directory** `?field_course_location_country=US&field_course_location_administrative_area=IN` (5 pages × 50, crawl-delay 10 honored): 236 courses with name, city, zip, **hole count**, year. NOTE: the full 16-param URL from the OH notes returns an empty form — the minimal 2-param URL above is what works.
+- **Cross-check:** fuzzy name+city PDGA×DGS → **169 verified**; ranked by DGS rating volume, took top 150 → **IN Partial, 19 verified remain**.
+- **Geo:** Overpass named `leisure=disc_golf_course` in IN is thin (13 named) → 6 exact matches validated <=35 km against zip centroid; other 144 use Nominatim zip centroids (`geo_precision:"zip"`), all 131 unique zips resolved, 0 errors, all validated to Indiana. Sandbox kills background processes between calls — geocode in resumable ~40 s chunks (`timeout 42`), state file on disk.
+- **Per-hole:** all null (option d), same as OH.
+
+**Files committed:** `data/courses/in.json`, `data/courses-index.json` (+IN), `data/Chains Course Catalog.xlsx` (tracker IN → Partial 150; Courses tab +150 → 773 rows), this file.
+
+**Next:** OH pass 2 (~133 remain) or IL pass 1; IN pass 2 only needs the last 19.
+
 ## ✅ 2026-07-26 run — OH pass 1 (unblocked, 150 courses)
 
 **Blocker resolved by task-spec change:** the scheduled task now says per-hole
@@ -139,7 +152,7 @@ WA, TN, GA, FL, AZ, MO, IA, KS → rest alphabetically.
 |---|---|---|---|---|
 | MI | done | 473 | 2026-06-20 | Original build, see data/courses.json _meta |
 | OH | partial | 150 | 2026-07-26 | Pass 1: top 150 of 283 PDGA×DGS verified (443 DGS-listed). No per-hole data (option d). Continue next pass. |
-| IN | not started | — | — | Unblocked 2026-07-26 (option d adopted in task spec) — use OH recipe |
+| IN | partial | 150 | 2026-07-26 | Pass 1: top 150 of 169 PDGA×DGS verified (318 DGS-listed). No per-hole (option d). 19 remain. |
 | IL | not started | — | — | |
 | WI | not started | — | — | |
 | KY | not started | — | — | |

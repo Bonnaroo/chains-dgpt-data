@@ -18,6 +18,13 @@
    "course_count": 150,
    "per_hole": "none",
    "updated": "2026-07-26"
+  },
+  "IN": {
+   "file": "data/courses/in.json",
+   "status": "partial",
+   "course_count": 150,
+   "per_hole": "none",
+   "updated": "2026-07-26"
   }
  }
 }
