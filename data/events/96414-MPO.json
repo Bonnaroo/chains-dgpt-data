@@ -9,7 +9,7 @@
     122828947,
     122828949
   ],
-  "collected_at": "2026-07-27T12:52:09.055742+00:00",
+  "collected_at": "2026-07-27T15:37:56.603743+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96414/event-division-results/MPO",
   "players": [
     {
@@ -31,21 +31,6 @@
       "pdga_number": 8332,
       "first_name": "Simon",
       "last_name": "Lizotte",
-      "place": 0,
-      "tied": true,
-      "total_strokes": 0,
-      "to_par": null,
-      "prize_usd": null,
-      "points": 1140,
-      "dnf": false,
-      "event_rating": null,
-      "rounds": [],
-      "stats": {}
-    },
-    {
-      "pdga_number": 8399,
-      "first_name": "Maxime",
-      "last_name": "Tanghe",
       "place": 0,
       "tied": true,
       "total_strokes": 0,
@@ -2026,6 +2011,21 @@
       "pdga_number": 158812,
       "first_name": "Tomas",
       "last_name": "Jeronimo",
+      "place": 0,
+      "tied": null,
+      "total_strokes": 0,
+      "to_par": null,
+      "prize_usd": null,
+      "points": null,
+      "dnf": null,
+      "event_rating": null,
+      "rounds": [],
+      "stats": {}
+    },
+    {
+      "pdga_number": 159124,
+      "first_name": "Ray",
+      "last_name": "Sosnowski",
       "place": 0,
       "tied": null,
       "total_strokes": 0,

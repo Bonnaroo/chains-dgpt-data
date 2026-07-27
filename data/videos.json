@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T12:52:18.641548+00:00",
+  "updated_at": "2026-07-27T15:38:06.486564+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLHcN7LyGKnM4",
-      "video_count": 4,
-      "round_count": 4,
+      "video_count": 6,
+      "round_count": 6,
       "practice_count": 0,
       "videos": [
         {
@@ -43,6 +43,22 @@
           "link": "https://www.youtube.com/watch?v=An749vxsNdg",
           "thumbnail": "https://i.ytimg.com/vi/An749vxsNdg/hqdefault.jpg",
           "published": "2026-07-26T05:26:33Z"
+        },
+        {
+          "title": "2026 Champions Landing Open | MPO FINALF9 | Buhr, Orum, Reel, Edwards | Jomez Disc Golf",
+          "video_id": "IQFXCVJ44jE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=IQFXCVJ44jE",
+          "thumbnail": "https://i.ytimg.com/vi/IQFXCVJ44jE/hqdefault.jpg",
+          "published": "2026-07-27T06:37:16Z"
+        },
+        {
+          "title": "2026 Champions Landing Open | MPO FINALB9 | Buhr, Orum, Reel, Edwards | Jomez Disc Golf",
+          "video_id": "NeDfhgvamQ4",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=NeDfhgvamQ4",
+          "thumbnail": "https://i.ytimg.com/vi/NeDfhgvamQ4/hqdefault.jpg",
+          "published": "2026-07-27T06:38:36Z"
         }
       ]
     },
