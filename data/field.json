@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-07-27T02:03:55.160044+00:00",
+  "updated_at": "2026-07-27T05:24:59.037076+00:00",
   "event_tag": "T14",
   "event_id": 96414,
-  "player_count": 154,
+  "player_count": 156,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event.",
   "players": [
+    {
+      "firstName": "Gracen",
+      "lastName": "Lomelino",
+      "pdgaNumber": null,
+      "place": 0
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Reliford",
+      "pdgaNumber": null,
+      "place": 0
+    },
     {
       "firstName": "Simon",
       "lastName": "Lizotte",
@@ -225,12 +237,6 @@
       "firstName": "Austin",
       "lastName": "Turner",
       "pdgaNumber": 54049,
-      "place": 0
-    },
-    {
-      "firstName": "Thomas",
-      "lastName": "Earhart",
-      "pdgaNumber": 54106,
       "place": 0
     },
     {
@@ -921,6 +927,12 @@
       "firstName": "Noah",
       "lastName": "Feil",
       "pdgaNumber": 242013,
+      "place": 0
+    },
+    {
+      "firstName": "Kayleb",
+      "lastName": "Gillmore",
+      "pdgaNumber": 245013,
       "place": 0
     },
     {
