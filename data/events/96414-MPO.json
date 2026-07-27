@@ -9,24 +9,9 @@
     122828947,
     122828949
   ],
-  "collected_at": "2026-07-27T18:53:25.077723+00:00",
+  "collected_at": "2026-07-27T20:14:58.299090+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96414/event-division-results/MPO",
   "players": [
-    {
-      "pdga_number": null,
-      "first_name": "Gracen",
-      "last_name": "Lomelino",
-      "place": 0,
-      "tied": null,
-      "total_strokes": 0,
-      "to_par": null,
-      "prize_usd": null,
-      "points": null,
-      "dnf": null,
-      "event_rating": null,
-      "rounds": [],
-      "stats": {}
-    },
     {
       "pdga_number": 8332,
       "first_name": "Simon",
@@ -1951,6 +1936,21 @@
       "pdga_number": 153363,
       "first_name": "Jaden",
       "last_name": "Rye",
+      "place": 0,
+      "tied": null,
+      "total_strokes": 0,
+      "to_par": null,
+      "prize_usd": null,
+      "points": null,
+      "dnf": null,
+      "event_rating": null,
+      "rounds": [],
+      "stats": {}
+    },
+    {
+      "pdga_number": 154255,
+      "first_name": "Gracen",
+      "last_name": "Lomelino",
       "place": 0,
       "tied": null,
       "total_strokes": 0,
