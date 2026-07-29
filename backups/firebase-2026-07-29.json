@@ -1,0 +1,1410 @@
+{
+  "_trash": {
+    "1782661975511": {
+      "leagues__lg-mqren82z219": {
+        "createdAt": 1782265135787,
+        "env": "real",
+        "kind": "league",
+        "length": "single",
+        "members": {
+          "15oA2cdDRtPtvDk75YKyYqX4p492": {
+            "disc": "#9CA3AF",
+            "displayName": "Tester1",
+            "role": "commish"
+          }
+        },
+        "memo": "",
+        "name": "New League",
+        "ownerUid": "15oA2cdDRtPtvDk75YKyYqX4p492",
+        "season": "2026",
+        "startEventId": 11,
+        "timing": "per-event",
+        "type": "bracket"
+      },
+      "pools__five": {
+        "entries": {
+          "will": {
+            "disc": "#E8590C",
+            "enteredAt": 1782509661174,
+            "eventT": 11,
+            "fee": 5,
+            "id": "will",
+            "name": "will",
+            "team": [
+              "W"
+            ]
+          }
+        }
+      },
+      "users__Acahrox4eGQKsP16lbdgtdD64rl2": {
+        "coins": 15
+      },
+      "users__SpjQNrtvVJXJStl228g4PPlRKwc2": {
+        "anon": true,
+        "claimedPlayer": "will",
+        "coins": 15,
+        "disc": "#2A6FDB",
+        "displayName": "WIll",
+        "onboarded": true,
+        "updatedAt": 1782656643001,
+        "username": "will"
+      },
+      "users__ln8lZ58XPHaUIk0DRGpijnKZVKv2": {
+        "anon": true,
+        "claimedPlayer": "will",
+        "coins": 15,
+        "disc": "#2A6FDB",
+        "displayName": "WIll",
+        "onboarded": true,
+        "updatedAt": 1782656482430,
+        "username": "will"
+      },
+      "users__z0quJfbIcCMthhHFqsXSsyFnaGw1": {
+        "anon": true,
+        "claimedPlayer": "will",
+        "coins": 15,
+        "disc": "#2A6FDB",
+        "displayName": "WIll",
+        "onboarded": true,
+        "updatedAt": 1782656791826,
+        "username": "will"
+      }
+    },
+    "1784991276893": {
+      "pr-mrgonhxnwgmc": {
+        "liveRound": {
+          "city": "Haslett",
+          "course": "Tadpole Beach",
+          "id": "pr-mrgonhxnwgmc",
+          "owner": "will",
+          "players": [
+            "WIll",
+            "Kyle",
+            "Kadey"
+          ],
+          "status": "open",
+          "thru": 2,
+          "toPar": -2,
+          "updatedAt": "2026-07-11T18:24:15.931Z"
+        },
+        "playRound": {
+          "course": {
+            "city": "Haslett",
+            "holes": 18,
+            "id": "mi-tadpole-beach",
+            "name": "Tadpole Beach",
+            "parTotal": 54,
+            "pars": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          },
+          "date": "2026-07-11",
+          "id": "pr-mrgonhxnwgmc",
+          "owner": "will",
+          "players": {
+            "kadey": {
+              "disc": "#F2B705",
+              "holeScores": [
+                null,
+                2
+              ],
+              "name": "Kadey",
+              "thru": 2,
+              "total": -1
+            },
+            "kyle": {
+              "disc": "#FF5A1F",
+              "holeScores": [
+                2,
+                2
+              ],
+              "name": "Kyle",
+              "thru": 2,
+              "total": -2
+            },
+            "will": {
+              "disc": "#2A6FDB",
+              "holeScores": [
+                3
+              ],
+              "name": "WIll",
+              "thru": 1,
+              "total": 0
+            }
+          },
+          "startedAt": "2026-07-11T18:13:19.116Z",
+          "status": "open",
+          "updatedAt": "2026-07-11T18:24:15.931Z",
+          "weather": {
+            "desc": "Partly cloudy",
+            "precipMm": 0,
+            "tempF": 81,
+            "windMph": 9
+          }
+        }
+      },
+      "pr-mrgp2ksut6j9": {
+        "liveRound": {
+          "city": "Haslett",
+          "course": "Tadpole Beach",
+          "id": "pr-mrgp2ksut6j9",
+          "owner": "will",
+          "players": [
+            "WIll",
+            "Kyle",
+            "Kadey"
+          ],
+          "status": "open",
+          "thru": 10,
+          "toPar": -5,
+          "updatedAt": "2026-07-11T19:15:29.104Z"
+        },
+        "playRound": {
+          "course": {
+            "city": "Haslett",
+            "holes": 18,
+            "id": "mi-tadpole-beach",
+            "name": "Tadpole Beach",
+            "parTotal": 54,
+            "pars": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          },
+          "date": "2026-07-11",
+          "id": "pr-mrgp2ksut6j9",
+          "owner": "will",
+          "players": {
+            "kadey": {
+              "disc": "#F2B705",
+              "holeScores": {
+                "1": 2,
+                "5": 1,
+                "7": 2,
+                "9": 2
+              },
+              "name": "Kadey",
+              "thru": 10,
+              "total": -5
+            },
+            "kyle": {
+              "disc": "#FF5A1F",
+              "holeScores": [
+                2,
+                2,
+                null,
+                2,
+                null,
+                2,
+                null,
+                null,
+                4,
+                2
+              ],
+              "name": "Kyle",
+              "thru": 10,
+              "total": -4
+            },
+            "will": {
+              "disc": "#2A6FDB",
+              "holeScores": {
+                "0": 3,
+                "5": 2
+              },
+              "name": "WIll",
+              "thru": 6,
+              "total": -1
+            }
+          },
+          "startedAt": "2026-07-11T18:25:02.670Z",
+          "status": "open",
+          "updatedAt": "2026-07-11T19:15:29.104Z",
+          "weather": {
+            "desc": "Partly cloudy",
+            "precipMm": 0,
+            "tempF": 81,
+            "windMph": 9
+          }
+        }
+      },
+      "pr-mrgrh8fwudpb": {
+        "liveRound": {
+          "city": "Haslett",
+          "course": "Tadpole Beach",
+          "id": "pr-mrgrh8fwudpb",
+          "owner": "will",
+          "players": [
+            "WIll",
+            "Kyle",
+            "Kadey"
+          ],
+          "status": "open",
+          "thru": 15,
+          "toPar": -6,
+          "updatedAt": "2026-07-11T20:01:20.250Z"
+        },
+        "playRound": {
+          "course": {
+            "city": "Haslett",
+            "holes": 18,
+            "id": "mi-tadpole-beach",
+            "name": "Tadpole Beach",
+            "parTotal": 54,
+            "pars": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          },
+          "date": "2026-07-11",
+          "id": "pr-mrgrh8fwudpb",
+          "owner": "will",
+          "players": {
+            "kadey": {
+              "disc": "#F2B705",
+              "holeScores": {
+                "1": 2,
+                "5": 1,
+                "7": 2,
+                "9": 2,
+                "12": 2,
+                "14": 3
+              },
+              "name": "Kadey",
+              "thru": 15,
+              "total": -6
+            },
+            "kyle": {
+              "disc": "#FF5A1F",
+              "holeScores": [
+                2,
+                2,
+                null,
+                2,
+                null,
+                2,
+                null,
+                null,
+                4,
+                2,
+                null,
+                5,
+                2,
+                null,
+                3
+              ],
+              "name": "Kyle",
+              "thru": 15,
+              "total": -3
+            },
+            "will": {
+              "disc": "#2A6FDB",
+              "holeScores": {
+                "0": 3,
+                "5": 2
+              },
+              "name": "WIll",
+              "thru": 6,
+              "total": -1
+            }
+          },
+          "startedAt": "2026-07-11T19:32:25.725Z",
+          "status": "open",
+          "updatedAt": "2026-07-11T20:01:20.250Z",
+          "weather": {
+            "desc": "Partly cloudy",
+            "precipMm": 0,
+            "tempF": 81,
+            "windMph": 9
+          }
+        }
+      }
+    },
+    "1785029978659": {
+      "data": {
+        "city": "Kentwood",
+        "course": "Old Farm Park",
+        "id": "pr-ms14oddud4d8",
+        "owner": "will",
+        "players": [
+          "WIll"
+        ],
+        "status": "open",
+        "thru": 1,
+        "toPar": 1,
+        "updatedAt": "2026-07-26T01:37:17.954Z"
+      },
+      "id": "pr-ms14oddud4d8",
+      "source": "liveRounds"
+    },
+    "1785029985970": {
+      "data": {
+        "course": {
+          "city": "Kentwood",
+          "holes": 18,
+          "id": "mi-old-farm-park-kentwood",
+          "name": "Old Farm Park",
+          "parTotal": 54,
+          "pars": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        },
+        "date": "2026-07-26",
+        "id": "pr-ms14oddud4d8",
+        "owner": "will",
+        "players": {
+          "will": {
+            "disc": "#2A6FDB",
+            "holeScores": [
+              4
+            ],
+            "name": "WIll",
+            "thru": 1,
+            "total": 1
+          }
+        },
+        "startedAt": "2026-07-26T01:37:17.250Z",
+        "status": "open",
+        "updatedAt": "2026-07-26T01:37:17.954Z",
+        "weather": {
+          "desc": "Overcast",
+          "precipMm": 0,
+          "tempF": 77,
+          "windMph": 7
+        }
+      },
+      "id": "pr-ms14oddud4d8",
+      "source": "playRounds"
+    },
+    "1785031908475": {
+      "liveRounds_pr-ms15s74b9x3a": {
+        "city": "Grand Rapids",
+        "course": "Johnson Park",
+        "id": "pr-ms15s74b9x3a",
+        "owner": "will",
+        "players": [
+          "WIll"
+        ],
+        "status": "open",
+        "thru": 1,
+        "toPar": 1,
+        "updatedAt": "2026-07-26T02:08:45.943Z"
+      },
+      "playRounds_pr-ms15s74b9x3a": {
+        "course": {
+          "city": "Grand Rapids",
+          "holes": 18,
+          "id": "mi-johnson-park-gtum",
+          "name": "Johnson Park",
+          "parTotal": 54,
+          "pars": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        },
+        "date": "2026-07-26",
+        "id": "pr-ms15s74b9x3a",
+        "owner": "will",
+        "players": {
+          "will": {
+            "disc": "#2A6FDB",
+            "holeScores": [
+              4
+            ],
+            "name": "WIll",
+            "thru": 1,
+            "total": 1
+          }
+        },
+        "startedAt": "2026-07-26T02:08:15.371Z",
+        "status": "open",
+        "updatedAt": "2026-07-26T02:08:45.943Z",
+        "weather": {
+          "desc": "Sunny",
+          "precipMm": 0,
+          "tempF": 78,
+          "windMph": 9
+        }
+      }
+    },
+    "1785076527527": {
+      "liveRounds": {
+        "pr-ms0v50b70ar8": {
+          "city": "Grand Rapids",
+          "course": "Johnson Park",
+          "id": "pr-ms0v50b70ar8",
+          "owner": "will",
+          "players": [
+            "Will"
+          ],
+          "status": "open",
+          "thru": 2,
+          "toPar": -1,
+          "updatedAt": "2026-07-25T21:10:19.612Z"
+        },
+        "pr-ms0v5uz1zg4y": {
+          "city": "Swartz Creek",
+          "course": "Otterburn Disc Golf Park",
+          "id": "pr-ms0v5uz1zg4y",
+          "owner": "will",
+          "players": [
+            "WIll",
+            "Cory"
+          ],
+          "status": "open",
+          "thru": 2,
+          "toPar": -2,
+          "updatedAt": "2026-07-25T21:16:06.364Z"
+        },
+        "pr-ms0xfevih0q4": {
+          "city": "Grand Rapids",
+          "course": "Johnson Park",
+          "id": "pr-ms0xfevih0q4",
+          "owner": "will",
+          "players": [
+            "WIll"
+          ],
+          "status": "open",
+          "thru": 1,
+          "toPar": 1,
+          "updatedAt": "2026-07-25T22:14:58.088Z"
+        }
+      },
+      "playRounds": {
+        "pr-ms0v50b70ar8": {
+          "course": {
+            "city": "Grand Rapids",
+            "holes": 18,
+            "id": "mi-johnson-park-gtum",
+            "name": "Johnson Park",
+            "parTotal": 54,
+            "pars": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          },
+          "date": "2026-07-25",
+          "id": "pr-ms0v50b70ar8",
+          "owner": "will",
+          "players": {
+            "will": {
+              "disc": "#3B82C4",
+              "holeScores": [
+                3,
+                2
+              ],
+              "name": "Will",
+              "thru": 2,
+              "total": -1
+            }
+          },
+          "startedAt": "2026-07-25T21:10:17.299Z",
+          "status": "open",
+          "updatedAt": "2026-07-25T21:10:19.612Z",
+          "weather": {
+            "desc": "Partly cloudy",
+            "precipMm": 0,
+            "tempF": 83,
+            "windMph": 13
+          }
+        },
+        "pr-ms0v5uz1zg4y": {
+          "course": {
+            "city": "Swartz Creek",
+            "holes": 18,
+            "id": "mi-otterburn",
+            "name": "Otterburn Disc Golf Park",
+            "parTotal": 54,
+            "pars": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          },
+          "date": "2026-07-25",
+          "id": "pr-ms0v5uz1zg4y",
+          "owner": "will",
+          "players": {
+            "guest-ms0uuwz7": {
+              "disc": "#9CA3AF",
+              "holeScores": [
+                4,
+                2
+              ],
+              "name": "Cory",
+              "thru": 2,
+              "total": 0
+            },
+            "will": {
+              "disc": "#2A6FDB",
+              "holeScores": [
+                2,
+                2
+              ],
+              "name": "WIll",
+              "thru": 2,
+              "total": -2
+            }
+          },
+          "startedAt": "2026-07-25T21:10:57.038Z",
+          "status": "open",
+          "updatedAt": "2026-07-25T21:16:06.364Z",
+          "weather": {
+            "desc": "Partly cloudy",
+            "precipMm": 0,
+            "tempF": 83,
+            "windMph": 8
+          }
+        },
+        "pr-ms0xfevih0q4": {
+          "course": {
+            "city": "Grand Rapids",
+            "holes": 18,
+            "id": "mi-johnson-park-gtum",
+            "name": "Johnson Park",
+            "parTotal": 54,
+            "pars": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          },
+          "date": "2026-07-25",
+          "id": "pr-ms0xfevih0q4",
+          "owner": "will",
+          "players": {
+            "will": {
+              "disc": "#2A6FDB",
+              "holeScores": [
+                4
+              ],
+              "name": "WIll",
+              "thru": 1,
+              "total": 1
+            }
+          },
+          "startedAt": "2026-07-25T22:14:21.966Z",
+          "status": "open",
+          "updatedAt": "2026-07-25T22:14:58.088Z",
+          "weather": {
+            "desc": "Cloudy",
+            "precipMm": 0,
+            "tempF": 83,
+            "windMph": 13
+          }
+        },
+        "pr-ms1vo0h2zgv9": {
+          "course": {
+            "city": "Grand Rapids",
+            "holes": 18,
+            "id": "mi-johnson-park-gtum",
+            "name": "Johnson Park",
+            "parTotal": 54,
+            "pars": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          },
+          "date": "2026-07-26",
+          "id": "pr-ms1vo0h2zgv9",
+          "owner": "will",
+          "players": {
+            "will": {
+              "disc": "#2A6FDB",
+              "holeScores": [
+                3
+              ],
+              "name": "WIll",
+              "thru": 1,
+              "total": 0
+            }
+          },
+          "startedAt": "2026-07-26T14:12:50.151Z",
+          "status": "final",
+          "updatedAt": "2026-07-26T14:13:25.061Z",
+          "weather": {
+            "desc": "Light drizzle",
+            "precipMm": 0.6,
+            "tempF": 73,
+            "windMph": 7
+          }
+        }
+      },
+      "reason": "clear stuck/test rounds per Guillermo"
+    }
+  },
+  "admins": {
+    "wp1ywNFroiZzCOUqvezfuJYYAYd2": true
+  },
+  "bugReports": {
+    "-Oyfj4_wk9fG7tBoDuMK": {
+      "screen": "draft-screen",
+      "seen": true,
+      "text": "Crash when entering league after selecting team",
+      "timestamp": 1785292606000,
+      "uid": "user-test-001",
+      "version": "1.0.0"
+    },
+    "-Oyfj4cy-CmNjfiJI7D1": {
+      "screen": "field-view",
+      "seen": true,
+      "text": "Field roster not loading on mobile Safari",
+      "timestamp": 1785292700000,
+      "uid": "user-test-002",
+      "version": "1.0.0"
+    }
+  },
+  "config": {
+    "flags": {
+      "poolsOpen": true
+    }
+  },
+  "diagnostics": {
+    "actions": {
+      "-OvqWzrvr3gzrKGJBZWR": {
+        "act": "copy_snapshot",
+        "ts": 1782252569442,
+        "uid": "15oA2cdDRtPtvDk75YKyYqX4p492"
+      },
+      "-OvvIEge9b2KfEH7nLTL": {
+        "act": "copy_map",
+        "ts": 1782332587345,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2"
+      },
+      "-OvvIIoDzloSWZmwgOzk": {
+        "act": "copy_snapshot",
+        "ts": 1782332604212,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2"
+      }
+    },
+    "errors": {
+      "-OwDIsjE_-51CmRpvYFg": {
+        "appVersion": "2026",
+        "message": "Uncaught ReferenceError: E is not defined",
+        "screen": "dashboard",
+        "stack": "ReferenceError: E is not defined\n    at DiscCounter (<anonymous>:801:7)\n    at renderWithHooks (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:15496:20)\n    at mountIndeterminateComponent (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:20113:15)\n    at beginWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:21636:18)\n    at HTMLUnknownElement.callCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:4200:18)\n    at invokeGuardedCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:4264:33)\n    at beginWork$1 (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:27500:9)\n    at performUnitOfWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:26609:14)\n    at workLoopSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:26515:7)\n    at renderRootSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:26483:9)\n    at performConcurrentWorkOnRoot (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/22f3831b-66d8-4e83-b983-01f30d9d1fee:25787:76)\n    at workLoop (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/c11e5cdb-2498-4545-8e48-8ef60beb9b7e:2653:36)\n    at flushWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/c11e5cdb-2498-4545-8e48-8ef60beb9b7e:2626:16)\n    at MessagePort.performWorkUntilDeadl",
+        "ts": 1782651522045,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+        "username": "WIll"
+      },
+      "-OwDJ3fneXkLE5DWc3JP": {
+        "appVersion": "2026",
+        "message": "Uncaught ReferenceError: E is not defined",
+        "screen": "dashboard",
+        "stack": "ReferenceError: E is not defined\n    at DiscCounter (<anonymous>:801:7)\n    at renderWithHooks (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:15496:20)\n    at mountIndeterminateComponent (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:20113:15)\n    at beginWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:21636:18)\n    at HTMLUnknownElement.callCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:4200:18)\n    at invokeGuardedCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:4264:33)\n    at beginWork$1 (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:27500:9)\n    at performUnitOfWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:26609:14)\n    at workLoopSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:26515:7)\n    at renderRootSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:26483:9)\n    at performSyncWorkOnRoot (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:26134:22)\n    at flushSyncCallbacks (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:12052:24)\n    at blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/7595f4e6-e45e-4cab-85d9-bb61a9e63359:25700:15",
+        "ts": 1782651570978,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+        "username": "WIll"
+      },
+      "-OxXSDaAqdby6q367qWv": {
+        "appVersion": "2026",
+        "message": "Uncaught TypeError: hs.forEach is not a function",
+        "screen": "play",
+        "stack": "TypeError: hs.forEach is not a function\n    at <anonymous>:106:26\n    at Array.forEach (<anonymous>)\n    at lifetimeStats (<anonymous>:96:22)\n    at <anonymous>:2145:16\n    at PlayView (<anonymous>:2292:6)\n    at renderWithHooks (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:15496:20)\n    at updateFunctionComponent (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:19627:22)\n    at beginWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:21650:18)\n    at HTMLUnknownElement.callCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:4200:18)\n    at invokeGuardedCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:4264:33)\n    at beginWork$1 (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:27500:9)\n    at performUnitOfWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:26609:14)\n    at workLoopSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:26515:7)\n    at renderRootSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:26483:9)\n    at performConcurrentWorkOnRoot (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/31bef2d0-caed-4643-9ece-107b9fa78bee:25787:76)\n    at workLoop (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/59d42b5c-563b-486d-98b1-89dc3ae15a27:2653:36)\n    at flushWork (blob:https://56b805f6-d4d3-4",
+        "ts": 1784063255065,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+        "username": "WIll"
+      },
+      "-OxY-4i05V5laTk-NM0D": {
+        "appVersion": "2026",
+        "message": "Uncaught TypeError: hs.forEach is not a function",
+        "screen": "play",
+        "stack": "TypeError: hs.forEach is not a function\n    at <anonymous>:106:26\n    at Array.forEach (<anonymous>)\n    at lifetimeStats (<anonymous>:96:22)\n    at <anonymous>:2145:16\n    at PlayView (<anonymous>:2292:6)\n    at renderWithHooks (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:15496:20)\n    at updateFunctionComponent (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:19627:22)\n    at beginWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:21650:18)\n    at HTMLUnknownElement.callCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:4200:18)\n    at invokeGuardedCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:4264:33)\n    at beginWork$1 (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:27500:9)\n    at performUnitOfWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:26609:14)\n    at workLoopSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:26515:7)\n    at renderRootSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:26483:9)\n    at performConcurrentWorkOnRoot (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/e86111e4-40a9-4035-a31e-cc74772024d3:25787:76)\n    at workLoop (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/05fe5325-16b0-449f-8707-53f4bec6ed50:2653:36)\n    at flushWork (blob:https://56b805f6-d4d3-4",
+        "ts": 1784072393916,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+        "username": "WIll"
+      },
+      "-OyOgdf5bO5CoZGUxBQs": {
+        "appVersion": "2026",
+        "message": "Uncaught TypeError: hs.forEach is not a function",
+        "screen": "play",
+        "stack": "TypeError: hs.forEach is not a function\n    at <anonymous>:106:26\n    at Array.forEach (<anonymous>)\n    at lifetimeStats (<anonymous>:96:22)\n    at <anonymous>:2129:16\n    at PlayView (<anonymous>:2276:6)\n    at renderWithHooks (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:15496:20)\n    at updateFunctionComponent (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:19627:22)\n    at beginWork (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:21650:18)\n    at HTMLUnknownElement.callCallback (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:4200:18)\n    at invokeGuardedCallback (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:4264:33)\n    at beginWork$1 (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:27500:9)\n    at performUnitOfWork (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:26609:14)\n    at workLoopSync (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:26515:7)\n    at renderRootSync (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:26483:9)\n    at performConcurrentWorkOnRoot (blob:https://bonnaroo.github.io/89099a2c-063d-4fa8-8493-4cec31e89af2:25787:76)\n    at workLoop (blob:https://bonnaroo.github.io/0abe47e6-caa7-4c33-a530-e25380dadff6:2653:36)\n    at flushWork (blob:https://bonnaroo.github.io/0abe47e6-caa7-4c33-a530-e25380dadff6:2626:16)\n    at MessagePort.performWorkUntilDeadline (blob:https://bonnaroo.github.io/0abe47e6-caa7-4c33-a530-e25380dadff6:2920:23)",
+        "ts": 1784990047129,
+        "uid": "ln8lZ58XPHaUIk0DRGpijnKZVKv2",
+        "username": "will"
+      },
+      "-OyOj_kdWm11HRd6YaBg": {
+        "appVersion": "2026",
+        "message": "Uncaught TypeError: hs.forEach is not a function",
+        "screen": "play",
+        "stack": "TypeError: hs.forEach is not a function\n    at <anonymous>:106:26\n    at Array.forEach (<anonymous>)\n    at lifetimeStats (<anonymous>:96:22)\n    at <anonymous>:2145:16\n    at PlayView (<anonymous>:2292:6)\n    at renderWithHooks (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:15496:20)\n    at updateFunctionComponent (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:19627:22)\n    at beginWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:21650:18)\n    at HTMLUnknownElement.callCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:4200:18)\n    at invokeGuardedCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:4264:33)\n    at beginWork$1 (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:27500:9)\n    at performUnitOfWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:26609:14)\n    at workLoopSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:26515:7)\n    at renderRootSync (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:26483:9)\n    at performConcurrentWorkOnRoot (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/618b61f6-7eaf-4c04-985e-03a403d3334d:25787:76)\n    at workLoop (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/db2ca26a-4052-4845-bcb2-def51d42fb01:2653:36)\n    at flushWork (blob:https://56b805f6-d4d3-4",
+        "ts": 1784990817543,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+        "username": "WIll"
+      },
+      "-OyOk1SxuAOfEvHaAWc6": {
+        "appVersion": "2026",
+        "message": "Uncaught TypeError: hs.forEach is not a function",
+        "screen": "play",
+        "stack": "TypeError: hs.forEach is not a function\n    at <anonymous>:106:26\n    at Array.forEach (<anonymous>)\n    at lifetimeStats (<anonymous>:96:22)\n    at <anonymous>:2129:16\n    at PlayView (<anonymous>:2276:6)\n    at renderWithHooks (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:15496:20)\n    at updateFunctionComponent (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:19627:22)\n    at beginWork (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:21650:18)\n    at HTMLUnknownElement.callCallback (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:4200:18)\n    at invokeGuardedCallback (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:4264:33)\n    at beginWork$1 (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:27500:9)\n    at performUnitOfWork (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:26609:14)\n    at workLoopSync (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:26515:7)\n    at renderRootSync (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:26483:9)\n    at performConcurrentWorkOnRoot (blob:https://bonnaroo.github.io/88b36bcf-a4a1-4afd-a80f-ccc7da55b1b3:25787:76)\n    at workLoop (blob:https://bonnaroo.github.io/fec303d2-389f-4064-9aa0-57d931ed02b9:2653:36)\n    at flushWork (blob:https://bonnaroo.github.io/fec303d2-389f-4064-9aa0-57d931ed02b9:2626:16)\n    at MessagePort.performWorkUntilDeadline (blob:https://bonnaroo.github.io/fec303d2-389f-4064-9aa0-57d931ed02b9:2920:23)",
+        "ts": 1784990935149,
+        "uid": "ln8lZ58XPHaUIk0DRGpijnKZVKv2",
+        "username": "will"
+      },
+      "-OyOkXSTwYHKwiy7zrk0": {
+        "appVersion": "2026",
+        "message": "Uncaught Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.\n\nCheck the render method of `RoundDetail`.",
+        "screen": "play",
+        "stack": "Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.\n\nCheck the render method of `RoundDetail`.\n    at createFiberFromTypeAndProps (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:28488:19)\n    at createFiberFromElement (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:28514:17)\n    at reconcileSingleElement (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:13996:25)\n    at reconcileChildFibers (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:14054:37)\n    at reconcileChildren (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:19196:30)\n    at updateHostComponent (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:19963:5)\n    at beginWork (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:21667:16)\n    at HTMLUnknownElement.callCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:4151:16)\n    at Object.invokeGuardedCallbackDev (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:4200:18)\n    at invokeGuardedCallback (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:4264:33)\n    at beginWork$1 (blob:https://56b805f6-d4d3-4ee4-b8ab-c51ed711a3b9.claudeusercontent.com/80e60d57-8cba-447e-a310-44aeb8e82278:27500:9)\n    at performUnitOfWork (blob:https://56b805f6-d4d3-",
+        "ts": 1784991066189,
+        "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+        "username": "WIll"
+      },
+      "-OyhGU2629oZDcsdt9NE": {
+        "appVersion": "2026",
+        "message": "Attempt to get records from database without an in-progress transaction",
+        "screen": "picks",
+        "stack": "",
+        "ts": 1785318469864,
+        "uid": "Ahao7I8ybXTE73El4Sg86MR7gow1",
+        "username": "will"
+      }
+    }
+  },
+  "friendCodes": {
+    "68T3AC": "kyle",
+    "NAAQUC": "jax",
+    "SRE3D7": "will"
+  },
+  "friends": {
+    "cory": {
+      "will": true
+    },
+    "gabe": {
+      "will": true
+    },
+    "shanna": {
+      "will": true
+    },
+    "will": {
+      "cory": true,
+      "gabe": true,
+      "shanna": true
+    }
+  },
+  "joinCodes": {
+    "ALYUE9": "lg-mqren82z219"
+  },
+  "leagues": {
+    "ledgestone-test-2026": {
+      "eventField": {
+        "96414": {
+          "collectedAt": 1722192000000,
+          "division": "MPO",
+          "eventId": "96414",
+          "eventName": "Ledgestone Open",
+          "fieldSize": 156,
+          "players": [
+            null,
+            {
+              "name": "Paul McBeth",
+              "pdgaNumber": 1,
+              "rating": 1040
+            },
+            {
+              "name": "James Conrad",
+              "pdgaNumber": 2,
+              "rating": 1025
+            },
+            {
+              "name": "Ricky Wysocki",
+              "pdgaNumber": 3,
+              "rating": 1020
+            },
+            {
+              "name": "Calvin Heimburg",
+              "pdgaNumber": 4,
+              "rating": 1018
+            },
+            {
+              "name": "Eagle McMahon",
+              "pdgaNumber": 5,
+              "rating": 1015
+            },
+            {
+              "name": "Chris Dickerson",
+              "pdgaNumber": 6,
+              "rating": 1010
+            },
+            {
+              "name": "Drew Gibson",
+              "pdgaNumber": 7,
+              "rating": 1008
+            },
+            {
+              "name": "Paige Pierce",
+              "pdgaNumber": 8,
+              "rating": 1005
+            },
+            {
+              "name": "Nathan Queen",
+              "pdgaNumber": 9,
+              "rating": 1003
+            },
+            {
+              "name": "Brodie Smith",
+              "pdgaNumber": 10,
+              "rating": 1000
+            }
+          ],
+          "source": "https://www.pdga.com/tour/event/96414"
+        }
+      }
+    }
+  },
+  "ledger": {
+    "-OvmBrdSFWbCjNOFmNzr": {
+      "amount": -5,
+      "balanceAfter": 10,
+      "note": "$5 Tournament",
+      "poolId": "five",
+      "ts": 1782179920482,
+      "type": "entry",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-OvmBs074ZXFdkBBS69u": {
+      "amount": 5,
+      "balanceAfter": 15,
+      "note": "$5 Tournament",
+      "poolId": "five",
+      "ts": 1782179921997,
+      "type": "refund",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-OvqJPBQ6L5tuHmJS7oJ": {
+      "amount": -5,
+      "balanceAfter": 10,
+      "note": "$5 Tournament",
+      "poolId": "five",
+      "ts": 1782249007168,
+      "type": "entry",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-OvqJPlLGkIXF5G50BkZ": {
+      "amount": 5,
+      "balanceAfter": 15,
+      "note": "test",
+      "ts": 1782249009531,
+      "type": "grant",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-OvvNoZzFXF73wzHYF9g": {
+      "amount": -10,
+      "balanceAfter": 5,
+      "note": "$10 Tournament",
+      "poolId": "ten",
+      "ts": 1782334049100,
+      "type": "entry",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-OvvNx6kt9lswCo0XdJ5": {
+      "amount": 10,
+      "balanceAfter": 15,
+      "note": "$10 Tournament",
+      "poolId": "ten",
+      "ts": 1782334084094,
+      "type": "refund",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-OvvSRlTFJp36a0kmx59": {
+      "amount": -5,
+      "balanceAfter": 10,
+      "note": "$5 Tournament",
+      "poolId": "five",
+      "ts": 1782335262323,
+      "type": "entry",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-OvvWe5J-X2QDYxUPPzq": {
+      "amount": 5,
+      "balanceAfter": 15,
+      "note": "$5 Tournament",
+      "poolId": "five",
+      "ts": 1782336365277,
+      "type": "refund",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-Ow4mCcYstnbrBc8g2AR": {
+      "amount": -10,
+      "balanceAfter": 5,
+      "note": "$10 Tournament",
+      "poolId": "ten",
+      "ts": 1782508482704,
+      "type": "entry",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-Ow4qiXLHPpgw9VELqcK": {
+      "amount": 20,
+      "balanceAfter": 25,
+      "note": "Beat Kyle",
+      "ts": 1782509661175,
+      "type": "bet_win",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-Ow4qiXMQ3WSJOCVgqHi": {
+      "amount": 5,
+      "balanceAfter": 30,
+      "note": "Push vs buddy",
+      "ts": 1782509661176,
+      "type": "bet_push",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    },
+    "-Ow4rwMboahOiz-B_Rs3": {
+      "amount": 10,
+      "balanceAfter": 40,
+      "note": "$10 Tournament",
+      "poolId": "ten",
+      "ts": 1782509979982,
+      "type": "refund",
+      "uid": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "username": "will"
+    }
+  },
+  "liveRounds": {
+    "pr-ms5bygyzv4rl": {
+      "city": "Haslett",
+      "course": "Tadpole Beach",
+      "id": "pr-ms5bygyzv4rl",
+      "owner": "will",
+      "players": [
+        "Kadey",
+        "Kyle",
+        "WIll"
+      ],
+      "status": "open",
+      "thru": 2,
+      "toPar": -2,
+      "updatedAt": "2026-07-29T00:58:29.965Z"
+    }
+  },
+  "playRounds": {
+    "pr-ms5bygyzv4rl": {
+      "course": {
+        "city": "Haslett",
+        "holes": 18,
+        "id": "mi-tadpole-beach",
+        "name": "Tadpole Beach",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-07-29",
+      "id": "pr-ms5bygyzv4rl",
+      "owner": "will",
+      "players": {
+        "kadey": {
+          "disc": "#F2B705",
+          "holeScores": [
+            null,
+            2
+          ],
+          "name": "Kadey",
+          "thru": 2,
+          "total": -1
+        },
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            2,
+            2
+          ],
+          "name": "Kyle",
+          "thru": 2,
+          "total": -2
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            3
+          ],
+          "name": "WIll",
+          "thru": 1,
+          "total": 0
+        }
+      },
+      "startedAt": "2026-07-29T00:12:10.475Z",
+      "status": "open",
+      "updatedAt": "2026-07-29T00:58:29.965Z",
+      "weather": {
+        "desc": "Partly cloudy",
+        "precipMm": 0,
+        "tempF": 81,
+        "windMph": 9
+      }
+    }
+  },
+  "sharedBags": {
+    "will": {
+      "count": 0,
+      "discs": [
+        {
+          "addedAt": 1785077964382,
+          "brand": "Innova",
+          "fade": 3,
+          "glide": 5,
+          "id": "d-ms1xbwil5c3",
+          "key": "Innova|Destroyer",
+          "lost": false,
+          "moldType": "Distance Driver",
+          "name": "Destroyer",
+          "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/2079719.webp",
+          "speed": 12,
+          "stability": "Overstable",
+          "turn": -1,
+          "type": "Driver"
+        }
+      ],
+      "updatedAt": 1785077964382
+    }
+  },
+  "usernames": {
+    "will": {
+      "disc": "#9CA3AF",
+      "name": "WIll",
+      "uid": "will"
+    }
+  },
+  "users": {
+    "AAAeb1EI3EQDN7gHLKcnTAiCQbc2": {
+      "anon": true,
+      "claimedPlayer": "shanna",
+      "coins": 15,
+      "disc": "#E0467C",
+      "displayName": "Shanna",
+      "onboarded": true,
+      "updatedAt": 1785356648279,
+      "username": "shanna"
+    },
+    "Ahao7I8ybXTE73El4Sg86MR7gow1": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "Will",
+      "onboarded": true,
+      "updatedAt": 1785318376887,
+      "username": "will"
+    },
+    "E5icVKbmeTa3saWNYWrJKUu3OHs2": {
+      "anon": true,
+      "claimedPlayer": "kadey",
+      "coins": 15,
+      "disc": "#F2B705",
+      "displayName": "Kadey",
+      "onboarded": true,
+      "updatedAt": 1785326971373,
+      "username": "kadey"
+    },
+    "JiHEOtuGQTO7MK9b8lR3v17I3D02": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1785281848732,
+      "username": "will"
+    },
+    "KY8MQjjgNrhB1hkLMoVixsgHhmf2": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1785281801692,
+      "username": "will"
+    },
+    "MtytXcQlPGVZ29NVIxF2VmVSeIq1": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1785011757086,
+      "username": "will"
+    },
+    "Psxasxg3vpNMACX6ZWdfoQJKd502": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1785286479779,
+      "username": "will"
+    },
+    "SpjQNrtvVJXJStl228g4PPlRKwc2": {
+      "coins": 15
+    },
+    "T7P6jtBipnXhQi8u1OqRkMhuh042": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "name": "Will",
+      "onboarded": true,
+      "updatedAt": 1785293820554,
+      "username": "will"
+    },
+    "UEY9lC4ULYWYXiRQhLKOfSrEoyx1": {
+      "anon": true,
+      "claimedPlayer": "kyle",
+      "coins": 15,
+      "disc": "#FF5A1F",
+      "displayName": "Kyle",
+      "onboarded": true,
+      "updatedAt": 1782659216563,
+      "username": "kyle"
+    },
+    "W1fClJgb5vQDnxedBanl0NoKqGu1": {
+      "coins": 15
+    },
+    "igrxuB15Lwb4v1dFETuGixIoCWu1": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1785281845840,
+      "username": "will"
+    },
+    "ln8lZ58XPHaUIk0DRGpijnKZVKv2": {
+      "coins": 15
+    },
+    "pMwdUs2jpPdC2tIBLNiahPyu3jF2": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1782669043814,
+      "username": "will"
+    },
+    "siDfjobpqJN8N9cgGj912J7g13B3": {
+      "anon": true,
+      "claimedPlayer": "will",
+      "coins": 15,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1785281850928,
+      "username": "will"
+    },
+    "will": {
+      "bag": {
+        "count": 0,
+        "discs": [
+          {
+            "addedAt": 1785077964382,
+            "brand": "Innova",
+            "fade": 3,
+            "glide": 5,
+            "id": "d-ms1xbwil5c3",
+            "key": "Innova|Destroyer",
+            "lost": false,
+            "moldType": "Distance Driver",
+            "name": "Destroyer",
+            "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/2079719.webp",
+            "speed": 12,
+            "stability": "Overstable",
+            "turn": -1,
+            "type": "Driver"
+          }
+        ],
+        "updatedAt": 1785077964382
+      },
+      "rounds": {
+        "pr-ms14oddud4d8": true,
+        "pr-ms15s74b9x3a": true,
+        "pr-ms5bygyzv4rl": true
+      }
+    },
+    "wp1ywNFroiZzCOUqvezfuJYYAYd2": {
+      "avatarIcon": "av-c40.png",
+      "coins": 15,
+      "createdAt": 1782173820653,
+      "disc": "#2A6FDB",
+      "displayName": "WIll",
+      "onboarded": true,
+      "updatedAt": 1782334464734,
+      "username": "will"
+    }
+  }
+}
