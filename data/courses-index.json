@@ -1,10 +1,31 @@
 {
  "_meta": {
   "schema": "chains-courses-index-v1",
-  "updated": "2026-07-26",
+  "updated": "2026-07-29",
   "note": "Index of per-state course files. MI lives at data/courses.json (legacy seed); all other states at data/courses/<st>.json."
  },
  "states": {
+  "IL": {
+   "file": "data/courses/il.json",
+   "status": "partial",
+   "course_count": 70,
+   "per_hole": "none",
+   "updated": "2026-07-28"
+  },
+  "IN": {
+   "file": "data/courses/in.json",
+   "status": "partial",
+   "course_count": 150,
+   "per_hole": "none",
+   "updated": "2026-07-26"
+  },
+  "KY": {
+   "file": "data/courses/ky.json",
+   "status": "partial",
+   "course_count": 143,
+   "per_hole": "none",
+   "updated": "2026-07-29"
+  },
   "MI": {
    "file": "data/courses.json",
    "status": "done",
@@ -14,13 +35,6 @@
   },
   "OH": {
    "file": "data/courses/oh.json",
-   "status": "partial",
-   "course_count": 150,
-   "per_hole": "none",
-   "updated": "2026-07-26"
-  },
-  "IN": {
-   "file": "data/courses/in.json",
    "status": "partial",
    "course_count": 150,
    "per_hole": "none",
