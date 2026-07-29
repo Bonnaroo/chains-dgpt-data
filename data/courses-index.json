@@ -1,44 +1,58 @@
 {
- "_meta": {
-  "schema": "chains-courses-index-v1",
-  "updated": "2026-07-29",
-  "note": "Index of per-state course files. MI lives at data/courses.json (legacy seed); all other states at data/courses/<st>.json."
- },
- "states": {
-  "IL": {
-   "file": "data/courses/il.json",
-   "status": "partial",
-   "course_count": 70,
-   "per_hole": "none",
-   "updated": "2026-07-28"
+  "_meta": {
+    "schema": "chains-courses-index-v1",
+    "updated": "2026-07-29",
+    "note": "Index of per-state course files. MI lives at data/courses.json (legacy seed); all other states at data/courses/<st>.json."
   },
-  "IN": {
-   "file": "data/courses/in.json",
-   "status": "partial",
-   "course_count": 150,
-   "per_hole": "none",
-   "updated": "2026-07-26"
+  "states": {
+    "IL": {
+      "file": "data/courses/il.json",
+      "status": "partial",
+      "course_count": 70,
+      "per_hole": "none",
+      "updated": "2026-07-28"
+    },
+    "IN": {
+      "file": "data/courses/in.json",
+      "status": "partial",
+      "course_count": 150,
+      "per_hole": "none",
+      "updated": "2026-07-26"
+    },
+    "KY": {
+      "file": "data/courses/ky.json",
+      "status": "partial",
+      "course_count": 143,
+      "per_hole": "none",
+      "updated": "2026-07-29"
+    },
+    "MI": {
+      "file": "data/courses.json",
+      "status": "done",
+      "course_count": 473,
+      "per_hole": "full",
+      "updated": "2026-06-20"
+    },
+    "OH": {
+      "file": "data/courses/oh.json",
+      "status": "partial",
+      "course_count": 150,
+      "per_hole": "none",
+      "updated": "2026-07-26"
+    }
   },
-  "KY": {
-   "file": "data/courses/ky.json",
-   "status": "partial",
-   "course_count": 143,
-   "per_hole": "none",
-   "updated": "2026-07-29"
-  },
-  "MI": {
-   "file": "data/courses.json",
-   "status": "done",
-   "course_count": 473,
-   "per_hole": "full",
-   "updated": "2026-06-20"
-  },
-  "OH": {
-   "file": "data/courses/oh.json",
-   "status": "partial",
-   "course_count": 150,
-   "per_hole": "none",
-   "updated": "2026-07-26"
+  "index": {
+    "PA": {
+      "file": "data/courses/pa.json",
+      "courses": 150,
+      "built": "2026-07-29",
+      "note": "Partial: 150 courses from PDGA directory"
+    },
+    "MI": {
+      "file": "data/courses.json",
+      "courses": 473,
+      "built": "2026-07-XX",
+      "note": "Complete collection"
+    }
   }
- }
 }
