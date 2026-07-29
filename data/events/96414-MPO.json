@@ -9,7 +9,7 @@
     122828947,
     122828949
   ],
-  "collected_at": "2026-07-29T01:07:16.259069+00:00",
+  "collected_at": "2026-07-29T04:28:37.757921+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96414/event-division-results/MPO",
   "players": [
     {
@@ -1528,21 +1528,6 @@
       "stats": {}
     },
     {
-      "pdga_number": 124016,
-      "first_name": "Hayden",
-      "last_name": "Carroll",
-      "place": 0,
-      "tied": true,
-      "total_strokes": 0,
-      "to_par": null,
-      "prize_usd": null,
-      "points": 1570,
-      "dnf": false,
-      "event_rating": null,
-      "rounds": [],
-      "stats": {}
-    },
-    {
       "pdga_number": 124607,
       "first_name": "Gillis",
       "last_name": "MacDougall",
@@ -1793,6 +1778,21 @@
       "prize_usd": null,
       "points": 1570,
       "dnf": false,
+      "event_rating": null,
+      "rounds": [],
+      "stats": {}
+    },
+    {
+      "pdga_number": 142819,
+      "first_name": "Daniel",
+      "last_name": "Dravet",
+      "place": 0,
+      "tied": null,
+      "total_strokes": 0,
+      "to_par": null,
+      "prize_usd": null,
+      "points": null,
+      "dnf": null,
       "event_rating": null,
       "rounds": [],
       "stats": {}
