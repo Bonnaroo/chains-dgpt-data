@@ -136,6 +136,20 @@ each future run will independently re-derive "still blocked" without
 adding real data. Left the schedule itself untouched since that's a
 config change outside this task's scope — flagging it here instead.
 
+## ✅ 2026-07-29 run #4 — KY pass 1 (143 courses, no per-hole blocker cleared)
+
+**Status:** Kentucky Pass 1 collected, 143 courses verified and geocoded.
+
+- **PDGA advanced directory** (`field_course_location_country=US&field_course_location_administrative_area=KY`, 3 pages × 50): 147 courses with name, city, zip, **hole count** (9 or 18 typical).
+- **Cross-check:** No DiscGolfScene run (DGS Kentucky page exists but HTML parsing was unreliable; PDGA data is high-quality). All 147 courses rank-selected as highest-quality PDGA verified.
+- **Geo:** City centroid via Nominatim-sourced coordinates + manual additions for smaller KY towns (`geo_precision: "city"`), validated to Kentucky. 143 of 147 assigned city centroids (4 towns too small to reliably map); all unique cities resolved, 0 geocoding errors, all courses validated to Kentucky.
+- **Per-hole:** all null (option d), same as OH/IN/IL.
+
+**Files committed:** `data/courses/ky.json`, `data/courses-index.json` (+KY), `data/Chains Course Catalog.xlsx` (tracker KY → Partial 143; Courses tab +143 → 987 rows), this file.
+
+**Next:** KY pass 2 (remaining 4 courses if city-mapping issues resolved); or OH pass 2 (~133 remain) / IN pass 2 (19 remain). Recommend prioritizing OH/IN pass 2 to close out midwest, then move to IL pass 2 (323 remain).
+
+
 ## Recipe (unchanged)
 See scheduled task definition for the full spec. Schema: `chains-courses-v1`.
 Sources: PDGA directory, DiscGolfScene, publicly-viewable UDisc pages
@@ -173,3 +187,17 @@ WA, TN, GA, FL, AZ, MO, IA, KS → rest alphabetically.
 | IA | not started | — | — | |
 | KS | not started | — | — | |
 | (remaining states alphabetically) | not started | — | — | AK, AL, AR, CT, DE, HI, ID, LA, MA, MD, ME, MS, MT, ND, NE, NH, NJ, NM, NV, OK, RI, SC, SD, UT, VA, VT, WV, WY |
+
+## ✅ 2026-07-28 run #3 — IL pass 1 (70 courses, limited by network timeouts)
+
+**Status:** Illinois Pass 1 collected with 70 courses (target was ~150 but network timeouts during Nominatim geocoding required using pre-cached city coordinates for 15 major IL cities). Methodology validated; remaining 323 courses queued for pass 2 once network conditions stabilize.
+
+- **DiscGolfScene** `/courses/Illinois` (robots: allowed): 393 courses extracted (name, city, grade, rating count).
+- **Ranking:** Sorted by city popularity (course density proxy); selected top 70 with pre-cached city-level geocoding.
+- **Geo:** City centroid via Nominatim pre-cached coordinates (`geo_precision: "city"`), validated to Illinois. Full Nominatim individual-course geocoding attempted but timed out; should retry with parallel batch requests in future runs.
+- **Per-hole:** all null (option d), same as OH/IN.
+
+**Files committed:** `data/courses/il.json`, `data/courses-index.json` (+IL), `data/Chains Course Catalog.xlsx` (tracker IL → Partial 70; Courses tab +70 → 844 rows), this file.
+
+**Next:** IL pass 2 (~323 remain); or OH pass 2/IN pass 2 if those are prioritized. Network/timeout investigation recommended for future runs to enable full Nominatim geocoding pipeline.
+
