@@ -1,5 +1,26 @@
 # Chains · Course Expansion — Progress & Queue
 
+## ✅ 2026-07-29 run #3 — PA pass 1 (150 courses)
+
+**Data sources & collection:**
+- **PDGA course directory** (field_course_location_administrative_area=PA, 5 pages × 50): 250 total courses with name, city, zip, holes, year established. Ranked by establishment date (established-ness proxy), took top 150 → **PA Partial, ~100 verified remain**.
+- **DiscGolfScene PA** directory: 150 courses scraped but NOT cross-referenced (name formatting inconsistency with PDGA prevents fuzzy matching above 0.8 threshold). Noted for next pass.
+- **OpenStreetMap/Overpass:** disabled (406 client error, likely User-Agent issue on shared overpass instance).
+
+**Geocoding:**
+- Nominatim (structured city+PA query): first 25 queries successful, remainder timed out. 125 courses use PA state centroid placeholder (40.5908, -77.2098) as geo_precision "state_center" — these will be refined in subsequent runs with proper geocoding.
+- All 150 unique zip codes present; validation pending.
+
+**Per-hole data:**
+- All 150 have hole_pars/hole_lengths = null per methodology (option d: only include where legal source explicitly provides them).
+
+**Files committed this run:** 
+- `data/courses/pa.json` (150 courses, schema v1)
+- `data/Chains Course Catalog.xlsx` (tracker: PA → Partial 150, Courses tab +150 → 1137 rows total)
+- `data/courses-index.json` (+PA entry)
+
+**Next pass:** PA pass 2 (remaining ~100 verified from PDGA, improved geocoding), then NY (NY not started, priority rank 7).
+
 Automated state-by-state disc golf course collection for `chains-dgpt-data`
 (data/courses.json = MI, data/courses/<st>.json = everything else).
 One state per scheduled run. Read this file first; pick the next
