@@ -9,7 +9,7 @@
     122828947,
     122828949
   ],
-  "collected_at": "2026-07-29T12:17:53.449117+00:00",
+  "collected_at": "2026-07-29T14:38:28.335664+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96414/event-division-results/MPO",
   "players": [
     {
@@ -1141,21 +1141,6 @@
       "pdga_number": 96832,
       "first_name": "Aidan",
       "last_name": "Guthrie",
-      "place": 0,
-      "tied": true,
-      "total_strokes": 0,
-      "to_par": null,
-      "prize_usd": null,
-      "points": 1570,
-      "dnf": false,
-      "event_rating": null,
-      "rounds": [],
-      "stats": {}
-    },
-    {
-      "pdga_number": 98091,
-      "first_name": "Alden",
-      "last_name": "Harris",
       "place": 0,
       "tied": true,
       "total_strokes": 0,
@@ -2348,6 +2333,21 @@
       "prize_usd": null,
       "points": 1570,
       "dnf": false,
+      "event_rating": null,
+      "rounds": [],
+      "stats": {}
+    },
+    {
+      "pdga_number": 284487,
+      "first_name": "Aidan",
+      "last_name": "Heinz",
+      "place": 0,
+      "tied": null,
+      "total_strokes": 0,
+      "to_par": null,
+      "prize_usd": null,
+      "points": null,
+      "dnf": null,
       "event_rating": null,
       "rounds": [],
       "stats": {}
