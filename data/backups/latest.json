@@ -1,6 +1,6 @@
 {
-  "backed_up_at": "2026-07-29T08:33:17.254962+00:00",
-  "source": "firebase /league",
+  "backed_up_at": "2026-07-30T00:47:08.036204+00:00",
+  "source": "firebase /league (manual out-of-cycle, live draft in progress)",
   "data": {
     "app": "chains-dgpt-2026",
     "fmt": 2,
@@ -38,8 +38,8 @@
         "v": "[{\"slot\":1,\"m\":\"will\",\"p1\":\"Gannon Buhr\",\"s1\":-29,\"p2\":\"Albert Tamm\",\"s2\":-4},{\"slot\":2,\"m\":\"kyle\",\"p1\":\"Calvin Heimburg\",\"s1\":-26,\"p2\":\"Jesse Nieminen\",\"s2\":-10},{\"slot\":3,\"m\":\"kadey\",\"p1\":\"Mauri Villmann\",\"s1\":-11,\"p2\":\"Jakub Semerad\",\"s2\":-16},{\"slot\":4,\"m\":\"shanna\",\"p1\":\"Ezra Aderhold\",\"s1\":-11,\"p2\":\"Eetu Tuominen\",\"s2\":-18},{\"slot\":5,\"m\":\"cory\",\"p1\":\"Anthony Barela\",\"s1\":-21,\"p2\":\"Lauri Lehtinen\",\"s2\":-21},{\"slot\":6,\"m\":\"gabe\",\"p1\":\"Aaron Gossage\",\"s1\":-15,\"p2\":\"Niklas Anttila\",\"s2\":-17}]"
       },
       "picks~46~14": {
-        "r": 1785311830736,
-        "v": "[{\"slot\":1,\"m\":\"kadey\",\"p1\":null,\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":2,\"m\":\"shanna\",\"p1\":null,\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":3,\"m\":\"gabe\",\"p1\":null,\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":4,\"m\":\"will\",\"p1\":\"Paul McBeth\",\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":5,\"m\":\"kyle\",\"p1\":null,\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":6,\"m\":\"cory\",\"p1\":null,\"s1\":null,\"p2\":null,\"s2\":null}]"
+        "r": 1785362088248,
+        "v": "[{\"slot\":1,\"m\":\"kadey\",\"p1\":\"Gannon Buhr\",\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":2,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":3,\"m\":\"gabe\",\"p1\":\"Anthony Barela\",\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":4,\"m\":\"will\",\"p1\":\"Calvin Heimburg\",\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":5,\"m\":\"kyle\",\"p1\":\"Richard Wysocki\",\"s1\":null,\"p2\":null,\"s2\":null},{\"slot\":6,\"m\":\"cory\",\"p1\":null,\"s1\":null,\"p2\":null,\"s2\":null}]"
       },
       "picks~46~2": {
         "r": 1781397317743,
@@ -62,8 +62,8 @@
         "v": "[{\"slot\":1,\"m\":\"will\",\"p1\":\"Gannon Buhr\",\"s1\":-20,\"p2\":\"Raven Newsom\",\"s2\":-14},{\"slot\":2,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":-14,\"p2\":\"Ezra Robinson\",\"s2\":-6},{\"slot\":3,\"m\":\"gabe\",\"p1\":\"Sullivan Tipton\",\"s1\":-12,\"p2\":\"Ezra Aderhold\",\"s2\":-8},{\"slot\":4,\"m\":\"cory\",\"p1\":\"Calvin Heimburg\",\"s1\":-21,\"p2\":\"Adam Hammes\",\"s2\":-5},{\"slot\":5,\"m\":\"kadey\",\"p1\":\"Anthony Barela\",\"s1\":-13,\"p2\":\"Aaron Gossage\",\"s2\":-8},{\"slot\":6,\"m\":\"kyle\",\"p1\":\"Richard Wysocki\",\"s1\":-21,\"p2\":\"Niklas Anttila\",\"s2\":-8}]"
       },
       "picks~46~7": {
-        "r": 1781397317743,
-        "v": "[{\"slot\":1,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":-19,\"p2\":null,\"s2\":null},{\"slot\":2,\"m\":\"gabe\",\"p1\":\"Niklas Anttila\",\"s1\":-29,\"p2\":null,\"s2\":null},{\"slot\":3,\"m\":\"kadey\",\"p1\":\"Gannon Buhr\",\"s1\":-33,\"p2\":null,\"s2\":null},{\"slot\":4,\"m\":\"cory\",\"p1\":\"Calvin Heimburg\",\"s1\":-33,\"p2\":null,\"s2\":null},{\"slot\":5,\"m\":\"kyle\",\"p1\":\"Richard Wysocki\",\"s1\":-24,\"p2\":null,\"s2\":null},{\"slot\":6,\"m\":\"will\",\"p1\":\"Anthony Barela\",\"s1\":-33,\"p2\":null,\"s2\":null}]"
+        "r": 1785372208945,
+        "v": "[{\"slot\": 1, \"m\": \"shanna\", \"p1\": \"Isaac Robinson\", \"s1\": -19, \"p2\": \"Ezra Robinson\", \"s2\": null}, {\"slot\": 2, \"m\": \"gabe\", \"p1\": \"Niklas Anttila\", \"s1\": -29, \"p2\": \"Luke Taylor\", \"s2\": null}, {\"slot\": 3, \"m\": \"kadey\", \"p1\": \"Gannon Buhr\", \"s1\": -33, \"p2\": \"Anthony Barela\", \"s2\": null}, {\"slot\": 4, \"m\": \"cory\", \"p1\": \"Calvin Heimburg\", \"s1\": -33, \"p2\": \"Kyle Kline\", \"s2\": null}, {\"slot\": 5, \"m\": \"kyle\", \"p1\": \"Richard Wysocki\", \"s1\": -24, \"p2\": null, \"s2\": null}, {\"slot\": 6, \"m\": \"will\", \"p1\": \"Anthony Barela\", \"s1\": -33, \"p2\": null, \"s2\": null}]"
       },
       "picks~46~8": {
         "r": 1782005210038,
@@ -74,6 +74,6 @@
         "v": "[{\"slot\":1,\"m\":\"gabe\",\"p1\":\"Gannon Buhr\",\"s1\":-32,\"p2\":\"Luke Taylor\",\"s2\":-22},{\"slot\":2,\"m\":\"will\",\"p1\":\"Calvin Heimburg\",\"s1\":-10,\"p2\":\"Aaron Gossage\",\"s2\":0},{\"slot\":3,\"m\":\"shanna\",\"p1\":\"Ezra Aderhold\",\"s1\":-3,\"p2\":\"Ezra Robinson\",\"s2\":-14},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Anthony Barela\",\"s1\":-20,\"p2\":\"Cole Redalen\",\"s2\":-15},{\"slot\":5,\"m\":\"cory\",\"p1\":\"Richard Wysocki\",\"s1\":-28,\"p2\":\"Albert Tamm\",\"s2\":-20},{\"slot\":6,\"m\":\"kyle\",\"p1\":\"Kyle Klein\",\"s1\":-10,\"p2\":\"Isaac Robinson\",\"s2\":-31}]"
       }
     },
-    "rev": 1785311830736
+    "rev": 1785362088248
   }
 }
