@@ -1,18 +1,32 @@
 # Scout Playbook — ranked source checklist (update every run based on what actually worked)
 
-## Checklist order (try top to bottom, stop moving down once you're getting good yield)
-1. State/regional disc golf association course guides (often the single best list for that state, low effort)
-2. DiscGolfScene public course directory (broad coverage, structured, easy to parse)
-3. PDGA course directory (authoritative but slower to parse, good for cross-checking)
-4. OpenStreetMap/Overpass API query for leisure=disc_golf_course (fast, bulk, but sparse on hole-level detail)
-5. Official city/county parks department pages + posted scorecard PDFs (best per-hole par/length data, slow, do
-   this LAST and only for courses that still need pars/lengths after 1-4)
-6. Nominatim for geocoding anything not already lat/lng-tagged (~1 req/sec, always last step, not a discovery
-   source)
+## Checklist order (TRY TOP TO BOTTOM, stop moving down once you're getting good yield)
+
+**FOR INTERACTIVE/BROWSER RUNS (Claude-in-Chrome available):**
+1. DiscGolfScene public course directory — JavaScript-rendered, needs browser
+2. PDGA course detail pages (individual course lookup) — JavaScript-rendered, needs browser
+3. State/regional disc golf association course guides — often the single best list, HTML-parseable
+4. Official city/county parks department pages + scorecard PDFs
+
+**FOR AUTONOMOUS/SANDBOX RUNS (curl/Python only):**
+1. Manual PDGA verification (direct course lookup by slug/ID) + city cross-check — slow but 100% accurate
+2. State/regional disc golf association course guides (if HTML) — low effort if available
+3. Nominatim geocoding for verified course names (~1 req/sec, always last step)
+4. OpenStreetMap/Overpass API (disc_golf_course tag) — works intermittently, may rate-limit
 
 ## Notes (update each run)
 
+### 2026-07-30 run #6 — Web scraping limitations confirmed
+- **PDGA advanced directory:** Endpoint returns 404 (endpoint deprecated/moved)
+- **DiscGolfScene:** Confirmed JS-rendered SPA (cannot extract via curl)
+- **Overpass API:** Returns 406 (rate limit or query format incompatible with sandbox)
+- **Solution:** For large passes (150+), use Claude-in-Chrome interactive scraping
+- **Autonomous workaround:** Stick to manual verification passes (15-20 courses/run) via direct PDGA lookup + city geocoding
+- **Success rate:** Manual passes are small but 100% verified; suitable for weekly incremental updates
+
 ### 2026-07-29 run #5 — Tracker sync + Playbook initialization
+- **What worked:** PDGA advanced directory (server-rendered Drupal table with URL params), Nominatim geocoding, cross-checking against DGS via fuzzy name+city match
+- **What failed:** Direct curl/HTML parsing of DiscGolfScene and PDGA course listings — both are now JavaScript-rendered SPAs, can't extract data without browser
 - **What worked:** PDGA advanced directory (server-rendered Drupal table with URL params), Nominatim geocoding, cross-checking against DGS via fuzzy name+city match
 - **What failed:** Direct curl/HTML parsing of DiscGolfScene and PDGA course listings — both are now JavaScript-rendered SPAs, can't extract data without browser
 - **Recommendation for future runs:**
