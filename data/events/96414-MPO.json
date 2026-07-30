@@ -9,7 +9,7 @@
     122828947,
     122828949
   ],
-  "collected_at": "2026-07-29T23:54:36.344426+00:00",
+  "collected_at": "2026-07-30T01:30:09.771537+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96414/event-division-results/MPO",
   "players": [
     {
@@ -1187,12 +1187,12 @@
       "first_name": "Noah",
       "last_name": "Fiveash",
       "place": 0,
-      "tied": null,
+      "tied": true,
       "total_strokes": 0,
       "to_par": null,
       "prize_usd": null,
-      "points": null,
-      "dnf": null,
+      "points": 1570,
+      "dnf": false,
       "event_rating": null,
       "rounds": [],
       "stats": {}
@@ -1787,12 +1787,12 @@
       "first_name": "Daniel",
       "last_name": "Dravet",
       "place": 0,
-      "tied": null,
+      "tied": true,
       "total_strokes": 0,
       "to_par": null,
       "prize_usd": null,
-      "points": null,
-      "dnf": null,
+      "points": 1570,
+      "dnf": false,
       "event_rating": null,
       "rounds": [],
       "stats": {}
