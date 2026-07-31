@@ -1,9 +1,13 @@
 {
-  "checked_at": "2026-07-31T12:40:34.460462Z",
+  "_meta": {
+    "checked_at": "2026-07-31T12:47:44Z",
+    "note": "Real-time pick tracking checkpoint - compares Firebase /league.json against this baseline"
+  },
+  "checked_at": "2026-07-31T12:47:44Z",
   "keys": {
     "k~46~chains_dgpt_2026_chat_v1": {
       "r": 1785373195356,
-      "v": "[{\"id\":\"mqkaqljobw21\",\"text\":\"Hey kyle\",\"ts\":1781835311508,\"by\":\"will\"},{\"id\":\"mqkvsxirfsib\",\"text\":\"Sup foo\",\"ts\":1781870692275,\"by\":\"kyle\"},{\"id\":\"mqlj7ekwz3xt\",\"text\":\"You didn\u2019t change your avatar\",\"ts\":1781909998736,\"by\":\"will\"},{\"id\":\"mqlk15knlj8q\",\"text\":\"Ya idid\",\"ts\":1781911386743,\"by\":\"kyle\"},{\"id\":\"mqm9g4sj7a9o\",\"text\":\"Welcome\",\"ts\":1781954075971,\"by\":\"will\"},{\"id\":\"mqmlpip9s68m\",\"text\":\"Nice\",\"ts\":1781974669293,\"by\":\"gabe\"},{\"id\":\"mqnytslafu82\",\"text\":\"Wishing I would have went with villeman\",\"ts\":1782057169919,\"by\":\"gabe\"},{\"id\":\"mqr8e34vaoa2\",\"text\":\"How do I create a shortcut\",\"ts\":1782254631775,\"by\":\"kyle\"},{\"id\":\"mqrcjceql1gz\",\"text\":\"Copy the link and add it to your Home Screen\",\"ts\":1782261595538,\"by\":\"will\"},{\"id\":\"ms6qldyknm9q\",\"text\":\"Corys Pick\",\"ts\":1785368980460,\"by\":\"will\"}]"
+      "v": "[{\"id\":\"mqkaqljobw21\",\"text\":\"Hey kyle\",\"ts\":1781835311508,\"by\":\"will\"},{\"id\":\"mqkvsxirfsib\",\"text\":\"Sup foo\",\"ts\":1781870692275,\"by\":\"kyle\"},{\"id\":\"mqlj7ekwz3xt\",\"text\":\"You didn’t change your avatar\",\"ts\":1781909998736,\"by\":\"will\"},{\"id\":\"mqlk15knlj8q\",\"text\":\"Ya idid\",\"ts\":1781911386743,\"by\":\"kyle\"},{\"id\":\"mqm9g4sj7a9o\",\"text\":\"Welcome\",\"ts\":1781954075971,\"by\":\"will\"},{\"id\":\"mqmlpip9s68m\",\"text\":\"Nice\",\"ts\":1781974669293,\"by\":\"gabe\"},{\"id\":\"mqnytslafu82\",\"text\":\"Wishing I would have went with villeman\",\"ts\":1782057169919,\"by\":\"gabe\"},{\"id\":\"mqr8e34vaoa2\",\"text\":\"How do I create a shortcut\",\"ts\":1782254631775,\"by\":\"kyle\"},{\"id\":\"mqrcjceql1gz\",\"text\":\"Copy the link and add it to your Home Screen\",\"ts\":1782261595538,\"by\":\"will\"},{\"id\":\"ms6qldyknm9q\",\"text\":\"Corys Pick\",\"ts\":1785368980460,\"by\":\"will\"}]"
     },
     "k~46~chains_dgpt_2026_members_v1": {
       "r": 1785293820791,
@@ -69,11 +73,5 @@
       "r": 1781397317743,
       "v": "[{\"slot\":1,\"m\":\"gabe\",\"p1\":\"Gannon Buhr\",\"s1\":-32,\"p2\":\"Luke Taylor\",\"s2\":-22},{\"slot\":2,\"m\":\"will\",\"p1\":\"Calvin Heimburg\",\"s1\":-10,\"p2\":\"Aaron Gossage\",\"s2\":0},{\"slot\":3,\"m\":\"shanna\",\"p1\":\"Ezra Aderhold\",\"s1\":-3,\"p2\":\"Ezra Robinson\",\"s2\":-14},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Anthony Barela\",\"s1\":-20,\"p2\":\"Cole Redalen\",\"s2\":-15},{\"slot\":5,\"m\":\"cory\",\"p1\":\"Richard Wysocki\",\"s1\":-28,\"p2\":\"Albert Tamm\",\"s2\":-20},{\"slot\":6,\"m\":\"kyle\",\"p1\":\"Kyle Klein\",\"s1\":-10,\"p2\":\"Isaac Robinson\",\"s2\":-31}]"
     }
-  },
-  "_meta": {
-    "run": 11,
-    "updated_at": "2026-07-31T12:40:34.460462Z",
-    "tournaments": 14,
-    "source": "firebase /league (chains-fantasy-default-rtdb)"
   }
 }
