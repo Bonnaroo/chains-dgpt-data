@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-07-31T10:14:46.842622+00:00",
+  "updated_at": "2026-07-31T14:45:39.048766+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 Discraft Ledgestone Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLDFZ1hrLrqu0",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Discraft Ledgestone Open | MPO R1F9 | Lizotte, McBeth, Barela, Buhr | Jomez Disc Golf",
+          "video_id": "Gj3B4BTJIyY",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Gj3B4BTJIyY",
+          "thumbnail": "https://i.ytimg.com/vi/Gj3B4BTJIyY/hqdefault.jpg",
+          "published": "2026-07-31T07:50:09Z"
+        },
+        {
+          "title": "2026 Discraft Ledgestone Open  | MPO R1B9 | Lizotte, McBeth, Barela, Buhr | Jomez Disc Golf",
+          "video_id": "OppHsRf2Vrc",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=OppHsRf2Vrc",
+          "thumbnail": "https://i.ytimg.com/vi/OppHsRf2Vrc/hqdefault.jpg",
+          "published": "2026-07-31T07:51:37Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 Champions Landing Open",
       "year": "2026",
