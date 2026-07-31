@@ -1,3 +1,36 @@
+## ✅ 2026-07-31 run #8 — Autonomous limitation confirmation; IL data recovery failed
+
+**Status:** Diagnostic/assessment run; no data collected.
+
+**What was attempted:**
+1. Searched local storage for recovered IL pass 1 data (70 courses collected 2026-07-28) — not found
+2. Verified current committed state via GitHub API: MI (473), IN (170), OH (165), KY (143), PA (150) = 901 total
+3. Attempted PDGA advanced directory for OH pass 3 (`?field_course_location_administrative_area=OH`) — response was JS-rendered shell (contradicts run #6 notes claiming server-render)
+4. Attempted Overpass API query for `leisure=disc_golf_course` in Ohio bbox — request failed/rate-limited (JSON parse error, error HTML response)
+
+**Finding:**
+- IL pass 1 data (70 courses, collected 2026-07-28 per SCOUT_PLAYBOOK notes) is **permanently lost** — not in local storage, not in GitHub, not in backup
+- PDGA advanced directory is confirmed JS-rendered; earlier runs' success may have been cached or using different URL params
+- Overpass API: unreliable in sandbox environment (rate-limits or network restrictions)
+- **Autonomous progress blocked:** All three primary sources (PDGA, DiscGolfScene, Overpass) are inaccessible
+- Nominatim geocoding still times out after ~45s batch requests
+
+**Current blockers (confirmed):**
+1. JavaScript-rendered course directories (PDGA, DiscGolfScene) — require browser automation
+2. Nominatim rate-limiting + sandbox timeouts — batch geocoding not viable
+3. Overpass API: unreliable access from sandbox
+4. No legal text-based sources identified for bulk course discovery (except seeded PDGA export)
+
+**Recommendation:**
+- **Pause autonomous runs** until interactive session available
+- **IL urgent:** Rebuild pass 1 data or accept loss; estimate 323 remaining courses (393 DGS-listed - 70 lost)
+- **Interactive session needed:** Batch-scrape IL (393) → OH (278+ remain) → PA (300+ remain) using Claude-in-Chrome in parallel
+- **Next autonomous:** Only viable for ~5-10 courses/pass using pre-cached city coordinates + minimal Nominatim calls
+
+**No files committed.** Awaiting human intervention or interactive session.
+
+---
+
 # Chains · Course Expansion — Progress & Queue
 
 Automated state-by-state disc golf course collection for `chains-dgpt-data`
