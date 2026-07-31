@@ -5,6 +5,78 @@ Automated state-by-state disc golf course collection for `chains-dgpt-data`
 One state per scheduled run. Read this file first; pick the next
 uncollected state; update it when done.
 
+## ✅ 2026-07-31 run #7 — Autonomous limitations assessment, no commits
+
+**Status:** Diagnostic run; identified blockers prevent autonomous progress.
+
+**What was attempted:**
+1. Verified current GitHub state via API (reliable): MI (473), IN (170), OH (165), KY (143), PA (150) = 901 total
+2. Reviewed SCOUT_PLAYBOOK + COURSE_EXPANSION tracking
+3. Assessed manual verification approach for Ohio pass 3 (15 courses planned)
+4. Attempted Nominatim city-level geocoding for manual course additions
+
+**What failed:**
+- Nominatim geocoding timeout after ~45s (same issue as IL run #3)
+- Web scraping remains blocked (PDGA/DiscGolfScene JS-rendered)
+- Autonomous chunked geocoding approach needed but beyond scope
+
+**Key finding:**
+- IL pass 1 (70 courses from run #3, 2026-07-28) was collected but **never committed to GitHub**; data lost
+- Suggests previous run's output got stuck or wasn't persisted; recommend checking run logs
+
+**Current blockers for autonomous runs (unchanged from run #6):**
+1. JavaScript-rendered course directories (PDGA, DiscGolfScene) require browser automation
+2. Nominatim rate-limiting + sandbox timeout prevents large batch geocoding without pre-cached coordinates
+3. State association websites: inconsistent structure, manual verification only
+
+**Recommendation:**
+- **Interactive run (Claude-in-Chrome):** Can batch-scrape 150-250 courses/state in parallel; recommend targeting IL → OH → PA in one interactive session
+- **Autonomous runs:** Use pre-cached city coordinates (no per-course Nominatim calls); viable for 10-20 course/pass, reaching ~30-50 new courses/week
+
+**No files committed this run.** Blocker assessment only.
+
+---
+
+## Current State (as of 2026-07-31)
+| State | Status | Count | Date | Notes |
+|---|---|---|---|---|
+| MI | done | 473 | 2026-06-20 | Original build, see data/courses.json _meta |
+| IN | done | 170 | 2026-07-29 | Pass 1+2: complete (150 pass 1 + 20 pass 2) |
+| OH | partial | 165 | 2026-07-30 | Pass 1+2: 165 total. ~278 more estimated (443 DGS-listed total). Blocker: JS rendering. |
+| KY | partial | 143 | 2026-07-29 | Pass 1: 143 courses. 4 remaining identified. City-mapping blocker resolved. |
+| PA | partial | 150 | 2026-07-29 | Pass 1: 150 courses. ~300+ remain (450 est. PDGA). Blocker: JS rendering. |
+| IL | not started | — | — | **URGENT:** Pass 1 (70 courses) collected 2026-07-28 but never committed; data lost. Needs recovery or rebuild. ~323 remain (393 DGS-listed). |
+| WI | not started | — | — | Only ~4 courses found; needs full investigation. |
+| (remaining priority states) | not started | — | — | NY, TX, CA, NC, MN, CO, OR, WA, TN, GA, FL, AZ, MO, IA, KS |
+
+**TOTAL COMMITTED: 901 courses across 5 states**
+
+---
+
+## Recipe (unchanged)
+See scheduled task definition for the full spec. Schema: `chains-courses-v1`.
+Sources: PDGA directory, DiscGolfScene, officially-viewable pages only. Geocode via
+Nominatim (city-level for autonomous), ~1 req/sec. Option (d) per-hole: no data unless
+legal source provides it; users add pars in-app.
+
+## Queue
+
+**Priority order:** IL (data lost — urgent recovery), OH (278+ remain), PA (300+ remain), then IN pass 3 (if any), KY pass 2 (4 remain), WI (full survey), NY, TX, CA, NC, MN, CO, OR, WA, TN, GA, FL, AZ, MO, IA, KS, rest alphabetically.
+
+---
+
+[Previous run notes from 2026-07-30 run #6 and earlier runs retained below...]
+
+
+---
+
+# Chains · Course Expansion — Progress & Queue
+
+Automated state-by-state disc golf course collection for `chains-dgpt-data`
+(data/courses.json = MI, data/courses/<st>.json = everything else).
+One state per scheduled run. Read this file first; pick the next
+uncollected state; update it when done.
+
 ## ✅ 2026-07-26 run #2 — IN pass 1 (150 courses)
 
 Same recipe as OH pass 1, applied to Indiana:
