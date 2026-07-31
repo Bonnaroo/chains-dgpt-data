@@ -1,3 +1,34 @@
+## ✅ 2026-07-31 run #9 — IL data loss confirmed; autonomous strategy reassessment
+
+**Status:** Diagnostic/assessment run; no data collected. Critical blocker identified and flagged.
+
+**What was attempted:**
+1. Verified current GitHub state: MI (473), IN (170), OH (165), KY (143), PA (150) = **1,101 total committed**
+2. Confirmed IL pass 1 data (70 courses from 2026-07-28) is **permanently lost** — il.json not found in GitHub
+3. Reviewed playbook blockers: all autonomous sources remain JS-rendered or rate-limited
+4. Assessed manual verification approach: requires pre-cached city coordinates (not available)
+
+**Finding:**
+- IL data loss is unrecoverable via autonomous means (no local backup, not in GitHub, not in backup)
+- Current progress: 1,101 courses (65-73% of 1,500-1,700 target)
+- Autonomous scraping **completely blocked** — PDGA/DiscGolfScene JS-rendered, Overpass API 406, Nominatim times out
+- Manual verification (10-20 courses/pass) is impractically slow without infrastructure changes
+
+**Recommendation:**
+- **PAUSE autonomous Data Scout runs** until interactive session available
+- **Interactive session (Claude-in-Chrome) needed:**
+  1. Recover IL pass 1 data via bulk DiscGolfScene scrape (~70 courses, 2026-07-28 target)
+  2. Complete OH pass 2+ (278+ remaining of 443 estimated; feasible in 1-2 passes)
+  3. Complete PA pass 2+ (300+ remaining of 450 estimated; feasible in 1-2 passes)
+  4. Result: ~1,400-1,500 total courses = 85-90% of target
+- **Estimated interactive session scope:** 3-5 hours of browser automation; 350-400 courses recoverable
+- **Autonomous resume:** Only viable after establishing pre-cached city coordinates + minimal per-course geocoding; not recommended until infrastructure in place
+
+**No files committed this run.** Await human decision and/or interactive session.
+
+---
+
+
 ## ✅ 2026-07-31 run #8 — Autonomous limitation confirmation; IL data recovery failed
 
 **Status:** Diagnostic/assessment run; no data collected.
