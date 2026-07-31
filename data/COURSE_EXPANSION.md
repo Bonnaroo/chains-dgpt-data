@@ -1,3 +1,37 @@
+## ✅ 2026-07-31 run #10 — Blocker persistence confirmed; no autonomous progress
+
+**Status:** Diagnostic confirmation run; no new data collected. All autonomous scraping paths remain blocked.
+
+**What was verified:**
+1. Current GitHub state: MI (473), IN (170), OH (165), KY (143), PA (150) = **1,101 total committed**
+2. IL pass 1 (70 courses, collected 2026-07-28) **still unrecovered** — no backup, not in GitHub cache
+3. All three primary scraping methods remain inaccessible:
+   - PDGA course directory: JavaScript-rendered SPA (not curl-accessible)
+   - DiscGolfScene: JavaScript-rendered SPA (not curl-accessible)
+   - Overpass API: 406 Not Acceptable (rate-limited or format issue)
+4. Nominatim geocoding: times out after ~45s batch requests
+
+**Key finding:**
+Runs #7-#9 correctly identified hard blockers that have not changed. Autonomous data collection via curl/API is completely constrained by:
+- JavaScript rendering (requires browser automation)
+- Rate limiting (API access blocked)
+- Sandbox network limitations (Nominatim timeouts)
+
+**Blocker assessment:**
+- IL data loss is unrecoverable via autonomous sandbox methods
+- Manual verification (10-20 courses/pass) is impractically slow (would take ~10-20 more runs to collect 200-400 courses)
+- Bulk state scraping (OH, PA: 500+ combined courses) is infeasible without browser automation
+
+**Recommendation:**
+**Pause autonomous scout runs** until:
+1. **Interactive session (Claude-in-Chrome)** available for bulk IL/OH/PA scraping (3-5 hours, 350-400 courses recoverable), OR
+2. **PDGA/UDisc API access** negotiated directly, OR
+3. **Pre-cached city coordinates + alternate legal source list** provided for autonomous manual verification approach
+
+**No files committed this run.** Awaiting guidance or interactive session resumption.
+
+---
+
 ## ✅ 2026-07-31 run #9 — IL data loss confirmed; autonomous strategy reassessment
 
 **Status:** Diagnostic/assessment run; no data collected. Critical blocker identified and flagged.
