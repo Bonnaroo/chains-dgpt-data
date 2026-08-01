@@ -1,3 +1,44 @@
+## ✅ 2026-08-01 run #10 — Verification + Index cleanup (0 new, blockers assessed)
+
+**Status:** Verification pass; confirmed catalog state and identified autonomous-mode blockers for next interactive session.
+
+**What was done:**
+1. Verified all course files on GitHub — IL confirmed at 30 (recovered via OSM), PA at 150 (state-center placeholder issue noted)
+2. Fixed courses-index.json: Removed IL duplication entry, clarified status as partial/30
+3. Diagnosed blockers: Overpass API intermittent/slow; PDGA/DiscGolfScene JS-rendered; Nominatim timeouts persist (blocks PA geocoding fix)
+4. Verified playbook is current and accurate
+
+**Autonomous blockers confirmed:**
+- **Overpass API:** Timeouts on Ohio query; previously worked for IL (30 courses) but inconsistent access
+- **PDGA advanced directory:** Now JavaScript-rendered (was server-rendered in earlier runs); cannot extract via curl
+- **DiscGolfScene:** Also JS-rendered SPA; HTML parsing no longer viable
+- **Nominatim batch geocoding:** Timeouts after ~45s; affects PA pass 2 (125+ courses at state placeholder need real coords)
+- **Recommendation:** Next large-state passes (IL remaining 363, PA pass 2 fix geocoding, WI pass 2) require Claude-in-Chrome for JS scraping
+
+**Current confirmed catalog state (verified on GitHub):**
+- MI: DONE (473)
+- IN: DONE (170)
+- OH: Partial (315)
+- PA: Partial (150, note: geocoding incomplete, 125+ at state center)
+- KY: Partial (143)
+- WI: Partial (69)
+- IL: Partial (30 recovered from data loss)
+- **Total: 1,350 courses**
+
+**Files committed:** `data/courses-index.json` (fixed IL duplication, updated meta note)
+
+**Next priorities (require interactive/browser scraping):**
+1. **IL Pass 2** (remaining ~363) — DiscGolfScene/PDGA scraping
+2. **PA Pass 2** (fix geocoding for 125+ courses, add new) — Nominatim batching or PDGA zip lookups
+3. **OH Pass 3** (14 remain) — PDGA advanced directory
+4. **WI Pass 2** (50-100+ remain) — PDGA cross-check + DiscGolfScene
+
+**Playbook status:** Up-to-date and accurate; successfully codified methodology after run #5.
+
+**Recommendation for Owner:** Schedule interactive session (Claude-in-Chrome + Data Scout) to collect remaining high-priority states (IL full build ~363 courses would bring total to ~1,700+).
+
+**No new course data collected this run** (verification/blocker assessment only).
+
 ## ✅ 2026-08-01 run #9 — IL Pass 1 rebuild (30 OSM courses, partial recovery)
 
 **Status:** Illinois data loss recovery attempt via autonomous sources. Rebuilt 30 courses from OpenStreetMap (Overpass API), partial recovery of lost original 70-course pass 1.
