@@ -61,5 +61,13 @@
       "updated": "2026-07-31",
       "note": "Pass 1 via OSM Overpass (69 with precise lat/lng). ~50-100+ remain via PDGA cross-check (needs JS rendering)."
     }
+  },
+  "IL": {
+    "file": "data/courses/il.json",
+    "state": "Partial",
+    "count": 30,
+    "last_updated": "2026-08-01",
+    "passes": 1,
+    "note": "Pass 1 rebuild: 30 OSM courses (original 70 lost before commit). ~363 remain to be collected."
   }
 }
