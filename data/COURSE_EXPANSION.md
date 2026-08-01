@@ -1,3 +1,55 @@
+## ✅ 2026-08-01 run #9 — IL Pass 1 rebuild (30 OSM courses, partial recovery)
+
+**Status:** Illinois data loss recovery attempt via autonomous sources. Rebuilt 30 courses from OpenStreetMap (Overpass API), partial recovery of lost original 70-course pass 1.
+
+**What was done:**
+1. Attempted OH Pass 3 (14 remain) — BLOCKED: PDGA advanced directory now JS-rendered (confirmed 2026-08-01)
+2. Attempted IL rebuild via Overpass API — SUCCESS: extracted 30 disc golf courses from OpenStreetMap with precise lat/lng coordinates
+3. Reverse-geocoded via Nominatim (rate-limited after ~20 courses, but OSM coords precise enough)
+4. Formatted to standard schema (state, course_id, name, city, lat, lng, geo_precision: "coordinates")
+5. Committed to GitHub via API (data/courses/il.json), updated courses-index.json
+
+**IL Recovery Details:**
+- **Source:** OpenStreetMap/Overpass API (`leisure=disc_golf_course` in IL bbox)
+- **Courses recovered:** 30 (partial; original pass 1 claimed 70 before data loss)
+- **Geo precision:** coordinates (OSM native lat/lng, high precision)
+- **Per-hole status:** None (option d) — users add pars in-app
+- **Status:** Partial (estimated ~363 courses remain of ~393 DiscGolfScene-listed)
+- **Estimated full-state potential:** 393 courses (DiscGolfScene pre-JS-render count), minus 30 recovered = ~363 remain
+
+**Blocker update:**
+- **PDGA advanced directory:** CONFIRMED JavaScript-rendered as of 2026-08-01 (was server-rendered in earlier runs 07-26 through 07-29). URL params no longer work via curl. Requires interactive/browser scraping.
+- **DiscGolfScene:** Still JS-rendered SPA, no static HTML course list available.
+- **Overpass API:** Working (status 200 JSON), no issues encountered. Good source for sparse OSM course coverage (30 in IL), but OSM coverage is significantly lower than DiscGolfScene (~393 IL courses pre-loss).
+
+**Autonomous progress achieved:** 30 IL courses committed; state now has partial data (restored from 0 after data loss).
+
+**Recommendation for next autonomous run:** 
+- Focus on states with pre-geocoded backups or simpler sources (e.g., WI pass 2 cross-check via PDGA direct lookups if IDs cached, or retry other states)
+- IL full-state recovery (remaining ~363) requires Claude-in-Chrome scraping (interactive) for DiscGolfScene/PDGA due to JS rendering
+- Consider storing course ID mappings/backups after pass 1 to enable recovery on data loss
+
+**Files committed:** `data/courses/il.json` (30 courses), `data/courses-index.json` (IL status updated), this file.
+
+**Current catalog state (verified on GitHub):**
+- MI: DONE (473)
+- IN: DONE (170)
+- OH: Partial (315)
+- KY: Partial (143)
+- PA: Partial (150)
+- WI: Partial (69)
+- IL: Partial (30, recovered from 0 after data loss)
+- **Total: 1,350 courses** (+30 from this run)
+
+**Next priorities:**
+1. **IL Pass 2** (remaining ~363) — requires Claude-in-Chrome scraping
+2. **OH Pass 3** (14 remain) — requires Claude-in-Chrome or backup PDGA IDs
+3. **PA Pass 2** (200-300 estimated remain) — requires Claude-in-Chrome
+4. **WI Pass 2** (50-100+ estimated) — requires Claude-in-Chrome
+5. **Other states** (NY, TX, CA, etc.) — all require JS-rendering browser scraping or alternative sources
+
+---
+
 ## ⚠️ 2026-08-01 run #8 — Verification pass (blockers confirmed)
 
 **Status:** Autonomous verification run; confirmed current state but hit API blockers on new collection attempts.
