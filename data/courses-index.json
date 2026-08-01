@@ -2,7 +2,7 @@
   "_meta": {
     "schema": "chains-courses-index-v1",
     "updated": "2026-08-01",
-    "note": "Verified catalog state. IL pass 1: 30 courses recovered via OSM (original 70 lost). All states ready for next passes. Autonomous blockers: JS rendering (PDGA/DGS), Nominatim timeouts (PA geocoding), Overpass intermittent. Recommend interactive session (Claude-in-Chrome) for large-scale collection or Overpass API access improvement."
+    "note": "Verified catalog state. OH geocoding pass 1 complete (254/315). IL/PA/WI need interactive session. Autonomous blockers: JS rendering (PDGA/DGS), Nominatim batch timeouts, Overpass intermittent."
   },
   "states": {
     "MI": {
@@ -18,8 +18,8 @@
       "status": "partial",
       "course_count": 315,
       "per_hole": "none",
-      "updated": "2026-07-31",
-      "note": "Pass 1 (165) + Pass 2 (150) = 315. ~278 remain of 443 DGS-listed. Ranked by DGS rating volume."
+      "updated": "2026-08-01",
+      "note": "Pass 1 (165) + Pass 2 (150) = 315 total. Geocoded: 254/315 (80%) with city/zip precision. Remaining 61 (19%) pending interactive session. Ranked by DGS rating volume."
     },
     "IN": {
       "file": "data/courses/in.json",
