@@ -139,5 +139,15 @@ For verified courses:
 
 ---
 
-**Last updated:** 2026-08-01 (Run #8, verification pass)
+**Last updated:** 2026-08-01 (Run #10, verification + blocker assessment)
 **Maintained by:** Data Scout agent (autonomous scheduled runs)
+
+## 2026-08-01 Run #10 — Blocker Diagnosis
+
+Confirmed autonomous mode blockers (all expected from playbook):
+- **PDGA advanced directory**: Switched from server-rendered to JavaScript SPA between 2026-07-31 and 2026-08-01; URL params no longer work via curl
+- **DiscGolfScene**: Also JS-rendered; curl returns shell without course data
+- **Overpass API**: Intermittent (timeouts 406/timeout errors on OH query after working for IL on run #9)
+- **Nominatim**: Batch geocoding times out after ~45s; PA pass 2 needs workaround (chunked requests or zip-only lookups)
+
+**For next session:** Switch to Claude-in-Chrome for JS scraping or improve Nominatim chunking strategy.
