@@ -1,3 +1,51 @@
+## ⚠️ 2026-08-01 run #11 — Autonomous blocker verification & recommendation for interactive session
+
+**Status:** Verification run; no new data collected (autonomous mode limitations confirmed).
+
+**What was attempted:**
+1. **PA Pass 2 geocoding fix** (150 courses at state-center placeholder): 
+   - Initiated Nominatim batch geocoding with aggressive chunking (5 courses per batch, 30s pause)
+   - BLOCKER: Sandbox timeout at ~45s (matches documented Nominatim blocker in playbook)
+   - All PA courses remain at placeholder coords (40.5908, -77.2098)
+   
+2. **IL Pass 2 recovery via Overpass API**:
+   - Queried OSM for `leisure=disc_golf_course` in Illinois bbox
+   - Result: 0 courses returned (indicates low OSM coverage for IL; previous run #9 recovered 30)
+   - BLOCKER: API returned empty result set (not a timeout, just no data available)
+
+**Autonomous mode assessment (confirmed):**
+- ✗ **Nominatim batch queries**: Timeout after ~45s in sandbox environment (fundamental constraint, not network-related)
+- ✗ **Overpass API**: Inconsistent coverage (worked for WI/IL in earlier runs, now returning 0 for IL)
+- ✗ **PDGA advanced directory**: JavaScript-rendered SPA (curl returns shell without table)
+- ✗ **DiscGolfScene state pages**: JavaScript-rendered SPA (curl returns shell without course data)
+
+**Current verified catalog state (confirmed on GitHub, 2026-08-01):**
+- MI: DONE (473)
+- IN: DONE (170)  
+- OH: Partial (315)
+- PA: Partial (150, all at state-center coords, needs real geocoding)
+- KY: Partial (143)
+- WI: Partial (69)
+- IL: Partial (30, needs ~363 more)
+- **Total: 1,350 courses**
+
+**Remaining high-priority opportunities (~700+ courses):**
+1. **IL Pass 2**: ~363 courses from DiscGolfScene (JS-rendered, requires interactive scraping)
+2. **PA Pass 2 + geocoding**: Fix 150 existing + add ~200-300 new (needs Nominatim or PDGA zip lookups)
+3. **OH Pass 3**: ~14 remain of 443 DGS-listed
+4. **WI Pass 2**: ~50-100+ remain via PDGA cross-check (JS-rendered)
+
+**Recommendation for next session:**
+Schedule interactive workflow (Claude-in-Chrome) to:
+1. Scrape PDGA advanced directory and DiscGolfScene state pages (JS-rendering issue)
+2. Geocode PA courses in parallel using browser-based Nominatim or zip-based lookups
+3. Complete IL, WI, OH, PA expansions → estimated +700 courses (reaching ~2,050 total)
+
+**Files committed:** None (verification only; no new data collected)
+**Playbook status:** Accurate and up-to-date; no changes needed
+
+**Note for future autonomous runs:** Sandbox 45s timeout is a hard constraint that makes large-scale Nominatim geocoding impossible. Consider: (a) pre-cache all city coordinates before run, (b) use zip-based geocoding instead, or (c) defer to interactive sessions for multi-state passes.
+
 ## ✅ 2026-08-01 run #10 — Verification + Index cleanup (0 new, blockers assessed)
 
 **Status:** Verification pass; confirmed catalog state and identified autonomous-mode blockers for next interactive session.
