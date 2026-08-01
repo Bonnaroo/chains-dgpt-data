@@ -1,3 +1,38 @@
+## ⚠️ 2026-08-01 run #8 — Verification pass (blockers confirmed)
+
+**Status:** Autonomous verification run; confirmed current state but hit API blockers on new collection attempts.
+
+**What was attempted:**
+1. **OSM Overpass API for IL rebuild**: Submitted query with IL bounding box (37.0-42.5°N, 87.0-91.5°W) → received HTTP 406 Not Acceptable. Unclear if rate-limited, User-Agent rejected, or server maintenance. Previous WI pass 1 succeeded via OSM in static mode, so API accessible but state-specific issue possible.
+2. **Nominatim batch geocoding for IL**: Timeout after 45s (reconfirmed blocker from prior runs). Need pre-cached city centroids or chunked requests.
+
+**Catalog state verified (actual files on GitHub):**
+- MI: 473 (done, 2026-06-20) ✓
+- OH: 315 (partial, 2026-07-31) — Pass 1 (165) + Pass 2 (150)
+- IN: 170 (partial, 2026-07-26) — Pass 1 (150) + Pass 2 (20 additional)
+- PA: 150 (partial, 2026-07-29) — Pass 1 only
+- KY: 143 (partial, 2026-07-29) — Pass 1 only
+- WI: 69 (partial, 2026-07-31) — Pass 1 (OSM-based)
+- IL: 0 (data-loss, needs rebuild)
+
+**Total: 1,320 courses collected** (59% of initial 2,250-course first-wave target).
+
+**Autonomous mode assessment:**
+- ✓ OSM Overpass: Works (used for WI pass 1) but state-specific; IL query failed
+- ✓ Nominatim API: Accessible but batch queries timeout; need pre-cache strategy
+- ✗ PDGA advanced directory: JavaScript-rendered (cannot parse without browser)
+- ✗ DiscGolfScene state pages: JavaScript-rendered (cannot parse without browser)
+
+**SCOUT_PLAYBOOK.md status:** Still stub (1 byte). Should codify the effective recipe from these runs before next session.
+
+**Recommendation:** Next session should be interactive (Claude-in-Chrome) for PDGA/DGS scraping, OR focus on pre-geocoded micro-passes if staying autonomous.
+
+**No files committed this run** (verification pass only; no new data collected).
+
+**Next priorities:** IL rebuild (highest potential yield) → WI pass 2 → OH pass 3.
+
+
+
 ## ✅ 2026-07-31 run #XX — WI pass 1 (69 courses)
 
 **Status:** Wisconsin Pass 1 collected and committed; state now has 69 courses (partial status, ready for pass 2).
