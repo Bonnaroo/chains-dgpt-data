@@ -2,65 +2,64 @@
   "_meta": {
     "schema": "chains-courses-index-v1",
     "updated": "2026-08-01",
-    "note": "Index of per-state course files. MI lives at data/courses.json (legacy seed); all other states at data/courses/<st>.json."
+    "note": "Updated 2026-08-01 after verification run. IL marked as pending-rebuild (data-loss from 2026-07-28). Other states are partial and ready for additional passes."
   },
   "states": {
-    "IL": {
-      "file": "data/courses/il.json",
-      "status": "data-loss",
-      "course_count": 70,
-      "per_hole": "none",
-      "updated": "2026-07-28",
-      "note": "File never committed on 2026-07-28; rebuild blocked (JS-rendering). Requires interactive scraping."
-    },
-    "IN": {
-      "file": "data/courses/in.json",
-      "status": "partial",
-      "course_count": 150,
-      "per_hole": "none",
-      "updated": "2026-07-26"
-    },
-    "KY": {
-      "file": "data/courses/ky.json",
-      "status": "partial",
-      "course_count": 143,
-      "per_hole": "none",
-      "updated": "2026-07-29"
-    },
     "MI": {
       "file": "data/courses.json",
       "status": "done",
       "course_count": 473,
       "per_hole": "full",
-      "updated": "2026-06-20"
+      "updated": "2026-06-20",
+      "note": "Original seed build. Complete Michigan coverage."
     },
     "OH": {
       "file": "data/courses/oh.json",
       "status": "partial",
       "course_count": 315,
       "per_hole": "none",
-      "updated": "2026-07-31"
+      "updated": "2026-07-31",
+      "note": "Pass 1 (165) + Pass 2 (150) = 315. ~278 remain of 443 DGS-listed. Ranked by DGS rating volume."
+    },
+    "IN": {
+      "file": "data/courses/in.json",
+      "status": "partial",
+      "course_count": 170,
+      "per_hole": "none",
+      "updated": "2026-07-26",
+      "note": "Pass 1 (150) + Pass 2 (20) = 170. Indiana essentially complete; ~99 remain in larger pools if expanded."
+    },
+    "IL": {
+      "file": "data/courses/il.json",
+      "status": "pending-rebuild",
+      "course_count": 0,
+      "per_hole": "none",
+      "updated": "2026-08-01",
+      "note": "Data-loss from 2026-07-28 run (file was never committed). Rebuild requires interactive session (DiscGolfScene/PDGA JS-rendered). ~393-400 potential courses from DGS state page."
+    },
+    "PA": {
+      "file": "data/courses/pa.json",
+      "status": "partial",
+      "course_count": 150,
+      "per_hole": "none",
+      "updated": "2026-07-29",
+      "note": "Pass 1 only (150 from PDGA directory, geocoded with Nominatim). ~300+ remain in verified pool."
+    },
+    "KY": {
+      "file": "data/courses/ky.json",
+      "status": "partial",
+      "course_count": 143,
+      "per_hole": "none",
+      "updated": "2026-07-29",
+      "note": "Pass 1 only. 143 of 147 geocoded; 4 towns too small to map. Essentially complete."
     },
     "WI": {
       "file": "data/courses/wi.json",
       "status": "partial",
       "course_count": 69,
       "per_hole": "none",
-      "updated": "2026-07-31"
-    }
-  },
-  "index": {
-    "PA": {
-      "file": "data/courses/pa.json",
-      "courses": 150,
-      "built": "2026-07-29",
-      "note": "Partial: 150 courses from PDGA directory"
-    },
-    "MI": {
-      "file": "data/courses.json",
-      "courses": 473,
-      "built": "2026-07-XX",
-      "note": "Complete collection"
+      "updated": "2026-07-31",
+      "note": "Pass 1 via OSM Overpass (69 with precise lat/lng). ~50-100+ remain via PDGA cross-check (needs JS rendering)."
     }
   }
 }
