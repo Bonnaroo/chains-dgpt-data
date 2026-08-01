@@ -300,3 +300,39 @@ Battle Ground Country Club, Big Foot Acres, Black Pine Country Club, Blazer Park
 
 **Next state:** Indiana is now DONE. Recommend Ohio Pass 2 (~133 remaining of 443 DGS-listed) or Illinois Pass 2 (~323 remaining). Both will need better web scraping strategy (Claude-in-Chrome) due to JS rendering.
 
+
+
+## ⚠️ 2026-08-01 run #7 — IL data loss discovery + autonomous scraping blocker
+
+**Status:** Illinois data loss confirmed; rebuild blocked by JS-rendering on all autonomous sources.
+
+**Finding — IL data loss:** Illinois file (`data/courses/il.json`) was never committed to the repo, despite COURSE_EXPANSION.md showing 70 courses were built on 2026-07-28 run #3. The courses-index.json marks IL as "broken". The data was lost in transit or never successfully committed via API.
+
+**Rebuild attempt — blocked:** Attempted to rebuild IL pass 1 using available autonomous methods:
+
+1. **OpenStreetMap/Overpass API:** Query returned "runtime error: Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request." Server-side load issue; not recoverable in this run.
+
+2. **PDGA advanced course directory:** URL `https://www.pdga.com/course-directory/advanced?field_course_location_country=US&field_course_location_administrative_area=IL` now returns JavaScript shell without table data (previously server-rendered, now JS-SPA). Cannot extract via curl.
+
+3. **DiscGolfScene Illinois directory:** `https://www.discgolfscene.com/courses/Illinois` also JS-rendered SPA; no course list in static HTML response.
+
+**Conclusion:** All three primary autonomous sources (OSM, PDGA, DGS) are now blocked by either server capacity issues or JS rendering. The playbook explicitly recommends Claude-in-Chrome for interactive scraping when large-scale state collection is needed. **IL rebuild requires interactive (browser-based) data collection; autonomous scheduled task cannot proceed.**
+
+**Current state (verified on GitHub):** 
+- MI: DONE (473)
+- IN: DONE (170)
+- OH: partial (315 after passes 1+2)
+- WI: partial (69 after pass 1)
+- KY: partial (143 after pass 1)
+- PA: partial (150 after pass 1)
+- IL: data loss (never committed, marked broken in index, 70 courses claimed but lost)
+- **Total committed:** 869 courses
+- **Estimated IL loss:** ~70 courses + continued collection (unclear final count)
+
+**Recommendation:** Resolve IL data loss via one of:
+1. Interactive run (Claude-in-Chrome) to scrape DiscGolfScene/PDGA with full state coverage (~300+ courses)
+2. Manual curated pass (e.g., top ~100 IL courses via PDGA direct lookups + Nominatim geocoding, simpler but slower)
+3. Retry Overpass API in lower-traffic window (hours, retry ~24h later)
+
+**Next scheduled run:** Will resume with other states if IL remains blocked, or switch to interactive workflow if user instructs. Playbook remains valid; sources are intact, just requiring different collection tools.
+
