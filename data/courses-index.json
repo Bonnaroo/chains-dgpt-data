@@ -39,6 +39,13 @@
       "course_count": 315,
       "per_hole": "none",
       "updated": "2026-07-31"
+    },
+    "WI": {
+      "file": "data/courses/wi.json",
+      "status": "partial",
+      "course_count": 69,
+      "per_hole": "none",
+      "updated": "2026-07-31"
     }
   },
   "index": {
