@@ -1,3 +1,31 @@
+## ✅ 2026-07-31 run #XX — WI pass 1 (69 courses)
+
+**Status:** Wisconsin Pass 1 collected and committed; state now has 69 courses (partial status, ready for pass 2).
+
+**What was done:**
+1. Queried OpenStreetMap via Overpass API for `leisure=disc_golf_course` in Wisconsin (42.5–47.3°N, 86.25–92.9°W)
+2. Extracted 69 unique courses (nodes, ways, relations) with native OSM lat/lng coordinates
+3. Created standard schema with no per-hole data (option d)
+4. Validated all courses to Wisconsin bounding box
+5. Committed to GitHub via API (data/courses/wi.json, courses-index.json)
+
+**Methodology notes:**
+- **PDGA advanced directory:** Attempted fetch but URL returns JavaScript shell (no table data via curl). Blocked by JS rendering.
+- **DiscGolfScene:** WI state directory also JS-rendered, not accessible via curl.
+- **OSM fallback:** Used as primary source for this pass. Good coverage (69 courses) with precise coordinates.
+
+**Sources used:**
+- OpenStreetMap/Overpass API (primary) ✓ (69 courses, lat/lng precision)
+
+**Geo coverage:** All 69 courses have precise OSM-derived lat/lng coordinates (geo_precision: "coordinates"). No city-level fallback needed.
+
+**Per-hole status:** All null (option d), same as OH/IN/IL/KY/PA. Users add pars in-app.
+
+**Files committed:** `data/courses/wi.json` (69 courses), `data/courses-index.json` (WI status updated), this file.
+
+**Next:** WI pass 2 (PDGA cross-check to find additional ~50-100+ courses not in OSM, once JS rendering blocker resolved with Claude-in-Chrome); or continue other priority states (PA pass 2, KY pass 2, IL rebuild).
+
+
 ## ✅ 2026-07-31 run #XX — OH pass 2 (150 new courses, 315 total)
 
 **Status:** Ohio Pass 2 collected and committed; state now has 315 total courses (partial status, continues to pass 3).
