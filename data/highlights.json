@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-31T23:55:06.192882+00:00",
+  "updated_at": "2026-08-01T01:58:50.265248+00:00",
   "note": "Short highlight clips. Tap to watch on YouTube.",
   "clips": [
+    {
+      "channel": "Disc Golf Pro Tour",
+      "title": "Round 2 Highlights | MPO | 2026 Discraft's Ledgestone Open",
+      "video_id": "mXktX53qZRg",
+      "link": "https://www.youtube.com/watch?v=mXktX53qZRg",
+      "thumbnail": "https://i.ytimg.com/vi/mXktX53qZRg/hqdefault.jpg",
+      "published": "2026-08-01T01:30:32+00:00"
+    },
     {
       "channel": "Disc Golf Pro Tour",
       "title": "Round 1 Highlights | MPO | 2026 Discraft's Ledgestone Open",
@@ -25,14 +33,6 @@
       "link": "https://www.youtube.com/watch?v=-QCmbkyCjLc",
       "thumbnail": "https://i.ytimg.com/vi/-QCmbkyCjLc/hqdefault.jpg",
       "published": "2026-07-28T12:30:16+00:00"
-    },
-    {
-      "channel": "Disc Golf Pro Tour",
-      "title": "Final Round Highlights | 2026 United States Women's Disc Golf Championship",
-      "video_id": "lbTlK9CNBQ4",
-      "link": "https://www.youtube.com/watch?v=lbTlK9CNBQ4",
-      "thumbnail": "https://i.ytimg.com/vi/lbTlK9CNBQ4/hqdefault.jpg",
-      "published": "2026-07-19T21:09:07+00:00"
     }
   ]
 }
