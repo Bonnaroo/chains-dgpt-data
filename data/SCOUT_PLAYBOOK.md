@@ -1,16 +1,25 @@
-# Chains · Data Scout Playbook
+# Scout Playbook — ranked source checklist (update every run based on what actually worked)
 
-Ranked methodology for building the disc golf course catalog, state by state. Updated by each run based on what works.
+## Checklist order (try top to bottom, stop moving down once you're getting good yield)
+1. State/regional disc golf association course guides (often the single best list for that state, low effort)
+2. DiscGolfScene public course directory (broad coverage, structured, easy to parse)
+3. PDGA course directory (authoritative but slower to parse, good for cross-checking)
+4. OpenStreetMap/Overpass API query for leisure=disc_golf_course (fast, bulk, but sparse on hole-level detail)
+5. Official city/county parks department pages + posted scorecard PDFs (best per-hole par/length data, slow, do
+   this LAST and only for courses that still need pars/lengths after 1-4)
+6. Nominatim for geocoding anything not already lat/lng-tagged (~1 req/sec, always last step, not a discovery
+   source)
 
-## Effective Sources (Ranked by Autonomy & Yield)
+## Notes (update each run)
 
-**Tier 1 — API-accessible, no JS rendering needed:**
-1. **OSM Overpass API** (`leisure=disc_golf_course` nodes/ways/relations)
-   - Yield: Varies 10-100+ depending on state; WI passed 69, MI started here
-   - Geo: Native lat/lng from OSM (precise, `geo_precision: "coordinates"`)
-   - Robot rules: Allowed; rate-limit ~1 request/5 sec
-   - Blocker risk: LOW in autonomous mode
-   - **Use:** Primary source for states with good OSM coverage (WI ✓); fallback for all others
+### 2026-08-02 run #12 — Network restored, geocoding blocker confirmed
+- **Finding:** GitHub API is operational again (was unreachable in run #7). KY confirmed complete (all 143 courses have coordinates). OH has 61/315 courses still missing geocoding (19%).
+- **Autonomous geocoding blocker:** Nominatim requests timeout at 45s sandbox limit when processing 61+ cities sequentially (~180+ seconds total time). Same blocker as run #7.
+- **Workaround:** Pre-cached city coordinates (instant, no API) — used in run #11, but requires maintaining ~200+ city cache.
+- **All large state passes now require interactive mode:** IL (363 remain), PA (~300), WI (~50-100) all blocked by JS-rendering on PDGA/DiscGolfScene.
+- **Recommendation:** Dispatch Claude-in-Chrome session for IL Pass 2 (300+ courses, highest ROI). Can simultaneously handle PDGA/DiscGolfScene scraping + batch Nominatim geocoding for OH cleanup.
+- **Autonomous capability:** Capped at small passes (15-20 courses/run with manual PDGA verification). All major expansions now interactive-only.
+- **Current catalog:** MI (473 ✓), OH (315, 254 geocoded), IN (170 ✓), IL (30), KY (143 ✓), PA (150), WI (69). Total: ~1,429.
 
 2. **Nominatim (geospatial geocoding)**
    - Yield: 100% geocoding success if location is known
