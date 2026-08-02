@@ -1,3 +1,26 @@
+## ✅ 2026-08-02 run #12 — Network diagnostic (autonomous)
+
+**Status:** Confirmed network/sandbox blockers. All large-state expansions require Claude-in-Chrome. Autonomous mode capped at ~15-20 courses/pass.
+
+**What was done:**
+1. Verified catalog totals: MI (473) + OH (315) + IN (170) + IL (30) + WI (69) + KY (143) + PA (150) = **1,350 total courses, ~95% geocoded**
+2. Attempted OH Pass 3 geocoding (61 missing courses, small towns): Nominatim batch query timed out at ~30s (sandbox 45s kill limit)
+3. Identified missing cities: Wilmington (4), Yellow Springs (3), New Lexington (2), Wheelersburg (2), Willard (2), plus 50+ single-course towns
+4. Confirmed IL data-loss: 70-course PDGA pass (2026-07-28) never committed; partial recovery (30 OSM courses) in 2026-08-01 run
+
+**Blockers (systemic, not state-specific):**
+- Nominatim batch timeouts: Cannot handle >15-20 cities sequentially in sandbox without hitting 45s network isolation limit
+- PDGA/DiscGolfScene JS-rendering: Both now SPA; no server-render fallback available via curl
+- All large passes (IL 363+, PA 300+, WI 50+, OH small-towns 61) blocked by JS-rendering + batch geocoding
+
+**Files committed:** None (diagnostic run)
+
+**Recommendation:** Dispatch Claude-in-Chrome interactive session for IL Pass 2 (363+ PDGA courses + batch Nominatim, ~2 hrs, highest ROI). Optionally: OH geocoding cleanup (61 small towns) in same session.
+
+**Next state:** IL (if interactive dispatch) → else pause until browser session available.
+
+---
+
 ## ✅ 2026-08-01 run #10 — OH Geocoding Pass 1 (254/315 completed)
 
 **Status:** Ohio geocoding pass completed; 254 of 315 courses now have coordinates (80% coverage, improved from 0%).
