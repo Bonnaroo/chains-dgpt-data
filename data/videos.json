@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T14:14:01.701644+00:00",
+  "updated_at": "2026-08-02T16:28:06.726651+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLDFZ1hrLrqu0",
-      "video_count": 5,
-      "round_count": 5,
+      "video_count": 6,
+      "round_count": 6,
       "practice_count": 0,
       "videos": [
         {
@@ -51,6 +51,14 @@
           "link": "https://www.youtube.com/watch?v=wQ_r65WcOoI",
           "thumbnail": "https://i.ytimg.com/vi/wQ_r65WcOoI/hqdefault.jpg",
           "published": "2026-08-02T07:03:25Z"
+        },
+        {
+          "title": "2026 Discraft Ledgestone Open  | MPO R3B9 | Buhr, Tipton, Babcock, Taylor | Jomez Disc Golf",
+          "video_id": "F7e7hWzzyKI",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=F7e7hWzzyKI",
+          "thumbnail": "https://i.ytimg.com/vi/F7e7hWzzyKI/hqdefault.jpg",
+          "published": "2026-08-02T07:04:58Z"
         }
       ]
     },
