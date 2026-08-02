@@ -1,3 +1,45 @@
+
+## ✅ 2026-08-02 run #13 — OH Geocoding Pass 3 (16 new courses, 270/315 total)
+
+**Status:** Targeted geocoding pass completed; Ohio now has 270/315 courses geocoded (85% coverage).
+
+**What was done:**
+1. Identified 61 courses missing geocoding from previous pass
+2. Extracted top 8 cities by course count (18 courses total)
+3. Geocoded via Nominatim batch queries (8 requests with 0.8s rate limiting)
+4. Successfully resolved: Wilmington (4), Yellow Springs (3), New Lexington (2), Willard (2), Wheelersburg (2), West Union (1), Vermillion (1), Sullivan (1)
+5. Updated OH file and committed to GitHub
+
+**Geocoding breakdown:**
+- Previous status: 254/315 geocoded (80%)
+- This run: +16 courses geocoded
+- Current status: **270/315 geocoded (85%)**
+- Remaining gaps: 45 courses in 37 unique small towns (<5k population)
+
+**Blocker assessment:**
+- Nominatim batch geocoding (60+ cities) times out at ~40s (sandbox 45s limit)
+- Minimal batching (8-10 cities per request) succeeds reliably
+- Autonomous mode approach: process top priority cities in 8-city batches (~8s each + delays)
+- All remaining 45 courses are in very small towns (single-course locations) requiring manual lookup or interactive session
+
+**Technical findings:**
+- Nominatim single-city queries: ~1-2s each + rate limiting
+- Batch timeout threshold: ~40+ simultaneous city lookups in sandbox
+- Workaround: Pre-cached city coordinates (used in run #11) or interactive Claude-in-Chrome session
+
+**Files committed:**
+- `data/courses/oh.json` (315 courses, 270 geocoded, 45 pending)
+- `data/Chains Course Catalog.xlsx` (OH row updated)
+- GitHub issue #14 comment to follow
+
+**Next pass options:**
+1. **OH Geocoding Pass 4** (autonomous): Process remaining 37 cities in 2-3 more minimal batches (~3 hours spread across future hourly runs)
+2. **IL Pass 2** (interactive, dispatch Claude-in-Chrome): 363+ PDGA courses, highest ROI for state expansion
+3. **Hybrid approach:** Continue autonomous OH small-batch geocoding while interactive session handles IL discovery
+
+**Recommendation:** Continue autonomous OH geocoding in this run's pattern (8-city batches, 1 batch/hour if scheduled) to reach ~95%+ coverage. Dispatch interactive session for IL Pass 2 (largest pending expansion).
+
+---
 ## ✅ 2026-08-02 run #12 — Network diagnostic (autonomous)
 
 **Status:** Confirmed network/sandbox blockers. All large-state expansions require Claude-in-Chrome. Autonomous mode capped at ~15-20 courses/pass.
