@@ -18,7 +18,9 @@
       "lng": -83.5461206,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 38.795319,
+      "longitude": -83.5461206
     },
     {
       "name": "Aileen Cole Stewart Memorial",
@@ -76,7 +78,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/area-51",
       "source_dgs": "https://www.discgolfscene.com/course/6375/area-51-disc-golf",
       "source": "https://www.pdga.com/course-directory/course/area-51",
-      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM"
+      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM",
+      "latitude": 39.8789527,
+      "longitude": -82.9507363
     },
     {
       "name": "Arethusa Springs Disc Golf Course",
@@ -177,7 +181,9 @@
       "lng": -80.743,
       "geo_precision": "city",
       "year_established": null,
-      "source_pdga": null
+      "source_pdga": null,
+      "latitude": 40.3792938,
+      "longitude": -80.7847619
     },
     {
       "id": "oh-aumiller-park-disc-golf-course",
@@ -2536,7 +2542,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/johnson-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/7013/johnson-umc",
       "source": "https://www.pdga.com/course-directory/course/johnson-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM"
+      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM",
+      "latitude": 41.0292217,
+      "longitude": -81.6381795
     },
     {
       "name": "Jonathan Bye Memorial Disc Golf Course",
@@ -2722,7 +2730,9 @@
       "lng": -84.6364891,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.7439398,
+      "longitude": -84.6364891
     },
     {
       "id": "oh-lakeview-church-of-god",
@@ -3316,7 +3326,9 @@
       "lng": -83.287978,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.8272785,
+      "longitude": -83.2813089
     },
     {
       "id": "oh-mt-vernon-nazarene-university",
@@ -3623,7 +3635,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/osage-grove-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/4465/osage-grove",
       "source": "https://www.pdga.com/course-directory/course/osage-grove-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM"
+      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM",
+      "latitude": 39.2318998,
+      "longitude": -84.1601458
     },
     {
       "name": "Osborn Metropark Disc Golf Course",
@@ -3735,7 +3749,9 @@
       "lng": -82.3986799,
       "geo_precision": "zip",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.0228421,
+      "longitude": -82.4445991
     },
     {
       "id": "oh-paint-creek-state-park-disc-golf-course",
@@ -4326,7 +4342,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/silver-creek-metro-park",
       "source_dgs": "https://www.discgolfscene.com/course/7049/silver-creek-metro-park",
       "source": "https://www.pdga.com/course-directory/course/silver-creek-metro-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM"
+      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM",
+      "latitude": 41.0292217,
+      "longitude": -81.6381795
     },
     {
       "id": "oh-sims-park-disc-golf-course",
@@ -4498,7 +4516,9 @@
       "lng": -84.1471791,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.2318998,
+      "longitude": -84.1601458
     },
     {
       "id": "oh-stubbs-park-disc-golf-course",
@@ -4619,7 +4639,9 @@
       "lng": -82.3986799,
       "geo_precision": "zip",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.0228421,
+      "longitude": -82.4445991
     },
     {
       "id": "oh-the-hangar-wingfoot-lake-state-park",
@@ -4941,7 +4963,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/upper-sandusky-reservoir-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/1748/upper-sandusky-reservoir",
       "source": "https://www.pdga.com/course-directory/course/upper-sandusky-reservoir-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 40.8272785,
+      "longitude": -83.2813089
     },
     {
       "id": "oh-urbana-hilltop-disc-golf-at-melvin-miller-park",
@@ -5229,7 +5253,9 @@
       "lng": -84.6364891,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.7439398,
+      "longitude": -84.6364891
     },
     {
       "id": "oh-whitehall-community-park",
