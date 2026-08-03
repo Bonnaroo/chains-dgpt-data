@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T11:54:29.126361+00:00",
+  "updated_at": "2026-08-03T14:18:22.228630+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLDFZ1hrLrqu0",
-      "video_count": 6,
-      "round_count": 6,
+      "video_count": 8,
+      "round_count": 8,
       "practice_count": 0,
       "videos": [
         {
@@ -59,6 +59,22 @@
           "link": "https://www.youtube.com/watch?v=F7e7hWzzyKI",
           "thumbnail": "https://i.ytimg.com/vi/F7e7hWzzyKI/hqdefault.jpg",
           "published": "2026-08-02T07:04:58Z"
+        },
+        {
+          "title": "2026 Discraft Ledgestone Open | MPO FINALF9 | Buhr, Tipton, Taylor, Hammes | Jomez Disc Golf",
+          "video_id": "5mu-ZOOkFXw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=5mu-ZOOkFXw",
+          "thumbnail": "https://i.ytimg.com/vi/5mu-ZOOkFXw/hqdefault.jpg",
+          "published": "2026-08-03T07:17:39Z"
+        },
+        {
+          "title": "2026 Discraft Ledgestone Open | MPO FINALB9 | Buhr, Tipton, Taylor, Hammes | Jomez Disc Golf",
+          "video_id": "Ns7En1hIpmU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Ns7En1hIpmU",
+          "thumbnail": "https://i.ytimg.com/vi/Ns7En1hIpmU/hqdefault.jpg",
+          "published": "2026-08-03T07:23:05Z"
         }
       ]
     },
