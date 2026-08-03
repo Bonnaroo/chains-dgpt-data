@@ -554,7 +554,9 @@
       "lng": null,
       "geo_precision": null,
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.4369919,
+      "longitude": -84.3796729
     },
     {
       "id": "oh-brent-hambrick-memorial-disc-golf-course-at-hoover-dam",
@@ -589,7 +591,9 @@
       "lng": -83.4789868,
       "geo_precision": "zip",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 41.607272,
+      "longitude": -83.4688204
     },
     {
       "name": "Bristol Park",
@@ -601,7 +605,9 @@
       "lng": null,
       "geo_precision": null,
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.126735,
+      "longitude": -82.9854553
     },
     {
       "id": "oh-broda-disc-golf-course-at-veterans-memorial-park",
@@ -659,7 +665,9 @@
       "lng": null,
       "geo_precision": null,
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.9622785,
+      "longitude": -82.8543501
     },
     {
       "id": "oh-buckeye-lake-state-park",
@@ -723,7 +731,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/burr-oak-state-park",
       "source_dgs": "https://www.discgolfscene.com/course/5015/burr-oak-state-park",
       "source": "https://www.pdga.com/course-directory/course/burr-oak-state-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 39.503126,
+      "longitude": -82.0845892
     },
     {
       "id": "oh-cabin-creek",
@@ -832,7 +842,9 @@
       "lng": null,
       "geo_precision": null,
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.8436664,
+      "longitude": -81.7640212
     },
     {
       "id": "oh-carnation-creek-at-memorial-park",
@@ -853,7 +865,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/carnation-creek-memorial-park",
       "source_dgs": "https://www.discgolfscene.com/course/2917/carnation-creek-dgc-at-memorial-park",
       "source": "https://www.pdga.com/course-directory/course/carnation-creek-memorial-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 40.9153362,
+      "longitude": -81.1059309
     },
     {
       "id": "oh-carter-park",
@@ -917,7 +931,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/cedarville-university",
       "source_dgs": "https://www.discgolfscene.com/course/3687/cedarville-university",
       "source": "https://www.pdga.com/course-directory/course/cedarville-university",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 39.7442268,
+      "longitude": -83.8085372
     },
     {
       "name": "Centennial Park",
