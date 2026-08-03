@@ -1436,7 +1436,9 @@
       "lng": -81.198,
       "geo_precision": "city",
       "year_established": null,
-      "source_pdga": null
+      "source_pdga": null,
+      "latitude": 41.7244885,
+      "longitude": -81.245657
     },
     {
       "id": "oh-east-palestine-city-park-disc-golf-course",
@@ -1555,7 +1557,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/englewood-metro-park-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/1701/englewood-metro-park",
       "source": "https://www.pdga.com/course-directory/course/englewood-metro-park-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 39.8906122,
+      "longitude": -84.1988308
     },
     {
       "name": "Evans Park",
@@ -1935,7 +1939,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/glacier-ridge-metro-park",
       "source_dgs": "https://www.discgolfscene.com/course/1735/glacier-ridge-metro-park",
       "source": "https://www.pdga.com/course-directory/course/glacier-ridge-metro-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 40.1078821,
+      "longitude": -83.2669677
     },
     {
       "name": "Glenross Community Center",
@@ -2129,7 +2135,9 @@
       "lng": -83.081114,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.8814519,
+      "longitude": -83.0929645
     },
     {
       "id": "oh-gulley-park",
@@ -2164,7 +2172,9 @@
       "lng": -84.0193858,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.8208998,
+      "longitude": -84.0193858
     },
     {
       "name": "Happy Hills Campground",
@@ -2176,7 +2186,9 @@
       "lng": -82.224345,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.458681,
+      "longitude": -82.2318156
     },
     {
       "name": "Harmon Park",
@@ -2240,7 +2252,9 @@
       "lng": -84.200142,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.8906122,
+      "longitude": -84.1988308
     },
     {
       "name": "Herbert C. Huber Park",
@@ -2341,7 +2355,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/hocking-college-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/1727/hocking-college",
       "source": "https://www.pdga.com/course-directory/course/hocking-college-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 39.458681,
+      "longitude": -82.2318156
     },
     {
       "name": "Hocking College Logan",
@@ -2367,7 +2383,9 @@
       "lng": -82.7262958,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 41.0531134,
+      "longitude": -82.7262958
     },
     {
       "id": "oh-hudson-springs-park-disc-golf-course",
@@ -2472,7 +2490,9 @@
       "lng": -82.8554499,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 38.7391035,
+      "longitude": -82.8459498
     },
     {
       "id": "oh-johnson-hills-park",
@@ -3759,7 +3779,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/pastime-park-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/1736/pastime-park",
       "source": "https://www.pdga.com/course-directory/course/pastime-park-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 40.1078821,
+      "longitude": -83.2669677
     },
     {
       "name": "Pier-Lon Campground Disc Golf Course",
@@ -4243,7 +4265,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/scioto-grove",
       "source_dgs": "https://www.discgolfscene.com/course/6941/scioto-grove-dgc",
       "source": "https://www.pdga.com/course-directory/course/scioto-grove",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 39.8814519,
+      "longitude": -83.0929645
     },
     {
       "name": "Securitec DGC at Heartland Church",
@@ -4370,7 +4394,9 @@
       "lng": -82.8554499,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 38.7391035,
+      "longitude": -82.8459498
     },
     {
       "name": "Soldiers Row DGC",
@@ -4719,7 +4745,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/painesville-recreation-park-pond",
       "source_dgs": "https://www.discgolfscene.com/course/3314/painesville-recreation-park",
       "source": "https://www.pdga.com/course-directory/course/painesville-recreation-park-pond",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 41.7244885,
+      "longitude": -81.245657
     },
     {
       "id": "oh-the-sanatorium-at-sawyer-ludwig-park",
@@ -5278,7 +5306,9 @@
       "lng": -82.7262958,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 41.0531134,
+      "longitude": -82.7262958
     },
     {
       "id": "oh-william-harbin-park",
@@ -5467,7 +5497,9 @@
       "lng": -84.0193858,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.8208998,
+      "longitude": -84.0193858
     },
     {
       "name": "Xavier University",
