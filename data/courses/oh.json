@@ -88,7 +88,9 @@
       "lng": -82.2078346,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.7139902,
+      "longitude": -82.2078346
     },
     {
       "id": "oh-armco-park",
@@ -109,7 +111,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/armco-park",
       "source_dgs": "https://www.discgolfscene.com/course/7572/armco-park",
       "source": "https://www.pdga.com/course-directory/course/armco-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 39.4353373,
+      "longitude": -84.2029922
     },
     {
       "id": "oh-arthur-o-fisher-park",
@@ -264,7 +268,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/balgriffen-park",
       "source_dgs": "https://www.discgolfscene.com/course/1699/balgriffen-park",
       "source": "https://www.pdga.com/course-directory/course/balgriffen-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 40.0996009,
+      "longitude": -83.1135563
     },
     {
       "name": "Batavia Sports Complex",
@@ -389,7 +395,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/black-bear-disc-golf-shawnee-state-park",
       "source_dgs": "https://www.discgolfscene.com/course/6413/black-bear-at-shawnee-state-park",
       "source": "https://www.pdga.com/course-directory/course/black-bear-disc-golf-shawnee-state-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 38.7584091,
+      "longitude": -83.0290644
     },
     {
       "name": "Black River Disc Golf Course",
@@ -647,7 +655,9 @@
       "lng": -82.59,
       "geo_precision": "city",
       "year_established": null,
-      "source_pdga": null
+      "source_pdga": null,
+      "latitude": 39.9617305,
+      "longitude": -82.4912676
     },
     {
       "id": "oh-burnet-woods",
@@ -1279,7 +1289,9 @@
       "lng": -83.753,
       "geo_precision": "city",
       "year_established": null,
-      "source_pdga": null
+      "source_pdga": null,
+      "latitude": 40.8437457,
+      "longitude": -84.3397658
     },
     {
       "id": "oh-dorr-street-elementary",
@@ -1383,7 +1395,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/eagles-nest-dgc-0",
       "source_dgs": "https://www.discgolfscene.com/course/5584/eagles-nest-dgc",
       "source": "https://www.pdga.com/course-directory/course/eagles-nest-dgc-0",
-      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM"
+      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM",
+      "latitude": 39.7136754,
+      "longitude": -82.5993294
     },
     {
       "id": "oh-east-harbor-state-park-disc-golf-course",
@@ -1553,7 +1567,9 @@
       "lng": -82.59,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.9617305,
+      "longitude": -82.4912676
     },
     {
       "id": "oh-fairfield-country-club",
@@ -1616,7 +1632,9 @@
       "lng": -83.097378,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 38.7584091,
+      "longitude": -83.0290644
     },
     {
       "id": "oh-firestine-park",
@@ -1686,7 +1704,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/flat-rocks-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/1711/flat-rocks",
       "source": "https://www.pdga.com/course-directory/course/flat-rocks-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 39.7136754,
+      "longitude": -82.5993294
     },
     {
       "id": "oh-flory-park",
@@ -2004,7 +2024,9 @@
       "lng": -82.2078346,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.7139902,
+      "longitude": -82.2078346
     },
     {
       "name": "Grand Miami Disc Golf Course",
@@ -2166,7 +2188,9 @@
       "lng": -84.208676,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.4353373,
+      "longitude": -84.2029922
     },
     {
       "name": "Harrison Lake State Park",
@@ -2725,7 +2749,9 @@
       "lng": -83.753,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.8437457,
+      "longitude": -84.3397658
     },
     {
       "name": "Liberty Park DGC",
@@ -3200,7 +3226,9 @@
       "lng": -83.8925234,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.8045432,
+      "longitude": -83.8925234
     },
     {
       "id": "oh-monroe-community-park",
@@ -3350,7 +3378,9 @@
       "lng": -83.103048,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.0996009,
+      "longitude": -83.1135563
     },
     {
       "name": "OSU Marion/MTC",
@@ -4624,7 +4654,9 @@
       "lng": -83.8925234,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.8045432,
+      "longitude": -83.8925234
     },
     {
       "id": "oh-the-osprey-at-lake-milton",
@@ -5484,7 +5516,9 @@
       "lng": -83.8925234,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 39.8045432,
+      "longitude": -83.8925234
     }
   ]
 }
