@@ -227,7 +227,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/austintown-township-park",
       "source_dgs": "https://www.discgolfscene.com/course/6089/austintown-twp-park",
       "source": "https://www.pdga.com/course-directory/course/austintown-township-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 41.0996151,
+      "longitude": -80.7638514
     },
     {
       "name": "Bacon Woods Disc Golf Course",
@@ -239,7 +241,9 @@
       "lng": -82.2807912,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.7700421,
+      "longitude": -82.2807912
     },
     {
       "name": "Baldwin Wallace College Disc Golf Course",
@@ -302,7 +306,9 @@
       "lng": -83.1833569,
       "geo_precision": "zip",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 40.4503374,
+      "longitude": -83.1885258
     },
     {
       "id": "oh-beatty-park-disc-golf-course",
@@ -323,7 +329,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/beatty-park-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/1742/beatty-park",
       "source": "https://www.pdga.com/course-directory/course/beatty-park-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 40.3600714,
+      "longitude": -80.6151034
     },
     {
       "id": "oh-belmont-park",
@@ -415,7 +423,9 @@
       "lng": -82.2221033,
       "geo_precision": "city",
       "hole_pars": null,
-      "hole_lengths": null
+      "hole_lengths": null,
+      "latitude": 41.0281106,
+      "longitude": -82.2221033
     },
     {
       "id": "oh-blendon-woods-disc-golf-course",
@@ -436,7 +446,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/blendon-woods-disc-golf-course",
       "source_dgs": "https://www.discgolfscene.com/course/1689/blendon-woods",
       "source": "https://www.pdga.com/course-directory/course/blendon-woods-disc-golf-course",
-      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM"
+      "cross_checked": "PDGA directory + DiscGolfScene directory + OSM",
+      "latitude": 40.126139,
+      "longitude": -82.9295287
     },
     {
       "name": "Bluffton Village Hospital Disc Golf Course",
@@ -508,7 +520,9 @@
       "source_pdga": "https://www.pdga.com/course-directory/course/boettler-park",
       "source_dgs": "https://www.discgolfscene.com/course/2974/boettler-park",
       "source": "https://www.pdga.com/course-directory/course/boettler-park",
-      "cross_checked": "PDGA directory + DiscGolfScene directory"
+      "cross_checked": "PDGA directory + DiscGolfScene directory",
+      "latitude": 40.9468077,
+      "longitude": -81.4670631
     },
     {
       "id": "oh-brandywine-country-club",
@@ -526,7 +540,9 @@
       "lng": -81.621,
       "geo_precision": "city",
       "year_established": null,
-      "source_pdga": null
+      "source_pdga": null,
+      "latitude": 41.345055,
+      "longitude": -81.528452
     },
     {
       "name": "Bremenfest Park",
