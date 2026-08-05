@@ -1,0 +1,390 @@
+{
+  "backed_up_at": "2026-08-05T07:49:25.306265Z",
+  "liveRounds": {
+    "pr-ms5bygyzv4rl": {
+      "city": "Haslett",
+      "course": "Tadpole Beach",
+      "id": "pr-ms5bygyzv4rl",
+      "owner": "will",
+      "players": [
+        "Kadey",
+        "Kyle",
+        "WIll"
+      ],
+      "status": "open",
+      "thru": 10,
+      "toPar": -5,
+      "updatedAt": "2026-08-04T15:35:44.975Z"
+    },
+    "pr-msf2i4cuxd0f": {
+      "city": "Haslett",
+      "course": "Tadpole Beach",
+      "id": "pr-msf2i4cuxd0f",
+      "owner": "will",
+      "players": [
+        "Kadey",
+        "Kyle",
+        "WIll"
+      ],
+      "status": "open",
+      "thru": 10,
+      "toPar": -5,
+      "updatedAt": "2026-08-05T04:36:30.968Z"
+    }
+  },
+  "playRounds": {
+    "pr-ms5bygyzv4rl": {
+      "course": {
+        "city": "Haslett",
+        "holes": 18,
+        "id": "mi-tadpole-beach",
+        "name": "Tadpole Beach",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-07-29",
+      "id": "pr-ms5bygyzv4rl",
+      "owner": "will",
+      "players": {
+        "kadey": {
+          "disc": "#F2B705",
+          "holeScores": {
+            "1": 2,
+            "5": 1,
+            "7": 2,
+            "9": 2
+          },
+          "name": "Kadey",
+          "thru": 10,
+          "total": -5
+        },
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            2,
+            2,
+            null,
+            2,
+            null,
+            2,
+            null,
+            null,
+            4,
+            2
+          ],
+          "name": "Kyle",
+          "thru": 10,
+          "total": -4
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": {
+            "0": 3,
+            "5": 2
+          },
+          "name": "WIll",
+          "thru": 6,
+          "total": -1
+        }
+      },
+      "startedAt": "2026-07-29T00:12:10.475Z",
+      "status": "open",
+      "updatedAt": "2026-08-04T15:35:44.975Z",
+      "weather": {
+        "desc": "Partly cloudy",
+        "precipMm": 0,
+        "tempF": 81,
+        "windMph": 9
+      }
+    },
+    "pr-msc42yhqfm72": {
+      "course": {
+        "city": "Haslett",
+        "holes": 18,
+        "id": "mi-tadpole-beach",
+        "name": "Tadpole Beach",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-08-02",
+      "id": "pr-msc42yhqfm72",
+      "owner": "will",
+      "players": {
+        "kadey": {
+          "disc": "#2FB67A",
+          "holeScores": [
+            3,
+            3,
+            3,
+            2,
+            2,
+            3,
+            2,
+            2,
+            2,
+            2,
+            4,
+            3
+          ],
+          "name": "Kadey",
+          "thru": 12,
+          "total": -5
+        },
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            2,
+            3,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            2,
+            3,
+            2
+          ],
+          "name": "Kyle",
+          "thru": 12,
+          "total": -3
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            3,
+            3,
+            3,
+            3,
+            4,
+            3,
+            3,
+            3,
+            4,
+            3,
+            3,
+            3
+          ],
+          "name": "Will",
+          "thru": 12,
+          "total": 2
+        }
+      },
+      "startedAt": "2026-08-02T18:06:06.111Z",
+      "status": "final",
+      "updatedAt": "2026-08-02T19:49:18.582Z",
+      "weather": {
+        "desc": "Partly Cloudy ",
+        "precipMm": 0,
+        "tempF": 77,
+        "windMph": 13
+      }
+    },
+    "pr-msf2i4cuxd0f": {
+      "course": {
+        "city": "Haslett",
+        "holes": 18,
+        "id": "mi-tadpole-beach",
+        "name": "Tadpole Beach",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-08-04",
+      "id": "pr-msf2i4cuxd0f",
+      "owner": "will",
+      "players": {
+        "kadey": {
+          "disc": "#F2B705",
+          "holeScores": {
+            "1": 2,
+            "5": 1,
+            "7": 2,
+            "9": 2
+          },
+          "name": "Kadey",
+          "thru": 10,
+          "total": -5
+        },
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            2,
+            2,
+            null,
+            2,
+            null,
+            2,
+            null,
+            null,
+            4,
+            2
+          ],
+          "name": "Kyle",
+          "thru": 10,
+          "total": -4
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": {
+            "0": 3,
+            "5": 2
+          },
+          "name": "WIll",
+          "thru": 6,
+          "total": -1
+        }
+      },
+      "startedAt": "2026-08-04T19:45:12.846Z",
+      "status": "open",
+      "updatedAt": "2026-08-05T04:36:30.968Z",
+      "weather": {
+        "desc": "Partly cloudy",
+        "precipMm": 0,
+        "tempF": 81,
+        "windMph": 9
+      }
+    },
+    "pr-msfdel70wy6s": {
+      "course": {
+        "city": "Haslett",
+        "holes": 18,
+        "id": "mi-tadpole-beach",
+        "name": "Tadpole Beach",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-08-05",
+      "id": "pr-msfdel70wy6s",
+      "owner": "will",
+      "players": {
+        "kadey": {
+          "disc": "#F2B705",
+          "holeScores": {
+            "1": 2,
+            "5": 1,
+            "7": 2,
+            "9": 2
+          },
+          "name": "Kadey",
+          "thru": 10,
+          "total": -5
+        },
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            2,
+            2,
+            null,
+            2,
+            null,
+            2,
+            null,
+            null,
+            4,
+            2
+          ],
+          "name": "Kyle",
+          "thru": 10,
+          "total": -4
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": {
+            "0": 3,
+            "5": 2
+          },
+          "name": "WIll",
+          "thru": 6,
+          "total": -1
+        }
+      },
+      "startedAt": "2026-08-05T00:50:23.820Z",
+      "status": "final",
+      "updatedAt": "2026-08-05T04:34:19.315Z",
+      "weather": {
+        "desc": "Partly cloudy",
+        "precipMm": 0,
+        "tempF": 81,
+        "windMph": 9
+      }
+    }
+  },
+  "source": "firebase chains-app-f38f8 /playRounds + /liveRounds"
+}
