@@ -1,37 +1,6 @@
 {
-  "backed_up_at": "2026-08-05T07:49:25.306265Z",
-  "liveRounds": {
-    "pr-ms5bygyzv4rl": {
-      "city": "Haslett",
-      "course": "Tadpole Beach",
-      "id": "pr-ms5bygyzv4rl",
-      "owner": "will",
-      "players": [
-        "Kadey",
-        "Kyle",
-        "WIll"
-      ],
-      "status": "open",
-      "thru": 10,
-      "toPar": -5,
-      "updatedAt": "2026-08-04T15:35:44.975Z"
-    },
-    "pr-msf2i4cuxd0f": {
-      "city": "Haslett",
-      "course": "Tadpole Beach",
-      "id": "pr-msf2i4cuxd0f",
-      "owner": "will",
-      "players": [
-        "Kadey",
-        "Kyle",
-        "WIll"
-      ],
-      "status": "open",
-      "thru": 10,
-      "toPar": -5,
-      "updatedAt": "2026-08-05T04:36:30.968Z"
-    }
-  },
+  "backed_up_at": "2026-08-05T08:29:05.134298+00:00",
+  "source": "firebase chains-app-f38f8 /playRounds + /liveRounds",
   "playRounds": {
     "pr-ms5bygyzv4rl": {
       "course": {
@@ -386,5 +355,36 @@
       }
     }
   },
-  "source": "firebase chains-app-f38f8 /playRounds + /liveRounds"
+  "liveRounds": {
+    "pr-ms5bygyzv4rl": {
+      "city": "Haslett",
+      "course": "Tadpole Beach",
+      "id": "pr-ms5bygyzv4rl",
+      "owner": "will",
+      "players": [
+        "Kadey",
+        "Kyle",
+        "WIll"
+      ],
+      "status": "open",
+      "thru": 10,
+      "toPar": -5,
+      "updatedAt": "2026-08-04T15:35:44.975Z"
+    },
+    "pr-msf2i4cuxd0f": {
+      "city": "Haslett",
+      "course": "Tadpole Beach",
+      "id": "pr-msf2i4cuxd0f",
+      "owner": "will",
+      "players": [
+        "Kadey",
+        "Kyle",
+        "WIll"
+      ],
+      "status": "open",
+      "thru": 10,
+      "toPar": -5,
+      "updatedAt": "2026-08-05T04:36:30.968Z"
+    }
+  }
 }
