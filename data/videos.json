@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-08-08T13:27:26.486986+00:00",
+  "updated_at": "2026-08-08T14:06:07.348436+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 Discmania Challenge",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLJXTvBy4b0es",
+      "video_count": 1,
+      "round_count": 1,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Discmania Challenge | MPO R1F9 | Aderhold, Buhr, Heimburg, Babcock | Jomez Disc Golf",
+          "video_id": "gaMsapy6jKk",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=gaMsapy6jKk",
+          "thumbnail": "https://i.ytimg.com/vi/gaMsapy6jKk/hqdefault.jpg",
+          "published": "2026-08-08T06:37:55Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 Discraft Ledgestone Open",
       "year": "2026",
