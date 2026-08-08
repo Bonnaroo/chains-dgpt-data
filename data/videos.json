@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T14:06:07.348436+00:00",
+  "updated_at": "2026-08-08T14:48:26.415609+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLJXTvBy4b0es",
-      "video_count": 1,
-      "round_count": 1,
+      "video_count": 2,
+      "round_count": 2,
       "practice_count": 0,
       "videos": [
         {
@@ -19,6 +19,14 @@
           "link": "https://www.youtube.com/watch?v=gaMsapy6jKk",
           "thumbnail": "https://i.ytimg.com/vi/gaMsapy6jKk/hqdefault.jpg",
           "published": "2026-08-08T06:37:55Z"
+        },
+        {
+          "title": "2026 Discmania Challenge  | MPO R1B9 | Aderhold, Buhr, Heimburg, Babcock | Jomez Disc Golf",
+          "video_id": "3dACvj_Qm6o",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=3dACvj_Qm6o",
+          "thumbnail": "https://i.ytimg.com/vi/3dACvj_Qm6o/hqdefault.jpg",
+          "published": "2026-08-08T06:39:08Z"
         }
       ]
     },
