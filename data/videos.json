@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:58:57.975625+00:00",
+  "updated_at": "2026-08-09T14:33:26.465425+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLJXTvBy4b0es",
-      "video_count": 2,
-      "round_count": 2,
+      "video_count": 4,
+      "round_count": 4,
       "practice_count": 0,
       "videos": [
         {
@@ -27,6 +27,22 @@
           "link": "https://www.youtube.com/watch?v=3dACvj_Qm6o",
           "thumbnail": "https://i.ytimg.com/vi/3dACvj_Qm6o/hqdefault.jpg",
           "published": "2026-08-08T06:39:08Z"
+        },
+        {
+          "title": "2026 Discmania Challenge  | MPO R2F9 | Turner, Smith, Heimburg, Schultz | Jomez Disc Golf",
+          "video_id": "Wjui4b0goT8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Wjui4b0goT8",
+          "thumbnail": "https://i.ytimg.com/vi/Wjui4b0goT8/hqdefault.jpg",
+          "published": "2026-08-09T05:28:07Z"
+        },
+        {
+          "title": "2026 Discmania Challenge  | MPO R2B9 | Turner, Smith, Heimburg, Schultz | Jomez Disc Golf",
+          "video_id": "qBS7fs-BoaE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=qBS7fs-BoaE",
+          "thumbnail": "https://i.ytimg.com/vi/qBS7fs-BoaE/hqdefault.jpg",
+          "published": "2026-08-09T05:36:36Z"
         }
       ]
     },
