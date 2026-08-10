@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T12:47:03.562062+00:00",
+  "updated_at": "2026-08-10T14:14:44.849835+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLJXTvBy4b0es",
-      "video_count": 4,
-      "round_count": 4,
+      "video_count": 5,
+      "round_count": 5,
       "practice_count": 0,
       "videos": [
         {
@@ -43,6 +43,14 @@
           "link": "https://www.youtube.com/watch?v=qBS7fs-BoaE",
           "thumbnail": "https://i.ytimg.com/vi/qBS7fs-BoaE/hqdefault.jpg",
           "published": "2026-08-09T05:36:36Z"
+        },
+        {
+          "title": "2026 Discmania Challenge | MPO FINALF9 | Smith, Schultz, Turner, Buhr | Jomez Disc Golf",
+          "video_id": "_9I-CEiXRjE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=_9I-CEiXRjE",
+          "thumbnail": "https://i.ytimg.com/vi/_9I-CEiXRjE/hqdefault.jpg",
+          "published": "2026-08-10T07:01:25Z"
         }
       ]
     },
