@@ -1,8 +1,8 @@
 {
  "_meta": {
   "source": "DiscIt API (discit-api.fly.dev)",
-  "count": 1205,
-  "built": "2026-08-03",
+  "count": 1206,
+  "built": "2026-08-10",
   "fields": "brand, mold, type, speed/glide/turn/fade, stability, pic"
  },
  "discs": [
@@ -214,17 +214,6 @@
    "fade": 1,
    "stability": "Understable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/6568887.webp"
-  },
-  {
-   "brand": "AquaFlight",
-   "mold": "Osprey",
-   "type": "Distance Driver",
-   "speed": 12,
-   "glide": 4,
-   "turn": -1,
-   "fade": 2,
-   "stability": "Overstable",
-   "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/9525843.webp"
   },
   {
    "brand": "AquaFlight",
@@ -2326,6 +2315,17 @@
    "fade": 3,
    "stability": "Overstable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/5356888.webp"
+  },
+  {
+   "brand": "Discmania",
+   "mold": "Premier Cloudbreaker",
+   "type": "Distance Driver",
+   "speed": 12,
+   "glide": 5,
+   "turn": 0,
+   "fade": 3,
+   "stability": "Overstable",
+   "pic": ""
   },
   {
    "brand": "Discmania",
@@ -6770,6 +6770,17 @@
    "fade": 2,
    "stability": "Stable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/4391594.webp"
+  },
+  {
+   "brand": "Innova",
+   "mold": "Sync",
+   "type": "Putter",
+   "speed": 3,
+   "glide": 3,
+   "turn": 0,
+   "fade": 1,
+   "stability": "Stable",
+   "pic": ""
   },
   {
    "brand": "Innova",
