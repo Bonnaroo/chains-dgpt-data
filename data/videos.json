@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-08-12T05:14:47.560119+00:00",
+  "updated_at": "2026-08-12T06:43:13.471105+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
-  "tournaments": []
+  "tournaments": [
+    {
+      "tournament": "2026 Kansas City Wide Open",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLZ1LrAadOyA0xxoHKcRdbi7ff0zs6HENq",
+      "video_count": 6,
+      "round_count": 4,
+      "practice_count": 2,
+      "videos": [
+        {
+          "title": "2026 Kansas City Wide Open | MPO R1F9 | Buhr, Barela, Lizotte, Hammes | Jomez Disc Golf",
+          "video_id": "zg1-joM1W6M",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=zg1-joM1W6M",
+          "thumbnail": "https://i.ytimg.com/vi/zg1-joM1W6M/hqdefault.jpg",
+          "published": "2026-04-25T07:09:04Z"
+        },
+        {
+          "title": "2026 Kansas City Wide Open  | MPO R1B9 | Buhr, Barela, Lizotte, Hammes | Jomez Disc Golf",
+          "video_id": "s4H-aeXc_Oo",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=s4H-aeXc_Oo",
+          "thumbnail": "https://i.ytimg.com/vi/s4H-aeXc_Oo/hqdefault.jpg",
+          "published": "2026-04-25T07:11:00Z"
+        },
+        {
+          "title": "2026 Kansas City Wide Open  | MPO R2F9 | Wysocki, Redalen, Heimburg, Buhr | Jomez Disc Golf",
+          "video_id": "NUPkvRoX6rs",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=NUPkvRoX6rs",
+          "thumbnail": "https://i.ytimg.com/vi/NUPkvRoX6rs/hqdefault.jpg",
+          "published": "2026-04-26T06:24:04Z"
+        },
+        {
+          "title": "2026 Kansas City Wide Open  | MPO R2B9 |  Wysocki, Redalen, Heimburg, Buhr | Jomez Disc Golf",
+          "video_id": "UM171ykMvKs",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=UM171ykMvKs",
+          "thumbnail": "https://i.ytimg.com/vi/UM171ykMvKs/hqdefault.jpg",
+          "published": "2026-04-26T06:26:19Z"
+        },
+        {
+          "title": "2026 Kansas City Wide Open | MPO FINAL9 | Redalen, Heimburg, Buhr, Wysocki | Jomez Disc Golf",
+          "video_id": "Y5wyr8IUnYE",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=Y5wyr8IUnYE",
+          "thumbnail": "https://i.ytimg.com/vi/Y5wyr8IUnYE/hqdefault.jpg",
+          "published": "2026-04-27T04:57:17Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 Kansas City Wide Open | Jomez Disc Golf",
+          "video_id": "nAZTNUbb6pc",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=nAZTNUbb6pc",
+          "thumbnail": "https://i.ytimg.com/vi/nAZTNUbb6pc/hqdefault.jpg",
+          "published": "2026-04-29T15:39:08Z"
+        }
+      ]
+    }
+  ]
 }
