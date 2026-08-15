@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-08-15T13:58:32.717397+00:00",
+  "updated_at": "2026-08-15T14:19:53.732532+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 Doubles Championship @ The Preserve",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLWFjb0cmM-4k",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Doubles Championship @ The Preserve | MPO R1F9 | Buhr/Heimburg, Lizotte/McMahon |Jomez DiscGolf",
+          "video_id": "I8Piw8e3Q6s",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=I8Piw8e3Q6s",
+          "thumbnail": "https://i.ytimg.com/vi/I8Piw8e3Q6s/hqdefault.jpg",
+          "published": "2026-08-15T06:15:55Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve | MPO R1B9 | Buhr/Heimburg, Lizotte/McMahon |Jomez DiscGolf",
+          "video_id": "mHox4Hwpv6s",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=mHox4Hwpv6s",
+          "thumbnail": "https://i.ytimg.com/vi/mHox4Hwpv6s/hqdefault.jpg",
+          "published": "2026-08-15T06:50:39Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 Discmania Challenge",
       "year": "2026",
