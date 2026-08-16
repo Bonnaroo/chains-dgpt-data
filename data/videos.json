@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:59:32.931942+00:00",
+  "updated_at": "2026-08-16T14:23:33.622779+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLWFjb0cmM-4k",
-      "video_count": 2,
-      "round_count": 2,
+      "video_count": 4,
+      "round_count": 4,
       "practice_count": 0,
       "videos": [
         {
@@ -27,6 +27,22 @@
           "link": "https://www.youtube.com/watch?v=mHox4Hwpv6s",
           "thumbnail": "https://i.ytimg.com/vi/mHox4Hwpv6s/hqdefault.jpg",
           "published": "2026-08-15T06:50:39Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPO R2F9| Oberholtzer Hess/Longenecker, White/Orum | Jomez",
+          "video_id": "iseVw2lQlNQ",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=iseVw2lQlNQ",
+          "thumbnail": "https://i.ytimg.com/vi/iseVw2lQlNQ/hqdefault.jpg",
+          "published": "2026-08-16T08:18:00Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPO R2B9| Oberholtzer Hess/Longenecker, White/Orum | Jomez",
+          "video_id": "r-RkSLDLy6Q",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=r-RkSLDLy6Q",
+          "thumbnail": "https://i.ytimg.com/vi/r-RkSLDLy6Q/hqdefault.jpg",
+          "published": "2026-08-16T08:19:20Z"
         }
       ]
     },
