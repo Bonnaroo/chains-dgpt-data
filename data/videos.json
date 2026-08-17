@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:53:35.863499+00:00",
+  "updated_at": "2026-08-17T14:19:00.339497+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,9 +8,9 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLWFjb0cmM-4k",
-      "video_count": 4,
+      "video_count": 6,
       "round_count": 4,
-      "practice_count": 0,
+      "practice_count": 2,
       "videos": [
         {
           "title": "2026 Doubles Championship @ The Preserve | MPO R1F9 | Buhr/Heimburg, Lizotte/McMahon |Jomez DiscGolf",
@@ -43,6 +43,22 @@
           "link": "https://www.youtube.com/watch?v=r-RkSLDLy6Q",
           "thumbnail": "https://i.ytimg.com/vi/r-RkSLDLy6Q/hqdefault.jpg",
           "published": "2026-08-16T08:19:20Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPOFINALF9| Robinson/Robinson, Buhr/Heimburg, Schultz/Love",
+          "video_id": "qrn1cBbSwMs",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=qrn1cBbSwMs",
+          "thumbnail": "https://i.ytimg.com/vi/qrn1cBbSwMs/hqdefault.jpg",
+          "published": "2026-08-17T08:10:04Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPOFINALB9| Robinson/Robinson, Buhr/Heimburg, Schultz/Love",
+          "video_id": "oyMnNCRt9jg",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=oyMnNCRt9jg",
+          "thumbnail": "https://i.ytimg.com/vi/oyMnNCRt9jg/hqdefault.jpg",
+          "published": "2026-08-17T08:34:55Z"
         }
       ]
     },
