@@ -1,66 +1,6 @@
 {
-  "updated_at": "2026-08-18T04:05:10.986332+00:00",
+  "updated_at": "2026-08-18T04:49:47.855096+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
-  "tournaments": [
-    {
-      "tournament": "2026 Doubles Championship @ The Preserve",
-      "year": "2026",
-      "channel": "JomezPro",
-      "playlist_id": "PLWFjb0cmM-4k",
-      "video_count": 6,
-      "round_count": 4,
-      "practice_count": 2,
-      "videos": [
-        {
-          "title": "2026 Doubles Championship @ The Preserve | MPO R1F9 | Buhr/Heimburg, Lizotte/McMahon |Jomez DiscGolf",
-          "video_id": "I8Piw8e3Q6s",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=I8Piw8e3Q6s",
-          "thumbnail": "https://i.ytimg.com/vi/I8Piw8e3Q6s/hqdefault.jpg",
-          "published": "2026-08-15T06:15:55Z"
-        },
-        {
-          "title": "2026 Doubles Championship @ The Preserve | MPO R1B9 | Buhr/Heimburg, Lizotte/McMahon |Jomez DiscGolf",
-          "video_id": "mHox4Hwpv6s",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=mHox4Hwpv6s",
-          "thumbnail": "https://i.ytimg.com/vi/mHox4Hwpv6s/hqdefault.jpg",
-          "published": "2026-08-15T06:50:39Z"
-        },
-        {
-          "title": "2026 Doubles Championship @ The Preserve |MPO R2F9| Oberholtzer Hess/Longenecker, White/Orum | Jomez",
-          "video_id": "iseVw2lQlNQ",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=iseVw2lQlNQ",
-          "thumbnail": "https://i.ytimg.com/vi/iseVw2lQlNQ/hqdefault.jpg",
-          "published": "2026-08-16T08:18:00Z"
-        },
-        {
-          "title": "2026 Doubles Championship @ The Preserve |MPO R2B9| Oberholtzer Hess/Longenecker, White/Orum | Jomez",
-          "video_id": "r-RkSLDLy6Q",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=r-RkSLDLy6Q",
-          "thumbnail": "https://i.ytimg.com/vi/r-RkSLDLy6Q/hqdefault.jpg",
-          "published": "2026-08-16T08:19:20Z"
-        },
-        {
-          "title": "2026 Doubles Championship @ The Preserve |MPOFINALF9| Robinson/Robinson, Buhr/Heimburg, Schultz/Love",
-          "video_id": "qrn1cBbSwMs",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=qrn1cBbSwMs",
-          "thumbnail": "https://i.ytimg.com/vi/qrn1cBbSwMs/hqdefault.jpg",
-          "published": "2026-08-17T08:10:04Z"
-        },
-        {
-          "title": "2026 Doubles Championship @ The Preserve |MPOFINALB9| Robinson/Robinson, Buhr/Heimburg, Schultz/Love",
-          "video_id": "oyMnNCRt9jg",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=oyMnNCRt9jg",
-          "thumbnail": "https://i.ytimg.com/vi/oyMnNCRt9jg/hqdefault.jpg",
-          "published": "2026-08-17T08:34:55Z"
-        }
-      ]
-    }
-  ]
+  "tournaments": []
 }
