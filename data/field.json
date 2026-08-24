@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-24T23:16:02.751258+00:00",
+  "updated_at": "2026-08-24T23:38:40.024088+00:00",
   "event_tag": "T17",
   "event_id": 97344,
   "player_count": 208,
   "roster_hash": "4eb543ad52a3",
   "count_changed_at": "2026-08-24T23:06:32.713388+00:00",
-  "stable_hours": 0.2,
+  "stable_hours": 0.5,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
     {
