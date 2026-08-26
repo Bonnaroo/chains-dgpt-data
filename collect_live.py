@@ -180,5 +180,21 @@ def main():
         print(f"  live.json: no live data ({e})")
 
 
+def push_firebase_live():
+    """Also push the poller-shaped payload to Firebase /live, which is what the
+    app's Live Chains screen actually reads. This used to be done only by
+    poller.py running as an always-on loop on a personal machine; when that
+    machine stopped, /live froze on a finished event and Live Chains showed
+    "between tournaments" during a live major. Running it here means the
+    existing every-5-minutes workflow keeps /live fresh with no babysitting.
+    Guarded so a failure here can never break the data/live.json write above."""
+    try:
+        import poller_once
+        print("  firebase /live: " + poller_once.run_once())
+    except Exception as e:
+        print(f"  firebase /live push failed: {e}")
+
+
 if __name__ == "__main__":
     main()
+    push_firebase_live()
