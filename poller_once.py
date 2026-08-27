@@ -133,9 +133,24 @@ def fetch_round(event_id, round_num, meta):
         for L in (pl.get("layouts") or []):
             if isinstance(L, dict) and L.get("Name"):
                 course = L.get("Name"); break
-        pholes = [{"hole": h.get("Hole"), "par": h.get("Par"), "length": h.get("Length")}
+        # Carry the layout's units through. PDGA reports these courses in FEET;
+        # the app defaults a hole with no `unit` to metres and then converts
+        # again, so a 528 ft par 3 rendered as "528 m / 1732 ft".
+        raw_units = None
+        par_total = length_total = None
+        for L in (pl.get("layouts") or []):
+            if isinstance(L, dict) and L.get("Units"):
+                raw_units = L.get("Units")
+                par_total = L.get("Par")
+                length_total = L.get("Length")
+                break
+        unit = "m" if str(raw_units or "").strip().lower().startswith("m") else "ft"
+        pholes = [{"hole": h.get("Hole"), "par": h.get("Par"),
+                   "length": h.get("Length"), "unit": unit}
                   for h in (pl.get("holes") or [])]
-        pool_meta.append({"pool": pname, "course": course, "holes": pholes})
+        pool_meta.append({"pool": pname, "course": course, "unit": unit,
+                          "par_total": par_total, "length_total": length_total,
+                          "holes": pholes})
         for s in (pl.get("scores") or []):
             s["_pool"] = pname
             scores.append(s)
