@@ -81,22 +81,31 @@ def round_label(meta, n):
     return info.get("Label", f"Round {n}")
 
 def build_rounds_list(meta, event_id, latest):
-    """Real rounds only (n <= latest), in order, with labels + archive keys."""
+    """EVERY scheduled round, in order, with labels + archive keys.
+
+    2026-08-26 FIX: this used to skip any round with n > latest ("real rounds
+    only"), so round_count was "rounds played so far" and the app read
+    "Round 2 of 2" during a 5-round major. PDGA's RoundsList carries the full
+    schedule up front - for Worlds that's 1,2,3,4 plus Finals numbered 12 - so
+    the whole list is returned and each entry is flagged `played`. The app
+    builds its round tabs from this list and already tolerates a tab whose
+    archive isn't written yet (loadPastRound catches and marks it "none")."""
     rl = meta.get("RoundsList", {}) or {}
     try:
         nums = sorted(int(k) for k in rl.keys())
     except Exception:
         nums = list(range(1, int(meta.get("Rounds", 3)) + 1))
+    if not nums:
+        nums = list(range(1, int(meta.get("Rounds", 3)) + 1))
     out = []
     for n in nums:
-        if n > latest:
-            continue
         info = rl.get(str(n), {}) or {}
         out.append({
             "n": n,
             "label": info.get("Label", f"Round {n}"),
             "abbr": info.get("LabelAbbreviated", str(n)),
             "key": f"{event_id}-r{n}",
+            "played": n <= latest,
         })
     if not out:
         out = [{"n": latest, "label": round_label(meta, latest),
