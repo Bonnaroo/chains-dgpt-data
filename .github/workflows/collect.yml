@@ -73,5 +73,13 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update DGPT data $(date -u +%Y-%m-%d)"
-            git push
+            # 2026-08-29: the Live Scores workflows push every few minutes, so a
+            # plain push here lost the race several times a day ("Run failed:
+            # Collect DGPT Data" emails). Rebase onto main and retry.
+            for i in 1 2 3 4; do
+              if git push; then break; fi
+              echo "push rejected, rebasing (attempt $i)"
+              git pull --rebase origin main || { git rebase --abort || true; }
+              sleep 5
+            done
           fi

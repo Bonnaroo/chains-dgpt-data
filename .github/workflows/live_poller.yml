@@ -1,0 +1,47 @@
+name: Live Poller (long-running)
+
+# One job stays alive ~5.5h and refreshes Firebase /live every 25s
+# (see poller_loop.py for why: the */5 cron workflows fired only 1-2x/hour
+# during Worlds). Re-dispatches itself when the job ends; the hourly cron is a
+# heartbeat in case a dispatch is lost. The concurrency group guarantees at
+# most one is running at a time (extra triggers just queue behind it).
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+concurrency:
+  group: live-poller
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Poll PDGA -> Firebase /live
+        env:
+          MAX_SECONDS: "19800"
+          POLL_SECONDS: "25"
+        run: python poller_loop.py
+
+      - name: Re-dispatch the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 20
+          gh workflow run live_poller.yml --ref main || echo "dispatch failed (hourly cron will pick it up)"
