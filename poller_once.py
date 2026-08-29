@@ -235,6 +235,29 @@ def backfill_next_completed_event(today):
             print(f"[backfill] event {eid} failed: {e}")
         return True                        # one event per call -> light cycles
 
+def finalize_previous_round(event_id, meta, rounds_list, latest, live_payload):
+    """If the round before `latest` (per rounds_list order) is archived with
+    players still incomplete, re-fetch it and overwrite the archive. Cheap: one
+    read per cycle, and one extra PDGA fetch only while the archive is short."""
+    order = [r["n"] for r in rounds_list]
+    if latest not in order or order.index(latest) == 0:
+        return
+    prev = order[order.index(latest) - 1]
+    key = f"rounds/{event_id}-r{prev}"
+    cur = get_firebase(key)
+    players = (cur or {}).get("players") or []
+    if players and all(p.get("completed") == 1 for p in players):
+        return                              # already final - nothing to do
+    rd = fetch_round(event_id, prev, meta)
+    for k in ("rounds_list", "current_round", "current_round_label",
+              "round_count", "round_index", "event_final"):
+        if k in live_payload:
+            rd[k] = live_payload[k]
+    put_firebase(key, rd)
+    done = sum(1 for p in rd["players"] if p.get("completed") == 1)
+    print(f"[finalize] {key} refreshed ({done}/{len(rd['players'])} completed)")
+
+
 def run_once():
     """One poll cycle: read the schedule, fetch the live round, push to
     Firebase /live (+ archive the current round). Safe to call from cron/CI.
@@ -260,6 +283,16 @@ def run_once():
         put_firebase(f"rounds/{event_id}-r{latest}", live)
     except Exception as e:
         print(f"[archive] {e}")
+    # 2026-08-29 FIX: a finished round's archive is only ever the LAST snapshot
+    # taken while it was the live round. With sparse polling that snapshot could
+    # be hours before the round ended (Worlds R1 archived with 52 players still
+    # on the course, R2 with 80), so the app's past-round tabs showed partial
+    # scores forever. Once the live round moves on, re-fetch the previous
+    # scheduled round until every player is marked completed, then leave it.
+    try:
+        finalize_previous_round(event_id, meta, rounds_list, latest, live)
+    except Exception as e:
+        print(f"[finalize] {e}")
 
     active = len([p for p in live["players"] if p["status"] == "I"])
     return (f"event {event_id} {live['current_round_label']} "
