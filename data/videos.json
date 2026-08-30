@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:32:05.132439+00:00",
+  "updated_at": "2026-08-30T16:58:43.575131+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLN1vM4ryUT0Q",
-      "video_count": 6,
-      "round_count": 6,
+      "video_count": 8,
+      "round_count": 8,
       "practice_count": 0,
       "videos": [
         {
@@ -59,6 +59,22 @@
           "link": "https://www.youtube.com/watch?v=djHHGDy_Pzs",
           "thumbnail": "https://i.ytimg.com/vi/djHHGDy_Pzs/hqdefault.jpg",
           "published": "2026-08-29T07:39:18Z"
+        },
+        {
+          "title": "2026 PDGA Pro Worlds | MPO R4F9 | Monn, Gossage, Anderson, Robinson | Jomez Disc Golf",
+          "video_id": "GOHOi0uvOQQ",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=GOHOi0uvOQQ",
+          "thumbnail": "https://i.ytimg.com/vi/GOHOi0uvOQQ/hqdefault.jpg",
+          "published": "2026-08-30T08:54:25Z"
+        },
+        {
+          "title": "2026 PDGA Pro Worlds | MPO R4B9 | Monn, Gossage, Anderson, Robinson | Jomez Disc Golf",
+          "video_id": "JfTQl6j3Rx0",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=JfTQl6j3Rx0",
+          "thumbnail": "https://i.ytimg.com/vi/JfTQl6j3Rx0/hqdefault.jpg",
+          "published": "2026-08-30T08:55:59Z"
         }
       ]
     },
