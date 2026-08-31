@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-08-30T22:06:09.766218+00:00",
+  "updated_at": "2026-08-31T00:35:50.471794+00:00",
   "event_tag": "T18",
   "event_id": 96417,
   "player_count": 97,
-  "roster_hash": "7cddee612983",
-  "count_changed_at": "2026-08-26T20:02:03.048286+00:00",
-  "stable_hours": 98.1,
+  "roster_hash": "8cda63439520",
+  "count_changed_at": "2026-08-31T00:35:50.471794+00:00",
+  "stable_hours": 0.0,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
+    {
+      "firstName": "Brad",
+      "lastName": "Schick",
+      "pdgaNumber": 7992,
+      "place": 0
+    },
     {
       "firstName": "Maxime",
       "lastName": "Tanghe",
@@ -60,6 +66,12 @@
       "firstName": "Jeremy",
       "lastName": "Koling",
       "pdgaNumber": 33705,
+      "place": 0
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Gill",
+      "pdgaNumber": 33838,
       "place": 0
     },
     {
@@ -141,6 +153,12 @@
       "place": 0
     },
     {
+      "firstName": "Tony",
+      "lastName": "Reiss",
+      "pdgaNumber": 47136,
+      "place": 0
+    },
+    {
       "firstName": "Calvin",
       "lastName": "Caldwell",
       "pdgaNumber": 50024,
@@ -162,12 +180,6 @@
       "firstName": "Ezra",
       "lastName": "Robinson",
       "pdgaNumber": 50671,
-      "place": 0
-    },
-    {
-      "firstName": "Jacob",
-      "lastName": "Blair",
-      "pdgaNumber": 52785,
       "place": 0
     },
     {
@@ -222,12 +234,6 @@
       "firstName": "Alex",
       "lastName": "Berg",
       "pdgaNumber": 65488,
-      "place": 0
-    },
-    {
-      "firstName": "Trevon",
-      "lastName": "Crowe",
-      "pdgaNumber": 67172,
       "place": 0
     },
     {
@@ -309,12 +315,6 @@
       "place": 0
     },
     {
-      "firstName": "Lauri",
-      "lastName": "Lehtinen",
-      "pdgaNumber": 82297,
-      "place": 0
-    },
-    {
       "firstName": "Kyle",
       "lastName": "Klein",
       "pdgaNumber": 85132,
@@ -330,12 +330,6 @@
       "firstName": "Raven",
       "lastName": "Newsom",
       "pdgaNumber": 88212,
-      "place": 0
-    },
-    {
-      "firstName": "Carter",
-      "lastName": "Ahrens",
-      "pdgaNumber": 88279,
       "place": 0
     },
     {
@@ -564,6 +558,12 @@
       "firstName": "Calvin",
       "lastName": "Lonnquist",
       "pdgaNumber": 145206,
+      "place": 0
+    },
+    {
+      "firstName": "Ilkin",
+      "lastName": "Groh",
+      "pdgaNumber": 145831,
       "place": 0
     },
     {
