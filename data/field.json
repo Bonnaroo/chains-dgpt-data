@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-31T13:42:31.689998+00:00",
+  "updated_at": "2026-08-31T19:41:54.441133+00:00",
   "event_tag": "T18",
   "event_id": 96417,
   "player_count": 97,
-  "roster_hash": "8cda63439520",
-  "count_changed_at": "2026-08-31T00:35:50.471794+00:00",
-  "stable_hours": 13.1,
+  "roster_hash": "342ed476cc1a",
+  "count_changed_at": "2026-08-31T19:41:54.441133+00:00",
+  "stable_hours": 0.0,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
     {
@@ -30,12 +30,6 @@
       "firstName": "Matthew",
       "lastName": "Blakely",
       "pdgaNumber": 15410,
-      "place": 0
-    },
-    {
-      "firstName": "Gregory",
-      "lastName": "Barsby",
-      "pdgaNumber": 15857,
       "place": 0
     },
     {
@@ -72,12 +66,6 @@
       "firstName": "Nick",
       "lastName": "Gill",
       "pdgaNumber": 33838,
-      "place": 0
-    },
-    {
-      "firstName": "Paul",
-      "lastName": "Oman",
-      "pdgaNumber": 34344,
       "place": 0
     },
     {
@@ -351,6 +339,12 @@
       "place": 0
     },
     {
+      "firstName": "Daniel",
+      "lastName": "Umbarger",
+      "pdgaNumber": 91003,
+      "place": 0
+    },
+    {
       "firstName": "Miles",
       "lastName": "Sayer",
       "pdgaNumber": 91543,
@@ -588,6 +582,12 @@
       "firstName": "Parker",
       "lastName": "Austin",
       "pdgaNumber": 165881,
+      "place": 0
+    },
+    {
+      "firstName": "Micah",
+      "lastName": "Thompkins",
+      "pdgaNumber": 200610,
       "place": 0
     }
   ]

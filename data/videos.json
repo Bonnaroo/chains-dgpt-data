@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:42:30.625128+00:00",
+  "updated_at": "2026-08-31T19:41:53.743159+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLN1vM4ryUT0Q",
-      "video_count": 8,
-      "round_count": 8,
+      "video_count": 10,
+      "round_count": 10,
       "practice_count": 0,
       "videos": [
         {
@@ -75,6 +75,22 @@
           "link": "https://www.youtube.com/watch?v=JfTQl6j3Rx0",
           "thumbnail": "https://i.ytimg.com/vi/JfTQl6j3Rx0/hqdefault.jpg",
           "published": "2026-08-30T08:55:59Z"
+        },
+        {
+          "title": "2026 PDGA Pro Worlds | MPO FINALF9 | Balodis, Schultz, Gossage, Wysocki | Jomez Disc Golf",
+          "video_id": "XU4u0YrxKKE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=XU4u0YrxKKE",
+          "thumbnail": "https://i.ytimg.com/vi/XU4u0YrxKKE/hqdefault.jpg",
+          "published": "2026-08-31T10:36:33Z"
+        },
+        {
+          "title": "2026 PDGA Pro Worlds | MPO FINALB9 | Balodis, Schultz, Gossage, Wysocki | Jomez Disc Golf",
+          "video_id": "zFND9xNlG2M",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=zFND9xNlG2M",
+          "thumbnail": "https://i.ytimg.com/vi/zFND9xNlG2M/hqdefault.jpg",
+          "published": "2026-08-31T12:30:29Z"
         }
       ]
     },
