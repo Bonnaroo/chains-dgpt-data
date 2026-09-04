@@ -1,17 +1,23 @@
 {
-  "updated_at": "2026-09-04T16:51:44.643324+00:00",
-  "event_tag": "T18",
-  "event_id": 96417,
-  "player_count": 100,
-  "roster_hash": "a351f9c1d156",
-  "count_changed_at": "2026-09-02T22:11:33.146656+00:00",
-  "stable_hours": 42.7,
+  "updated_at": "2026-09-04T19:14:28.866104+00:00",
+  "event_tag": "T19",
+  "event_id": 96418,
+  "player_count": 87,
+  "roster_hash": "6c827f5878cc",
+  "count_changed_at": "2026-09-04T19:14:28.866104+00:00",
+  "stable_hours": 0.0,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
     {
-      "firstName": "Brad",
-      "lastName": "Schick",
-      "pdgaNumber": 7992,
+      "firstName": "Maxime",
+      "lastName": "Tanghe",
+      "pdgaNumber": 8399,
+      "place": 0
+    },
+    {
+      "firstName": "Nikko",
+      "lastName": "Locastro",
+      "pdgaNumber": 11534,
       "place": 0
     },
     {
@@ -21,9 +27,9 @@
       "place": 0
     },
     {
-      "firstName": "Matthew",
-      "lastName": "Blakely",
-      "pdgaNumber": 15410,
+      "firstName": "Gregory",
+      "lastName": "Barsby",
+      "pdgaNumber": 15857,
       "place": 0
     },
     {
@@ -45,9 +51,21 @@
       "place": 0
     },
     {
+      "firstName": "Paul",
+      "lastName": "McBeth",
+      "pdgaNumber": 27523,
+      "place": 0
+    },
+    {
       "firstName": "Bradley",
       "lastName": "Williams",
       "pdgaNumber": 31644,
+      "place": 0
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Koling",
+      "pdgaNumber": 33705,
       "place": 0
     },
     {
@@ -63,9 +81,15 @@
       "place": 0
     },
     {
-      "firstName": "Benjamin",
-      "lastName": "Callaway",
-      "pdgaNumber": 39015,
+      "firstName": "Eagle",
+      "lastName": "McMahon",
+      "pdgaNumber": 37817,
+      "place": 0
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Wysocki",
+      "pdgaNumber": 38008,
       "place": 0
     },
     {
@@ -105,21 +129,9 @@
       "place": 0
     },
     {
-      "firstName": "Tony",
-      "lastName": "Reiss",
-      "pdgaNumber": 47136,
-      "place": 0
-    },
-    {
       "firstName": "Matt",
       "lastName": "Bell",
       "pdgaNumber": 48950,
-      "place": 0
-    },
-    {
-      "firstName": "Calvin",
-      "lastName": "Caldwell",
-      "pdgaNumber": 50024,
       "place": 0
     },
     {
@@ -147,12 +159,6 @@
       "place": 0
     },
     {
-      "firstName": "Jacob",
-      "lastName": "Courtis",
-      "pdgaNumber": 56511,
-      "place": 0
-    },
-    {
       "firstName": "Adam",
       "lastName": "Hammes",
       "pdgaNumber": 57365,
@@ -162,6 +168,12 @@
       "firstName": "Jesse",
       "lastName": "Nieminen",
       "pdgaNumber": 58923,
+      "place": 0
+    },
+    {
+      "firstName": "Joona",
+      "lastName": "Hein\u00e4nen",
+      "pdgaNumber": 58926,
       "place": 0
     },
     {
@@ -192,12 +204,6 @@
       "firstName": "Zach",
       "lastName": "Arlinghaus",
       "pdgaNumber": 65266,
-      "place": 0
-    },
-    {
-      "firstName": "Alex",
-      "lastName": "Berg",
-      "pdgaNumber": 65488,
       "place": 0
     },
     {
@@ -243,15 +249,15 @@
       "place": 0
     },
     {
-      "firstName": "Logan",
-      "lastName": "Plake",
-      "pdgaNumber": 76846,
-      "place": 0
-    },
-    {
       "firstName": "Sullivan",
       "lastName": "Tipton",
       "pdgaNumber": 78817,
+      "place": 0
+    },
+    {
+      "firstName": "Silas",
+      "lastName": "Schultz",
+      "pdgaNumber": 79047,
       "place": 0
     },
     {
@@ -273,9 +279,9 @@
       "place": 0
     },
     {
-      "firstName": "Judah",
-      "lastName": "Berman",
-      "pdgaNumber": 82877,
+      "firstName": "Lauri",
+      "lastName": "Lehtinen",
+      "pdgaNumber": 82297,
       "place": 0
     },
     {
@@ -303,6 +309,12 @@
       "place": 0
     },
     {
+      "firstName": "Wyatt",
+      "lastName": "Mahoney",
+      "pdgaNumber": 89460,
+      "place": 0
+    },
+    {
       "firstName": "Ty",
       "lastName": "Love",
       "pdgaNumber": 89959,
@@ -315,15 +327,15 @@
       "place": 0
     },
     {
-      "firstName": "Daniel",
-      "lastName": "Umbarger",
-      "pdgaNumber": 91003,
+      "firstName": "Niklas",
+      "lastName": "Anttila",
+      "pdgaNumber": 91249,
       "place": 0
     },
     {
-      "firstName": "Miles",
-      "lastName": "Sayer",
-      "pdgaNumber": 91543,
+      "firstName": "Clay",
+      "lastName": "Edwards",
+      "pdgaNumber": 91397,
       "place": 0
     },
     {
@@ -351,21 +363,9 @@
       "place": 0
     },
     {
-      "firstName": "Justin",
-      "lastName": "Rosak",
-      "pdgaNumber": 98161,
-      "place": 0
-    },
-    {
       "firstName": "Jake",
       "lastName": "Monn",
       "pdgaNumber": 98722,
-      "place": 0
-    },
-    {
-      "firstName": "Aidan",
-      "lastName": "Scott",
-      "pdgaNumber": 99246,
       "place": 0
     },
     {
@@ -387,6 +387,12 @@
       "place": 0
     },
     {
+      "firstName": "Evan",
+      "lastName": "Smith",
+      "pdgaNumber": 101574,
+      "place": 0
+    },
+    {
       "firstName": "Luke",
       "lastName": "Taylor",
       "pdgaNumber": 102119,
@@ -396,30 +402,6 @@
       "firstName": "Mauri",
       "lastName": "Villmann",
       "pdgaNumber": 107197,
-      "place": 0
-    },
-    {
-      "firstName": "Kyle",
-      "lastName": "Terwilleger",
-      "pdgaNumber": 111336,
-      "place": 0
-    },
-    {
-      "firstName": "Arek",
-      "lastName": "Robinson",
-      "pdgaNumber": 116050,
-      "place": 0
-    },
-    {
-      "firstName": "Hjalmar",
-      "lastName": "Fredriksson",
-      "pdgaNumber": 116137,
-      "place": 0
-    },
-    {
-      "firstName": "Kol",
-      "lastName": "Patterson",
-      "pdgaNumber": 117390,
       "place": 0
     },
     {
@@ -447,12 +429,6 @@
       "place": 0
     },
     {
-      "firstName": "Axel",
-      "lastName": "Olson",
-      "pdgaNumber": 120743,
-      "place": 0
-    },
-    {
       "firstName": "Ezra",
       "lastName": "Aderhold",
       "pdgaNumber": 121715,
@@ -465,27 +441,9 @@
       "place": 0
     },
     {
-      "firstName": "Hayden",
-      "lastName": "Carroll",
-      "pdgaNumber": 124016,
-      "place": 0
-    },
-    {
-      "firstName": "Gillis",
-      "lastName": "MacDougall",
-      "pdgaNumber": 124607,
-      "place": 0
-    },
-    {
       "firstName": "Eli",
       "lastName": "Swansen",
       "pdgaNumber": 128050,
-      "place": 0
-    },
-    {
-      "firstName": "Lucas",
-      "lastName": "Wright",
-      "pdgaNumber": 129632,
       "place": 0
     },
     {
@@ -516,6 +474,12 @@
       "firstName": "Paul",
       "lastName": "Krans",
       "pdgaNumber": 132521,
+      "place": 0
+    },
+    {
+      "firstName": "James",
+      "lastName": "Collier",
+      "pdgaNumber": 132972,
       "place": 0
     },
     {
@@ -555,12 +519,6 @@
       "place": 0
     },
     {
-      "firstName": "Ilkin",
-      "lastName": "Groh",
-      "pdgaNumber": 145831,
-      "place": 0
-    },
-    {
       "firstName": "Lucas",
       "lastName": "Carmichael",
       "pdgaNumber": 151146,
@@ -570,42 +528,6 @@
       "firstName": "Jaden",
       "lastName": "Rye",
       "pdgaNumber": 153363,
-      "place": 0
-    },
-    {
-      "firstName": "Sawyer",
-      "lastName": "Barlow",
-      "pdgaNumber": 165190,
-      "place": 0
-    },
-    {
-      "firstName": "Parker",
-      "lastName": "Austin",
-      "pdgaNumber": 165881,
-      "place": 0
-    },
-    {
-      "firstName": "Jonas",
-      "lastName": "Zupanic",
-      "pdgaNumber": 168660,
-      "place": 0
-    },
-    {
-      "firstName": "JJ",
-      "lastName": "Campbell",
-      "pdgaNumber": 170839,
-      "place": 0
-    },
-    {
-      "firstName": "Matthew",
-      "lastName": "Brown",
-      "pdgaNumber": 175222,
-      "place": 0
-    },
-    {
-      "firstName": "Camden",
-      "lastName": "Fedders",
-      "pdgaNumber": 241419,
       "place": 0
     }
   ]
