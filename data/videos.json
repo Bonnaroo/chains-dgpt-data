@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-09-05T12:40:44.909345+00:00",
+  "updated_at": "2026-09-05T15:33:06.982977+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 LWS Open @ Idlewild",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLVwMeK04CSbM",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 LWS Open @ Idlewild | MPO R1F9 | Buhr, Robinson, Anderson, Burridge | Jomez Disc Golf",
+          "video_id": "qyq-Y5sn5mo",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=qyq-Y5sn5mo",
+          "thumbnail": "https://i.ytimg.com/vi/qyq-Y5sn5mo/hqdefault.jpg",
+          "published": "2026-09-05T06:50:55Z"
+        },
+        {
+          "title": "2026 LWS Open @ Idlewild  | MPO R1B9 | Buhr, Robinson, Anderson, Burridge | Jomez Disc Golf",
+          "video_id": "cdTYTDC6WnE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=cdTYTDC6WnE",
+          "thumbnail": "https://i.ytimg.com/vi/cdTYTDC6WnE/hqdefault.jpg",
+          "published": "2026-09-05T06:54:42Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 PDGA Pro Worlds",
       "year": "2026",
