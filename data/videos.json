@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:20:56.880122+00:00",
+  "updated_at": "2026-09-06T16:22:02.562713+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLVwMeK04CSbM",
-      "video_count": 2,
-      "round_count": 2,
+      "video_count": 4,
+      "round_count": 4,
       "practice_count": 0,
       "videos": [
         {
@@ -27,6 +27,22 @@
           "link": "https://www.youtube.com/watch?v=cdTYTDC6WnE",
           "thumbnail": "https://i.ytimg.com/vi/cdTYTDC6WnE/hqdefault.jpg",
           "published": "2026-09-05T06:54:42Z"
+        },
+        {
+          "title": "2026 LWS Open @ Idlewild  | MPO R2F9 | Buhr, Dickerson, Nieminen, Queen | Jomez Disc Golf",
+          "video_id": "MjsH62688OE",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=MjsH62688OE",
+          "thumbnail": "https://i.ytimg.com/vi/MjsH62688OE/hqdefault.jpg",
+          "published": "2026-09-06T06:56:56Z"
+        },
+        {
+          "title": "2026 LWS Open @ Idlewild  | MPO R2B9 | Buhr, Dickerson, Nieminen, Queen | Jomez Disc Golf",
+          "video_id": "RAcVRazyvT8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=RAcVRazyvT8",
+          "thumbnail": "https://i.ytimg.com/vi/RAcVRazyvT8/hqdefault.jpg",
+          "published": "2026-09-06T07:02:42Z"
         }
       ]
     },
