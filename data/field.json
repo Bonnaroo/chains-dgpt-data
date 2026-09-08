@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-08T09:16:54.784212+00:00",
+  "updated_at": "2026-09-08T13:44:52.472706+00:00",
   "event_tag": "T19",
   "event_id": 96418,
-  "player_count": 87,
-  "roster_hash": "ab92d9ba9cf5",
-  "count_changed_at": "2026-09-08T04:56:14.827145+00:00",
-  "stable_hours": 4.3,
+  "player_count": 85,
+  "roster_hash": "49f8eaf273a6",
+  "count_changed_at": "2026-09-08T13:44:52.472706+00:00",
+  "stable_hours": 0.0,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
     {
@@ -207,21 +207,9 @@
       "place": 0
     },
     {
-      "firstName": "Nathan",
-      "lastName": "Queen",
-      "pdgaNumber": 68286,
-      "place": 0
-    },
-    {
       "firstName": "Luke",
       "lastName": "Humphries",
       "pdgaNumber": 69424,
-      "place": 0
-    },
-    {
-      "firstName": "Joel",
-      "lastName": "Freeman",
-      "pdgaNumber": 69509,
       "place": 0
     },
     {
@@ -276,12 +264,6 @@
       "firstName": "Casey",
       "lastName": "White",
       "pdgaNumber": 81739,
-      "place": 0
-    },
-    {
-      "firstName": "Lauri",
-      "lastName": "Lehtinen",
-      "pdgaNumber": 82297,
       "place": 0
     },
     {
@@ -399,6 +381,12 @@
       "place": 0
     },
     {
+      "firstName": "Hjalmar",
+      "lastName": "Fredriksson",
+      "pdgaNumber": 116137,
+      "place": 0
+    },
+    {
       "firstName": "Levi",
       "lastName": "Stout",
       "pdgaNumber": 118179,
@@ -450,12 +438,6 @@
       "firstName": "Colin",
       "lastName": "Bryant",
       "pdgaNumber": 130709,
-      "place": 0
-    },
-    {
-      "firstName": "Austen",
-      "lastName": "Bates",
-      "pdgaNumber": 130724,
       "place": 0
     },
     {
@@ -528,6 +510,12 @@
       "firstName": "Sawyer",
       "lastName": "Barlow",
       "pdgaNumber": 165190,
+      "place": 0
+    },
+    {
+      "firstName": "Noah",
+      "lastName": "Feil",
+      "pdgaNumber": 242013,
       "place": 0
     }
   ]
