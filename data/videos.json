@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:59:30.325689+00:00",
+  "updated_at": "2026-09-09T20:33:01.946874+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,9 +8,9 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLVwMeK04CSbM",
-      "video_count": 6,
+      "video_count": 7,
       "round_count": 6,
-      "practice_count": 0,
+      "practice_count": 1,
       "videos": [
         {
           "title": "2026 LWS Open @ Idlewild | MPO R1F9 | Buhr, Robinson, Anderson, Burridge | Jomez Disc Golf",
@@ -59,6 +59,14 @@
           "link": "https://www.youtube.com/watch?v=obrDlZ2tT70",
           "thumbnail": "https://i.ytimg.com/vi/obrDlZ2tT70/hqdefault.jpg",
           "published": "2026-09-07T07:25:18Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 LWS Open @ Idlewild | Jomez Disc Golf",
+          "video_id": "gni17M18dOo",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=gni17M18dOo",
+          "thumbnail": "https://i.ytimg.com/vi/gni17M18dOo/hqdefault.jpg",
+          "published": "2026-09-09T18:57:31Z"
         }
       ]
     },
