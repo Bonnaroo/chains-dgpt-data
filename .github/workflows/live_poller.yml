@@ -38,8 +38,22 @@ jobs:
           POLL_SECONDS: "25"
         run: python poller_loop.py
 
-      - name: Re-dispatch the next run
+      # 2026-09-12: only chain the next run while an event is actually in its
+      # date window. Outside events poller_loop exits after one cycle, and the
+      # unconditional re-dispatch turned that into a 35-second loop that ran
+      # around the clock all season (21,000+ runs). The hourly cron is the
+      # heartbeat between events; the Railway poller covers /live anyway.
+      - name: Still inside an event window?
+        id: window
         if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import poller_loop
+          print("live=" + ("true" if poller_loop.in_event_window() else "false"))
+          PY
+
+      - name: Re-dispatch the next run
+        if: always() && steps.window.outputs.live == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
