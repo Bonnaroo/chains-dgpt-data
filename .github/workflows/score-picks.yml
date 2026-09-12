@@ -1,0 +1,35 @@
+name: Score league picks
+
+# Belt-and-suspenders for the Railway poller's pick scoring: once an event is
+# final (Firebase /rounds_index), fill every named pick's score in
+# /league/keys/picks~46~{t}. Idempotent - only null scores on named picks are
+# touched, so running it alongside Railway is safe. Hourly is plenty; the
+# Railway poller does the same sweep every 5 minutes when it is up.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 * * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: score-picks
+  cancel-in-progress: false
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Score any final event whose picks are missing scores
+        run: python poller_once.py finalize
