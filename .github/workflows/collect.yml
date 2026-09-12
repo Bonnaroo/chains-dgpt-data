@@ -39,12 +39,18 @@ jobs:
             echo "Collecting single event: ${{ github.event.inputs.event_id }}"
             python collect_event.py "${{ github.event.inputs.event_id }}"
           else
-            echo "Refreshing all events listed in events.txt"
+            # 2026-09-12: the event list is derived from data/season.json (every
+            # event that has started) by list_events.py, so results keep flowing
+            # without anyone remembering to append the new event id to events.txt
+            # each week (Worlds + Idlewild were never added, so their results
+            # files never existed). events.txt is still honoured for extras.
+            echo "Refreshing every started event from season.json (+ events.txt extras)"
+            python list_events.py > /tmp/event_ids.txt
+            cat /tmp/event_ids.txt
             while read -r id; do
               [ -z "$id" ] && continue
-              case "$id" in \#*) continue ;; esac
               python collect_event.py "$id" || echo "  (skipped $id)"
-            done < events.txt
+            done < /tmp/event_ids.txt
           fi
 
       - name: Collect news headlines
