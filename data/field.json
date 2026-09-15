@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-15T12:10:13.685088+00:00",
+  "updated_at": "2026-09-15T16:56:38.819800+00:00",
   "event_tag": "T19",
   "event_id": 96418,
-  "player_count": 82,
-  "roster_hash": "f85a32981ccd",
-  "count_changed_at": "2026-09-14T16:43:33.035543+00:00",
-  "stable_hours": 19.4,
+  "player_count": 81,
+  "roster_hash": "ef7a42be77b1",
+  "count_changed_at": "2026-09-15T16:56:38.819800+00:00",
+  "stable_hours": 0.0,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
     {
@@ -156,12 +156,6 @@
       "firstName": "Jesse",
       "lastName": "Nieminen",
       "pdgaNumber": 58923,
-      "place": 0
-    },
-    {
-      "firstName": "Joona",
-      "lastName": "Hein\u00e4nen",
-      "pdgaNumber": 58926,
       "place": 0
     },
     {
