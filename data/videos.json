@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-09-18T11:09:55.269735+00:00",
+  "updated_at": "2026-09-18T14:58:48.730907+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 Green Mountain Championship",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLW0ur709bewE",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 Green Mountain Championship | MPO R1F9 | Buhr, Heimburg, Wysocki, Robinson | Jomez Disc Golf",
+          "video_id": "nYpR9-_TuhA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=nYpR9-_TuhA",
+          "thumbnail": "https://i.ytimg.com/vi/nYpR9-_TuhA/hqdefault.jpg",
+          "published": "2026-09-18T05:02:11Z"
+        },
+        {
+          "title": "2026 Green Mountain Championship  | MPO R1B9 | Buhr, Heimburg, Wysocki, Robinson | Jomez Disc Golf",
+          "video_id": "jC9ZI_5Wig8",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=jC9ZI_5Wig8",
+          "thumbnail": "https://i.ytimg.com/vi/jC9ZI_5Wig8/hqdefault.jpg",
+          "published": "2026-09-18T05:03:47Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 LWS Open @ Idlewild",
       "year": "2026",
