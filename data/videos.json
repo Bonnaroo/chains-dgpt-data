@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:24:57.122381+00:00",
+  "updated_at": "2026-09-19T16:38:50.789243+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLW0ur709bewE",
-      "video_count": 2,
-      "round_count": 2,
+      "video_count": 4,
+      "round_count": 4,
       "practice_count": 0,
       "videos": [
         {
@@ -27,6 +27,22 @@
           "link": "https://www.youtube.com/watch?v=jC9ZI_5Wig8",
           "thumbnail": "https://i.ytimg.com/vi/jC9ZI_5Wig8/hqdefault.jpg",
           "published": "2026-09-18T05:03:47Z"
+        },
+        {
+          "title": "2026 Green Mountain Championship  | MPO R2F9 | McBeth, Heimburg, Buhr, Marwede | Jomez Disc Golf",
+          "video_id": "O83lKy4fgaM",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=O83lKy4fgaM",
+          "thumbnail": "https://i.ytimg.com/vi/O83lKy4fgaM/hqdefault.jpg",
+          "published": "2026-09-19T05:54:55Z"
+        },
+        {
+          "title": "2026 Green Mountain Championship  | MPO R2B9 | McBeth, Heimburg, Buhr, Marwede | Jomez Disc Golf",
+          "video_id": "tYdDPE40l28",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=tYdDPE40l28",
+          "thumbnail": "https://i.ytimg.com/vi/tYdDPE40l28/hqdefault.jpg",
+          "published": "2026-09-19T06:06:07Z"
         }
       ]
     },
