@@ -9,7 +9,7 @@
     122953663,
     122982721
   ],
-  "collected_at": "2026-09-21T00:21:35.478385+00:00",
+  "collected_at": "2026-09-21T05:12:22.659738+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96418/event-division-results/MPO",
   "players": [
     {
@@ -142,10 +142,10 @@
           "rank": 9
         },
         "putting_total_distance_ft": {
-          "value": 1222,
-          "count": 1222,
+          "value": 1236,
+          "count": 1236,
           "opportunities": 72,
-          "rank": 17
+          "rank": 15
         },
         "longest_throw_in": {
           "value": 49,
@@ -154,10 +154,10 @@
           "rank": 50
         },
         "putting_average_distance": {
-          "value": 16.97,
+          "value": 17.17,
           "count": null,
           "opportunities": 72,
-          "rank": 19
+          "rank": 16
         },
         "ob_count": {
           "value": 3,
@@ -789,7 +789,7 @@
           "value": 1224,
           "count": 1224,
           "opportunities": 72,
-          "rank": 16
+          "rank": 17
         },
         "longest_throw_in": {
           "value": 59,
@@ -801,7 +801,7 @@
           "value": 17,
           "count": null,
           "opportunities": 72,
-          "rank": 18
+          "rank": 19
         },
         "ob_count": {
           "value": 7,
@@ -1606,7 +1606,7 @@
           "value": 17.01,
           "count": null,
           "opportunities": 71,
-          "rank": 17
+          "rank": 18
         },
         "ob_count": {
           "value": 10,
@@ -10449,7 +10449,7 @@
           "value": 1229,
           "count": 1229,
           "opportunities": 72,
-          "rank": 15
+          "rank": 16
         },
         "longest_throw_in": {
           "value": 49,
@@ -10461,7 +10461,7 @@
           "value": 17.07,
           "count": null,
           "opportunities": 72,
-          "rank": 16
+          "rank": 17
         },
         "ob_count": {
           "value": 14,
