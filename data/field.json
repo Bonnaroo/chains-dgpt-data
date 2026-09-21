@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-21T16:36:57.046756+00:00",
+  "updated_at": "2026-09-21T20:36:11.941204+00:00",
   "event_tag": "T20",
   "event_id": 96419,
   "player_count": 75,
-  "roster_hash": "0ff4bae57814",
-  "count_changed_at": "2026-09-21T16:36:57.046756+00:00",
+  "roster_hash": "8680585bfc05",
+  "count_changed_at": "2026-09-21T20:36:11.941204+00:00",
   "stable_hours": 0.0,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
@@ -60,6 +60,12 @@
       "firstName": "Aaron",
       "lastName": "Gossage",
       "pdgaNumber": 35449,
+      "place": 0
+    },
+    {
+      "firstName": "Colten",
+      "lastName": "Montgomery",
+      "pdgaNumber": 35876,
       "place": 0
     },
     {
@@ -396,12 +402,6 @@
       "firstName": "Dylan",
       "lastName": "Capaccioli",
       "pdgaNumber": 122655,
-      "place": 0
-    },
-    {
-      "firstName": "Nick",
-      "lastName": "Robertson",
-      "pdgaNumber": 127048,
       "place": 0
     },
     {
