@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:42:42.959617+00:00",
+  "updated_at": "2026-09-21T16:36:56.129698+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLW0ur709bewE",
-      "video_count": 6,
-      "round_count": 6,
+      "video_count": 8,
+      "round_count": 8,
       "practice_count": 0,
       "videos": [
         {
@@ -59,6 +59,22 @@
           "link": "https://www.youtube.com/watch?v=Mk9d_g0sKnU",
           "thumbnail": "https://i.ytimg.com/vi/Mk9d_g0sKnU/hqdefault.jpg",
           "published": "2026-09-20T07:23:12Z"
+        },
+        {
+          "title": "2026 Green Mountain Championship | MPO FINALF9 | Tamm, Newsom, Buhr, Anttila | Jomez Disc Golf",
+          "video_id": "ub79IZZ2yMw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=ub79IZZ2yMw",
+          "thumbnail": "https://i.ytimg.com/vi/ub79IZZ2yMw/hqdefault.jpg",
+          "published": "2026-09-21T06:39:00Z"
+        },
+        {
+          "title": "2026 Green Mountain Championship | MPO FINALB9 | Tamm, Newsom, Buhr, Anttila | Jomez Disc Golf",
+          "video_id": "hheyMe-sKt0",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=hheyMe-sKt0",
+          "thumbnail": "https://i.ytimg.com/vi/hheyMe-sKt0/hqdefault.jpg",
+          "published": "2026-09-21T06:40:40Z"
         }
       ]
     },

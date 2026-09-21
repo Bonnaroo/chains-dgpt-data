@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-09-21T10:42:44.219372+00:00",
+  "updated_at": "2026-09-21T16:36:57.046756+00:00",
   "event_tag": "T20",
   "event_id": 96419,
   "player_count": 75,
-  "roster_hash": "f00ded2c54f9",
-  "count_changed_at": "2026-09-21T00:21:51.934912+00:00",
-  "stable_hours": 10.3,
+  "roster_hash": "0ff4bae57814",
+  "count_changed_at": "2026-09-21T16:36:57.046756+00:00",
+  "stable_hours": 0.0,
   "note": "All registered MPO players. Use as both the 'Who's Registered' display and the draftable pool for this event. stable_hours = how long the roster has been unchanged; over ~24h means registration has effectively settled, though withdrawals can still swap names right up to tee-off.",
   "players": [
-    {
-      "firstName": "MVP OPEN MPO",
-      "lastName": "QUALIFIER",
-      "pdgaNumber": null,
-      "place": 0
-    },
     {
       "firstName": "Simon",
       "lastName": "Lizotte",
@@ -396,6 +390,12 @@
       "firstName": "Joseph",
       "lastName": "Anderson",
       "pdgaNumber": 122356,
+      "place": 0
+    },
+    {
+      "firstName": "Dylan",
+      "lastName": "Capaccioli",
+      "pdgaNumber": 122655,
       "place": 0
     },
     {
