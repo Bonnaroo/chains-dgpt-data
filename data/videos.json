@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-09-25T10:34:13.662813+00:00",
+  "updated_at": "2026-09-25T15:34:19.658535+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 MVP Open X OTB",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLGOQL3nIJMEA",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 MVP Open X OTB | MPO R1F9 | Buhr, Wysocki, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "PQvyvSiQRfo",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=PQvyvSiQRfo",
+          "thumbnail": "https://i.ytimg.com/vi/PQvyvSiQRfo/hqdefault.jpg",
+          "published": "2026-09-25T05:02:00Z"
+        },
+        {
+          "title": "2026 MVP Open X OTB  | MPO R1B9 | Buhr, Wysocki, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "04YLBWmZLdY",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=04YLBWmZLdY",
+          "thumbnail": "https://i.ytimg.com/vi/04YLBWmZLdY/hqdefault.jpg",
+          "published": "2026-09-25T05:04:11Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 Green Mountain Championship",
       "year": "2026",
