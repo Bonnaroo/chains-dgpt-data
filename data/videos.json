@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:20:22.395802+00:00",
+  "updated_at": "2026-09-26T15:03:16.872603+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLGOQL3nIJMEA",
-      "video_count": 2,
-      "round_count": 2,
+      "video_count": 4,
+      "round_count": 4,
       "practice_count": 0,
       "videos": [
         {
@@ -27,6 +27,22 @@
           "link": "https://www.youtube.com/watch?v=04YLBWmZLdY",
           "thumbnail": "https://i.ytimg.com/vi/04YLBWmZLdY/hqdefault.jpg",
           "published": "2026-09-25T05:04:11Z"
+        },
+        {
+          "title": "2026 MVP Open X OTB  | MPO R2F9 | Wysocki, Smith, Aderhold, Anderson | Jomez Disc Golf",
+          "video_id": "bTM7i8RP-LI",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=bTM7i8RP-LI",
+          "thumbnail": "https://i.ytimg.com/vi/bTM7i8RP-LI/hqdefault.jpg",
+          "published": "2026-09-26T05:41:39Z"
+        },
+        {
+          "title": "2026 MVP Open X OTB  | MPO R2B9 | Wysocki, Smith, Aderhold, Anderson | Jomez Disc Golf",
+          "video_id": "1btp7ZSscWU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=1btp7ZSscWU",
+          "thumbnail": "https://i.ytimg.com/vi/1btp7ZSscWU/hqdefault.jpg",
+          "published": "2026-09-26T05:52:06Z"
         }
       ]
     },
