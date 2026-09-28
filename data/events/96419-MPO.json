@@ -8,7 +8,7 @@
     122925585,
     122925586
   ],
-  "collected_at": "2026-09-28T10:10:17.786097+00:00",
+  "collected_at": "2026-09-28T18:09:51.331195+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96419/event-division-results/MPO",
   "players": [
     {
@@ -19,7 +19,7 @@
       "tied": false,
       "total_strokes": 167,
       "to_par": -12,
-      "prize_usd": null,
+      "prize_usd": 14000,
       "points": 760,
       "dnf": false,
       "event_rating": 1066,
@@ -27,19 +27,19 @@
         {
           "round_id": 122925584,
           "score": 51,
-          "rating": null,
+          "rating": 1086,
           "place_after": 1
         },
         {
           "round_id": 122925585,
           "score": 54,
-          "rating": null,
+          "rating": 1064,
           "place_after": 1
         },
         {
           "round_id": 122925586,
           "score": 62,
-          "rating": null,
+          "rating": 1046,
           "place_after": 1
         }
       ],
@@ -174,7 +174,7 @@
       "tied": false,
       "total_strokes": 168,
       "to_par": -11,
-      "prize_usd": null,
+      "prize_usd": 8000,
       "points": 750,
       "dnf": false,
       "event_rating": 1062,
@@ -182,19 +182,19 @@
         {
           "round_id": 122925584,
           "score": 55,
-          "rating": null,
+          "rating": 1057,
           "place_after": 6
         },
         {
           "round_id": 122925585,
           "score": 54,
-          "rating": null,
+          "rating": 1064,
           "place_after": 2
         },
         {
           "round_id": 122925586,
           "score": 59,
-          "rating": null,
+          "rating": 1063,
           "place_after": 2
         }
       ],
@@ -329,7 +329,7 @@
       "tied": false,
       "total_strokes": 170,
       "to_par": -9,
-      "prize_usd": null,
+      "prize_usd": 5500,
       "points": 740,
       "dnf": false,
       "event_rating": 1057,
@@ -337,19 +337,19 @@
         {
           "round_id": 122925584,
           "score": 53,
-          "rating": null,
+          "rating": 1072,
           "place_after": 2
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 3
         },
         {
           "round_id": 122925586,
           "score": 60,
-          "rating": null,
+          "rating": 1058,
           "place_after": 3
         }
       ],
@@ -484,7 +484,7 @@
       "tied": false,
       "total_strokes": 171,
       "to_par": -8,
-      "prize_usd": null,
+      "prize_usd": 4450,
       "points": 730,
       "dnf": false,
       "event_rating": 1055,
@@ -492,19 +492,19 @@
         {
           "round_id": 122925584,
           "score": 54,
-          "rating": null,
+          "rating": 1064,
           "place_after": 5
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 4
         },
         {
           "round_id": 122925586,
           "score": 60,
-          "rating": null,
+          "rating": 1058,
           "place_after": 4
         }
       ],
@@ -639,7 +639,7 @@
       "tied": true,
       "total_strokes": 173,
       "to_par": -6,
-      "prize_usd": null,
+      "prize_usd": 3500,
       "points": 720,
       "dnf": false,
       "event_rating": 1051,
@@ -647,19 +647,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 55,
-          "rating": null,
+          "rating": 1057,
           "place_after": 8
         },
         {
           "round_id": 122925586,
           "score": 61,
-          "rating": null,
+          "rating": 1052,
           "place_after": 5
         }
       ],
@@ -794,7 +794,7 @@
       "tied": true,
       "total_strokes": 173,
       "to_par": -6,
-      "prize_usd": null,
+      "prize_usd": 3500,
       "points": 720,
       "dnf": false,
       "event_rating": 1051,
@@ -802,19 +802,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 54,
-          "rating": null,
+          "rating": 1064,
           "place_after": 4
         },
         {
           "round_id": 122925586,
           "score": 62,
-          "rating": null,
+          "rating": 1046,
           "place_after": 5
         }
       ],
@@ -949,7 +949,7 @@
       "tied": true,
       "total_strokes": 174,
       "to_par": -5,
-      "prize_usd": null,
+      "prize_usd": 2675,
       "points": 700,
       "dnf": false,
       "event_rating": 1049,
@@ -957,19 +957,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 54,
-          "rating": null,
+          "rating": 1064,
           "place_after": 4
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 7
         }
       ],
@@ -1104,7 +1104,7 @@
       "tied": true,
       "total_strokes": 174,
       "to_par": -5,
-      "prize_usd": null,
+      "prize_usd": 2675,
       "points": 700,
       "dnf": false,
       "event_rating": 1048,
@@ -1112,19 +1112,19 @@
         {
           "round_id": 122925584,
           "score": 56,
-          "rating": null,
+          "rating": 1050,
           "place_after": 9
         },
         {
           "round_id": 122925585,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 12
         },
         {
           "round_id": 122925586,
           "score": 60,
-          "rating": null,
+          "rating": 1058,
           "place_after": 7
         }
       ],
@@ -1259,7 +1259,7 @@
       "tied": true,
       "total_strokes": 175,
       "to_par": -4,
-      "prize_usd": null,
+      "prize_usd": 2033,
       "points": 680,
       "dnf": false,
       "event_rating": 1045,
@@ -1267,19 +1267,19 @@
         {
           "round_id": 122925584,
           "score": 55,
-          "rating": null,
+          "rating": 1057,
           "place_after": 6
         },
         {
           "round_id": 122925585,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 59,
-          "rating": null,
+          "rating": 1063,
           "place_after": 9
         }
       ],
@@ -1414,7 +1414,7 @@
       "tied": true,
       "total_strokes": 175,
       "to_par": -4,
-      "prize_usd": null,
+      "prize_usd": 2033,
       "points": 680,
       "dnf": false,
       "event_rating": 1045,
@@ -1422,19 +1422,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 14
         },
         {
           "round_id": 122925586,
           "score": 60,
-          "rating": null,
+          "rating": 1058,
           "place_after": 9
         }
       ],
@@ -1569,7 +1569,7 @@
       "tied": true,
       "total_strokes": 175,
       "to_par": -4,
-      "prize_usd": null,
+      "prize_usd": 2033,
       "points": 680,
       "dnf": false,
       "event_rating": 1046,
@@ -1577,19 +1577,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 56,
-          "rating": null,
+          "rating": 1050,
           "place_after": 12
         },
         {
           "round_id": 122925586,
           "score": 61,
-          "rating": null,
+          "rating": 1052,
           "place_after": 9
         }
       ],
@@ -1724,7 +1724,7 @@
       "tied": true,
       "total_strokes": 176,
       "to_par": -3,
-      "prize_usd": null,
+      "prize_usd": 1616,
       "points": 650,
       "dnf": false,
       "event_rating": 1042,
@@ -1732,19 +1732,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 30
         },
         {
           "round_id": 122925586,
           "score": 58,
-          "rating": null,
+          "rating": 1069,
           "place_after": 12
         }
       ],
@@ -1879,7 +1879,7 @@
       "tied": true,
       "total_strokes": 176,
       "to_par": -3,
-      "prize_usd": null,
+      "prize_usd": 1616,
       "points": 650,
       "dnf": false,
       "event_rating": 1043,
@@ -1887,19 +1887,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 60,
-          "rating": null,
+          "rating": 1058,
           "place_after": 12
         }
       ],
@@ -2034,7 +2034,7 @@
       "tied": true,
       "total_strokes": 176,
       "to_par": -3,
-      "prize_usd": null,
+      "prize_usd": 1616,
       "points": 650,
       "dnf": false,
       "event_rating": 1045,
@@ -2042,19 +2042,19 @@
         {
           "round_id": 122925584,
           "score": 53,
-          "rating": null,
+          "rating": 1072,
           "place_after": 2
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 8
         },
         {
           "round_id": 122925586,
           "score": 64,
-          "rating": null,
+          "rating": 1035,
           "place_after": 12
         }
       ],
@@ -2189,7 +2189,7 @@
       "tied": true,
       "total_strokes": 176,
       "to_par": -3,
-      "prize_usd": null,
+      "prize_usd": 1616,
       "points": 650,
       "dnf": false,
       "event_rating": 1043,
@@ -2197,19 +2197,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 60,
-          "rating": null,
+          "rating": 1058,
           "place_after": 12
         }
       ],
@@ -2344,7 +2344,7 @@
       "tied": false,
       "total_strokes": 178,
       "to_par": -1,
-      "prize_usd": null,
+      "prize_usd": 1380,
       "points": 610,
       "dnf": false,
       "event_rating": 1041,
@@ -2352,19 +2352,19 @@
         {
           "round_id": 122925584,
           "score": 56,
-          "rating": null,
+          "rating": 1050,
           "place_after": 9
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 10
         },
         {
           "round_id": 122925586,
           "score": 65,
-          "rating": null,
+          "rating": 1030,
           "place_after": 16
         }
       ],
@@ -2499,7 +2499,7 @@
       "tied": true,
       "total_strokes": 179,
       "to_par": 0,
-      "prize_usd": null,
+      "prize_usd": 1170,
       "points": 600,
       "dnf": false,
       "event_rating": 1036,
@@ -2507,19 +2507,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 30
         },
         {
           "round_id": 122925586,
           "score": 61,
-          "rating": null,
+          "rating": 1052,
           "place_after": 17
         }
       ],
@@ -2654,7 +2654,7 @@
       "tied": true,
       "total_strokes": 179,
       "to_par": 0,
-      "prize_usd": null,
+      "prize_usd": 1170,
       "points": 600,
       "dnf": false,
       "event_rating": 1037,
@@ -2662,19 +2662,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 17
         }
       ],
@@ -2809,7 +2809,7 @@
       "tied": true,
       "total_strokes": 179,
       "to_par": 0,
-      "prize_usd": null,
+      "prize_usd": 1170,
       "points": 600,
       "dnf": false,
       "event_rating": 1037,
@@ -2817,19 +2817,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 17
         }
       ],
@@ -2964,7 +2964,7 @@
       "tied": true,
       "total_strokes": 179,
       "to_par": 0,
-      "prize_usd": null,
+      "prize_usd": 1170,
       "points": 600,
       "dnf": false,
       "event_rating": 1037,
@@ -2972,19 +2972,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 17
         }
       ],
@@ -3119,7 +3119,7 @@
       "tied": true,
       "total_strokes": 179,
       "to_par": 0,
-      "prize_usd": null,
+      "prize_usd": 1170,
       "points": 600,
       "dnf": false,
       "event_rating": 1038,
@@ -3127,19 +3127,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 14
         },
         {
           "round_id": 122925586,
           "score": 64,
-          "rating": null,
+          "rating": 1035,
           "place_after": 17
         }
       ],
@@ -3274,7 +3274,7 @@
       "tied": true,
       "total_strokes": 180,
       "to_par": 1,
-      "prize_usd": null,
+      "prize_usd": 972,
       "points": 550,
       "dnf": false,
       "event_rating": 1035,
@@ -3282,19 +3282,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 27
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 22
         }
       ],
@@ -3429,7 +3429,7 @@
       "tied": true,
       "total_strokes": 180,
       "to_par": 1,
-      "prize_usd": null,
+      "prize_usd": 972,
       "points": 550,
       "dnf": false,
       "event_rating": 1035,
@@ -3437,19 +3437,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 22
         }
       ],
@@ -3584,7 +3584,7 @@
       "tied": true,
       "total_strokes": 180,
       "to_par": 1,
-      "prize_usd": null,
+      "prize_usd": 972,
       "points": 550,
       "dnf": false,
       "event_rating": 1038,
@@ -3592,19 +3592,19 @@
         {
           "round_id": 122925584,
           "score": 53,
-          "rating": null,
+          "rating": 1072,
           "place_after": 2
         },
         {
           "round_id": 122925585,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 4
         },
         {
           "round_id": 122925586,
           "score": 69,
-          "rating": null,
+          "rating": 1008,
           "place_after": 22
         }
       ],
@@ -3739,7 +3739,7 @@
       "tied": true,
       "total_strokes": 181,
       "to_par": 2,
-      "prize_usd": null,
+      "prize_usd": 862,
       "points": 520,
       "dnf": false,
       "event_rating": 1035,
@@ -3747,19 +3747,19 @@
         {
           "round_id": 122925584,
           "score": 56,
-          "rating": null,
+          "rating": 1050,
           "place_after": 9
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 10
         },
         {
           "round_id": 122925586,
           "score": 68,
-          "rating": null,
+          "rating": 1013,
           "place_after": 25
         }
       ],
@@ -3894,7 +3894,7 @@
       "tied": true,
       "total_strokes": 181,
       "to_par": 2,
-      "prize_usd": null,
+      "prize_usd": 862,
       "points": 520,
       "dnf": false,
       "event_rating": 1032,
@@ -3902,19 +3902,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 62,
-          "rating": null,
+          "rating": 1046,
           "place_after": 25
         }
       ],
@@ -4049,7 +4049,7 @@
       "tied": true,
       "total_strokes": 181,
       "to_par": 2,
-      "prize_usd": null,
+      "prize_usd": 862,
       "points": 520,
       "dnf": false,
       "event_rating": 1033,
@@ -4057,19 +4057,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 65,
-          "rating": null,
+          "rating": 1030,
           "place_after": 25
         }
       ],
@@ -4204,7 +4204,7 @@
       "tied": true,
       "total_strokes": 181,
       "to_par": 2,
-      "prize_usd": null,
+      "prize_usd": 862,
       "points": 520,
       "dnf": false,
       "event_rating": 1034,
@@ -4212,19 +4212,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 14
         },
         {
           "round_id": 122925586,
           "score": 66,
-          "rating": null,
+          "rating": 1024,
           "place_after": 25
         }
       ],
@@ -4359,7 +4359,7 @@
       "tied": false,
       "total_strokes": 182,
       "to_par": 3,
-      "prize_usd": null,
+      "prize_usd": 800,
       "points": 480,
       "dnf": false,
       "event_rating": 1032,
@@ -4367,19 +4367,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 56,
-          "rating": null,
+          "rating": 1050,
           "place_after": 14
         },
         {
           "round_id": 122925586,
           "score": 67,
-          "rating": null,
+          "rating": 1019,
           "place_after": 29
         }
       ],
@@ -4514,7 +4514,7 @@
       "tied": true,
       "total_strokes": 183,
       "to_par": 4,
-      "prize_usd": null,
+      "prize_usd": 385,
       "points": 470,
       "dnf": false,
       "event_rating": 1030,
@@ -4522,19 +4522,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 56,
-          "rating": null,
+          "rating": 1050,
           "place_after": 14
         },
         {
           "round_id": 122925586,
           "score": 68,
-          "rating": null,
+          "rating": 1013,
           "place_after": 30
         }
       ],
@@ -4669,7 +4669,7 @@
       "tied": true,
       "total_strokes": 183,
       "to_par": 4,
-      "prize_usd": null,
+      "prize_usd": 385,
       "points": 470,
       "dnf": false,
       "event_rating": 1028,
@@ -4677,19 +4677,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 64,
-          "rating": null,
+          "rating": 1035,
           "place_after": 30
         }
       ],
@@ -4824,7 +4824,7 @@
       "tied": true,
       "total_strokes": 183,
       "to_par": 4,
-      "prize_usd": null,
+      "prize_usd": 385,
       "points": 470,
       "dnf": false,
       "event_rating": 1028,
@@ -4832,19 +4832,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 64,
-          "rating": null,
+          "rating": 1035,
           "place_after": 30
         }
       ],
@@ -4979,7 +4979,7 @@
       "tied": true,
       "total_strokes": 183,
       "to_par": 4,
-      "prize_usd": null,
+      "prize_usd": 385,
       "points": 470,
       "dnf": false,
       "event_rating": 1028,
@@ -4987,19 +4987,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 43
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 30
         }
       ],
@@ -5142,19 +5142,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 27
         },
         {
           "round_id": 122925586,
           "score": 67,
-          "rating": null,
+          "rating": 1019,
           "place_after": 34
         }
       ],
@@ -5297,19 +5297,19 @@
         {
           "round_id": 122925584,
           "score": 55,
-          "rating": null,
+          "rating": 1057,
           "place_after": 6
         },
         {
           "round_id": 122925585,
           "score": 66,
-          "rating": null,
+          "rating": 978,
           "place_after": 47
         },
         {
           "round_id": 122925586,
           "score": 63,
-          "rating": null,
+          "rating": 1041,
           "place_after": 34
         }
       ],
@@ -5452,19 +5452,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 65,
-          "rating": null,
+          "rating": 1030,
           "place_after": 34
         }
       ],
@@ -5607,19 +5607,19 @@
         {
           "round_id": 122925584,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 73
         },
         {
           "round_id": 122925585,
           "score": 54,
-          "rating": null,
+          "rating": 1064,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 66,
-          "rating": null,
+          "rating": 1024,
           "place_after": 37
         }
       ],
@@ -5762,19 +5762,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 19
         },
         {
           "round_id": 122925586,
           "score": 69,
-          "rating": null,
+          "rating": 1008,
           "place_after": 37
         }
       ],
@@ -5917,19 +5917,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 67,
-          "rating": null,
+          "rating": 1019,
           "place_after": 39
         }
       ],
@@ -6072,19 +6072,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 50
         },
         {
           "round_id": 122925586,
           "score": 64,
-          "rating": null,
+          "rating": 1035,
           "place_after": 39
         }
       ],
@@ -6227,19 +6227,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 50
         },
         {
           "round_id": 122925586,
           "score": 64,
-          "rating": null,
+          "rating": 1035,
           "place_after": 39
         }
       ],
@@ -6382,19 +6382,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 43
         },
         {
           "round_id": 122925586,
           "score": 66,
-          "rating": null,
+          "rating": 1024,
           "place_after": 39
         }
       ],
@@ -6537,19 +6537,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 50
         },
         {
           "round_id": 122925586,
           "score": 65,
-          "rating": null,
+          "rating": 1030,
           "place_after": 43
         }
       ],
@@ -6692,19 +6692,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 69,
-          "rating": null,
+          "rating": 1008,
           "place_after": 44
         }
       ],
@@ -6847,19 +6847,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 69,
-          "rating": null,
+          "rating": 1008,
           "place_after": 44
         }
       ],
@@ -7002,19 +7002,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 43
         },
         {
           "round_id": 122925586,
           "score": 68,
-          "rating": null,
+          "rating": 1013,
           "place_after": 44
         }
       ],
@@ -7157,19 +7157,19 @@
         {
           "round_id": 122925584,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 64
         },
         {
           "round_id": 122925585,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 43
         },
         {
           "round_id": 122925586,
           "score": 68,
-          "rating": null,
+          "rating": 1013,
           "place_after": 44
         }
       ],
@@ -7312,19 +7312,19 @@
         {
           "round_id": 122925584,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 68
         },
         {
           "round_id": 122925585,
           "score": 55,
-          "rating": null,
+          "rating": 1057,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 70,
-          "rating": null,
+          "rating": 1002,
           "place_after": 48
         }
       ],
@@ -7467,19 +7467,19 @@
         {
           "round_id": 122925584,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 68
         },
         {
           "round_id": 122925585,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 59
         },
         {
           "round_id": 122925586,
           "score": 66,
-          "rating": null,
+          "rating": 1024,
           "place_after": 49
         }
       ],
@@ -7622,19 +7622,19 @@
         {
           "round_id": 122925584,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 52
         },
         {
           "round_id": 122925585,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 50
         },
         {
           "round_id": 122925586,
           "score": 68,
-          "rating": null,
+          "rating": 1013,
           "place_after": 49
         }
       ],
@@ -7777,19 +7777,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 57
         },
         {
           "round_id": 122925586,
           "score": 69,
-          "rating": null,
+          "rating": 1008,
           "place_after": 51
         }
       ],
@@ -7932,19 +7932,19 @@
         {
           "round_id": 122925584,
           "score": 58,
-          "rating": null,
+          "rating": 1036,
           "place_after": 27
         },
         {
           "round_id": 122925585,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 30
         },
         {
           "round_id": 122925586,
           "score": 74,
-          "rating": null,
+          "rating": 980,
           "place_after": 51
         }
       ],
@@ -8087,19 +8087,19 @@
         {
           "round_id": 122925584,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 50
         },
         {
           "round_id": 122925585,
           "score": 67,
-          "rating": null,
+          "rating": 971,
           "place_after": 67
         },
         {
           "round_id": 122925586,
           "score": 66,
-          "rating": null,
+          "rating": 1024,
           "place_after": 53
         }
       ],
@@ -8242,19 +8242,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 62
         },
         {
           "round_id": 122925586,
           "score": 69,
-          "rating": null,
+          "rating": 1008,
           "place_after": 54
         }
       ],
@@ -8397,19 +8397,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 33
         },
         {
           "round_id": 122925586,
           "score": 75,
-          "rating": null,
+          "rating": 974,
           "place_after": 54
         }
       ],
@@ -8552,19 +8552,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 50
         },
         {
           "round_id": 122925586,
           "score": 73,
-          "rating": null,
+          "rating": 986,
           "place_after": 56
         }
       ],
@@ -8707,19 +8707,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 65
         },
         {
           "round_id": 122925586,
           "score": 69,
-          "rating": null,
+          "rating": 1008,
           "place_after": 56
         }
       ],
@@ -8862,19 +8862,19 @@
         {
           "round_id": 122925584,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 64
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 50
         },
         {
           "round_id": 122925586,
           "score": 74,
-          "rating": null,
+          "rating": 980,
           "place_after": 58
         }
       ],
@@ -9017,19 +9017,19 @@
         {
           "round_id": 122925584,
           "score": 57,
-          "rating": null,
+          "rating": 1043,
           "place_after": 13
         },
         {
           "round_id": 122925585,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 50
         },
         {
           "round_id": 122925586,
           "score": 74,
-          "rating": null,
+          "rating": 980,
           "place_after": 58
         }
       ],
@@ -9172,19 +9172,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 67
         },
         {
           "round_id": 122925586,
           "score": 70,
-          "rating": null,
+          "rating": 1002,
           "place_after": 60
         }
       ],
@@ -9327,19 +9327,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 62
         },
         {
           "round_id": 122925586,
           "score": 72,
-          "rating": null,
+          "rating": 991,
           "place_after": 60
         }
       ],
@@ -9482,19 +9482,19 @@
         {
           "round_id": 122925584,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 73
         },
         {
           "round_id": 122925585,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 59
         },
         {
           "round_id": 122925586,
           "score": 73,
-          "rating": null,
+          "rating": 986,
           "place_after": 60
         }
       ],
@@ -9637,19 +9637,19 @@
         {
           "round_id": 122925584,
           "score": 59,
-          "rating": null,
+          "rating": 1028,
           "place_after": 39
         },
         {
           "round_id": 122925585,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 47
         },
         {
           "round_id": 122925586,
           "score": 77,
-          "rating": null,
+          "rating": 963,
           "place_after": 63
         }
       ],
@@ -9792,19 +9792,19 @@
         {
           "round_id": 122925584,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 52
         },
         {
           "round_id": 122925585,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 57
         },
         {
           "round_id": 122925586,
           "score": 76,
-          "rating": null,
+          "rating": 969,
           "place_after": 64
         }
       ],
@@ -9947,19 +9947,19 @@
         {
           "round_id": 122925584,
           "score": 60,
-          "rating": null,
+          "rating": 1021,
           "place_after": 50
         },
         {
           "round_id": 122925585,
           "score": 67,
-          "rating": null,
+          "rating": 971,
           "place_after": 67
         },
         {
           "round_id": 122925586,
           "score": 72,
-          "rating": null,
+          "rating": 991,
           "place_after": 64
         }
       ],
@@ -10102,19 +10102,19 @@
         {
           "round_id": 122925584,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 68
         },
         {
           "round_id": 122925585,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 65
         },
         {
           "round_id": 122925586,
           "score": 74,
-          "rating": null,
+          "rating": 980,
           "place_after": 66
         }
       ],
@@ -10257,19 +10257,19 @@
         {
           "round_id": 122925584,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 68
         },
         {
           "round_id": 122925585,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 71
         },
         {
           "round_id": 122925586,
           "score": 74,
-          "rating": null,
+          "rating": 980,
           "place_after": 67
         }
       ],
@@ -10412,19 +10412,19 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 62
         },
         {
           "round_id": 122925586,
           "score": 77,
-          "rating": null,
+          "rating": 963,
           "place_after": 67
         }
       ],
@@ -10567,19 +10567,19 @@
         {
           "round_id": 122925584,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 64
         },
         {
           "round_id": 122925585,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 71
         },
         {
           "round_id": 122925586,
           "score": 74,
-          "rating": null,
+          "rating": 980,
           "place_after": 67
         }
       ],
@@ -10722,19 +10722,19 @@
         {
           "round_id": 122925584,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 52
         },
         {
           "round_id": 122925585,
           "score": 66,
-          "rating": null,
+          "rating": 978,
           "place_after": 67
         },
         {
           "round_id": 122925586,
           "score": 75,
-          "rating": null,
+          "rating": 974,
           "place_after": 67
         }
       ],
@@ -10864,7 +10864,7 @@
     {
       "pdga_number": 99648,
       "first_name": "Connor",
-      "last_name": "O\u2019Reilly",
+      "last_name": "O'Reilly",
       "place": 71,
       "tied": false,
       "total_strokes": 211,
@@ -10877,19 +10877,19 @@
         {
           "round_id": 122925584,
           "score": 69,
-          "rating": null,
+          "rating": 957,
           "place_after": 76
         },
         {
           "round_id": 122925585,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 74
         },
         {
           "round_id": 122925586,
           "score": 78,
-          "rating": null,
+          "rating": 958,
           "place_after": 71
         }
       ],
@@ -11032,13 +11032,13 @@
         {
           "round_id": 122925584,
           "score": 64,
-          "rating": null,
+          "rating": 992,
           "place_after": 68
         },
         {
           "round_id": 122925585,
           "score": 70,
-          "rating": null,
+          "rating": 949,
           "place_after": 76
         },
         {
@@ -11187,13 +11187,13 @@
         {
           "round_id": 122925584,
           "score": 66,
-          "rating": null,
+          "rating": 978,
           "place_after": 75
         },
         {
           "round_id": 122925585,
           "score": 67,
-          "rating": null,
+          "rating": 971,
           "place_after": 74
         },
         {
@@ -11342,13 +11342,13 @@
         {
           "round_id": 122925584,
           "score": 63,
-          "rating": null,
+          "rating": 1000,
           "place_after": 64
         },
         {
           "round_id": 122925585,
           "score": 61,
-          "rating": null,
+          "rating": 1014,
           "place_after": 59
         },
         {
@@ -11497,13 +11497,13 @@
         {
           "round_id": 122925584,
           "score": 62,
-          "rating": null,
+          "rating": 1007,
           "place_after": 55
         },
         {
           "round_id": 122925585,
           "score": 66,
-          "rating": null,
+          "rating": 978,
           "place_after": 71
         },
         {
@@ -11652,13 +11652,13 @@
         {
           "round_id": 122925584,
           "score": 56,
-          "rating": null,
+          "rating": 1050,
           "place_after": 9
         },
         {
           "round_id": 122925585,
           "score": 65,
-          "rating": null,
+          "rating": 985,
           "place_after": 47
         },
         {
