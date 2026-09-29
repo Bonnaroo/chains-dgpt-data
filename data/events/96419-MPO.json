@@ -8,7 +8,7 @@
     122925585,
     122925586
   ],
-  "collected_at": "2026-09-28T23:14:25.854384+00:00",
+  "collected_at": "2026-09-29T02:35:43.474738+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/96419/event-division-results/MPO",
   "players": [
     {
@@ -84,7 +84,7 @@
           "value": 94.59,
           "count": 35,
           "opportunities": 37,
-          "rank": 4
+          "rank": 5
         },
         "c2_putting_pct": {
           "value": 25,
@@ -2403,13 +2403,13 @@
           "value": 97.96,
           "count": 48,
           "opportunities": 49,
-          "rank": 2
+          "rank": 3
         },
         "c1x_putting_pct": {
           "value": 96.43,
           "count": 27,
           "opportunities": 28,
-          "rank": 1
+          "rank": 2
         },
         "c2_putting_pct": {
           "value": 31.58,
@@ -4108,13 +4108,13 @@
           "value": 98.08,
           "count": 51,
           "opportunities": 52,
-          "rank": 1
+          "rank": 2
         },
         "c1x_putting_pct": {
           "value": 96.3,
           "count": 26,
           "opportunities": 27,
-          "rank": 2
+          "rank": 3
         },
         "c2_putting_pct": {
           "value": 21.43,
@@ -6120,22 +6120,22 @@
           "rank": 11
         },
         "c1_putting_pct": {
-          "value": 96.36,
+          "value": 98.15,
           "count": 53,
-          "opportunities": 55,
-          "rank": 4
+          "opportunities": 54,
+          "rank": 1
         },
         "c1x_putting_pct": {
-          "value": 93.75,
+          "value": 96.77,
           "count": 30,
-          "opportunities": 32,
-          "rank": 5
+          "opportunities": 31,
+          "rank": 1
         },
         "c2_putting_pct": {
-          "value": 9.09,
+          "value": 8.33,
           "count": 1,
-          "opportunities": 11,
-          "rank": 62
+          "opportunities": 12,
+          "rank": 64
         },
         "ob_rate_pct": {
           "value": 9.26,
@@ -9533,13 +9533,13 @@
           "value": 97.3,
           "count": 36,
           "opportunities": 37,
-          "rank": 3
+          "rank": 4
         },
         "c1x_putting_pct": {
           "value": 95.83,
           "count": 23,
           "opportunities": 24,
-          "rank": 3
+          "rank": 4
         },
         "c2_putting_pct": {
           "value": 9.09,
