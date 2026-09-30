@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:05:58.857742+00:00",
+  "updated_at": "2026-09-30T20:48:27.186568+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,9 +8,9 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLGOQL3nIJMEA",
-      "video_count": 6,
+      "video_count": 7,
       "round_count": 6,
-      "practice_count": 0,
+      "practice_count": 1,
       "videos": [
         {
           "title": "2026 MVP Open X OTB | MPO R1F9 | Buhr, Wysocki, Heimburg, Robinson | Jomez Disc Golf",
@@ -59,6 +59,14 @@
           "link": "https://www.youtube.com/watch?v=5NHmUxvCzSY",
           "thumbnail": "https://i.ytimg.com/vi/5NHmUxvCzSY/hqdefault.jpg",
           "published": "2026-09-28T08:29:35Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 MVP Open | Jomez Disc Golf",
+          "video_id": "NFAMcoXXWxo",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=NFAMcoXXWxo",
+          "thumbnail": "https://i.ytimg.com/vi/NFAMcoXXWxo/hqdefault.jpg",
+          "published": "2026-09-30T20:03:09Z"
         }
       ]
     },
