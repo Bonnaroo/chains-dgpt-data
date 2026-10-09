@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-10-09T13:33:54.644436+00:00",
+  "updated_at": "2026-10-09T19:00:51.529676+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
+    {
+      "tournament": "2026 USDGC",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLSdp1-vBWXrM",
+      "video_count": 2,
+      "round_count": 2,
+      "practice_count": 0,
+      "videos": [
+        {
+          "title": "2026 USDGC | MPO R1F9 | Barela, Schultz, Balodis, Rye | Jomez Disc Golf",
+          "video_id": "BRAx4qVMOAw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=BRAx4qVMOAw",
+          "thumbnail": "https://i.ytimg.com/vi/BRAx4qVMOAw/hqdefault.jpg",
+          "published": "2026-10-09T06:57:53Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R1B9 | Barela, Schultz, Balodis, Rye | Jomez Disc Golf",
+          "video_id": "GNr_2jrAKuA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=GNr_2jrAKuA",
+          "thumbnail": "https://i.ytimg.com/vi/GNr_2jrAKuA/hqdefault.jpg",
+          "published": "2026-10-09T07:14:00Z"
+        }
+      ]
+    },
     {
       "tournament": "2026 MVP Open X OTB",
       "year": "2026",
