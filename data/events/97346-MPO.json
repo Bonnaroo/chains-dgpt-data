@@ -9,7 +9,7 @@
     122953577,
     122995159
   ],
-  "collected_at": "2026-10-10T22:07:23.433820+00:00",
+  "collected_at": "2026-10-11T00:59:36.112004+00:00",
   "source": "https://www.pdga.com/api/v1/feat/live-tournaments/97346/event-division-results/MPO",
   "players": [
     {
@@ -18,12 +18,12 @@
       "last_name": "Buhr",
       "place": 1,
       "tied": false,
-      "total_strokes": 108,
-      "to_par": -19,
+      "total_strokes": 170,
+      "to_par": -20,
       "prize_usd": null,
       "points": 1515,
       "dnf": false,
-      "event_rating": 1081,
+      "event_rating": 1072,
       "rounds": [
         {
           "round_id": 122953575,
@@ -36,128 +36,289 @@
           "score": 51,
           "rating": null,
           "place_after": 1
+        },
+        {
+          "round_id": 122953577,
+          "score": 62,
+          "rating": null,
+          "place_after": 1
         }
       ],
       "stats": {
         "fairway_hits_pct": {
-          "value": 86.79,
-          "count": 46,
-          "opportunities": 53,
+          "value": 85.45,
+          "count": 47,
+          "opportunities": 55,
           "rank": 1
         },
         "c1_in_reg_pct": {
-          "value": 42.31,
-          "count": 22,
-          "opportunities": 52,
-          "rank": 6
+          "value": 42.59,
+          "count": 23,
+          "opportunities": 54,
+          "rank": 4
         },
         "c2_in_reg_pct": {
-          "value": 69.23,
-          "count": 36,
-          "opportunities": 52,
+          "value": 68.52,
+          "count": 37,
+          "opportunities": 54,
           "rank": 3
         },
         "parked_pct": {
-          "value": 5.77,
-          "count": 3,
-          "opportunities": 52,
-          "rank": 31
+          "value": 7.41,
+          "count": 4,
+          "opportunities": 54,
+          "rank": 23
         },
         "scramble_pct": {
-          "value": 60,
-          "count": 6,
-          "opportunities": 10,
-          "rank": 1
+          "value": 55.56,
+          "count": 5,
+          "opportunities": 9,
+          "rank": 2
         },
         "c1_putting_pct": {
-          "value": 91.67,
-          "count": 44,
-          "opportunities": 48,
+          "value": 91.84,
+          "count": 45,
+          "opportunities": 49,
           "rank": 29
         },
         "c1x_putting_pct": {
-          "value": 86.21,
-          "count": 25,
-          "opportunities": 29,
-          "rank": 31
+          "value": 85.19,
+          "count": 23,
+          "opportunities": 27,
+          "rank": 35
         },
         "c2_putting_pct": {
-          "value": 40,
-          "count": 8,
+          "value": 45,
+          "count": 9,
           "opportunities": 20,
-          "rank": 6
+          "rank": 5
         },
         "ob_rate_pct": {
-          "value": 15.38,
-          "count": 8,
-          "opportunities": 52,
+          "value": 16.67,
+          "count": 9,
+          "opportunities": 54,
           "rank": 23
         },
         "birdie_rate_pct": {
-          "value": 44.23,
-          "count": 23,
-          "opportunities": 52,
-          "rank": 4
+          "value": 46.3,
+          "count": 25,
+          "opportunities": 54,
+          "rank": 1
         },
         "double_bogey_or_worse_count": {
-          "value": 1.92,
+          "value": 1.85,
           "count": 1,
-          "opportunities": 52,
-          "rank": 9
+          "opportunities": 54,
+          "rank": 2
         },
         "bogey_count": {
-          "value": 5.77,
+          "value": 5.56,
           "count": 3,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 1
         },
         "par_count": {
-          "value": 48.08,
+          "value": 46.3,
           "count": 25,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 27
         },
         "birdie_count": {
-          "value": 44.23,
-          "count": 23,
-          "opportunities": 52,
-          "rank": 4
+          "value": 46.3,
+          "count": 25,
+          "opportunities": 54,
+          "rank": 1
         },
         "eagle_or_better_count": {
           "value": 0,
           "count": 0,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 26
         },
         "putting_total_distance_ft": {
-          "value": 961,
-          "count": 961,
-          "opportunities": 52,
-          "rank": 7
+          "value": 1021,
+          "count": 1021,
+          "opportunities": 54,
+          "rank": 3
         },
         "longest_throw_in": {
           "value": 59,
           "count": null,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 18
         },
         "putting_average_distance": {
-          "value": 18.48,
+          "value": 18.91,
           "count": null,
-          "opportunities": 52,
-          "rank": 4
+          "opportunities": 54,
+          "rank": 3
         },
         "ob_count": {
-          "value": 8,
-          "count": 8,
-          "opportunities": 52,
-          "rank": 24
+          "value": 9,
+          "count": 9,
+          "opportunities": 54,
+          "rank": 28
         },
         "bogey_rate_pct": {
-          "value": 7.69,
+          "value": 7.41,
           "count": 4,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 1
+        }
+      }
+    },
+    {
+      "pdga_number": 45971,
+      "first_name": "Calvin",
+      "last_name": "Heimburg",
+      "place": 2,
+      "tied": false,
+      "total_strokes": 174,
+      "to_par": -16,
+      "prize_usd": null,
+      "points": 1500,
+      "dnf": false,
+      "event_rating": 1062,
+      "rounds": [
+        {
+          "round_id": 122953575,
+          "score": 55,
+          "rating": null,
+          "place_after": 3
+        },
+        {
+          "round_id": 122953576,
+          "score": 60,
+          "rating": null,
+          "place_after": 7
+        },
+        {
+          "round_id": 122953577,
+          "score": 59,
+          "rating": null,
+          "place_after": 2
+        }
+      ],
+      "stats": {
+        "fairway_hits_pct": {
+          "value": 81.82,
+          "count": 45,
+          "opportunities": 55,
+          "rank": 4
+        },
+        "c1_in_reg_pct": {
+          "value": 38.89,
+          "count": 21,
+          "opportunities": 54,
+          "rank": 10
+        },
+        "c2_in_reg_pct": {
+          "value": 66.67,
+          "count": 36,
+          "opportunities": 54,
+          "rank": 4
+        },
+        "parked_pct": {
+          "value": 18.52,
+          "count": 10,
+          "opportunities": 54,
+          "rank": 1
+        },
+        "scramble_pct": {
+          "value": 40,
+          "count": 4,
+          "opportunities": 10,
+          "rank": 7
+        },
+        "c1_putting_pct": {
+          "value": 96.08,
+          "count": 49,
+          "opportunities": 51,
+          "rank": 4
+        },
+        "c1x_putting_pct": {
+          "value": 93.1,
+          "count": 27,
+          "opportunities": 29,
+          "rank": 4
+        },
+        "c2_putting_pct": {
+          "value": 23.81,
+          "count": 5,
+          "opportunities": 21,
+          "rank": 37
+        },
+        "ob_rate_pct": {
+          "value": 12.96,
+          "count": 7,
+          "opportunities": 54,
+          "rank": 13
+        },
+        "birdie_rate_pct": {
+          "value": 44.44,
+          "count": 24,
+          "opportunities": 54,
+          "rank": 2
+        },
+        "double_bogey_or_worse_count": {
+          "value": 3.7,
+          "count": 2,
+          "opportunities": 54,
+          "rank": 10
+        },
+        "bogey_count": {
+          "value": 9.26,
+          "count": 5,
+          "opportunities": 54,
+          "rank": 3
+        },
+        "par_count": {
+          "value": 42.59,
+          "count": 23,
+          "opportunities": 54,
+          "rank": 50
+        },
+        "birdie_count": {
+          "value": 42.59,
+          "count": 23,
+          "opportunities": 54,
+          "rank": 5
+        },
+        "eagle_or_better_count": {
+          "value": 1.85,
+          "count": 1,
+          "opportunities": 54,
+          "rank": 9
+        },
+        "putting_total_distance_ft": {
+          "value": 835,
+          "count": 835,
+          "opportunities": 54,
+          "rank": 35
+        },
+        "longest_throw_in": {
+          "value": 44,
+          "count": null,
+          "opportunities": 54,
+          "rank": 65
+        },
+        "putting_average_distance": {
+          "value": 15.46,
+          "count": null,
+          "opportunities": 54,
+          "rank": 36
+        },
+        "ob_count": {
+          "value": 7,
+          "count": 7,
+          "opportunities": 54,
+          "rank": 15
+        },
+        "bogey_rate_pct": {
+          "value": 12.96,
+          "count": 7,
+          "opportunities": 54,
+          "rank": 2
         }
       }
     },
@@ -165,14 +326,14 @@
       "pdga_number": 38008,
       "first_name": "Ricky",
       "last_name": "Wysocki",
-      "place": 2,
-      "tied": true,
-      "total_strokes": 112,
-      "to_par": -15,
+      "place": 3,
+      "tied": false,
+      "total_strokes": 177,
+      "to_par": -13,
       "prize_usd": null,
-      "points": 1500,
+      "points": 1485,
       "dnf": false,
-      "event_rating": 1068,
+      "event_rating": 1058,
       "rounds": [
         {
           "round_id": 122953575,
@@ -185,724 +346,134 @@
           "score": 55,
           "rating": null,
           "place_after": 2
+        },
+        {
+          "round_id": 122953577,
+          "score": 65,
+          "rating": null,
+          "place_after": 3
         }
       ],
       "stats": {
         "fairway_hits_pct": {
-          "value": 71.7,
-          "count": 38,
-          "opportunities": 53,
-          "rank": 41
+          "value": 72.73,
+          "count": 40,
+          "opportunities": 55,
+          "rank": 32
         },
         "c1_in_reg_pct": {
-          "value": 36.54,
-          "count": 19,
-          "opportunities": 52,
-          "rank": 17
+          "value": 37.04,
+          "count": 20,
+          "opportunities": 54,
+          "rank": 15
         },
         "c2_in_reg_pct": {
-          "value": 63.46,
-          "count": 33,
-          "opportunities": 52,
-          "rank": 14
+          "value": 62.96,
+          "count": 34,
+          "opportunities": 54,
+          "rank": 13
         },
         "parked_pct": {
-          "value": 11.54,
+          "value": 11.11,
           "count": 6,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 7
         },
         "scramble_pct": {
-          "value": 60,
-          "count": 9,
-          "opportunities": 15,
+          "value": 62.5,
+          "count": 10,
+          "opportunities": 16,
           "rank": 1
         },
         "c1_putting_pct": {
-          "value": 91.3,
-          "count": 42,
-          "opportunities": 46,
-          "rank": 34
+          "value": 89.58,
+          "count": 43,
+          "opportunities": 48,
+          "rank": 50
         },
         "c1x_putting_pct": {
-          "value": 82.61,
-          "count": 19,
-          "opportunities": 23,
-          "rank": 57
+          "value": 80,
+          "count": 20,
+          "opportunities": 25,
+          "rank": 62
         },
         "c2_putting_pct": {
-          "value": 45.45,
-          "count": 10,
-          "opportunities": 22,
-          "rank": 3
+          "value": 47.83,
+          "count": 11,
+          "opportunities": 23,
+          "rank": 2
         },
         "ob_rate_pct": {
-          "value": 13.46,
-          "count": 7,
-          "opportunities": 52,
+          "value": 14.81,
+          "count": 8,
+          "opportunities": 54,
           "rank": 19
         },
         "birdie_rate_pct": {
-          "value": 40.38,
+          "value": 38.89,
           "count": 21,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 9
         },
         "double_bogey_or_worse_count": {
-          "value": 3.85,
+          "value": 3.7,
           "count": 2,
-          "opportunities": 52,
-          "rank": 25
+          "opportunities": 54,
+          "rank": 10
         },
         "bogey_count": {
-          "value": 11.54,
+          "value": 11.11,
           "count": 6,
-          "opportunities": 52,
-          "rank": 7
+          "opportunities": 54,
+          "rank": 4
         },
         "par_count": {
-          "value": 44.23,
-          "count": 23,
-          "opportunities": 52,
-          "rank": 49
+          "value": 46.3,
+          "count": 25,
+          "opportunities": 54,
+          "rank": 27
         },
         "birdie_count": {
-          "value": 36.54,
+          "value": 35.19,
           "count": 19,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 13
         },
         "eagle_or_better_count": {
-          "value": 3.85,
+          "value": 3.7,
           "count": 2,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 1
         },
         "putting_total_distance_ft": {
-          "value": 867,
-          "count": 867,
-          "opportunities": 52,
-          "rank": 25
+          "value": 932,
+          "count": 932,
+          "opportunities": 54,
+          "rank": 14
         },
         "longest_throw_in": {
           "value": 52,
           "count": null,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 32
         },
         "putting_average_distance": {
-          "value": 16.67,
+          "value": 17.26,
           "count": null,
-          "opportunities": 52,
-          "rank": 18
-        },
-        "ob_count": {
-          "value": 7,
-          "count": 7,
-          "opportunities": 52,
+          "opportunities": 54,
           "rank": 15
         },
-        "bogey_rate_pct": {
-          "value": 15.38,
+        "ob_count": {
+          "value": 8,
           "count": 8,
-          "opportunities": 52,
+          "opportunities": 54,
+          "rank": 23
+        },
+        "bogey_rate_pct": {
+          "value": 14.81,
+          "count": 8,
+          "opportunities": 54,
           "rank": 3
-        }
-      }
-    },
-    {
-      "pdga_number": 98722,
-      "first_name": "Jake",
-      "last_name": "Monn",
-      "place": 2,
-      "tied": true,
-      "total_strokes": 112,
-      "to_par": -15,
-      "prize_usd": null,
-      "points": 1500,
-      "dnf": false,
-      "event_rating": 1068,
-      "rounds": [
-        {
-          "round_id": 122953575,
-          "score": 57,
-          "rating": null,
-          "place_after": 8
-        },
-        {
-          "round_id": 122953576,
-          "score": 55,
-          "rating": null,
-          "place_after": 2
-        }
-      ],
-      "stats": {
-        "fairway_hits_pct": {
-          "value": 86.79,
-          "count": 46,
-          "opportunities": 53,
-          "rank": 1
-        },
-        "c1_in_reg_pct": {
-          "value": 44.23,
-          "count": 23,
-          "opportunities": 52,
-          "rank": 4
-        },
-        "c2_in_reg_pct": {
-          "value": 65.38,
-          "count": 34,
-          "opportunities": 52,
-          "rank": 8
-        },
-        "parked_pct": {
-          "value": 11.54,
-          "count": 6,
-          "opportunities": 52,
-          "rank": 7
-        },
-        "scramble_pct": {
-          "value": 12.5,
-          "count": 1,
-          "opportunities": 8,
-          "rank": 73
-        },
-        "c1_putting_pct": {
-          "value": 90.74,
-          "count": 49,
-          "opportunities": 54,
-          "rank": 39
-        },
-        "c1x_putting_pct": {
-          "value": 84.38,
-          "count": 27,
-          "opportunities": 32,
-          "rank": 40
-        },
-        "c2_putting_pct": {
-          "value": 21.43,
-          "count": 3,
-          "opportunities": 14,
-          "rank": 44
-        },
-        "ob_rate_pct": {
-          "value": 5.77,
-          "count": 3,
-          "opportunities": 52,
-          "rank": 1
-        },
-        "birdie_rate_pct": {
-          "value": 46.15,
-          "count": 24,
-          "opportunities": 52,
-          "rank": 1
-        },
-        "double_bogey_or_worse_count": {
-          "value": 5.77,
-          "count": 3,
-          "opportunities": 52,
-          "rank": 45
-        },
-        "bogey_count": {
-          "value": 13.46,
-          "count": 7,
-          "opportunities": 52,
-          "rank": 14
-        },
-        "par_count": {
-          "value": 34.62,
-          "count": 18,
-          "opportunities": 52,
-          "rank": 87
-        },
-        "birdie_count": {
-          "value": 46.15,
-          "count": 24,
-          "opportunities": 52,
-          "rank": 1
-        },
-        "eagle_or_better_count": {
-          "value": 0,
-          "count": 0,
-          "opportunities": 52,
-          "rank": 26
-        },
-        "putting_total_distance_ft": {
-          "value": 741,
-          "count": 741,
-          "opportunities": 52,
-          "rank": 62
-        },
-        "longest_throw_in": {
-          "value": 49,
-          "count": null,
-          "opportunities": 52,
-          "rank": 41
-        },
-        "putting_average_distance": {
-          "value": 14.25,
-          "count": null,
-          "opportunities": 52,
-          "rank": 62
-        },
-        "ob_count": {
-          "value": 3,
-          "count": 3,
-          "opportunities": 52,
-          "rank": 1
-        },
-        "bogey_rate_pct": {
-          "value": 19.23,
-          "count": 10,
-          "opportunities": 52,
-          "rank": 21
-        }
-      }
-    },
-    {
-      "pdga_number": 44382,
-      "first_name": "Anthony",
-      "last_name": "Barela",
-      "place": 4,
-      "tied": true,
-      "total_strokes": 113,
-      "to_par": -14,
-      "prize_usd": null,
-      "points": 1470,
-      "dnf": false,
-      "event_rating": 1065,
-      "rounds": [
-        {
-          "round_id": 122953575,
-          "score": 55,
-          "rating": null,
-          "place_after": 3
-        },
-        {
-          "round_id": 122953576,
-          "score": 58,
-          "rating": null,
-          "place_after": 4
-        }
-      ],
-      "stats": {
-        "fairway_hits_pct": {
-          "value": 75.47,
-          "count": 40,
-          "opportunities": 53,
-          "rank": 21
-        },
-        "c1_in_reg_pct": {
-          "value": 32.69,
-          "count": 17,
-          "opportunities": 52,
-          "rank": 29
-        },
-        "c2_in_reg_pct": {
-          "value": 67.31,
-          "count": 35,
-          "opportunities": 52,
-          "rank": 5
-        },
-        "parked_pct": {
-          "value": 9.62,
-          "count": 5,
-          "opportunities": 52,
-          "rank": 14
-        },
-        "scramble_pct": {
-          "value": 42.86,
-          "count": 6,
-          "opportunities": 14,
-          "rank": 5
-        },
-        "c1_putting_pct": {
-          "value": 93.88,
-          "count": 46,
-          "opportunities": 49,
-          "rank": 16
-        },
-        "c1x_putting_pct": {
-          "value": 90,
-          "count": 27,
-          "opportunities": 30,
-          "rank": 16
-        },
-        "c2_putting_pct": {
-          "value": 26.09,
-          "count": 6,
-          "opportunities": 23,
-          "rank": 27
-        },
-        "ob_rate_pct": {
-          "value": 17.31,
-          "count": 9,
-          "opportunities": 52,
-          "rank": 30
-        },
-        "birdie_rate_pct": {
-          "value": 34.62,
-          "count": 18,
-          "opportunities": 52,
-          "rank": 25
-        },
-        "double_bogey_or_worse_count": {
-          "value": 0,
-          "count": 0,
-          "opportunities": 52,
-          "rank": 1
-        },
-        "bogey_count": {
-          "value": 15.38,
-          "count": 8,
-          "opportunities": 52,
-          "rank": 24
-        },
-        "par_count": {
-          "value": 50,
-          "count": 26,
-          "opportunities": 52,
-          "rank": 20
-        },
-        "birdie_count": {
-          "value": 32.69,
-          "count": 17,
-          "opportunities": 52,
-          "rank": 23
-        },
-        "eagle_or_better_count": {
-          "value": 1.92,
-          "count": 1,
-          "opportunities": 52,
-          "rank": 9
-        },
-        "putting_total_distance_ft": {
-          "value": 944,
-          "count": 944,
-          "opportunities": 52,
-          "rank": 11
-        },
-        "longest_throw_in": {
-          "value": 39,
-          "count": null,
-          "opportunities": 52,
-          "rank": 73
-        },
-        "putting_average_distance": {
-          "value": 18.15,
-          "count": null,
-          "opportunities": 52,
-          "rank": 6
-        },
-        "ob_count": {
-          "value": 9,
-          "count": 9,
-          "opportunities": 52,
-          "rank": 29
-        },
-        "bogey_rate_pct": {
-          "value": 15.38,
-          "count": 8,
-          "opportunities": 52,
-          "rank": 3
-        }
-      }
-    },
-    {
-      "pdga_number": 78817,
-      "first_name": "Sullivan",
-      "last_name": "Tipton",
-      "place": 4,
-      "tied": true,
-      "total_strokes": 113,
-      "to_par": -14,
-      "prize_usd": null,
-      "points": 1470,
-      "dnf": false,
-      "event_rating": 1065,
-      "rounds": [
-        {
-          "round_id": 122953575,
-          "score": 55,
-          "rating": null,
-          "place_after": 3
-        },
-        {
-          "round_id": 122953576,
-          "score": 58,
-          "rating": null,
-          "place_after": 4
-        }
-      ],
-      "stats": {
-        "fairway_hits_pct": {
-          "value": 70.37,
-          "count": 38,
-          "opportunities": 54,
-          "rank": 48
-        },
-        "c1_in_reg_pct": {
-          "value": 26.42,
-          "count": 14,
-          "opportunities": 53,
-          "rank": 53
-        },
-        "c2_in_reg_pct": {
-          "value": 54.72,
-          "count": 29,
-          "opportunities": 53,
-          "rank": 38
-        },
-        "parked_pct": {
-          "value": 3.77,
-          "count": 2,
-          "opportunities": 53,
-          "rank": 54
-        },
-        "scramble_pct": {
-          "value": 10,
-          "count": 1,
-          "opportunities": 10,
-          "rank": 80
-        },
-        "c1_putting_pct": {
-          "value": 95.74,
-          "count": 45,
-          "opportunities": 47,
-          "rank": 6
-        },
-        "c1x_putting_pct": {
-          "value": 92.59,
-          "count": 25,
-          "opportunities": 27,
-          "rank": 7
-        },
-        "c2_putting_pct": {
-          "value": 40,
-          "count": 8,
-          "opportunities": 20,
-          "rank": 6
-        },
-        "ob_rate_pct": {
-          "value": 11.32,
-          "count": 6,
-          "opportunities": 53,
-          "rank": 12
-        },
-        "birdie_rate_pct": {
-          "value": 37.74,
-          "count": 20,
-          "opportunities": 53,
-          "rank": 11
-        },
-        "double_bogey_or_worse_count": {
-          "value": 3.77,
-          "count": 2,
-          "opportunities": 53,
-          "rank": 23
-        },
-        "bogey_count": {
-          "value": 15.09,
-          "count": 8,
-          "opportunities": 53,
-          "rank": 23
-        },
-        "par_count": {
-          "value": 43.4,
-          "count": 23,
-          "opportunities": 53,
-          "rank": 50
-        },
-        "birdie_count": {
-          "value": 37.74,
-          "count": 20,
-          "opportunities": 53,
-          "rank": 9
-        },
-        "eagle_or_better_count": {
-          "value": 0,
-          "count": 0,
-          "opportunities": 53,
-          "rank": 26
-        },
-        "putting_total_distance_ft": {
-          "value": 877,
-          "count": 877,
-          "opportunities": 53,
-          "rank": 22
-        },
-        "longest_throw_in": {
-          "value": 59,
-          "count": null,
-          "opportunities": 53,
-          "rank": 18
-        },
-        "putting_average_distance": {
-          "value": 16.55,
-          "count": null,
-          "opportunities": 53,
-          "rank": 21
-        },
-        "ob_count": {
-          "value": 6,
-          "count": 6,
-          "opportunities": 53,
-          "rank": 8
-        },
-        "bogey_rate_pct": {
-          "value": 18.87,
-          "count": 10,
-          "opportunities": 53,
-          "rank": 19
-        }
-      }
-    },
-    {
-      "pdga_number": 31644,
-      "first_name": "Bradley",
-      "last_name": "Williams",
-      "place": 6,
-      "tied": false,
-      "total_strokes": 114,
-      "to_par": -13,
-      "prize_usd": null,
-      "points": 1440,
-      "dnf": false,
-      "event_rating": 1061,
-      "rounds": [
-        {
-          "round_id": 122953575,
-          "score": 59,
-          "rating": null,
-          "place_after": 14
-        },
-        {
-          "round_id": 122953576,
-          "score": 55,
-          "rating": null,
-          "place_after": 6
-        }
-      ],
-      "stats": {
-        "fairway_hits_pct": {
-          "value": 83.33,
-          "count": 45,
-          "opportunities": 54,
-          "rank": 4
-        },
-        "c1_in_reg_pct": {
-          "value": 45.28,
-          "count": 24,
-          "opportunities": 53,
-          "rank": 2
-        },
-        "c2_in_reg_pct": {
-          "value": 67.92,
-          "count": 36,
-          "opportunities": 53,
-          "rank": 4
-        },
-        "parked_pct": {
-          "value": 11.32,
-          "count": 6,
-          "opportunities": 53,
-          "rank": 9
-        },
-        "scramble_pct": {
-          "value": 13.33,
-          "count": 2,
-          "opportunities": 15,
-          "rank": 72
-        },
-        "c1_putting_pct": {
-          "value": 94.55,
-          "count": 52,
-          "opportunities": 55,
-          "rank": 10
-        },
-        "c1x_putting_pct": {
-          "value": 91.89,
-          "count": 34,
-          "opportunities": 37,
-          "rank": 8
-        },
-        "c2_putting_pct": {
-          "value": 6.25,
-          "count": 1,
-          "opportunities": 16,
-          "rank": 85
-        },
-        "ob_rate_pct": {
-          "value": 20.75,
-          "count": 11,
-          "opportunities": 53,
-          "rank": 51
-        },
-        "birdie_rate_pct": {
-          "value": 43.4,
-          "count": 23,
-          "opportunities": 53,
-          "rank": 5
-        },
-        "double_bogey_or_worse_count": {
-          "value": 5.66,
-          "count": 3,
-          "opportunities": 53,
-          "rank": 43
-        },
-        "bogey_count": {
-          "value": 18.87,
-          "count": 10,
-          "opportunities": 53,
-          "rank": 52
-        },
-        "par_count": {
-          "value": 32.08,
-          "count": 17,
-          "opportunities": 53,
-          "rank": 90
-        },
-        "birdie_count": {
-          "value": 39.62,
-          "count": 21,
-          "opportunities": 53,
-          "rank": 8
-        },
-        "eagle_or_better_count": {
-          "value": 3.77,
-          "count": 2,
-          "opportunities": 53,
-          "rank": 2
-        },
-        "putting_total_distance_ft": {
-          "value": 805,
-          "count": 805,
-          "opportunities": 53,
-          "rank": 42
-        },
-        "longest_throw_in": {
-          "value": 49,
-          "count": null,
-          "opportunities": 53,
-          "rank": 41
-        },
-        "putting_average_distance": {
-          "value": 15.19,
-          "count": null,
-          "opportunities": 53,
-          "rank": 37
-        },
-        "ob_count": {
-          "value": 11,
-          "count": 11,
-          "opportunities": 53,
-          "rank": 42
-        },
-        "bogey_rate_pct": {
-          "value": 24.53,
-          "count": 13,
-          "opportunities": 53,
-          "rank": 41
         }
       }
     },
@@ -910,12 +481,12 @@
       "pdga_number": 91249,
       "first_name": "Niklas",
       "last_name": "Anttila",
-      "place": 7,
+      "place": 4,
       "tied": false,
       "total_strokes": 178,
       "to_par": -12,
       "prize_usd": null,
-      "points": 1425,
+      "points": 1470,
       "dnf": false,
       "event_rating": 1054,
       "rounds": [
@@ -935,7 +506,7 @@
           "round_id": 122953577,
           "score": 61,
           "rating": null,
-          "place_after": 1
+          "place_after": 4
         }
       ],
       "stats": {
@@ -961,7 +532,7 @@
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 10
+          "rank": 7
         },
         "scramble_pct": {
           "value": 38.46,
@@ -979,19 +550,19 @@
           "value": 88.89,
           "count": 24,
           "opportunities": 27,
-          "rank": 21
+          "rank": 20
         },
         "c2_putting_pct": {
           "value": 22.73,
           "count": 5,
           "opportunities": 22,
-          "rank": 40
+          "rank": 41
         },
         "ob_rate_pct": {
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 2
+          "rank": 1
         },
         "birdie_rate_pct": {
           "value": 44.44,
@@ -1051,177 +622,28 @@
           "value": 4,
           "count": 4,
           "opportunities": 54,
-          "rank": 3
+          "rank": 2
         },
         "bogey_rate_pct": {
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
         }
       }
     },
     {
-      "pdga_number": 37817,
-      "first_name": "Eagle",
-      "last_name": "McMahon",
-      "place": 8,
+      "pdga_number": 44382,
+      "first_name": "Anthony",
+      "last_name": "Barela",
+      "place": 5,
       "tied": true,
-      "total_strokes": 115,
-      "to_par": -12,
+      "total_strokes": 179,
+      "to_par": -11,
       "prize_usd": null,
-      "points": 1410,
+      "points": 1455,
       "dnf": false,
-      "event_rating": 1058,
-      "rounds": [
-        {
-          "round_id": 122953575,
-          "score": 63,
-          "rating": null,
-          "place_after": 46
-        },
-        {
-          "round_id": 122953576,
-          "score": 52,
-          "rating": null,
-          "place_after": 7
-        }
-      ],
-      "stats": {
-        "fairway_hits_pct": {
-          "value": 74.07,
-          "count": 40,
-          "opportunities": 54,
-          "rank": 30
-        },
-        "c1_in_reg_pct": {
-          "value": 32.08,
-          "count": 17,
-          "opportunities": 53,
-          "rank": 30
-        },
-        "c2_in_reg_pct": {
-          "value": 58.49,
-          "count": 31,
-          "opportunities": 53,
-          "rank": 26
-        },
-        "parked_pct": {
-          "value": 5.66,
-          "count": 3,
-          "opportunities": 53,
-          "rank": 33
-        },
-        "scramble_pct": {
-          "value": 50,
-          "count": 10,
-          "opportunities": 20,
-          "rank": 3
-        },
-        "c1_putting_pct": {
-          "value": 97.67,
-          "count": 42,
-          "opportunities": 43,
-          "rank": 2
-        },
-        "c1x_putting_pct": {
-          "value": 96.55,
-          "count": 28,
-          "opportunities": 29,
-          "rank": 2
-        },
-        "c2_putting_pct": {
-          "value": 39.29,
-          "count": 11,
-          "opportunities": 28,
-          "rank": 9
-        },
-        "ob_rate_pct": {
-          "value": 32.08,
-          "count": 17,
-          "opportunities": 53,
-          "rank": 88
-        },
-        "birdie_rate_pct": {
-          "value": 35.85,
-          "count": 19,
-          "opportunities": 53,
-          "rank": 17
-        },
-        "double_bogey_or_worse_count": {
-          "value": 5.66,
-          "count": 3,
-          "opportunities": 53,
-          "rank": 43
-        },
-        "bogey_count": {
-          "value": 13.21,
-          "count": 7,
-          "opportunities": 53,
-          "rank": 13
-        },
-        "par_count": {
-          "value": 45.28,
-          "count": 24,
-          "opportunities": 53,
-          "rank": 39
-        },
-        "birdie_count": {
-          "value": 32.08,
-          "count": 17,
-          "opportunities": 53,
-          "rank": 24
-        },
-        "eagle_or_better_count": {
-          "value": 3.77,
-          "count": 2,
-          "opportunities": 53,
-          "rank": 2
-        },
-        "putting_total_distance_ft": {
-          "value": 1050,
-          "count": 1050,
-          "opportunities": 53,
-          "rank": 2
-        },
-        "longest_throw_in": {
-          "value": 59,
-          "count": null,
-          "opportunities": 53,
-          "rank": 18
-        },
-        "putting_average_distance": {
-          "value": 19.81,
-          "count": null,
-          "opportunities": 53,
-          "rank": 2
-        },
-        "ob_count": {
-          "value": 17,
-          "count": 17,
-          "opportunities": 53,
-          "rank": 82
-        },
-        "bogey_rate_pct": {
-          "value": 18.87,
-          "count": 10,
-          "opportunities": 53,
-          "rank": 19
-        }
-      }
-    },
-    {
-      "pdga_number": 45971,
-      "first_name": "Calvin",
-      "last_name": "Heimburg",
-      "place": 8,
-      "tied": true,
-      "total_strokes": 115,
-      "to_par": -12,
-      "prize_usd": null,
-      "points": 1410,
-      "dnf": false,
-      "event_rating": 1058,
+      "event_rating": 1055,
       "rounds": [
         {
           "round_id": 122953575,
@@ -1231,131 +653,137 @@
         },
         {
           "round_id": 122953576,
-          "score": 60,
+          "score": 58,
           "rating": null,
-          "place_after": 7
+          "place_after": 4
+        },
+        {
+          "round_id": 122953577,
+          "score": 66,
+          "rating": null,
+          "place_after": 5
         }
       ],
       "stats": {
         "fairway_hits_pct": {
-          "value": 81.48,
-          "count": 44,
-          "opportunities": 54,
-          "rank": 5
+          "value": 74.55,
+          "count": 41,
+          "opportunities": 55,
+          "rank": 21
         },
         "c1_in_reg_pct": {
-          "value": 39.62,
-          "count": 21,
-          "opportunities": 53,
-          "rank": 10
-        },
-        "c2_in_reg_pct": {
-          "value": 66.04,
-          "count": 35,
-          "opportunities": 53,
-          "rank": 7
-        },
-        "parked_pct": {
-          "value": 18.87,
-          "count": 10,
-          "opportunities": 53,
-          "rank": 1
-        },
-        "scramble_pct": {
-          "value": 40,
-          "count": 4,
-          "opportunities": 10,
-          "rank": 7
-        },
-        "c1_putting_pct": {
-          "value": 96.08,
-          "count": 49,
-          "opportunities": 51,
-          "rank": 4
-        },
-        "c1x_putting_pct": {
-          "value": 93.1,
-          "count": 27,
-          "opportunities": 29,
-          "rank": 4
-        },
-        "c2_putting_pct": {
-          "value": 20,
-          "count": 4,
-          "opportunities": 20,
-          "rank": 47
-        },
-        "ob_rate_pct": {
-          "value": 13.21,
-          "count": 7,
-          "opportunities": 53,
+          "value": 35.19,
+          "count": 19,
+          "opportunities": 54,
           "rank": 18
         },
-        "birdie_rate_pct": {
-          "value": 43.4,
-          "count": 23,
-          "opportunities": 53,
-          "rank": 5
-        },
-        "double_bogey_or_worse_count": {
-          "value": 3.77,
-          "count": 2,
-          "opportunities": 53,
-          "rank": 23
-        },
-        "bogey_count": {
-          "value": 9.43,
-          "count": 5,
-          "opportunities": 53,
-          "rank": 3
-        },
-        "par_count": {
-          "value": 43.4,
-          "count": 23,
-          "opportunities": 53,
-          "rank": 50
-        },
-        "birdie_count": {
-          "value": 41.51,
-          "count": 22,
-          "opportunities": 53,
+        "c2_in_reg_pct": {
+          "value": 64.81,
+          "count": 35,
+          "opportunities": 54,
           "rank": 6
         },
+        "parked_pct": {
+          "value": 11.11,
+          "count": 6,
+          "opportunities": 54,
+          "rank": 7
+        },
+        "scramble_pct": {
+          "value": 43.75,
+          "count": 7,
+          "opportunities": 16,
+          "rank": 5
+        },
+        "c1_putting_pct": {
+          "value": 92.31,
+          "count": 48,
+          "opportunities": 52,
+          "rank": 27
+        },
+        "c1x_putting_pct": {
+          "value": 87.1,
+          "count": 27,
+          "opportunities": 31,
+          "rank": 27
+        },
+        "c2_putting_pct": {
+          "value": 28.57,
+          "count": 6,
+          "opportunities": 21,
+          "rank": 19
+        },
+        "ob_rate_pct": {
+          "value": 20.37,
+          "count": 11,
+          "opportunities": 54,
+          "rank": 39
+        },
+        "birdie_rate_pct": {
+          "value": 35.19,
+          "count": 19,
+          "opportunities": 54,
+          "rank": 17
+        },
+        "double_bogey_or_worse_count": {
+          "value": 0,
+          "count": 0,
+          "opportunities": 54,
+          "rank": 1
+        },
+        "bogey_count": {
+          "value": 16.67,
+          "count": 9,
+          "opportunities": 54,
+          "rank": 23
+        },
+        "par_count": {
+          "value": 48.15,
+          "count": 26,
+          "opportunities": 54,
+          "rank": 23
+        },
+        "birdie_count": {
+          "value": 33.33,
+          "count": 18,
+          "opportunities": 54,
+          "rank": 20
+        },
         "eagle_or_better_count": {
-          "value": 1.89,
+          "value": 1.85,
           "count": 1,
-          "opportunities": 53,
-          "rank": 10
+          "opportunities": 54,
+          "rank": 9
         },
         "putting_total_distance_ft": {
-          "value": 797,
-          "count": 797,
-          "opportunities": 53,
-          "rank": 45
+          "value": 942,
+          "count": 942,
+          "opportunities": 54,
+          "rank": 11
         },
         "longest_throw_in": {
-          "value": 44,
+          "value": 39,
           "count": null,
-          "opportunities": 53,
-          "rank": 65
+          "opportunities": 54,
+          "rank": 73
         },
         "putting_average_distance": {
-          "value": 15.04,
+          "value": 17.44,
           "count": null,
-          "opportunities": 53,
-          "rank": 45
+          "opportunities": 54,
+          "rank": 12
         },
         "ob_count": {
-          "value": 7,
-          "count": 7,
-          "opportunities": 53,
-          "rank": 15
+          "value": 11,
+          "count": 11,
+          "opportunities": 54,
+          "rank": 41
         },
         "bogey_rate_pct": {
-          "value": 13.21,
-          "count": 7,
-          "opportunities": 53,
-          "rank": 2
+          "value": 16.67,
+          "count": 9,
+          "opportunities": 54,
+          "rank": 4
         }
       }
     },
@@ -1363,12 +791,12 @@
       "pdga_number": 50670,
       "first_name": "Isaac",
       "last_name": "Robinson",
-      "place": 10,
-      "tied": false,
+      "place": 5,
+      "tied": true,
       "total_strokes": 179,
       "to_par": -11,
       "prize_usd": null,
-      "points": 1380,
+      "points": 1455,
       "dnf": false,
       "event_rating": 1053,
       "rounds": [
@@ -1388,7 +816,7 @@
           "round_id": 122953577,
           "score": 63,
           "rating": null,
-          "place_after": 2
+          "place_after": 5
         }
       ],
       "stats": {
@@ -1402,7 +830,7 @@
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
         },
         "c2_in_reg_pct": {
           "value": 59.26,
@@ -1426,19 +854,19 @@
           "value": 92.73,
           "count": 51,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1x_putting_pct": {
           "value": 89.47,
           "count": 34,
           "opportunities": 38,
-          "rank": 19
+          "rank": 18
         },
         "c2_putting_pct": {
           "value": 21.43,
           "count": 3,
           "opportunities": 14,
-          "rank": 44
+          "rank": 45
         },
         "ob_rate_pct": {
           "value": 25.93,
@@ -1462,7 +890,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 40.74,
@@ -1486,7 +914,7 @@
           "value": 843,
           "count": 843,
           "opportunities": 54,
-          "rank": 33
+          "rank": 34
         },
         "longest_throw_in": {
           "value": 39,
@@ -1498,7 +926,7 @@
           "value": 15.61,
           "count": null,
           "opportunities": 54,
-          "rank": 34
+          "rank": 35
         },
         "ob_count": {
           "value": 14,
@@ -1515,15 +943,170 @@
       }
     },
     {
-      "pdga_number": 72844,
-      "first_name": "Mason",
-      "last_name": "Ford",
-      "place": 11,
+      "pdga_number": 31644,
+      "first_name": "Bradley",
+      "last_name": "Williams",
+      "place": 7,
       "tied": true,
       "total_strokes": 182,
       "to_par": -8,
       "prize_usd": null,
-      "points": 1365,
+      "points": 1425,
+      "dnf": false,
+      "event_rating": 1049,
+      "rounds": [
+        {
+          "round_id": 122953575,
+          "score": 59,
+          "rating": null,
+          "place_after": 14
+        },
+        {
+          "round_id": 122953576,
+          "score": 55,
+          "rating": null,
+          "place_after": 6
+        },
+        {
+          "round_id": 122953577,
+          "score": 68,
+          "rating": null,
+          "place_after": 7
+        }
+      ],
+      "stats": {
+        "fairway_hits_pct": {
+          "value": 81.82,
+          "count": 45,
+          "opportunities": 55,
+          "rank": 4
+        },
+        "c1_in_reg_pct": {
+          "value": 44.44,
+          "count": 24,
+          "opportunities": 54,
+          "rank": 2
+        },
+        "c2_in_reg_pct": {
+          "value": 64.81,
+          "count": 35,
+          "opportunities": 54,
+          "rank": 6
+        },
+        "parked_pct": {
+          "value": 11.11,
+          "count": 6,
+          "opportunities": 54,
+          "rank": 7
+        },
+        "scramble_pct": {
+          "value": 17.65,
+          "count": 3,
+          "opportunities": 17,
+          "rank": 62
+        },
+        "c1_putting_pct": {
+          "value": 94.64,
+          "count": 53,
+          "opportunities": 56,
+          "rank": 9
+        },
+        "c1x_putting_pct": {
+          "value": 92.5,
+          "count": 37,
+          "opportunities": 40,
+          "rank": 7
+        },
+        "c2_putting_pct": {
+          "value": 7.14,
+          "count": 1,
+          "opportunities": 14,
+          "rank": 83
+        },
+        "ob_rate_pct": {
+          "value": 24.07,
+          "count": 13,
+          "opportunities": 54,
+          "rank": 56
+        },
+        "birdie_rate_pct": {
+          "value": 42.59,
+          "count": 23,
+          "opportunities": 54,
+          "rank": 6
+        },
+        "double_bogey_or_worse_count": {
+          "value": 5.56,
+          "count": 3,
+          "opportunities": 54,
+          "rank": 26
+        },
+        "bogey_count": {
+          "value": 20.37,
+          "count": 11,
+          "opportunities": 54,
+          "rank": 52
+        },
+        "par_count": {
+          "value": 31.48,
+          "count": 17,
+          "opportunities": 54,
+          "rank": 90
+        },
+        "birdie_count": {
+          "value": 38.89,
+          "count": 21,
+          "opportunities": 54,
+          "rank": 8
+        },
+        "eagle_or_better_count": {
+          "value": 3.7,
+          "count": 2,
+          "opportunities": 54,
+          "rank": 1
+        },
+        "putting_total_distance_ft": {
+          "value": 847,
+          "count": 847,
+          "opportunities": 54,
+          "rank": 32
+        },
+        "longest_throw_in": {
+          "value": 49,
+          "count": null,
+          "opportunities": 54,
+          "rank": 41
+        },
+        "putting_average_distance": {
+          "value": 15.69,
+          "count": null,
+          "opportunities": 54,
+          "rank": 33
+        },
+        "ob_count": {
+          "value": 13,
+          "count": 13,
+          "opportunities": 54,
+          "rank": 58
+        },
+        "bogey_rate_pct": {
+          "value": 25.93,
+          "count": 14,
+          "opportunities": 54,
+          "rank": 41
+        }
+      }
+    },
+    {
+      "pdga_number": 72844,
+      "first_name": "Mason",
+      "last_name": "Ford",
+      "place": 7,
+      "tied": true,
+      "total_strokes": 182,
+      "to_par": -8,
+      "prize_usd": null,
+      "points": 1425,
       "dnf": false,
       "event_rating": 1046,
       "rounds": [
@@ -1543,7 +1126,7 @@
           "round_id": 122953577,
           "score": 61,
           "rating": null,
-          "place_after": 3
+          "place_after": 7
         }
       ],
       "stats": {
@@ -1551,13 +1134,13 @@
           "value": 85.45,
           "count": 47,
           "opportunities": 55,
-          "rank": 3
+          "rank": 1
         },
         "c1_in_reg_pct": {
           "value": 38.89,
           "count": 21,
           "opportunities": 54,
-          "rank": 11
+          "rank": 10
         },
         "c2_in_reg_pct": {
           "value": 61.11,
@@ -1599,13 +1182,13 @@
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "birdie_rate_pct": {
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 18
+          "rank": 17
         },
         "double_bogey_or_worse_count": {
           "value": 1.85,
@@ -1617,19 +1200,19 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 14
+          "rank": 13
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -1641,7 +1224,7 @@
           "value": 814,
           "count": 814,
           "opportunities": 54,
-          "rank": 39
+          "rank": 41
         },
         "longest_throw_in": {
           "value": 32,
@@ -1653,13 +1236,13 @@
           "value": 15.07,
           "count": null,
           "opportunities": 54,
-          "rank": 43
+          "rank": 44
         },
         "ob_count": {
           "value": 6,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "bogey_rate_pct": {
           "value": 18.52,
@@ -1673,12 +1256,12 @@
       "pdga_number": 79748,
       "first_name": "Cole",
       "last_name": "Redalen",
-      "place": 11,
+      "place": 7,
       "tied": true,
       "total_strokes": 182,
       "to_par": -8,
       "prize_usd": null,
-      "points": 1365,
+      "points": 1425,
       "dnf": false,
       "event_rating": 1047,
       "rounds": [
@@ -1698,7 +1281,7 @@
           "round_id": 122953577,
           "score": 63,
           "rating": null,
-          "place_after": 3
+          "place_after": 7
         }
       ],
       "stats": {
@@ -1706,7 +1289,7 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 40.74,
@@ -1718,7 +1301,7 @@
           "value": 64.81,
           "count": 35,
           "opportunities": 54,
-          "rank": 9
+          "rank": 6
         },
         "parked_pct": {
           "value": 12.96,
@@ -1790,7 +1373,7 @@
           "value": 3.7,
           "count": 2,
           "opportunities": 54,
-          "rank": 4
+          "rank": 1
         },
         "putting_total_distance_ft": {
           "value": 591,
@@ -1820,7 +1403,317 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
+        }
+      }
+    },
+    {
+      "pdga_number": 37817,
+      "first_name": "Eagle",
+      "last_name": "McMahon",
+      "place": 10,
+      "tied": false,
+      "total_strokes": 183,
+      "to_par": -7,
+      "prize_usd": null,
+      "points": 1380,
+      "dnf": false,
+      "event_rating": 1047,
+      "rounds": [
+        {
+          "round_id": 122953575,
+          "score": 63,
+          "rating": null,
+          "place_after": 46
+        },
+        {
+          "round_id": 122953576,
+          "score": 52,
+          "rating": null,
+          "place_after": 7
+        },
+        {
+          "round_id": 122953577,
+          "score": 68,
+          "rating": null,
+          "place_after": 10
+        }
+      ],
+      "stats": {
+        "fairway_hits_pct": {
+          "value": 74.55,
+          "count": 41,
+          "opportunities": 55,
+          "rank": 21
+        },
+        "c1_in_reg_pct": {
+          "value": 31.48,
+          "count": 17,
+          "opportunities": 54,
+          "rank": 30
+        },
+        "c2_in_reg_pct": {
+          "value": 57.41,
+          "count": 31,
+          "opportunities": 54,
+          "rank": 26
+        },
+        "parked_pct": {
+          "value": 5.56,
+          "count": 3,
+          "opportunities": 54,
+          "rank": 33
+        },
+        "scramble_pct": {
+          "value": 47.62,
+          "count": 10,
+          "opportunities": 21,
+          "rank": 3
+        },
+        "c1_putting_pct": {
+          "value": 97.78,
+          "count": 44,
+          "opportunities": 45,
+          "rank": 2
+        },
+        "c1x_putting_pct": {
+          "value": 96.77,
+          "count": 30,
+          "opportunities": 31,
+          "rank": 2
+        },
+        "c2_putting_pct": {
+          "value": 35.71,
+          "count": 10,
+          "opportunities": 28,
+          "rank": 10
+        },
+        "ob_rate_pct": {
+          "value": 33.33,
+          "count": 18,
+          "opportunities": 54,
+          "rank": 88
+        },
+        "birdie_rate_pct": {
+          "value": 35.19,
+          "count": 19,
+          "opportunities": 54,
+          "rank": 17
+        },
+        "double_bogey_or_worse_count": {
+          "value": 5.56,
+          "count": 3,
+          "opportunities": 54,
+          "rank": 26
+        },
+        "bogey_count": {
+          "value": 14.81,
+          "count": 8,
+          "opportunities": 54,
+          "rank": 13
+        },
+        "par_count": {
+          "value": 44.44,
+          "count": 24,
+          "opportunities": 54,
+          "rank": 40
+        },
+        "birdie_count": {
+          "value": 31.48,
+          "count": 17,
+          "opportunities": 54,
+          "rank": 24
+        },
+        "eagle_or_better_count": {
+          "value": 3.7,
+          "count": 2,
+          "opportunities": 54,
+          "rank": 1
+        },
+        "putting_total_distance_ft": {
+          "value": 1076,
+          "count": 1076,
+          "opportunities": 54,
+          "rank": 2
+        },
+        "longest_throw_in": {
+          "value": 59,
+          "count": null,
+          "opportunities": 54,
+          "rank": 18
+        },
+        "putting_average_distance": {
+          "value": 19.93,
+          "count": null,
+          "opportunities": 54,
+          "rank": 2
+        },
+        "ob_count": {
+          "value": 18,
+          "count": 18,
+          "opportunities": 54,
+          "rank": 88
+        },
+        "bogey_rate_pct": {
+          "value": 20.37,
+          "count": 11,
+          "opportunities": 54,
+          "rank": 19
+        }
+      }
+    },
+    {
+      "pdga_number": 98722,
+      "first_name": "Jake",
+      "last_name": "Monn",
+      "place": 11,
+      "tied": true,
+      "total_strokes": 184,
+      "to_par": -6,
+      "prize_usd": null,
+      "points": 1365,
+      "dnf": false,
+      "event_rating": 1047,
+      "rounds": [
+        {
+          "round_id": 122953575,
+          "score": 57,
+          "rating": null,
+          "place_after": 8
+        },
+        {
+          "round_id": 122953576,
+          "score": 55,
+          "rating": null,
+          "place_after": 2
+        },
+        {
+          "round_id": 122953577,
+          "score": 72,
+          "rating": null,
+          "place_after": 11
+        }
+      ],
+      "stats": {
+        "fairway_hits_pct": {
+          "value": 83.64,
+          "count": 46,
+          "opportunities": 55,
+          "rank": 3
+        },
+        "c1_in_reg_pct": {
+          "value": 42.59,
+          "count": 23,
+          "opportunities": 54,
+          "rank": 4
+        },
+        "c2_in_reg_pct": {
+          "value": 62.96,
+          "count": 34,
+          "opportunities": 54,
+          "rank": 13
+        },
+        "parked_pct": {
+          "value": 11.11,
+          "count": 6,
+          "opportunities": 54,
+          "rank": 7
+        },
+        "scramble_pct": {
+          "value": 10,
+          "count": 1,
+          "opportunities": 10,
+          "rank": 79
+        },
+        "c1_putting_pct": {
+          "value": 89.47,
+          "count": 51,
+          "opportunities": 57,
+          "rank": 51
+        },
+        "c1x_putting_pct": {
+          "value": 81.82,
+          "count": 27,
+          "opportunities": 33,
+          "rank": 56
+        },
+        "c2_putting_pct": {
+          "value": 20,
+          "count": 3,
+          "opportunities": 15,
+          "rank": 47
+        },
+        "ob_rate_pct": {
+          "value": 11.11,
+          "count": 6,
+          "opportunities": 54,
+          "rank": 7
+        },
+        "birdie_rate_pct": {
+          "value": 44.44,
+          "count": 24,
+          "opportunities": 54,
+          "rank": 2
+        },
+        "double_bogey_or_worse_count": {
+          "value": 7.41,
+          "count": 4,
+          "opportunities": 54,
+          "rank": 45
+        },
+        "bogey_count": {
+          "value": 14.81,
+          "count": 8,
+          "opportunities": 54,
+          "rank": 13
+        },
+        "par_count": {
+          "value": 33.33,
+          "count": 18,
+          "opportunities": 54,
+          "rank": 87
+        },
+        "birdie_count": {
+          "value": 44.44,
+          "count": 24,
+          "opportunities": 54,
+          "rank": 2
+        },
+        "eagle_or_better_count": {
+          "value": 0,
+          "count": 0,
+          "opportunities": 54,
+          "rank": 26
+        },
+        "putting_total_distance_ft": {
+          "value": 753,
+          "count": 753,
+          "opportunities": 54,
+          "rank": 61
+        },
+        "longest_throw_in": {
+          "value": 49,
+          "count": null,
+          "opportunities": 54,
+          "rank": 41
+        },
+        "putting_average_distance": {
+          "value": 13.94,
+          "count": null,
+          "opportunities": 54,
+          "rank": 66
+        },
+        "ob_count": {
+          "value": 6,
+          "count": 6,
+          "opportunities": 54,
+          "rank": 7
+        },
+        "bogey_rate_pct": {
+          "value": 22.22,
+          "count": 12,
+          "opportunities": 54,
+          "rank": 24
         }
       }
     },
@@ -1828,12 +1721,12 @@
       "pdga_number": 110462,
       "first_name": "Nestori",
       "last_name": "Tuhkanen",
-      "place": 13,
-      "tied": false,
+      "place": 11,
+      "tied": true,
       "total_strokes": 184,
       "to_par": -6,
       "prize_usd": null,
-      "points": 1335,
+      "points": 1365,
       "dnf": false,
       "event_rating": 1043,
       "rounds": [
@@ -1853,7 +1746,7 @@
           "round_id": 122953577,
           "score": 64,
           "rating": null,
-          "place_after": 5
+          "place_after": 11
         }
       ],
       "stats": {
@@ -1867,7 +1760,7 @@
           "value": 38.89,
           "count": 21,
           "opportunities": 54,
-          "rank": 11
+          "rank": 10
         },
         "c2_in_reg_pct": {
           "value": 55.56,
@@ -1903,7 +1796,7 @@
           "value": 42.86,
           "count": 6,
           "opportunities": 14,
-          "rank": 5
+          "rank": 6
         },
         "ob_rate_pct": {
           "value": 12.96,
@@ -1915,19 +1808,19 @@
           "value": 38.89,
           "count": 21,
           "opportunities": 54,
-          "rank": 10
+          "rank": 9
         },
         "double_bogey_or_worse_count": {
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 38.89,
@@ -1939,19 +1832,19 @@
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 10
+          "rank": 9
         },
         "eagle_or_better_count": {
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 882,
           "count": 882,
           "opportunities": 54,
-          "rank": 20
+          "rank": 22
         },
         "longest_throw_in": {
           "value": 43,
@@ -1975,7 +1868,7 @@
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -1983,12 +1876,12 @@
       "pdga_number": 59635,
       "first_name": "V\u00e4in\u00f6",
       "last_name": "M\u00e4kel\u00e4",
-      "place": 14,
+      "place": 13,
       "tied": true,
       "total_strokes": 185,
       "to_par": -5,
       "prize_usd": null,
-      "points": 1320,
+      "points": 1335,
       "dnf": false,
       "event_rating": 1041,
       "rounds": [
@@ -2008,7 +1901,7 @@
           "round_id": 122953577,
           "score": 63,
           "rating": null,
-          "place_after": 6
+          "place_after": 13
         }
       ],
       "stats": {
@@ -2064,7 +1957,7 @@
           "value": 17.95,
           "count": 7,
           "opportunities": 39,
-          "rank": 31
+          "rank": 30
         },
         "birdie_rate_pct": {
           "value": 27.78,
@@ -2082,7 +1975,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 53.7,
@@ -2100,7 +1993,7 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 573,
@@ -2118,7 +2011,7 @@
           "value": 15.08,
           "count": null,
           "opportunities": 53,
-          "rank": 42
+          "rank": 43
         },
         "ob_count": {
           "value": 7,
@@ -2138,12 +2031,12 @@
       "pdga_number": 62467,
       "first_name": "Chris",
       "last_name": "Dickerson",
-      "place": 14,
+      "place": 13,
       "tied": true,
       "total_strokes": 185,
       "to_par": -5,
       "prize_usd": null,
-      "points": 1320,
+      "points": 1335,
       "dnf": false,
       "event_rating": 1040,
       "rounds": [
@@ -2163,7 +2056,7 @@
           "round_id": 122953577,
           "score": 62,
           "rating": null,
-          "place_after": 6
+          "place_after": 13
         }
       ],
       "stats": {
@@ -2171,19 +2064,19 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 57.41,
           "count": 31,
           "opportunities": 54,
-          "rank": 27
+          "rank": 26
         },
         "parked_pct": {
           "value": 1.85,
@@ -2201,25 +2094,25 @@
           "value": 90.74,
           "count": 49,
           "opportunities": 54,
-          "rank": 39
+          "rank": 38
         },
         "c1x_putting_pct": {
           "value": 83.87,
           "count": 26,
           "opportunities": 31,
-          "rank": 45
+          "rank": 44
         },
         "c2_putting_pct": {
           "value": 22.22,
           "count": 4,
           "opportunities": 18,
-          "rank": 41
+          "rank": 42
         },
         "ob_rate_pct": {
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 27.78,
@@ -2237,7 +2130,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 53.7,
@@ -2255,7 +2148,7 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 731,
@@ -2279,7 +2172,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 18.52,
@@ -2293,12 +2186,12 @@
       "pdga_number": 76456,
       "first_name": "Daniel",
       "last_name": "Davidsson",
-      "place": 14,
+      "place": 13,
       "tied": true,
       "total_strokes": 185,
       "to_par": -5,
       "prize_usd": null,
-      "points": 1320,
+      "points": 1335,
       "dnf": false,
       "event_rating": 1042,
       "rounds": [
@@ -2318,7 +2211,7 @@
           "round_id": 122953577,
           "score": 66,
           "rating": null,
-          "place_after": 6
+          "place_after": 13
         }
       ],
       "stats": {
@@ -2332,13 +2225,13 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 25
+          "rank": 26
         },
         "c2_in_reg_pct": {
           "value": 62.96,
           "count": 34,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "parked_pct": {
           "value": 7.41,
@@ -2356,61 +2249,61 @@
           "value": 90.57,
           "count": 48,
           "opportunities": 53,
-          "rank": 43
+          "rank": 41
         },
         "c1x_putting_pct": {
           "value": 82.76,
           "count": 24,
           "opportunities": 29,
-          "rank": 53
+          "rank": 52
         },
         "c2_putting_pct": {
           "value": 26.09,
           "count": 6,
           "opportunities": 23,
-          "rank": 27
+          "rank": 28
         },
         "ob_rate_pct": {
           "value": 9.26,
           "count": 5,
           "opportunities": 54,
-          "rank": 6
+          "rank": 5
         },
         "birdie_rate_pct": {
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 18
+          "rank": 17
         },
         "double_bogey_or_worse_count": {
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         },
         "eagle_or_better_count": {
           "value": 3.7,
           "count": 2,
           "opportunities": 54,
-          "rank": 4
+          "rank": 1
         },
         "putting_total_distance_ft": {
           "value": 859,
@@ -2434,13 +2327,13 @@
           "value": 5,
           "count": 5,
           "opportunities": 54,
-          "rank": 6
+          "rank": 5
         },
         "bogey_rate_pct": {
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -2448,12 +2341,12 @@
       "pdga_number": 76669,
       "first_name": "Albert",
       "last_name": "Tamm",
-      "place": 14,
+      "place": 13,
       "tied": true,
       "total_strokes": 185,
       "to_par": -5,
       "prize_usd": null,
-      "points": 1320,
+      "points": 1335,
       "dnf": false,
       "event_rating": 1039,
       "rounds": [
@@ -2473,7 +2366,7 @@
           "round_id": 122953577,
           "score": 60,
           "rating": null,
-          "place_after": 6
+          "place_after": 13
         }
       ],
       "stats": {
@@ -2529,7 +2422,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "birdie_rate_pct": {
           "value": 27.78,
@@ -2547,7 +2440,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 53.7,
@@ -2565,7 +2458,7 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 597,
@@ -2589,7 +2482,7 @@
           "value": 9,
           "count": 9,
           "opportunities": 54,
-          "rank": 29
+          "rank": 28
         },
         "bogey_rate_pct": {
           "value": 18.52,
@@ -2600,15 +2493,170 @@
       }
     },
     {
-      "pdga_number": 79047,
-      "first_name": "Silas",
-      "last_name": "Schultz",
-      "place": 14,
+      "pdga_number": 78817,
+      "first_name": "Sullivan",
+      "last_name": "Tipton",
+      "place": 13,
       "tied": true,
       "total_strokes": 185,
       "to_par": -5,
       "prize_usd": null,
-      "points": 1320,
+      "points": 1335,
+      "dnf": false,
+      "event_rating": 1045,
+      "rounds": [
+        {
+          "round_id": 122953575,
+          "score": 55,
+          "rating": null,
+          "place_after": 3
+        },
+        {
+          "round_id": 122953576,
+          "score": 58,
+          "rating": null,
+          "place_after": 4
+        },
+        {
+          "round_id": 122953577,
+          "score": 72,
+          "rating": null,
+          "place_after": 13
+        }
+      ],
+      "stats": {
+        "fairway_hits_pct": {
+          "value": 70.91,
+          "count": 39,
+          "opportunities": 55,
+          "rank": 42
+        },
+        "c1_in_reg_pct": {
+          "value": 25.93,
+          "count": 14,
+          "opportunities": 54,
+          "rank": 53
+        },
+        "c2_in_reg_pct": {
+          "value": 55.56,
+          "count": 30,
+          "opportunities": 54,
+          "rank": 33
+        },
+        "parked_pct": {
+          "value": 5.56,
+          "count": 3,
+          "opportunities": 54,
+          "rank": 33
+        },
+        "scramble_pct": {
+          "value": 10,
+          "count": 1,
+          "opportunities": 10,
+          "rank": 79
+        },
+        "c1_putting_pct": {
+          "value": 95.74,
+          "count": 45,
+          "opportunities": 47,
+          "rank": 6
+        },
+        "c1x_putting_pct": {
+          "value": 90.91,
+          "count": 20,
+          "opportunities": 22,
+          "rank": 11
+        },
+        "c2_putting_pct": {
+          "value": 39.13,
+          "count": 9,
+          "opportunities": 23,
+          "rank": 8
+        },
+        "ob_rate_pct": {
+          "value": 11.11,
+          "count": 6,
+          "opportunities": 54,
+          "rank": 7
+        },
+        "birdie_rate_pct": {
+          "value": 37.04,
+          "count": 20,
+          "opportunities": 54,
+          "rank": 11
+        },
+        "double_bogey_or_worse_count": {
+          "value": 3.7,
+          "count": 2,
+          "opportunities": 54,
+          "rank": 10
+        },
+        "bogey_count": {
+          "value": 16.67,
+          "count": 9,
+          "opportunities": 54,
+          "rank": 23
+        },
+        "par_count": {
+          "value": 42.59,
+          "count": 23,
+          "opportunities": 54,
+          "rank": 50
+        },
+        "birdie_count": {
+          "value": 37.04,
+          "count": 20,
+          "opportunities": 54,
+          "rank": 9
+        },
+        "eagle_or_better_count": {
+          "value": 0,
+          "count": 0,
+          "opportunities": 54,
+          "rank": 26
+        },
+        "putting_total_distance_ft": {
+          "value": 901,
+          "count": 901,
+          "opportunities": 54,
+          "rank": 18
+        },
+        "longest_throw_in": {
+          "value": 59,
+          "count": null,
+          "opportunities": 54,
+          "rank": 18
+        },
+        "putting_average_distance": {
+          "value": 16.69,
+          "count": null,
+          "opportunities": 54,
+          "rank": 19
+        },
+        "ob_count": {
+          "value": 6,
+          "count": 6,
+          "opportunities": 54,
+          "rank": 7
+        },
+        "bogey_rate_pct": {
+          "value": 20.37,
+          "count": 11,
+          "opportunities": 54,
+          "rank": 19
+        }
+      }
+    },
+    {
+      "pdga_number": 79047,
+      "first_name": "Silas",
+      "last_name": "Schultz",
+      "place": 13,
+      "tied": true,
+      "total_strokes": 185,
+      "to_par": -5,
+      "prize_usd": null,
+      "points": 1335,
       "dnf": false,
       "event_rating": 1041,
       "rounds": [
@@ -2628,7 +2676,7 @@
           "round_id": 122953577,
           "score": 64,
           "rating": null,
-          "place_after": 6
+          "place_after": 13
         }
       ],
       "stats": {
@@ -2642,13 +2690,13 @@
           "value": 38.89,
           "count": 21,
           "opportunities": 54,
-          "rank": 11
+          "rank": 10
         },
         "c2_in_reg_pct": {
           "value": 64.81,
           "count": 35,
           "opportunities": 54,
-          "rank": 9
+          "rank": 6
         },
         "parked_pct": {
           "value": 7.41,
@@ -2684,7 +2732,7 @@
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 20
+          "rank": 19
         },
         "birdie_rate_pct": {
           "value": 33.33,
@@ -2702,25 +2750,25 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         },
         "eagle_or_better_count": {
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 725,
@@ -2744,13 +2792,13 @@
           "value": 8,
           "count": 8,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "bogey_rate_pct": {
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 22
+          "rank": 19
         }
       }
     },
@@ -2758,12 +2806,12 @@
       "pdga_number": 107567,
       "first_name": "Teemu",
       "last_name": "Lampainen",
-      "place": 14,
+      "place": 13,
       "tied": true,
       "total_strokes": 185,
       "to_par": -5,
       "prize_usd": null,
-      "points": 1320,
+      "points": 1335,
       "dnf": false,
       "event_rating": 1041,
       "rounds": [
@@ -2783,7 +2831,7 @@
           "round_id": 122953577,
           "score": 63,
           "rating": null,
-          "place_after": 6
+          "place_after": 13
         }
       ],
       "stats": {
@@ -2803,31 +2851,31 @@
           "value": 66.67,
           "count": 36,
           "opportunities": 54,
-          "rank": 6
+          "rank": 4
         },
         "parked_pct": {
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 10
+          "rank": 7
         },
         "scramble_pct": {
           "value": 14.29,
           "count": 2,
           "opportunities": 14,
-          "rank": 71
+          "rank": 72
         },
         "c1_putting_pct": {
           "value": 91.07,
           "count": 51,
           "opportunities": 56,
-          "rank": 36
+          "rank": 35
         },
         "c1x_putting_pct": {
           "value": 83.87,
           "count": 26,
           "opportunities": 31,
-          "rank": 45
+          "rank": 44
         },
         "c2_putting_pct": {
           "value": 15.79,
@@ -2839,13 +2887,13 @@
           "value": 18.52,
           "count": 10,
           "opportunities": 54,
-          "rank": 32
+          "rank": 31
         },
         "birdie_rate_pct": {
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 12
+          "rank": 11
         },
         "double_bogey_or_worse_count": {
           "value": 5.56,
@@ -2869,13 +2917,13 @@
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 14
+          "rank": 13
         },
         "eagle_or_better_count": {
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 783,
@@ -2899,7 +2947,7 @@
           "value": 10,
           "count": 10,
           "opportunities": 54,
-          "rank": 35
+          "rank": 34
         },
         "bogey_rate_pct": {
           "value": 24.07,
@@ -2938,7 +2986,7 @@
           "round_id": 122953577,
           "score": 66,
           "rating": null,
-          "place_after": 12
+          "place_after": 20
         }
       ],
       "stats": {
@@ -2946,25 +2994,25 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 44.44,
           "count": 24,
           "opportunities": 54,
-          "rank": 3
+          "rank": 2
         },
         "c2_in_reg_pct": {
           "value": 64.81,
           "count": 35,
           "opportunities": 54,
-          "rank": 9
+          "rank": 6
         },
         "parked_pct": {
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 10
+          "rank": 7
         },
         "scramble_pct": {
           "value": 26.67,
@@ -2982,7 +3030,7 @@
           "value": 80,
           "count": 28,
           "opportunities": 35,
-          "rank": 63
+          "rank": 62
         },
         "c2_putting_pct": {
           "value": 11.76,
@@ -2994,13 +3042,13 @@
           "value": 18.52,
           "count": 10,
           "opportunities": 54,
-          "rank": 32
+          "rank": 31
         },
         "birdie_rate_pct": {
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 12
+          "rank": 11
         },
         "double_bogey_or_worse_count": {
           "value": 9.26,
@@ -3024,13 +3072,13 @@
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 14
+          "rank": 13
         },
         "eagle_or_better_count": {
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 790,
@@ -3054,13 +3102,13 @@
           "value": 10,
           "count": 10,
           "opportunities": 54,
-          "rank": 35
+          "rank": 34
         },
         "bogey_rate_pct": {
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -3093,7 +3141,7 @@
           "round_id": 122953577,
           "score": 69,
           "rating": null,
-          "place_after": 12
+          "place_after": 20
         }
       ],
       "stats": {
@@ -3107,7 +3155,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 59.26,
@@ -3131,13 +3179,13 @@
           "value": 89.47,
           "count": 51,
           "opportunities": 57,
-          "rank": 52
+          "rank": 51
         },
         "c1x_putting_pct": {
           "value": 85.71,
           "count": 36,
           "opportunities": 42,
-          "rank": 34
+          "rank": 33
         },
         "c2_putting_pct": {
           "value": 15.79,
@@ -3155,7 +3203,7 @@
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 12
+          "rank": 11
         },
         "double_bogey_or_worse_count": {
           "value": 3.7,
@@ -3179,7 +3227,7 @@
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 10
+          "rank": 9
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -3215,7 +3263,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         }
       }
     },
@@ -3230,7 +3278,7 @@
       "prize_usd": null,
       "points": 1230,
       "dnf": false,
-      "event_rating": 1041,
+      "event_rating": 1040,
       "rounds": [
         {
           "round_id": 122953575,
@@ -3248,7 +3296,7 @@
           "round_id": 122953577,
           "score": 67,
           "rating": null,
-          "place_after": 12
+          "place_after": 20
         }
       ],
       "stats": {
@@ -3292,7 +3340,7 @@
           "value": 85.29,
           "count": 29,
           "opportunities": 34,
-          "rank": 35
+          "rank": 34
         },
         "c2_putting_pct": {
           "value": 5,
@@ -3304,7 +3352,7 @@
           "value": 9.26,
           "count": 5,
           "opportunities": 54,
-          "rank": 6
+          "rank": 5
         },
         "birdie_rate_pct": {
           "value": 27.78,
@@ -3364,13 +3412,13 @@
           "value": 5,
           "count": 5,
           "opportunities": 54,
-          "rank": 6
+          "rank": 5
         },
         "bogey_rate_pct": {
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
         }
       }
     },
@@ -3403,7 +3451,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 15
+          "place_after": 23
         }
       ],
       "stats": {
@@ -3441,13 +3489,13 @@
           "value": 89.66,
           "count": 52,
           "opportunities": 58,
-          "rank": 50
+          "rank": 48
         },
         "c1x_putting_pct": {
           "value": 83.78,
           "count": 31,
           "opportunities": 37,
-          "rank": 47
+          "rank": 46
         },
         "c2_putting_pct": {
           "value": 15.38,
@@ -3459,13 +3507,13 @@
           "value": 18.52,
           "count": 10,
           "opportunities": 54,
-          "rank": 32
+          "rank": 31
         },
         "birdie_rate_pct": {
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 18
+          "rank": 17
         },
         "double_bogey_or_worse_count": {
           "value": 3.7,
@@ -3489,19 +3537,19 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         },
         "eagle_or_better_count": {
           "value": 3.7,
           "count": 2,
           "opportunities": 54,
-          "rank": 4
+          "rank": 1
         },
         "putting_total_distance_ft": {
           "value": 816,
           "count": 816,
           "opportunities": 54,
-          "rank": 37
+          "rank": 39
         },
         "longest_throw_in": {
           "value": 39,
@@ -3513,13 +3561,13 @@
           "value": 15.11,
           "count": null,
           "opportunities": 54,
-          "rank": 40
+          "rank": 41
         },
         "ob_count": {
           "value": 10,
           "count": 10,
           "opportunities": 54,
-          "rank": 35
+          "rank": 34
         },
         "bogey_rate_pct": {
           "value": 29.63,
@@ -3540,7 +3588,7 @@
       "prize_usd": null,
       "points": 1185,
       "dnf": false,
-      "event_rating": 1039,
+      "event_rating": 1038,
       "rounds": [
         {
           "round_id": 122953575,
@@ -3558,7 +3606,7 @@
           "round_id": 122953577,
           "score": 67,
           "rating": null,
-          "place_after": 15
+          "place_after": 23
         }
       ],
       "stats": {
@@ -3572,7 +3620,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 59.26,
@@ -3590,7 +3638,7 @@
           "value": 16.67,
           "count": 2,
           "opportunities": 12,
-          "rank": 63
+          "rank": 64
         },
         "c1_putting_pct": {
           "value": 92.16,
@@ -3602,13 +3650,13 @@
           "value": 88.24,
           "count": 30,
           "opportunities": 34,
-          "rank": 25
+          "rank": 24
         },
         "c2_putting_pct": {
           "value": 28,
           "count": 7,
           "opportunities": 25,
-          "rank": 21
+          "rank": 22
         },
         "ob_rate_pct": {
           "value": 12.96,
@@ -3620,7 +3668,7 @@
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 18
+          "rank": 17
         },
         "double_bogey_or_worse_count": {
           "value": 5.56,
@@ -3632,19 +3680,19 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 14
+          "rank": 13
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -3656,7 +3704,7 @@
           "value": 1016,
           "count": 1016,
           "opportunities": 54,
-          "rank": 3
+          "rank": 4
         },
         "longest_throw_in": {
           "value": 65,
@@ -3668,7 +3716,7 @@
           "value": 18.81,
           "count": null,
           "opportunities": 54,
-          "rank": 3
+          "rank": 4
         },
         "ob_count": {
           "value": 7,
@@ -3680,7 +3728,7 @@
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -3713,7 +3761,7 @@
           "round_id": 122953577,
           "score": 69,
           "rating": null,
-          "place_after": 17
+          "place_after": 25
         }
       ],
       "stats": {
@@ -3727,7 +3775,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 59.26,
@@ -3739,7 +3787,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 18.18,
@@ -3751,13 +3799,13 @@
           "value": 89.47,
           "count": 51,
           "opportunities": 57,
-          "rank": 52
+          "rank": 51
         },
         "c1x_putting_pct": {
           "value": 80.65,
           "count": 25,
           "opportunities": 31,
-          "rank": 61
+          "rank": 60
         },
         "c2_putting_pct": {
           "value": 16.67,
@@ -3769,7 +3817,7 @@
           "value": 24.07,
           "count": 13,
           "opportunities": 54,
-          "rank": 57
+          "rank": 56
         },
         "birdie_rate_pct": {
           "value": 33.33,
@@ -3781,13 +3829,13 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 44.44,
@@ -3811,7 +3859,7 @@
           "value": 803,
           "count": 803,
           "opportunities": 54,
-          "rank": 44
+          "rank": 45
         },
         "longest_throw_in": {
           "value": 59,
@@ -3829,13 +3877,13 @@
           "value": 13,
           "count": 13,
           "opportunities": 54,
-          "rank": 59
+          "rank": 58
         },
         "bogey_rate_pct": {
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -3868,7 +3916,7 @@
           "round_id": 122953577,
           "score": 66,
           "rating": null,
-          "place_after": 17
+          "place_after": 25
         }
       ],
       "stats": {
@@ -3876,7 +3924,7 @@
           "value": 72.5,
           "count": 29,
           "opportunities": 40,
-          "rank": 40
+          "rank": 41
         },
         "c1_in_reg_pct": {
           "value": 28.21,
@@ -3906,25 +3954,25 @@
           "value": 90,
           "count": 36,
           "opportunities": 40,
-          "rank": 48
+          "rank": 46
         },
         "c1x_putting_pct": {
           "value": 84,
           "count": 21,
           "opportunities": 25,
-          "rank": 44
+          "rank": 43
         },
         "c2_putting_pct": {
           "value": 23.08,
           "count": 3,
           "opportunities": 13,
-          "rank": 39
+          "rank": 40
         },
         "ob_rate_pct": {
           "value": 7.69,
           "count": 3,
           "opportunities": 39,
-          "rank": 5
+          "rank": 4
         },
         "birdie_rate_pct": {
           "value": 22.22,
@@ -3942,7 +3990,7 @@
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 61.11,
@@ -3990,7 +4038,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
         }
       }
     },
@@ -4023,7 +4071,7 @@
           "round_id": 122953577,
           "score": 67,
           "rating": null,
-          "place_after": 17
+          "place_after": 25
         }
       ],
       "stats": {
@@ -4061,13 +4109,13 @@
           "value": 89.83,
           "count": 53,
           "opportunities": 59,
-          "rank": 49
+          "rank": 47
         },
         "c1x_putting_pct": {
           "value": 83.78,
           "count": 31,
           "opportunities": 37,
-          "rank": 47
+          "rank": 46
         },
         "c2_putting_pct": {
           "value": 4.55,
@@ -4097,7 +4145,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 53
+          "rank": 52
         },
         "par_count": {
           "value": 50,
@@ -4145,7 +4193,7 @@
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -4178,7 +4226,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 20
+          "place_after": 28
         }
       ],
       "stats": {
@@ -4192,7 +4240,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 53.7,
@@ -4216,7 +4264,7 @@
           "value": 93.62,
           "count": 44,
           "opportunities": 47,
-          "rank": 19
+          "rank": 18
         },
         "c1x_putting_pct": {
           "value": 91.89,
@@ -4240,7 +4288,7 @@
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 7
+          "rank": 6
         },
         "double_bogey_or_worse_count": {
           "value": 11.11,
@@ -4333,7 +4381,7 @@
           "round_id": 122953577,
           "score": 67,
           "rating": null,
-          "place_after": 20
+          "place_after": 28
         }
       ],
       "stats": {
@@ -4347,7 +4395,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 25
+          "rank": 26
         },
         "c2_in_reg_pct": {
           "value": 51.85,
@@ -4389,13 +4437,13 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 12
+          "rank": 11
         },
         "double_bogey_or_worse_count": {
           "value": 9.26,
@@ -4413,7 +4461,7 @@
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 33.33,
@@ -4425,7 +4473,7 @@
           "value": 3.7,
           "count": 2,
           "opportunities": 54,
-          "rank": 4
+          "rank": 1
         },
         "putting_total_distance_ft": {
           "value": 949,
@@ -4443,19 +4491,19 @@
           "value": 17.57,
           "count": null,
           "opportunities": 54,
-          "rank": 12
+          "rank": 11
         },
         "ob_count": {
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 22
+          "rank": 19
         }
       }
     },
@@ -4488,7 +4536,7 @@
           "round_id": 122953577,
           "score": 63,
           "rating": null,
-          "place_after": 20
+          "place_after": 28
         }
       ],
       "stats": {
@@ -4526,13 +4574,13 @@
           "value": 91.07,
           "count": 51,
           "opportunities": 56,
-          "rank": 36
+          "rank": 35
         },
         "c1x_putting_pct": {
           "value": 80.77,
           "count": 21,
           "opportunities": 26,
-          "rank": 60
+          "rank": 59
         },
         "c2_putting_pct": {
           "value": 18.75,
@@ -4544,7 +4592,7 @@
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "birdie_rate_pct": {
           "value": 24.07,
@@ -4604,13 +4652,13 @@
           "value": 6,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "bogey_rate_pct": {
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
         }
       }
     },
@@ -4643,7 +4691,7 @@
           "round_id": 122953577,
           "score": 66,
           "rating": null,
-          "place_after": 20
+          "place_after": 28
         }
       ],
       "stats": {
@@ -4663,7 +4711,7 @@
           "value": 57.41,
           "count": 31,
           "opportunities": 54,
-          "rank": 27
+          "rank": 26
         },
         "parked_pct": {
           "value": 7.41,
@@ -4681,13 +4729,13 @@
           "value": 91.23,
           "count": 52,
           "opportunities": 57,
-          "rank": 35
+          "rank": 34
         },
         "c1x_putting_pct": {
           "value": 82.76,
           "count": 24,
           "opportunities": 29,
-          "rank": 53
+          "rank": 52
         },
         "c2_putting_pct": {
           "value": 11.11,
@@ -4699,7 +4747,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 31.48,
@@ -4717,19 +4765,19 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -4759,13 +4807,13 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -4798,7 +4846,7 @@
           "round_id": 122953577,
           "score": 66,
           "rating": null,
-          "place_after": 20
+          "place_after": 28
         }
       ],
       "stats": {
@@ -4806,7 +4854,7 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 50,
@@ -4824,7 +4872,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 0,
@@ -4854,7 +4902,7 @@
           "value": 24.07,
           "count": 13,
           "opportunities": 54,
-          "rank": 57
+          "rank": 56
         },
         "birdie_rate_pct": {
           "value": 44.44,
@@ -4866,7 +4914,7 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 18.52,
@@ -4896,7 +4944,7 @@
           "value": 814,
           "count": 814,
           "opportunities": 54,
-          "rank": 39
+          "rank": 41
         },
         "longest_throw_in": {
           "value": 26,
@@ -4908,19 +4956,19 @@
           "value": 15.07,
           "count": null,
           "opportunities": 54,
-          "rank": 43
+          "rank": 44
         },
         "ob_count": {
           "value": 13,
           "count": 13,
           "opportunities": 54,
-          "rank": 59
+          "rank": 58
         },
         "bogey_rate_pct": {
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         }
       }
     },
@@ -4953,7 +5001,7 @@
           "round_id": 122953577,
           "score": 69,
           "rating": null,
-          "place_after": 20
+          "place_after": 28
         }
       ],
       "stats": {
@@ -4967,13 +5015,13 @@
           "value": 38.89,
           "count": 21,
           "opportunities": 54,
-          "rank": 11
+          "rank": 10
         },
         "c2_in_reg_pct": {
           "value": 64.81,
           "count": 35,
           "opportunities": 54,
-          "rank": 9
+          "rank": 6
         },
         "parked_pct": {
           "value": 3.7,
@@ -4991,13 +5039,13 @@
           "value": 89.47,
           "count": 51,
           "opportunities": 57,
-          "rank": 52
+          "rank": 51
         },
         "c1x_putting_pct": {
           "value": 84.21,
           "count": 32,
           "opportunities": 38,
-          "rank": 42
+          "rank": 41
         },
         "c2_putting_pct": {
           "value": 18.75,
@@ -5009,13 +5057,13 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "birdie_rate_pct": {
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 18
+          "rank": 17
         },
         "double_bogey_or_worse_count": {
           "value": 5.56,
@@ -5045,7 +5093,7 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 772,
@@ -5069,7 +5117,7 @@
           "value": 9,
           "count": 9,
           "opportunities": 54,
-          "rank": 29
+          "rank": 28
         },
         "bogey_rate_pct": {
           "value": 29.63,
@@ -5108,7 +5156,7 @@
           "round_id": 122953577,
           "score": 62,
           "rating": null,
-          "place_after": 20
+          "place_after": 28
         }
       ],
       "stats": {
@@ -5122,7 +5170,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 48.15,
@@ -5140,7 +5188,7 @@
           "value": 16.67,
           "count": 3,
           "opportunities": 18,
-          "rank": 63
+          "rank": 64
         },
         "c1_putting_pct": {
           "value": 96.15,
@@ -5164,13 +5212,13 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 18
+          "rank": 17
         },
         "double_bogey_or_worse_count": {
           "value": 5.56,
@@ -5194,7 +5242,7 @@
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 14
+          "rank": 13
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -5224,7 +5272,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 27.78,
@@ -5263,7 +5311,7 @@
           "round_id": 122953577,
           "score": 72,
           "rating": null,
-          "place_after": 27
+          "place_after": 35
         }
       ],
       "stats": {
@@ -5277,7 +5325,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 51.85,
@@ -5313,7 +5361,7 @@
           "value": 47.06,
           "count": 8,
           "opportunities": 17,
-          "rank": 2
+          "rank": 3
         },
         "ob_rate_pct": {
           "value": 31.48,
@@ -5325,19 +5373,19 @@
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 18
+          "rank": 17
         },
         "double_bogey_or_worse_count": {
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 40.74,
@@ -5349,7 +5397,7 @@
           "value": 35.19,
           "count": 19,
           "opportunities": 54,
-          "rank": 14
+          "rank": 13
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -5361,7 +5409,7 @@
           "value": 968,
           "count": 968,
           "opportunities": 54,
-          "rank": 6
+          "rank": 7
         },
         "longest_throw_in": {
           "value": 59,
@@ -5373,7 +5421,7 @@
           "value": 17.93,
           "count": null,
           "opportunities": 54,
-          "rank": 9
+          "rank": 8
         },
         "ob_count": {
           "value": 17,
@@ -5418,7 +5466,7 @@
           "round_id": 122953577,
           "score": 69,
           "rating": null,
-          "place_after": 27
+          "place_after": 35
         }
       ],
       "stats": {
@@ -5432,7 +5480,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 42.59,
@@ -5444,7 +5492,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 33.33,
@@ -5474,7 +5522,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 29.63,
@@ -5498,7 +5546,7 @@
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 29.63,
@@ -5516,7 +5564,7 @@
           "value": 899,
           "count": 899,
           "opportunities": 54,
-          "rank": 17
+          "rank": 19
         },
         "longest_throw_in": {
           "value": 49,
@@ -5528,13 +5576,13 @@
           "value": 16.65,
           "count": null,
           "opportunities": 54,
-          "rank": 19
+          "rank": 20
         },
         "ob_count": {
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 24.07,
@@ -5573,7 +5621,7 @@
           "round_id": 122953577,
           "score": 67,
           "rating": null,
-          "place_after": 29
+          "place_after": 37
         }
       ],
       "stats": {
@@ -5587,19 +5635,19 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 57.41,
           "count": 31,
           "opportunities": 54,
-          "rank": 27
+          "rank": 26
         },
         "parked_pct": {
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 38.1,
@@ -5617,7 +5665,7 @@
           "value": 82.86,
           "count": 29,
           "opportunities": 35,
-          "rank": 50
+          "rank": 49
         },
         "c2_putting_pct": {
           "value": 24,
@@ -5629,7 +5677,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 25.93,
@@ -5665,13 +5713,13 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 884,
           "count": 884,
           "opportunities": 54,
-          "rank": 19
+          "rank": 21
         },
         "longest_throw_in": {
           "value": 49,
@@ -5689,7 +5737,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 24.07,
@@ -5728,7 +5776,7 @@
           "round_id": 122953577,
           "score": 66,
           "rating": null,
-          "place_after": 29
+          "place_after": 37
         }
       ],
       "stats": {
@@ -5784,7 +5832,7 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 2
+          "rank": 1
         },
         "birdie_rate_pct": {
           "value": 20.37,
@@ -5838,19 +5886,19 @@
           "value": 14.11,
           "count": null,
           "opportunities": 54,
-          "rank": 64
+          "rank": 63
         },
         "ob_count": {
           "value": 4,
           "count": 4,
           "opportunities": 54,
-          "rank": 3
+          "rank": 2
         },
         "bogey_rate_pct": {
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
         }
       }
     },
@@ -5883,7 +5931,7 @@
           "round_id": 122953577,
           "score": 63,
           "rating": null,
-          "place_after": 29
+          "place_after": 37
         }
       ],
       "stats": {
@@ -5903,7 +5951,7 @@
           "value": 57.41,
           "count": 31,
           "opportunities": 54,
-          "rank": 27
+          "rank": 26
         },
         "parked_pct": {
           "value": 9.26,
@@ -5939,7 +5987,7 @@
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 20
+          "rank": 19
         },
         "birdie_rate_pct": {
           "value": 20.37,
@@ -5957,7 +6005,7 @@
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 61.11,
@@ -5999,7 +6047,7 @@
           "value": 8,
           "count": 8,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "bogey_rate_pct": {
           "value": 18.52,
@@ -6038,7 +6086,7 @@
           "round_id": 122953577,
           "score": 64,
           "rating": null,
-          "place_after": 29
+          "place_after": 37
         }
       ],
       "stats": {
@@ -6046,7 +6094,7 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 29.63,
@@ -6058,7 +6106,7 @@
           "value": 64.81,
           "count": 35,
           "opportunities": 54,
-          "rank": 9
+          "rank": 6
         },
         "parked_pct": {
           "value": 1.85,
@@ -6094,7 +6142,7 @@
           "value": 18.52,
           "count": 10,
           "opportunities": 54,
-          "rank": 32
+          "rank": 31
         },
         "birdie_rate_pct": {
           "value": 29.63,
@@ -6118,7 +6166,7 @@
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 27.78,
@@ -6130,7 +6178,7 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 693,
@@ -6154,7 +6202,7 @@
           "value": 10,
           "count": 10,
           "opportunities": 54,
-          "rank": 35
+          "rank": 34
         },
         "bogey_rate_pct": {
           "value": 24.07,
@@ -6193,7 +6241,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 29
+          "place_after": 37
         }
       ],
       "stats": {
@@ -6207,7 +6255,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 25
+          "rank": 26
         },
         "c2_in_reg_pct": {
           "value": 55.56,
@@ -6255,7 +6303,7 @@
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 12
+          "rank": 11
         },
         "double_bogey_or_worse_count": {
           "value": 3.7,
@@ -6279,7 +6327,7 @@
           "value": 37.04,
           "count": 20,
           "opportunities": 54,
-          "rank": 10
+          "rank": 9
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -6303,7 +6351,7 @@
           "value": 17.76,
           "count": null,
           "opportunities": 54,
-          "rank": 10
+          "rank": 9
         },
         "ob_count": {
           "value": 14,
@@ -6348,7 +6396,7 @@
           "round_id": 122953577,
           "score": 61,
           "rating": null,
-          "place_after": 34
+          "place_after": 42
         }
       ],
       "stats": {
@@ -6374,7 +6422,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 30.77,
@@ -6386,13 +6434,13 @@
           "value": 90.57,
           "count": 48,
           "opportunities": 53,
-          "rank": 43
+          "rank": 41
         },
         "c1x_putting_pct": {
           "value": 83.33,
           "count": 25,
           "opportunities": 30,
-          "rank": 49
+          "rank": 48
         },
         "c2_putting_pct": {
           "value": 28.57,
@@ -6404,7 +6452,7 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 2
+          "rank": 1
         },
         "birdie_rate_pct": {
           "value": 31.48,
@@ -6422,19 +6470,19 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         },
         "eagle_or_better_count": {
           "value": 0,
@@ -6464,13 +6512,13 @@
           "value": 4,
           "count": 4,
           "opportunities": 54,
-          "rank": 3
+          "rank": 2
         },
         "bogey_rate_pct": {
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         }
       }
     },
@@ -6503,7 +6551,7 @@
           "round_id": 122953577,
           "score": 68,
           "rating": null,
-          "place_after": 35
+          "place_after": 43
         }
       ],
       "stats": {
@@ -6517,7 +6565,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 46.3,
@@ -6541,13 +6589,13 @@
           "value": 92.59,
           "count": 50,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "c1x_putting_pct": {
           "value": 87.88,
           "count": 29,
           "opportunities": 33,
-          "rank": 26
+          "rank": 25
         },
         "c2_putting_pct": {
           "value": 20,
@@ -6559,7 +6607,7 @@
           "value": 24.07,
           "count": 13,
           "opportunities": 54,
-          "rank": 57
+          "rank": 56
         },
         "birdie_rate_pct": {
           "value": 24.07,
@@ -6577,7 +6625,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 53
+          "rank": 52
         },
         "par_count": {
           "value": 51.85,
@@ -6619,7 +6667,7 @@
           "value": 13,
           "count": 13,
           "opportunities": 54,
-          "rank": 59
+          "rank": 58
         },
         "bogey_rate_pct": {
           "value": 24.07,
@@ -6658,7 +6706,7 @@
           "round_id": 122953577,
           "score": 64,
           "rating": null,
-          "place_after": 35
+          "place_after": 43
         }
       ],
       "stats": {
@@ -6696,13 +6744,13 @@
           "value": 93.1,
           "count": 54,
           "opportunities": 58,
-          "rank": 20
+          "rank": 19
         },
         "c1x_putting_pct": {
           "value": 87.88,
           "count": 29,
           "opportunities": 33,
-          "rank": 26
+          "rank": 25
         },
         "c2_putting_pct": {
           "value": 0,
@@ -6714,7 +6762,7 @@
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "birdie_rate_pct": {
           "value": 16.67,
@@ -6774,13 +6822,13 @@
           "value": 6,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "bogey_rate_pct": {
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 5
+          "rank": 4
         }
       }
     },
@@ -6813,7 +6861,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 35
+          "place_after": 43
         }
       ],
       "stats": {
@@ -6851,13 +6899,13 @@
           "value": 91.67,
           "count": 33,
           "opportunities": 36,
-          "rank": 29
+          "rank": 30
         },
         "c1x_putting_pct": {
           "value": 84.21,
           "count": 16,
           "opportunities": 19,
-          "rank": 42
+          "rank": 41
         },
         "c2_putting_pct": {
           "value": 16.67,
@@ -6869,7 +6917,7 @@
           "value": 16.67,
           "count": 6,
           "opportunities": 36,
-          "rank": 24
+          "rank": 23
         },
         "birdie_rate_pct": {
           "value": 20.37,
@@ -6887,7 +6935,7 @@
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 59.26,
@@ -6929,13 +6977,13 @@
           "value": 6,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "bogey_rate_pct": {
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 22
+          "rank": 19
         }
       }
     },
@@ -6968,7 +7016,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 35
+          "place_after": 43
         }
       ],
       "stats": {
@@ -6982,7 +7030,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 51.85,
@@ -7024,7 +7072,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 25.93,
@@ -7048,7 +7096,7 @@
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 25.93,
@@ -7084,7 +7132,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 27.78,
@@ -7123,7 +7171,7 @@
           "round_id": 122953577,
           "score": 71,
           "rating": null,
-          "place_after": 39
+          "place_after": 47
         }
       ],
       "stats": {
@@ -7137,7 +7185,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 25
+          "rank": 26
         },
         "c2_in_reg_pct": {
           "value": 51.85,
@@ -7149,7 +7197,7 @@
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 10
+          "rank": 7
         },
         "scramble_pct": {
           "value": 17.65,
@@ -7173,7 +7221,7 @@
           "value": 22.22,
           "count": 4,
           "opportunities": 18,
-          "rank": 41
+          "rank": 42
         },
         "ob_rate_pct": {
           "value": 12.96,
@@ -7278,7 +7326,7 @@
           "round_id": 122953577,
           "score": 71,
           "rating": null,
-          "place_after": 39
+          "place_after": 47
         }
       ],
       "stats": {
@@ -7292,7 +7340,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 51.85,
@@ -7316,19 +7364,19 @@
           "value": 90.57,
           "count": 48,
           "opportunities": 53,
-          "rank": 43
+          "rank": 41
         },
         "c1x_putting_pct": {
           "value": 82.76,
           "count": 24,
           "opportunities": 29,
-          "rank": 53
+          "rank": 52
         },
         "c2_putting_pct": {
           "value": 26.09,
           "count": 6,
           "opportunities": 23,
-          "rank": 27
+          "rank": 28
         },
         "ob_rate_pct": {
           "value": 25.93,
@@ -7346,7 +7394,7 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 25.93,
@@ -7358,25 +7406,25 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 88
+          "rank": 87
         },
         "birdie_count": {
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         },
         "eagle_or_better_count": {
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 812,
           "count": 812,
           "opportunities": 54,
-          "rank": 41
+          "rank": 43
         },
         "longest_throw_in": {
           "value": 40,
@@ -7388,7 +7436,7 @@
           "value": 15.04,
           "count": null,
           "opportunities": 54,
-          "rank": 45
+          "rank": 46
         },
         "ob_count": {
           "value": 14,
@@ -7433,7 +7481,7 @@
           "round_id": 122953577,
           "score": 69,
           "rating": null,
-          "place_after": 39
+          "place_after": 47
         }
       ],
       "stats": {
@@ -7441,7 +7489,7 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 29.63,
@@ -7459,7 +7507,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 20,
@@ -7471,13 +7519,13 @@
           "value": 92.73,
           "count": 51,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1x_putting_pct": {
           "value": 88.57,
           "count": 31,
           "opportunities": 35,
-          "rank": 23
+          "rank": 22
         },
         "c2_putting_pct": {
           "value": 17.65,
@@ -7489,7 +7537,7 @@
           "value": 18.52,
           "count": 10,
           "opportunities": 54,
-          "rank": 32
+          "rank": 31
         },
         "birdie_rate_pct": {
           "value": 29.63,
@@ -7531,7 +7579,7 @@
           "value": 823,
           "count": 823,
           "opportunities": 54,
-          "rank": 35
+          "rank": 37
         },
         "longest_throw_in": {
           "value": 39,
@@ -7543,13 +7591,13 @@
           "value": 15.24,
           "count": null,
           "opportunities": 54,
-          "rank": 36
+          "rank": 38
         },
         "ob_count": {
           "value": 10,
           "count": 10,
           "opportunities": 54,
-          "rank": 35
+          "rank": 34
         },
         "bogey_rate_pct": {
           "value": 31.48,
@@ -7588,7 +7636,7 @@
           "round_id": 122953577,
           "score": 68,
           "rating": null,
-          "place_after": 39
+          "place_after": 47
         }
       ],
       "stats": {
@@ -7638,7 +7686,7 @@
           "value": 26.32,
           "count": 5,
           "opportunities": 19,
-          "rank": 24
+          "rank": 25
         },
         "ob_rate_pct": {
           "value": 25.93,
@@ -7680,13 +7728,13 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 893,
           "count": 893,
           "opportunities": 54,
-          "rank": 18
+          "rank": 20
         },
         "longest_throw_in": {
           "value": 49,
@@ -7743,7 +7791,7 @@
           "round_id": 122953577,
           "score": 67,
           "rating": null,
-          "place_after": 43
+          "place_after": 51
         }
       ],
       "stats": {
@@ -7769,7 +7817,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 21.05,
@@ -7781,25 +7829,25 @@
           "value": 92.45,
           "count": 49,
           "opportunities": 53,
-          "rank": 26
+          "rank": 25
         },
         "c1x_putting_pct": {
           "value": 88.89,
           "count": 32,
           "opportunities": 36,
-          "rank": 21
+          "rank": 20
         },
         "c2_putting_pct": {
           "value": 22.22,
           "count": 4,
           "opportunities": 18,
-          "rank": 41
+          "rank": 42
         },
         "ob_rate_pct": {
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 52
+          "rank": 51
         },
         "birdie_rate_pct": {
           "value": 27.78,
@@ -7823,7 +7871,7 @@
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 27.78,
@@ -7841,7 +7889,7 @@
           "value": 879,
           "count": 879,
           "opportunities": 53,
-          "rank": 21
+          "rank": 23
         },
         "longest_throw_in": {
           "value": 141,
@@ -7853,13 +7901,13 @@
           "value": 16.58,
           "count": null,
           "opportunities": 53,
-          "rank": 20
+          "rank": 21
         },
         "ob_count": {
           "value": 12,
           "count": 12,
           "opportunities": 54,
-          "rank": 55
+          "rank": 54
         },
         "bogey_rate_pct": {
           "value": 29.63,
@@ -7898,7 +7946,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 43
+          "place_after": 51
         }
       ],
       "stats": {
@@ -7912,7 +7960,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 44.44,
@@ -7924,7 +7972,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 25,
@@ -7942,13 +7990,13 @@
           "value": 90.91,
           "count": 30,
           "opportunities": 33,
-          "rank": 12
+          "rank": 11
         },
         "c2_putting_pct": {
           "value": 40,
           "count": 8,
           "opportunities": 20,
-          "rank": 6
+          "rank": 7
         },
         "ob_rate_pct": {
           "value": 31.48,
@@ -7972,7 +8020,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 51.85,
@@ -8008,7 +8056,7 @@
           "value": 17.74,
           "count": null,
           "opportunities": 54,
-          "rank": 11
+          "rank": 10
         },
         "ob_count": {
           "value": 17,
@@ -8020,7 +8068,7 @@
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -8053,7 +8101,7 @@
           "round_id": 122953577,
           "score": 74,
           "rating": null,
-          "place_after": 43
+          "place_after": 51
         }
       ],
       "stats": {
@@ -8073,7 +8121,7 @@
           "value": 57.41,
           "count": 31,
           "opportunities": 54,
-          "rank": 27
+          "rank": 26
         },
         "parked_pct": {
           "value": 9.26,
@@ -8127,13 +8175,13 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 27.78,
@@ -8151,7 +8199,7 @@
           "value": 915,
           "count": 915,
           "opportunities": 54,
-          "rank": 16
+          "rank": 17
         },
         "longest_throw_in": {
           "value": 49,
@@ -8163,7 +8211,7 @@
           "value": 16.94,
           "count": null,
           "opportunities": 54,
-          "rank": 17
+          "rank": 18
         },
         "ob_count": {
           "value": 15,
@@ -8175,7 +8223,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         }
       }
     },
@@ -8208,7 +8256,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 46
+          "place_after": 54
         }
       ],
       "stats": {
@@ -8264,7 +8312,7 @@
           "value": 18.52,
           "count": 10,
           "opportunities": 54,
-          "rank": 32
+          "rank": 31
         },
         "birdie_rate_pct": {
           "value": 27.78,
@@ -8324,7 +8372,7 @@
           "value": 10,
           "count": 10,
           "opportunities": 54,
-          "rank": 35
+          "rank": 34
         },
         "bogey_rate_pct": {
           "value": 31.48,
@@ -8345,7 +8393,7 @@
       "prize_usd": null,
       "points": 720,
       "dnf": false,
-      "event_rating": 1020,
+      "event_rating": 1019,
       "rounds": [
         {
           "round_id": 122953575,
@@ -8363,7 +8411,7 @@
           "round_id": 122953577,
           "score": 68,
           "rating": null,
-          "place_after": 46
+          "place_after": 54
         }
       ],
       "stats": {
@@ -8377,7 +8425,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 46.3,
@@ -8395,19 +8443,19 @@
           "value": 15.79,
           "count": 3,
           "opportunities": 19,
-          "rank": 67
+          "rank": 68
         },
         "c1_putting_pct": {
           "value": 90.74,
           "count": 49,
           "opportunities": 54,
-          "rank": 39
+          "rank": 38
         },
         "c1x_putting_pct": {
           "value": 82.76,
           "count": 24,
           "opportunities": 29,
-          "rank": 53
+          "rank": 52
         },
         "c2_putting_pct": {
           "value": 31.25,
@@ -8419,7 +8467,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 25.93,
@@ -8431,7 +8479,7 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 22.22,
@@ -8479,7 +8527,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 29.63,
@@ -8518,7 +8566,7 @@
           "round_id": 122953577,
           "score": 69,
           "rating": null,
-          "place_after": 48
+          "place_after": 56
         }
       ],
       "stats": {
@@ -8544,7 +8592,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 23.08,
@@ -8574,7 +8622,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "birdie_rate_pct": {
           "value": 24.07,
@@ -8598,7 +8646,7 @@
           "value": 48.15,
           "count": 26,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "birdie_count": {
           "value": 24.07,
@@ -8634,7 +8682,7 @@
           "value": 9,
           "count": 9,
           "opportunities": 54,
-          "rank": 29
+          "rank": 28
         },
         "bogey_rate_pct": {
           "value": 27.78,
@@ -8673,7 +8721,7 @@
           "round_id": 122953577,
           "score": 76,
           "rating": null,
-          "place_after": 48
+          "place_after": 56
         }
       ],
       "stats": {
@@ -8687,7 +8735,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 50,
@@ -8699,7 +8747,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 19.05,
@@ -8717,7 +8765,7 @@
           "value": 82.86,
           "count": 29,
           "opportunities": 35,
-          "rank": 50
+          "rank": 49
         },
         "c2_putting_pct": {
           "value": 20,
@@ -8771,7 +8819,7 @@
           "value": 816,
           "count": 816,
           "opportunities": 54,
-          "rank": 37
+          "rank": 39
         },
         "longest_throw_in": {
           "value": 39,
@@ -8783,7 +8831,7 @@
           "value": 15.11,
           "count": null,
           "opportunities": 54,
-          "rank": 40
+          "rank": 41
         },
         "ob_count": {
           "value": 20,
@@ -8828,7 +8876,7 @@
           "round_id": 122953577,
           "score": 74,
           "rating": null,
-          "place_after": 48
+          "place_after": 56
         }
       ],
       "stats": {
@@ -8860,7 +8908,7 @@
           "value": 11.11,
           "count": 2,
           "opportunities": 18,
-          "rank": 77
+          "rank": 76
         },
         "c1_putting_pct": {
           "value": 84.21,
@@ -8884,7 +8932,7 @@
           "value": 24.07,
           "count": 13,
           "opportunities": 54,
-          "rank": 57
+          "rank": 56
         },
         "birdie_rate_pct": {
           "value": 31.48,
@@ -8920,13 +8968,13 @@
           "value": 3.7,
           "count": 2,
           "opportunities": 54,
-          "rank": 4
+          "rank": 1
         },
         "putting_total_distance_ft": {
           "value": 922,
           "count": 922,
           "opportunities": 54,
-          "rank": 14
+          "rank": 15
         },
         "longest_throw_in": {
           "value": 49,
@@ -8938,13 +8986,13 @@
           "value": 17.07,
           "count": null,
           "opportunities": 54,
-          "rank": 15
+          "rank": 16
         },
         "ob_count": {
           "value": 13,
           "count": 13,
           "opportunities": 54,
-          "rank": 59
+          "rank": 58
         },
         "bogey_rate_pct": {
           "value": 38.89,
@@ -8983,7 +9031,7 @@
           "round_id": 122953577,
           "score": 71,
           "rating": null,
-          "place_after": 51
+          "place_after": 59
         }
       ],
       "stats": {
@@ -9033,13 +9081,13 @@
           "value": 6.25,
           "count": 1,
           "opportunities": 16,
-          "rank": 85
+          "rank": 86
         },
         "ob_rate_pct": {
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 20
+          "rank": 19
         },
         "birdie_rate_pct": {
           "value": 22.22,
@@ -9057,7 +9105,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 51.85,
@@ -9099,13 +9147,13 @@
           "value": 8,
           "count": 8,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "bogey_rate_pct": {
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         }
       }
     },
@@ -9138,7 +9186,7 @@
           "round_id": 122953577,
           "score": 63,
           "rating": null,
-          "place_after": 51
+          "place_after": 59
         }
       ],
       "stats": {
@@ -9176,13 +9224,13 @@
           "value": 92.86,
           "count": 52,
           "opportunities": 56,
-          "rank": 21
+          "rank": 20
         },
         "c1x_putting_pct": {
           "value": 88.57,
           "count": 31,
           "opportunities": 35,
-          "rank": 23
+          "rank": 22
         },
         "c2_putting_pct": {
           "value": 9.52,
@@ -9206,13 +9254,13 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 57.41,
@@ -9260,7 +9308,7 @@
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 25
+          "rank": 24
         }
       }
     },
@@ -9293,7 +9341,7 @@
           "round_id": 122953577,
           "score": 73,
           "rating": null,
-          "place_after": 53
+          "place_after": 61
         }
       ],
       "stats": {
@@ -9301,7 +9349,7 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 35.19,
@@ -9325,19 +9373,19 @@
           "value": 15,
           "count": 3,
           "opportunities": 20,
-          "rank": 69
+          "rank": 70
         },
         "c1_putting_pct": {
           "value": 89.66,
           "count": 52,
           "opportunities": 58,
-          "rank": 50
+          "rank": 48
         },
         "c1x_putting_pct": {
           "value": 82.86,
           "count": 29,
           "opportunities": 35,
-          "rank": 50
+          "rank": 49
         },
         "c2_putting_pct": {
           "value": 10,
@@ -9367,7 +9415,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 53
+          "rank": 52
         },
         "par_count": {
           "value": 40.74,
@@ -9448,7 +9496,7 @@
           "round_id": 122953577,
           "score": 70,
           "rating": null,
-          "place_after": 54
+          "place_after": 62
         }
       ],
       "stats": {
@@ -9474,7 +9522,7 @@
           "value": 5.56,
           "count": 2,
           "opportunities": 36,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 23.08,
@@ -9516,19 +9564,19 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 53
+          "rank": 52
         },
         "par_count": {
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 25.93,
@@ -9564,7 +9612,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 27.78,
@@ -9603,7 +9651,7 @@
           "round_id": 122953577,
           "score": 68,
           "rating": null,
-          "place_after": 54
+          "place_after": 62
         }
       ],
       "stats": {
@@ -9641,7 +9689,7 @@
           "value": 89.47,
           "count": 51,
           "opportunities": 57,
-          "rank": 52
+          "rank": 51
         },
         "c1x_putting_pct": {
           "value": 85,
@@ -9659,7 +9707,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "birdie_rate_pct": {
           "value": 20.37,
@@ -9683,7 +9731,7 @@
           "value": 48.15,
           "count": 26,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "birdie_count": {
           "value": 20.37,
@@ -9701,7 +9749,7 @@
           "value": 873,
           "count": 873,
           "opportunities": 54,
-          "rank": 23
+          "rank": 24
         },
         "longest_throw_in": {
           "value": 39,
@@ -9719,7 +9767,7 @@
           "value": 9,
           "count": 9,
           "opportunities": 54,
-          "rank": 29
+          "rank": 28
         },
         "bogey_rate_pct": {
           "value": 31.48,
@@ -9740,7 +9788,7 @@
       "prize_usd": null,
       "points": 600,
       "dnf": false,
-      "event_rating": 1017,
+      "event_rating": 1016,
       "rounds": [
         {
           "round_id": 122953575,
@@ -9758,7 +9806,7 @@
           "round_id": 122953577,
           "score": 79,
           "rating": null,
-          "place_after": 54
+          "place_after": 62
         }
       ],
       "stats": {
@@ -9766,7 +9814,7 @@
           "value": 74.55,
           "count": 41,
           "opportunities": 55,
-          "rank": 22
+          "rank": 21
         },
         "c1_in_reg_pct": {
           "value": 35.19,
@@ -9802,7 +9850,7 @@
           "value": 81.58,
           "count": 31,
           "opportunities": 38,
-          "rank": 58
+          "rank": 57
         },
         "c2_putting_pct": {
           "value": 11.76,
@@ -9814,7 +9862,7 @@
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 52
+          "rank": 51
         },
         "birdie_rate_pct": {
           "value": 31.48,
@@ -9838,7 +9886,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 88
+          "rank": 87
         },
         "birdie_count": {
           "value": 29.63,
@@ -9850,7 +9898,7 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 763,
@@ -9874,7 +9922,7 @@
           "value": 12,
           "count": 12,
           "opportunities": 54,
-          "rank": 55
+          "rank": 54
         },
         "bogey_rate_pct": {
           "value": 35.19,
@@ -9913,7 +9961,7 @@
           "round_id": 122953577,
           "score": 73,
           "rating": null,
-          "place_after": 54
+          "place_after": 62
         }
       ],
       "stats": {
@@ -9927,7 +9975,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 42.59,
@@ -9963,13 +10011,13 @@
           "value": 26.67,
           "count": 4,
           "opportunities": 15,
-          "rank": 23
+          "rank": 24
         },
         "ob_rate_pct": {
           "value": 11.11,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "birdie_rate_pct": {
           "value": 20.37,
@@ -10011,7 +10059,7 @@
           "value": 827,
           "count": 827,
           "opportunities": 54,
-          "rank": 34
+          "rank": 36
         },
         "longest_throw_in": {
           "value": 60,
@@ -10023,13 +10071,13 @@
           "value": 15.31,
           "count": null,
           "opportunities": 54,
-          "rank": 35
+          "rank": 37
         },
         "ob_count": {
           "value": 6,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "bogey_rate_pct": {
           "value": 27.78,
@@ -10068,7 +10116,7 @@
           "round_id": 122953577,
           "score": 72,
           "rating": null,
-          "place_after": 54
+          "place_after": 62
         }
       ],
       "stats": {
@@ -10094,13 +10142,13 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 10.53,
           "count": 2,
           "opportunities": 19,
-          "rank": 78
+          "rank": 77
         },
         "c1_putting_pct": {
           "value": 86.89,
@@ -10124,7 +10172,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 27.78,
@@ -10142,7 +10190,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 40.74,
@@ -10184,7 +10232,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 31.48,
@@ -10223,7 +10271,7 @@
           "round_id": 122953577,
           "score": 72,
           "rating": null,
-          "place_after": 59
+          "place_after": 67
         }
       ],
       "stats": {
@@ -10237,7 +10285,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 51.85,
@@ -10255,7 +10303,7 @@
           "value": 11.76,
           "count": 2,
           "opportunities": 17,
-          "rank": 74
+          "rank": 73
         },
         "c1_putting_pct": {
           "value": 94.34,
@@ -10279,7 +10327,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "birdie_rate_pct": {
           "value": 29.63,
@@ -10339,7 +10387,7 @@
           "value": 18,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "bogey_rate_pct": {
           "value": 31.48,
@@ -10378,7 +10426,7 @@
           "round_id": 122953577,
           "score": 65,
           "rating": null,
-          "place_after": 59
+          "place_after": 67
         }
       ],
       "stats": {
@@ -10392,7 +10440,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 61.11,
@@ -10410,19 +10458,19 @@
           "value": 11.76,
           "count": 2,
           "opportunities": 17,
-          "rank": 74
+          "rank": 73
         },
         "c1_putting_pct": {
           "value": 92.59,
           "count": 50,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "c1x_putting_pct": {
           "value": 87.1,
           "count": 27,
           "opportunities": 31,
-          "rank": 28
+          "rank": 27
         },
         "c2_putting_pct": {
           "value": 11.11,
@@ -10452,7 +10500,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 44.44,
@@ -10533,7 +10581,7 @@
           "round_id": 122953577,
           "score": 71,
           "rating": null,
-          "place_after": 61
+          "place_after": 69
         }
       ],
       "stats": {
@@ -10571,7 +10619,7 @@
           "value": 90.74,
           "count": 49,
           "opportunities": 54,
-          "rank": 39
+          "rank": 38
         },
         "c1x_putting_pct": {
           "value": 84.38,
@@ -10583,13 +10631,13 @@
           "value": 26.32,
           "count": 5,
           "opportunities": 19,
-          "rank": 24
+          "rank": 25
         },
         "ob_rate_pct": {
           "value": 22.22,
           "count": 12,
           "opportunities": 54,
-          "rank": 52
+          "rank": 51
         },
         "birdie_rate_pct": {
           "value": 22.22,
@@ -10649,7 +10697,7 @@
           "value": 12,
           "count": 12,
           "opportunities": 54,
-          "rank": 55
+          "rank": 54
         },
         "bogey_rate_pct": {
           "value": 33.33,
@@ -10688,7 +10736,7 @@
           "round_id": 122953577,
           "score": 70,
           "rating": null,
-          "place_after": 62
+          "place_after": 70
         }
       ],
       "stats": {
@@ -10744,7 +10792,7 @@
           "value": 16.67,
           "count": 6,
           "opportunities": 36,
-          "rank": 24
+          "rank": 23
         },
         "birdie_rate_pct": {
           "value": 11.11,
@@ -10762,7 +10810,7 @@
           "value": 14.81,
           "count": 8,
           "opportunities": 54,
-          "rank": 15
+          "rank": 13
         },
         "par_count": {
           "value": 64.81,
@@ -10804,7 +10852,7 @@
           "value": 6,
           "count": 6,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "bogey_rate_pct": {
           "value": 24.07,
@@ -10843,7 +10891,7 @@
           "round_id": 122953577,
           "score": 74,
           "rating": null,
-          "place_after": 62
+          "place_after": 70
         }
       ],
       "stats": {
@@ -10899,7 +10947,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 18.52,
@@ -10953,13 +11001,13 @@
           "value": 14.2,
           "count": null,
           "opportunities": 54,
-          "rank": 63
+          "rank": 62
         },
         "ob_count": {
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 27.78,
@@ -10998,7 +11046,7 @@
           "round_id": 122953577,
           "score": 71,
           "rating": null,
-          "place_after": 62
+          "place_after": 70
         }
       ],
       "stats": {
@@ -11024,7 +11072,7 @@
           "value": 5.56,
           "count": 2,
           "opportunities": 36,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 22.22,
@@ -11048,13 +11096,13 @@
           "value": 23.53,
           "count": 4,
           "opportunities": 17,
-          "rank": 38
+          "rank": 39
         },
         "ob_rate_pct": {
           "value": 19.44,
           "count": 7,
           "opportunities": 36,
-          "rank": 39
+          "rank": 38
         },
         "birdie_rate_pct": {
           "value": 22.22,
@@ -11108,7 +11156,7 @@
           "value": 17.94,
           "count": null,
           "opportunities": 54,
-          "rank": 8
+          "rank": 7
         },
         "ob_count": {
           "value": 7,
@@ -11135,7 +11183,7 @@
       "prize_usd": null,
       "points": 435,
       "dnf": false,
-      "event_rating": 1004,
+      "event_rating": 1003,
       "rounds": [
         {
           "round_id": 122953575,
@@ -11153,7 +11201,7 @@
           "round_id": 122953577,
           "score": 70,
           "rating": null,
-          "place_after": 65
+          "place_after": 73
         }
       ],
       "stats": {
@@ -11191,13 +11239,13 @@
           "value": 92.45,
           "count": 49,
           "opportunities": 53,
-          "rank": 26
+          "rank": 25
         },
         "c1x_putting_pct": {
           "value": 89.19,
           "count": 33,
           "opportunities": 37,
-          "rank": 20
+          "rank": 19
         },
         "c2_putting_pct": {
           "value": 25,
@@ -11221,7 +11269,7 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 25.93,
@@ -11233,7 +11281,7 @@
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 20.37,
@@ -11251,7 +11299,7 @@
           "value": 979,
           "count": 979,
           "opportunities": 54,
-          "rank": 5
+          "rank": 6
         },
         "longest_throw_in": {
           "value": 49,
@@ -11263,7 +11311,7 @@
           "value": 18.13,
           "count": null,
           "opportunities": 54,
-          "rank": 7
+          "rank": 6
         },
         "ob_count": {
           "value": 16,
@@ -11308,7 +11356,7 @@
           "round_id": 122953577,
           "score": 75,
           "rating": null,
-          "place_after": 66
+          "place_after": 74
         }
       ],
       "stats": {
@@ -11388,7 +11436,7 @@
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 20.37,
@@ -11406,7 +11454,7 @@
           "value": 917,
           "count": 917,
           "opportunities": 54,
-          "rank": 15
+          "rank": 16
         },
         "longest_throw_in": {
           "value": 60,
@@ -11418,7 +11466,7 @@
           "value": 16.98,
           "count": null,
           "opportunities": 54,
-          "rank": 16
+          "rank": 17
         },
         "ob_count": {
           "value": 19,
@@ -11463,7 +11511,7 @@
           "round_id": 122953577,
           "score": 77,
           "rating": null,
-          "place_after": 67
+          "place_after": 75
         }
       ],
       "stats": {
@@ -11477,7 +11525,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 31
+          "rank": 30
         },
         "c2_in_reg_pct": {
           "value": 42.59,
@@ -11519,7 +11567,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "birdie_rate_pct": {
           "value": 22.22,
@@ -11537,7 +11585,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 53
+          "rank": 52
         },
         "par_count": {
           "value": 44.44,
@@ -11555,7 +11603,7 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 739,
@@ -11579,7 +11627,7 @@
           "value": 18,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "bogey_rate_pct": {
           "value": 33.33,
@@ -11618,7 +11666,7 @@
           "round_id": 122953577,
           "score": 72,
           "rating": null,
-          "place_after": 68
+          "place_after": 76
         }
       ],
       "stats": {
@@ -11644,19 +11692,19 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 10,
           "count": 2,
           "opportunities": 20,
-          "rank": 80
+          "rank": 79
         },
         "c1_putting_pct": {
           "value": 90.57,
           "count": 48,
           "opportunities": 53,
-          "rank": 43
+          "rank": 41
         },
         "c1x_putting_pct": {
           "value": 84.85,
@@ -11668,7 +11716,7 @@
           "value": 26.32,
           "count": 5,
           "opportunities": 19,
-          "rank": 24
+          "rank": 25
         },
         "ob_rate_pct": {
           "value": 29.63,
@@ -11710,13 +11758,13 @@
           "value": 1.85,
           "count": 1,
           "opportunities": 54,
-          "rank": 11
+          "rank": 9
         },
         "putting_total_distance_ft": {
           "value": 805,
           "count": 805,
           "opportunities": 53,
-          "rank": 42
+          "rank": 44
         },
         "longest_throw_in": {
           "value": 282,
@@ -11728,7 +11776,7 @@
           "value": 15.19,
           "count": null,
           "opportunities": 53,
-          "rank": 37
+          "rank": 39
         },
         "ob_count": {
           "value": 16,
@@ -11773,7 +11821,7 @@
           "round_id": 122953577,
           "score": 77,
           "rating": null,
-          "place_after": 68
+          "place_after": 76
         }
       ],
       "stats": {
@@ -11799,7 +11847,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 5.56,
@@ -11817,7 +11865,7 @@
           "value": 80,
           "count": 28,
           "opportunities": 35,
-          "rank": 63
+          "rank": 62
         },
         "c2_putting_pct": {
           "value": 16.67,
@@ -11829,7 +11877,7 @@
           "value": 18.52,
           "count": 10,
           "opportunities": 54,
-          "rank": 32
+          "rank": 31
         },
         "birdie_rate_pct": {
           "value": 22.22,
@@ -11889,7 +11937,7 @@
           "value": 10,
           "count": 10,
           "opportunities": 54,
-          "rank": 35
+          "rank": 34
         },
         "bogey_rate_pct": {
           "value": 40.74,
@@ -11928,7 +11976,7 @@
           "round_id": 122953577,
           "score": 80,
           "rating": null,
-          "place_after": 70
+          "place_after": 78
         }
       ],
       "stats": {
@@ -11954,7 +12002,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 21.74,
@@ -11972,7 +12020,7 @@
           "value": 80,
           "count": 28,
           "opportunities": 35,
-          "rank": 63
+          "rank": 62
         },
         "c2_putting_pct": {
           "value": 16.67,
@@ -12008,7 +12056,7 @@
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 20.37,
@@ -12038,7 +12086,7 @@
           "value": 13.94,
           "count": null,
           "opportunities": 54,
-          "rank": 67
+          "rank": 66
         },
         "ob_count": {
           "value": 16,
@@ -12083,7 +12131,7 @@
           "round_id": 122953577,
           "score": 85,
           "rating": null,
-          "place_after": 71
+          "place_after": 79
         }
       ],
       "stats": {
@@ -12115,7 +12163,7 @@
           "value": 11.54,
           "count": 3,
           "opportunities": 26,
-          "rank": 76
+          "rank": 75
         },
         "c1_putting_pct": {
           "value": 87.93,
@@ -12127,7 +12175,7 @@
           "value": 80,
           "count": 28,
           "opportunities": 35,
-          "rank": 63
+          "rank": 62
         },
         "c2_putting_pct": {
           "value": 18.18,
@@ -12238,7 +12286,7 @@
           "round_id": 122953577,
           "score": 77,
           "rating": null,
-          "place_after": 71
+          "place_after": 79
         }
       ],
       "stats": {
@@ -12270,13 +12318,13 @@
           "value": 16.67,
           "count": 2,
           "opportunities": 12,
-          "rank": 63
+          "rank": 64
         },
         "c1_putting_pct": {
           "value": 91.67,
           "count": 33,
           "opportunities": 36,
-          "rank": 29
+          "rank": 30
         },
         "c1x_putting_pct": {
           "value": 85,
@@ -12294,7 +12342,7 @@
           "value": 22.22,
           "count": 8,
           "opportunities": 36,
-          "rank": 52
+          "rank": 51
         },
         "birdie_rate_pct": {
           "value": 20.37,
@@ -12318,7 +12366,7 @@
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 20.37,
@@ -12354,7 +12402,7 @@
           "value": 8,
           "count": 8,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "bogey_rate_pct": {
           "value": 37.04,
@@ -12375,7 +12423,7 @@
       "prize_usd": null,
       "points": 345,
       "dnf": false,
-      "event_rating": 996,
+      "event_rating": 995,
       "rounds": [
         {
           "round_id": 122953575,
@@ -12393,7 +12441,7 @@
           "round_id": 122953577,
           "score": 80,
           "rating": null,
-          "place_after": 71
+          "place_after": 79
         }
       ],
       "stats": {
@@ -12419,13 +12467,13 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 15,
           "count": 3,
           "opportunities": 20,
-          "rank": 69
+          "rank": 70
         },
         "c1_putting_pct": {
           "value": 87.72,
@@ -12437,7 +12485,7 @@
           "value": 86.11,
           "count": 31,
           "opportunities": 36,
-          "rank": 32
+          "rank": 31
         },
         "c2_putting_pct": {
           "value": 20,
@@ -12491,7 +12539,7 @@
           "value": 818,
           "count": 818,
           "opportunities": 54,
-          "rank": 36
+          "rank": 38
         },
         "longest_throw_in": {
           "value": 36,
@@ -12503,7 +12551,7 @@
           "value": 15.15,
           "count": null,
           "opportunities": 54,
-          "rank": 39
+          "rank": 40
         },
         "ob_count": {
           "value": 17,
@@ -12530,7 +12578,7 @@
       "prize_usd": null,
       "points": 300,
       "dnf": false,
-      "event_rating": 989,
+      "event_rating": 988,
       "rounds": [
         {
           "round_id": 122953575,
@@ -12548,7 +12596,7 @@
           "round_id": 122953577,
           "score": 70,
           "rating": null,
-          "place_after": 74
+          "place_after": 82
         }
       ],
       "stats": {
@@ -12574,7 +12622,7 @@
           "value": 5.77,
           "count": 3,
           "opportunities": 52,
-          "rank": 31
+          "rank": 32
         },
         "scramble_pct": {
           "value": 6.25,
@@ -12604,7 +12652,7 @@
           "value": 23.08,
           "count": 12,
           "opportunities": 52,
-          "rank": 56
+          "rank": 55
         },
         "birdie_rate_pct": {
           "value": 12.96,
@@ -12616,7 +12664,7 @@
           "value": 7.41,
           "count": 4,
           "opportunities": 54,
-          "rank": 46
+          "rank": 45
         },
         "bogey_count": {
           "value": 29.63,
@@ -12664,7 +12712,7 @@
           "value": 12,
           "count": 12,
           "opportunities": 54,
-          "rank": 55
+          "rank": 54
         },
         "bogey_rate_pct": {
           "value": 37.04,
@@ -12685,7 +12733,7 @@
       "prize_usd": null,
       "points": 300,
       "dnf": false,
-      "event_rating": 995,
+      "event_rating": 994,
       "rounds": [
         {
           "round_id": 122953575,
@@ -12703,7 +12751,7 @@
           "round_id": 122953577,
           "score": 82,
           "rating": null,
-          "place_after": 74
+          "place_after": 82
         }
       ],
       "stats": {
@@ -12741,13 +12789,13 @@
           "value": 90.91,
           "count": 50,
           "opportunities": 55,
-          "rank": 38
+          "rank": 37
         },
         "c1x_putting_pct": {
           "value": 86.11,
           "count": 31,
           "opportunities": 36,
-          "rank": 32
+          "rank": 31
         },
         "c2_putting_pct": {
           "value": 19.05,
@@ -12801,7 +12849,7 @@
           "value": 872,
           "count": 872,
           "opportunities": 54,
-          "rank": 24
+          "rank": 25
         },
         "longest_throw_in": {
           "value": 55,
@@ -12858,7 +12906,7 @@
           "round_id": 122953577,
           "score": 79,
           "rating": null,
-          "place_after": 76
+          "place_after": 84
         }
       ],
       "stats": {
@@ -12890,7 +12938,7 @@
           "value": 42.86,
           "count": 6,
           "opportunities": 14,
-          "rank": 5
+          "rank": 6
         },
         "c1_putting_pct": {
           "value": 86.11,
@@ -12908,7 +12956,7 @@
           "value": 45.45,
           "count": 5,
           "opportunities": 11,
-          "rank": 3
+          "rank": 4
         },
         "ob_rate_pct": {
           "value": 25,
@@ -12932,7 +12980,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 53
+          "rank": 52
         },
         "par_count": {
           "value": 44.44,
@@ -12974,7 +13022,7 @@
           "value": 9,
           "count": 9,
           "opportunities": 54,
-          "rank": 29
+          "rank": 28
         },
         "bogey_rate_pct": {
           "value": 37.04,
@@ -12995,7 +13043,7 @@
       "prize_usd": null,
       "points": 270,
       "dnf": false,
-      "event_rating": 984,
+      "event_rating": 983,
       "rounds": [
         {
           "round_id": 122953575,
@@ -13013,7 +13061,7 @@
           "round_id": 122953577,
           "score": 68,
           "rating": null,
-          "place_after": 76
+          "place_after": 84
         }
       ],
       "stats": {
@@ -13057,7 +13105,7 @@
           "value": 81.08,
           "count": 30,
           "opportunities": 37,
-          "rank": 59
+          "rank": 58
         },
         "c2_putting_pct": {
           "value": 4.55,
@@ -13168,7 +13216,7 @@
           "round_id": 122953577,
           "score": 76,
           "rating": null,
-          "place_after": 76
+          "place_after": 84
         }
       ],
       "stats": {
@@ -13200,19 +13248,19 @@
           "value": 10.53,
           "count": 2,
           "opportunities": 19,
-          "rank": 78
+          "rank": 77
         },
         "c1_putting_pct": {
           "value": 89.47,
           "count": 51,
           "opportunities": 57,
-          "rank": 52
+          "rank": 51
         },
         "c1x_putting_pct": {
           "value": 80,
           "count": 24,
           "opportunities": 30,
-          "rank": 63
+          "rank": 62
         },
         "c2_putting_pct": {
           "value": 10.53,
@@ -13248,7 +13296,7 @@
           "value": 48.15,
           "count": 26,
           "opportunities": 54,
-          "rank": 24
+          "rank": 23
         },
         "birdie_count": {
           "value": 16.67,
@@ -13323,7 +13371,7 @@
           "round_id": 122953577,
           "score": 75,
           "rating": null,
-          "place_after": 79
+          "place_after": 87
         }
       ],
       "stats": {
@@ -13478,7 +13526,7 @@
           "round_id": 122953577,
           "score": 83,
           "rating": null,
-          "place_after": 79
+          "place_after": 87
         }
       ],
       "stats": {
@@ -13552,7 +13600,7 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 40.74,
@@ -13633,7 +13681,7 @@
           "round_id": 122953577,
           "score": 69,
           "rating": null,
-          "place_after": 81
+          "place_after": 89
         }
       ],
       "stats": {
@@ -13743,7 +13791,7 @@
           "value": 14,
           "count": null,
           "opportunities": 54,
-          "rank": 66
+          "rank": 65
         },
         "ob_count": {
           "value": 14,
@@ -13788,7 +13836,7 @@
           "round_id": 122953577,
           "score": 82,
           "rating": null,
-          "place_after": 82
+          "place_after": 90
         }
       ],
       "stats": {
@@ -13802,7 +13850,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 44.44,
@@ -13820,13 +13868,13 @@
           "value": 15.79,
           "count": 3,
           "opportunities": 19,
-          "rank": 67
+          "rank": 68
         },
         "c1_putting_pct": {
           "value": 90.57,
           "count": 48,
           "opportunities": 53,
-          "rank": 43
+          "rank": 41
         },
         "c1x_putting_pct": {
           "value": 86.49,
@@ -13838,7 +13886,7 @@
           "value": 27.27,
           "count": 6,
           "opportunities": 22,
-          "rank": 22
+          "rank": 23
         },
         "ob_rate_pct": {
           "value": 31.48,
@@ -13862,13 +13910,13 @@
           "value": 16.67,
           "count": 9,
           "opportunities": 54,
-          "rank": 25
+          "rank": 23
         },
         "par_count": {
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 24.07,
@@ -13886,7 +13934,7 @@
           "value": 984,
           "count": 984,
           "opportunities": 54,
-          "rank": 4
+          "rank": 5
         },
         "longest_throw_in": {
           "value": 49,
@@ -13925,7 +13973,7 @@
       "prize_usd": null,
       "points": 165,
       "dnf": false,
-      "event_rating": 980,
+      "event_rating": 979,
       "rounds": [
         {
           "round_id": 122953575,
@@ -13943,7 +13991,7 @@
           "round_id": 122953577,
           "score": 82,
           "rating": null,
-          "place_after": 83
+          "place_after": 91
         }
       ],
       "stats": {
@@ -13969,7 +14017,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 4.55,
@@ -13999,7 +14047,7 @@
           "value": 20.37,
           "count": 11,
           "opportunities": 54,
-          "rank": 40
+          "rank": 39
         },
         "birdie_rate_pct": {
           "value": 14.81,
@@ -14059,7 +14107,7 @@
           "value": 11,
           "count": 11,
           "opportunities": 54,
-          "rank": 42
+          "rank": 41
         },
         "bogey_rate_pct": {
           "value": 50,
@@ -14098,7 +14146,7 @@
           "round_id": 122953577,
           "score": 74,
           "rating": null,
-          "place_after": 83
+          "place_after": 91
         }
       ],
       "stats": {
@@ -14112,7 +14160,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 42.59,
@@ -14154,7 +14202,7 @@
           "value": 24.07,
           "count": 13,
           "opportunities": 54,
-          "rank": 57
+          "rank": 56
         },
         "birdie_rate_pct": {
           "value": 14.81,
@@ -14214,7 +14262,7 @@
           "value": 13,
           "count": 13,
           "opportunities": 54,
-          "rank": 59
+          "rank": 58
         },
         "bogey_rate_pct": {
           "value": 40.74,
@@ -14253,7 +14301,7 @@
           "round_id": 122953577,
           "score": 80,
           "rating": null,
-          "place_after": 83
+          "place_after": 91
         }
       ],
       "stats": {
@@ -14267,7 +14315,7 @@
           "value": 25.93,
           "count": 14,
           "opportunities": 54,
-          "rank": 54
+          "rank": 53
         },
         "c2_in_reg_pct": {
           "value": 48.15,
@@ -14297,7 +14345,7 @@
           "value": 80.56,
           "count": 29,
           "opportunities": 36,
-          "rank": 62
+          "rank": 61
         },
         "c2_putting_pct": {
           "value": 16,
@@ -14309,7 +14357,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "birdie_rate_pct": {
           "value": 24.07,
@@ -14369,7 +14417,7 @@
           "value": 18,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "bogey_rate_pct": {
           "value": 50,
@@ -14408,7 +14456,7 @@
           "round_id": 122953577,
           "score": 84,
           "rating": null,
-          "place_after": 86
+          "place_after": 94
         }
       ],
       "stats": {
@@ -14440,7 +14488,7 @@
           "value": 10,
           "count": 2,
           "opportunities": 20,
-          "rank": 80
+          "rank": 79
         },
         "c1_putting_pct": {
           "value": 78.46,
@@ -14488,7 +14536,7 @@
           "value": 46.3,
           "count": 25,
           "opportunities": 54,
-          "rank": 28
+          "rank": 27
         },
         "birdie_count": {
           "value": 12.96,
@@ -14563,7 +14611,7 @@
           "round_id": 122953577,
           "score": 70,
           "rating": null,
-          "place_after": 87
+          "place_after": 95
         }
       ],
       "stats": {
@@ -14718,7 +14766,7 @@
           "round_id": 122953577,
           "score": 86,
           "rating": null,
-          "place_after": 88
+          "place_after": 96
         }
       ],
       "stats": {
@@ -14744,13 +14792,13 @@
           "value": 3.85,
           "count": 2,
           "opportunities": 52,
-          "rank": 53
+          "rank": 54
         },
         "scramble_pct": {
           "value": 16,
           "count": 4,
           "opportunities": 25,
-          "rank": 66
+          "rank": 67
         },
         "c1_putting_pct": {
           "value": 84.48,
@@ -14798,7 +14846,7 @@
           "value": 31.48,
           "count": 17,
           "opportunities": 54,
-          "rank": 91
+          "rank": 90
         },
         "birdie_count": {
           "value": 18.52,
@@ -14873,7 +14921,7 @@
           "round_id": 122953577,
           "score": 86,
           "rating": null,
-          "place_after": 89
+          "place_after": 97
         }
       ],
       "stats": {
@@ -14923,7 +14971,7 @@
           "value": 37.5,
           "count": 6,
           "opportunities": 16,
-          "rank": 10
+          "rank": 9
         },
         "ob_rate_pct": {
           "value": 27.78,
@@ -14953,7 +15001,7 @@
           "value": 42.59,
           "count": 23,
           "opportunities": 54,
-          "rank": 52
+          "rank": 50
         },
         "birdie_count": {
           "value": 7.41,
@@ -14983,7 +15031,7 @@
           "value": 14.04,
           "count": null,
           "opportunities": 54,
-          "rank": 65
+          "rank": 64
         },
         "ob_count": {
           "value": 15,
@@ -15028,7 +15076,7 @@
           "round_id": 122953577,
           "score": 86,
           "rating": null,
-          "place_after": 90
+          "place_after": 98
         }
       ],
       "stats": {
@@ -15054,7 +15102,7 @@
           "value": 5.56,
           "count": 3,
           "opportunities": 54,
-          "rank": 34
+          "rank": 33
         },
         "scramble_pct": {
           "value": 0,
@@ -15084,7 +15132,7 @@
           "value": 33.33,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "birdie_rate_pct": {
           "value": 5.56,
@@ -15144,7 +15192,7 @@
           "value": 18,
           "count": 18,
           "opportunities": 54,
-          "rank": 89
+          "rank": 88
         },
         "bogey_rate_pct": {
           "value": 64.81,
@@ -15332,7 +15380,7 @@
           "round_id": 122953577,
           "score": 999,
           "rating": null,
-          "place_after": 92
+          "place_after": 100
         }
       ],
       "stats": {
@@ -15487,7 +15535,7 @@
           "round_id": 122953577,
           "score": 999,
           "rating": null,
-          "place_after": 91
+          "place_after": 99
         }
       ],
       "stats": {
