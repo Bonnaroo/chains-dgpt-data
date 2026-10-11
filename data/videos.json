@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T13:40:14.703567+00:00",
+  "updated_at": "2026-10-11T18:28:25.492697+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLSdp1-vBWXrM",
-      "video_count": 4,
-      "round_count": 4,
+      "video_count": 6,
+      "round_count": 6,
       "practice_count": 0,
       "videos": [
         {
@@ -43,6 +43,22 @@
           "link": "https://www.youtube.com/watch?v=-rQ9Q-QHz7E",
           "thumbnail": "https://i.ytimg.com/vi/-rQ9Q-QHz7E/hqdefault.jpg",
           "published": "2026-10-10T06:46:44Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R3F9 | Buhr, Wysocki, Monn, Barela | Jomez Disc Golf",
+          "video_id": "9Fa850Z8ovc",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=9Fa850Z8ovc",
+          "thumbnail": "https://i.ytimg.com/vi/9Fa850Z8ovc/hqdefault.jpg",
+          "published": "2026-10-11T06:49:59Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R3B9 | Buhr, Wysocki, Monn, Barela | Jomez Disc Golf",
+          "video_id": "zJtze6OLEpw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=zJtze6OLEpw",
+          "thumbnail": "https://i.ytimg.com/vi/zJtze6OLEpw/hqdefault.jpg",
+          "published": "2026-10-11T07:00:36Z"
         }
       ]
     },
