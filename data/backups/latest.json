@@ -1,5 +1,5 @@
 {
-  "backed_up_at": "2026-10-11T12:01:17.687654+00:00",
+  "backed_up_at": "2026-10-12T14:17:33.913333+00:00",
   "source": "firebase /league",
   "data": {
     "app": "chains-dgpt-2026",
@@ -70,8 +70,8 @@
         "v": "[{\"slot\":1,\"m\":\"kadey\",\"p1\":\"Gannon Buhr\",\"s1\":-5,\"p2\":null,\"s2\":null,\"p1At\":1790177506620,\"p2At\":null,\"scr\":0},{\"slot\":2,\"m\":\"gabe\",\"p1\":\"Calvin Heimburg\",\"s1\":-8,\"p2\":null,\"s2\":null,\"p1At\":1790186110058,\"p2At\":null,\"scr\":0},{\"slot\":3,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":15,\"p2\":null,\"s2\":null,\"p1At\":1790203487403,\"p2At\":null,\"scr\":0},{\"slot\":4,\"m\":\"will\",\"p1\":\"Richard Wysocki\",\"s1\":-12,\"p2\":null,\"s2\":null,\"p1At\":1790203515287,\"p2At\":null,\"scr\":0},{\"slot\":5,\"m\":\"cory\",\"p1\":\"Anthony Barela\",\"s1\":5,\"p2\":null,\"s2\":null,\"p1At\":1791328912025,\"p2At\":null,\"scr\":0},{\"slot\":6,\"m\":\"kyle\",\"p1\":\"Niklas Anttila\",\"s1\":-1,\"p2\":null,\"s2\":null,\"p1At\":1790248201606,\"p2At\":null,\"scr\":0}]"
       },
       "picks~46~21": {
-        "r": 1791481804670,
-        "v": "[{\"slot\":1,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":null,\"p2\":\"Corey Ellis\",\"s2\":null,\"p1At\":1791379695775,\"p2At\":1791481796370,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":2,\"m\":\"cory\",\"p1\":\"Calvin Heimburg\",\"s1\":null,\"p2\":\"Silas Schultz\",\"s2\":null,\"p1At\":1791379714864,\"p2At\":1791481796370,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":3,\"m\":\"kyle\",\"p1\":\"Gannon Buhr\",\"s1\":null,\"p2\":\"Evan Smith\",\"s2\":null,\"p1At\":1791379736521,\"p2At\":1791403594920,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Richard Wysocki\",\"s1\":null,\"p2\":\"Anthony Barela\",\"s2\":null,\"p1At\":1791372908993,\"p2At\":1791394749164,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":5,\"m\":\"gabe\",\"p1\":\"Niklas Anttila\",\"s1\":null,\"p2\":\"Paul Krans\",\"s2\":null,\"p1At\":1791384852034,\"p2At\":1791386907685,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":6,\"m\":\"will\",\"p1\":\"Eagle McMahon\",\"s1\":null,\"p2\":\"Paul McBeth\",\"s2\":null,\"p1At\":1791384856575,\"p2At\":1791384929859,\"scr\":0,\"w1\":null,\"w2\":null}]"
+        "r": 1791814628905,
+        "v": "[{\"slot\":1,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":-15,\"p2\":\"Corey Ellis\",\"s2\":0,\"p1At\":1791379695775,\"p2At\":1791481796370,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":2,\"m\":\"cory\",\"p1\":\"Calvin Heimburg\",\"s1\":-23,\"p2\":\"Silas Schultz\",\"s2\":-6,\"p1At\":1791379714864,\"p2At\":1791481796370,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":3,\"m\":\"kyle\",\"p1\":\"Gannon Buhr\",\"s1\":-21,\"p2\":\"Evan Smith\",\"s2\":-5,\"p1At\":1791379736521,\"p2At\":1791403594920,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Richard Wysocki\",\"s1\":-21,\"p2\":\"Anthony Barela\",\"s2\":-4,\"p1At\":1791372908993,\"p2At\":1791394749164,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":5,\"m\":\"gabe\",\"p1\":\"Niklas Anttila\",\"s1\":-15,\"p2\":\"Paul Krans\",\"s2\":-1,\"p1At\":1791384852034,\"p2At\":1791386907685,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":6,\"m\":\"will\",\"p1\":\"Eagle McMahon\",\"s1\":-1,\"p2\":\"Paul McBeth\",\"s2\":-6,\"p1At\":1791384856575,\"p2At\":1791384929859,\"scr\":0,\"w1\":null,\"w2\":null}]"
       },
       "picks~46~3": {
         "r": 1781397317743,
@@ -102,6 +102,6 @@
         "v": "[{\"slot\":1,\"m\":\"gabe\",\"p1\":\"Gannon Buhr\",\"s1\":-32,\"p2\":\"Luke Taylor\",\"s2\":-22},{\"slot\":2,\"m\":\"will\",\"p1\":\"Calvin Heimburg\",\"s1\":-10,\"p2\":\"Aaron Gossage\",\"s2\":0},{\"slot\":3,\"m\":\"shanna\",\"p1\":\"Ezra Aderhold\",\"s1\":-3,\"p2\":\"Ezra Robinson\",\"s2\":-14},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Anthony Barela\",\"s1\":-20,\"p2\":\"Cole Redalen\",\"s2\":-15},{\"slot\":5,\"m\":\"cory\",\"p1\":\"Richard Wysocki\",\"s1\":-28,\"p2\":\"Albert Tamm\",\"s2\":-20},{\"slot\":6,\"m\":\"kyle\",\"p1\":\"Kyle Klein\",\"s1\":-10,\"p2\":\"Isaac Robinson\",\"s2\":-31}]"
       }
     },
-    "rev": 1791481804670
+    "rev": 1791814628905
   }
 }
