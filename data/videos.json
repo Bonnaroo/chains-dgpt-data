@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T07:37:07.267978+00:00",
+  "updated_at": "2026-10-12T17:19:45.144702+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLSdp1-vBWXrM",
-      "video_count": 6,
-      "round_count": 6,
+      "video_count": 8,
+      "round_count": 8,
       "practice_count": 0,
       "videos": [
         {
@@ -59,6 +59,22 @@
           "link": "https://www.youtube.com/watch?v=zJtze6OLEpw",
           "thumbnail": "https://i.ytimg.com/vi/zJtze6OLEpw/hqdefault.jpg",
           "published": "2026-10-11T07:00:36Z"
+        },
+        {
+          "title": "2026 USDGC | MPO FINALF9 | Buhr, Heimburg, Wysocki, Anttila | Jomez Disc Golf",
+          "video_id": "lns95ga7z9I",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=lns95ga7z9I",
+          "thumbnail": "https://i.ytimg.com/vi/lns95ga7z9I/hqdefault.jpg",
+          "published": "2026-10-12T06:41:58Z"
+        },
+        {
+          "title": "2026 USDGC | MPO FINALB9 | Buhr, Heimburg, Wysocki, Anttila | Jomez Disc Golf",
+          "video_id": "AINKAG7mG8Q",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=AINKAG7mG8Q",
+          "thumbnail": "https://i.ytimg.com/vi/AINKAG7mG8Q/hqdefault.jpg",
+          "published": "2026-10-12T09:18:30Z"
         }
       ]
     },
@@ -201,73 +217,6 @@
           "link": "https://www.youtube.com/watch?v=hheyMe-sKt0",
           "thumbnail": "https://i.ytimg.com/vi/hheyMe-sKt0/hqdefault.jpg",
           "published": "2026-09-21T06:40:40Z"
-        }
-      ]
-    },
-    {
-      "tournament": "2026 LWS Open @ Idlewild",
-      "year": "2026",
-      "channel": "JomezPro",
-      "playlist_id": "PLVwMeK04CSbM",
-      "video_count": 7,
-      "round_count": 6,
-      "practice_count": 1,
-      "videos": [
-        {
-          "title": "2026 LWS Open @ Idlewild | MPO R1F9 | Buhr, Robinson, Anderson, Burridge | Jomez Disc Golf",
-          "video_id": "qyq-Y5sn5mo",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=qyq-Y5sn5mo",
-          "thumbnail": "https://i.ytimg.com/vi/qyq-Y5sn5mo/hqdefault.jpg",
-          "published": "2026-09-05T06:50:55Z"
-        },
-        {
-          "title": "2026 LWS Open @ Idlewild  | MPO R1B9 | Buhr, Robinson, Anderson, Burridge | Jomez Disc Golf",
-          "video_id": "cdTYTDC6WnE",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=cdTYTDC6WnE",
-          "thumbnail": "https://i.ytimg.com/vi/cdTYTDC6WnE/hqdefault.jpg",
-          "published": "2026-09-05T06:54:42Z"
-        },
-        {
-          "title": "2026 LWS Open @ Idlewild  | MPO R2F9 | Buhr, Dickerson, Nieminen, Queen | Jomez Disc Golf",
-          "video_id": "MjsH62688OE",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=MjsH62688OE",
-          "thumbnail": "https://i.ytimg.com/vi/MjsH62688OE/hqdefault.jpg",
-          "published": "2026-09-06T06:56:56Z"
-        },
-        {
-          "title": "2026 LWS Open @ Idlewild  | MPO R2B9 | Buhr, Dickerson, Nieminen, Queen | Jomez Disc Golf",
-          "video_id": "RAcVRazyvT8",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=RAcVRazyvT8",
-          "thumbnail": "https://i.ytimg.com/vi/RAcVRazyvT8/hqdefault.jpg",
-          "published": "2026-09-06T07:02:42Z"
-        },
-        {
-          "title": "2026 LWS Open @ Idlewild | MPO FINALF9 | Buhr, Dickerson, Villmann, Ford | Jomez DiscGolf",
-          "video_id": "ZLuehtY7XT0",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=ZLuehtY7XT0",
-          "thumbnail": "https://i.ytimg.com/vi/ZLuehtY7XT0/hqdefault.jpg",
-          "published": "2026-09-07T07:20:04Z"
-        },
-        {
-          "title": "2026 LWS Open @ Idlewild | MPO FINALB9 | Buhr, Dickerson, Villmann, Ford | Jomez Disc Golf",
-          "video_id": "obrDlZ2tT70",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=obrDlZ2tT70",
-          "thumbnail": "https://i.ytimg.com/vi/obrDlZ2tT70/hqdefault.jpg",
-          "published": "2026-09-07T07:25:18Z"
-        },
-        {
-          "title": "Top 10 MPO Shots from the 2026 LWS Open @ Idlewild | Jomez Disc Golf",
-          "video_id": "gni17M18dOo",
-          "kind": "practice",
-          "link": "https://www.youtube.com/watch?v=gni17M18dOo",
-          "thumbnail": "https://i.ytimg.com/vi/gni17M18dOo/hqdefault.jpg",
-          "published": "2026-09-09T18:57:31Z"
         }
       ]
     },
