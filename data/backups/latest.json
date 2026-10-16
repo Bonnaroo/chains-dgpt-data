@@ -1,5 +1,5 @@
 {
-  "backed_up_at": "2026-10-15T10:47:07.199820+00:00",
+  "backed_up_at": "2026-10-16T10:35:19.083453+00:00",
   "source": "firebase /league",
   "data": {
     "app": "chains-dgpt-2026",
@@ -74,8 +74,8 @@
         "v": "[{\"slot\":1,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":-15,\"p2\":\"Corey Ellis\",\"s2\":0,\"p1At\":1791379695775,\"p2At\":1791481796370,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":2,\"m\":\"cory\",\"p1\":\"Calvin Heimburg\",\"s1\":-23,\"p2\":\"Silas Schultz\",\"s2\":-6,\"p1At\":1791379714864,\"p2At\":1791481796370,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":3,\"m\":\"kyle\",\"p1\":\"Gannon Buhr\",\"s1\":-21,\"p2\":\"Evan Smith\",\"s2\":-5,\"p1At\":1791379736521,\"p2At\":1791403594920,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Richard Wysocki\",\"s1\":-21,\"p2\":\"Anthony Barela\",\"s2\":-4,\"p1At\":1791372908993,\"p2At\":1791394749164,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":5,\"m\":\"gabe\",\"p1\":\"Niklas Anttila\",\"s1\":-15,\"p2\":\"Paul Krans\",\"s2\":-1,\"p1At\":1791384852034,\"p2At\":1791386907685,\"scr\":0,\"w1\":null,\"w2\":null},{\"slot\":6,\"m\":\"will\",\"p1\":\"Eagle McMahon\",\"s1\":-1,\"p2\":\"Paul McBeth\",\"s2\":-6,\"p1At\":1791384856575,\"p2At\":1791384929859,\"scr\":0,\"w1\":null,\"w2\":null}]"
       },
       "picks~46~22": {
-        "r": 1792022412006,
-        "v": "[{\"slot\":1,\"m\":\"will\",\"p1\":\"Gannon Buhr\",\"s1\":null,\"p2\":\"Cole Redalen\",\"s2\":null,\"p1At\":1792022408572,\"p2At\":1792022411492},{\"slot\":2,\"m\":\"shanna\",\"p1\":\"Richard Wysocki\",\"s1\":null,\"p2\":\"Casey White\",\"s2\":null,\"p1At\":1792022408829,\"p2At\":1792022411240},{\"slot\":3,\"m\":\"gabe\",\"p1\":\"Calvin Heimburg\",\"s1\":null,\"p2\":\"Sullivan Tipton\",\"s2\":null,\"p1At\":1792022409102,\"p2At\":1792022410979},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Isaac Robinson\",\"s1\":null,\"p2\":\"Eagle McMahon\",\"s2\":null,\"p1At\":1792022409363,\"p2At\":1792022410719},{\"slot\":5,\"m\":\"kyle\",\"p1\":\"Evan Smith\",\"s1\":null,\"p2\":\"Chris Dickerson\",\"s2\":null,\"p1At\":1792022409627,\"p2At\":1792022410407},{\"slot\":6,\"m\":\"cory\",\"p1\":\"Niklas Anttila\",\"s1\":null,\"p2\":\"Adam Hammes\",\"s2\":null,\"p1At\":1792022409880,\"p2At\":1792022410147}]"
+        "r": 1792146437109,
+        "v": "[{\"slot\":1,\"m\":\"will\",\"p1\":\"Gannon Buhr\",\"s1\":null,\"p2\":\"Ezra Aderhold\",\"s2\":null,\"p1At\":1792112033207,\"p2At\":1792146435843,\"scr\":0},{\"slot\":2,\"m\":\"shanna\",\"p1\":\"Isaac Robinson\",\"s1\":null,\"p2\":\"Evan Smith\",\"s2\":null,\"p1At\":1792112033207,\"p2At\":1792112033207,\"scr\":0},{\"slot\":3,\"m\":\"gabe\",\"p1\":\"Anthony Barela\",\"s1\":null,\"p2\":\"Luke Taylor\",\"s2\":null,\"p1At\":1792112033207,\"p2At\":1792112033207,\"scr\":0},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Richard Wysocki\",\"s1\":null,\"p2\":\"Sullivan Tipton\",\"s2\":null,\"p1At\":1792112033207,\"p2At\":1792112033207,\"scr\":0},{\"slot\":5,\"m\":\"kyle\",\"p1\":\"Calvin Heimburg\",\"s1\":null,\"p2\":\"Niklas Anttila\",\"s2\":null,\"p1At\":1792112033207,\"p2At\":1792112033207,\"scr\":0},{\"slot\":6,\"m\":\"cory\",\"p1\":\"Silas Schultz\",\"s1\":null,\"p2\":\"Adam Hammes\",\"s2\":null,\"p1At\":1792112033207,\"p2At\":1792112033207,\"scr\":0}]"
       },
       "picks~46~3": {
         "r": 1781397317743,
@@ -106,6 +106,6 @@
         "v": "[{\"slot\":1,\"m\":\"gabe\",\"p1\":\"Gannon Buhr\",\"s1\":-32,\"p2\":\"Luke Taylor\",\"s2\":-22},{\"slot\":2,\"m\":\"will\",\"p1\":\"Calvin Heimburg\",\"s1\":-10,\"p2\":\"Aaron Gossage\",\"s2\":0},{\"slot\":3,\"m\":\"shanna\",\"p1\":\"Ezra Aderhold\",\"s1\":-3,\"p2\":\"Ezra Robinson\",\"s2\":-14},{\"slot\":4,\"m\":\"kadey\",\"p1\":\"Anthony Barela\",\"s1\":-20,\"p2\":\"Cole Redalen\",\"s2\":-15},{\"slot\":5,\"m\":\"cory\",\"p1\":\"Richard Wysocki\",\"s1\":-28,\"p2\":\"Albert Tamm\",\"s2\":-20},{\"slot\":6,\"m\":\"kyle\",\"p1\":\"Kyle Klein\",\"s1\":-10,\"p2\":\"Isaac Robinson\",\"s2\":-31}]"
       }
     },
-    "rev": 1792022412006
+    "rev": 1792146437109
   }
 }
