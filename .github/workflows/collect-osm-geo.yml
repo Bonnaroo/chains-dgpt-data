@@ -1,0 +1,25 @@
+# Weekly: pull disc-golf tees/baskets from OpenStreetMap (ODbL) into data/geo/osm/.
+name: Collect OSM course geometry
+on:
+  schedule:
+    - cron: "30 9 * * 1"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  osm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Pull from Overpass
+        run: python collect_osm_geo.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/geo/osm
+          git diff --staged --quiet || git commit -m "OSM course geometry (weekly)"
+          git push
