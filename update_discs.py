@@ -24,6 +24,13 @@ def main():
         "stability": d.get("stability"),
         "pic":   d.get("pic"),
     } for d in raw]
+    # DiscIt returns many molds twice; keep one per brand|mold (first wins).
+    seen, uniq = set(), []
+    for d in discs:
+        k = ((d["brand"] or "").lower(), (d["mold"] or "").lower())
+        if k in seen: continue
+        seen.add(k); uniq.append(d)
+    discs = uniq
     discs.sort(key=lambda x: ((x["brand"] or "").lower(), (x["mold"] or "").lower()))
     out = {"_meta": {"source": "DiscIt API (discit-api.fly.dev)",
                      "count": len(discs),
