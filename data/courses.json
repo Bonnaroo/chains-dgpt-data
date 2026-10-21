@@ -3405,7 +3405,7 @@
    "geo_precision": "name",
    "address": "Bristol Rd (gravel lot next to the GM Flint Processing Center), Swartz Creek, MI 48473",
    "established": 2023,
-   "status": "Under construction \u2014 all 18 holes playable, signed, arrows under each basket to the next tee",
+   "status": "Under construction — all 18 holes playable, signed, arrows under each basket to the next tee",
    "layout": "Main 18 Hole Layout",
    "par_rating": 172,
    "est_minutes": 93,
@@ -3429,7 +3429,12 @@
     "17": "Throw from the top of the hill across the drainage and over the trees to the bottom of the sled hill, behind and below the 18 tee. Walk up the hill to 18."
    },
    "info_source": "Will, 2026-10-21 (course facts; UDisc pin)",
-   "signed_order_note": "Course signage runs 2-9, then 1, then 10-18; Will plays 1-18 in order."
+   "signed_order_note": "Course signage runs 2-9, then 1, then 10-18; Will plays 1-18 in order.",
+   "rating": {
+    "ssa": 41.5,
+    "ppt": 20,
+    "note": "pinned 2026-10-21 to Will's UDisc feel: -4 ≈ 830, E ≈ 750"
+   }
   },
   {
    "id": "mi-mlc",
@@ -5675,7 +5680,7 @@
   },
   {
    "id": "mi-cooper-s-landing-kalamazoo",
-   "name": "Cooper\u2019s Landing",
+   "name": "Cooper’s Landing",
    "city": "Kalamazoo",
    "state": "MI",
    "county_genesee": false,
@@ -6197,7 +6202,7 @@
   },
   {
    "id": "mi-devil-s-creek-dgc-southfield",
-   "name": "Devil\u2019s Creek DGC",
+   "name": "Devil’s Creek DGC",
    "city": "Southfield",
    "state": "MI",
    "county_genesee": false,
@@ -6919,7 +6924,7 @@
   },
   {
    "id": "mi-gaylord-d-g-c-kid-s-9-hole-gaylord",
-   "name": "Gaylord D.G.C. Kid\u2019s 9 Hole",
+   "name": "Gaylord D.G.C. Kid’s 9 Hole",
    "city": "Gaylord",
    "state": "MI",
    "county_genesee": false,
@@ -8281,7 +8286,7 @@
   },
   {
    "id": "mi-kyle-s-corner-course-mason",
-   "name": "Kyle\u2019s Corner Course",
+   "name": "Kyle’s Corner Course",
    "city": "Mason",
    "state": "MI",
    "county_genesee": false,
@@ -11095,7 +11100,7 @@
   },
   {
    "id": "mi-rosie-s-park-madison-heights",
-   "name": "Rosie\u2019s Park",
+   "name": "Rosie’s Park",
    "city": "Madison Heights",
    "state": "MI",
    "county_genesee": false,
@@ -11655,7 +11660,7 @@
   },
   {
    "id": "mi-sorensen-park-dgc-holly",
-   "name": "Sorensen Park DGC \ud83e\udd4f",
+   "name": "Sorensen Park DGC 🥏",
    "city": "Holly",
    "state": "MI",
    "county_genesee": false,
@@ -16699,7 +16704,7 @@
    "grade": null,
    "udisc_rating": "3.5",
    "source_dgs": null,
-   "hole_data_source": "UDisc Main\ud83c\udf33\ud83e\udd4f\ud83c\udfde\ufe0f (user-provided, 2026)",
+   "hole_data_source": "UDisc Main🌳🥏🏞️ (user-provided, 2026)",
    "lat": 42.870889,
    "lng": -85.865235,
    "geo_precision": "name"
@@ -18162,7 +18167,7 @@
   },
   {
    "id": "mi-herons-nest-1bub",
-   "name": "Heron\u2019s Nest",
+   "name": "Heron’s Nest",
    "city": "Clare",
    "state": "MI",
    "county_genesee": false,
