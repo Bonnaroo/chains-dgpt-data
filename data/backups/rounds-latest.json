@@ -1,13 +1,13 @@
 {
-  "backed_up_at": "2026-10-20T10:51:52.138940+00:00",
+  "backed_up_at": "2026-10-21T11:04:23.640337+00:00",
   "source": "firebase chains-app-f38f8 /playRounds + /liveRounds",
   "playRounds": {
-    "pr-mtzsjcx0t20k": {
+    "pr-mvgyv5o7w899": {
       "course": {
-        "city": "Grand Rapids",
+        "city": "Swartz Creek",
         "holes": 18,
-        "id": "mi-johnson-park-gtum",
-        "name": "Johnson Park",
+        "id": "mi-otterburn",
+        "name": "Otterburn Disc Golf Park",
         "parTotal": 54,
         "pars": [
           3,
@@ -30,185 +30,51 @@
           3
         ]
       },
-      "date": "2026-09-13",
-      "id": "pr-mtzsjcx0t20k",
+      "date": "2026-10-20",
+      "id": "pr-mvgyv5o7w899",
       "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
       "ownerKey": "will",
       "participants": {
-        "gabe": true,
-        "kyle": true,
         "will": true
       },
       "players": {
-        "gabe": {
-          "disc": "#2FB67A",
-          "holeScores": [
-            3,
-            2,
-            4,
-            4,
-            2
-          ],
-          "name": "Gabe",
-          "thru": 5,
-          "total": 0
-        },
-        "kyle": {
-          "disc": "#FF5A1F",
-          "holeScores": [
-            3,
-            4,
-            4,
-            3,
-            2
-          ],
-          "name": "Kyle",
-          "thru": 5,
-          "total": 1
-        },
         "will": {
           "disc": "#2A6FDB",
           "holeScores": [
             3,
+            3,
+            3,
+            4,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
             4,
             2,
+            3,
+            3,
             2,
-            2
+            3,
+            2,
+            3
           ],
           "name": "Will",
-          "thru": 5,
-          "total": -2
+          "thru": 18,
+          "total": -1
         }
       },
-      "startedAt": "2026-09-13T12:29:06.469Z",
-      "status": "open",
-      "updatedAt": "2026-09-13T12:29:36.792Z"
-    },
-    "pr-mtzsl5u1sjgp": {
-      "course": {
-        "city": "Grand Rapids",
-        "holes": 18,
-        "id": "mi-johnson-park-gtum",
-        "name": "Johnson Park",
-        "parTotal": 54,
-        "pars": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      },
-      "date": "2026-09-13",
-      "id": "pr-mtzsl5u1sjgp",
-      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
-      "ownerKey": "will",
-      "participants": {
-        "gabe": true,
-        "kyle": true,
-        "will": true
-      },
-      "players": {
-        "gabe": {
-          "disc": "#2FB67A",
-          "holeScores": [
-            3,
-            2,
-            4,
-            4,
-            2
-          ],
-          "name": "Gabe",
-          "thru": 5,
-          "total": 0
-        },
-        "kyle": {
-          "disc": "#FF5A1F",
-          "holeScores": [
-            3,
-            4,
-            4,
-            3,
-            2
-          ],
-          "name": "Kyle",
-          "thru": 5,
-          "total": 1
-        },
-        "will": {
-          "disc": "#2A6FDB",
-          "holeScores": [
-            3,
-            4,
-            2,
-            2,
-            2
-          ],
-          "name": "Will",
-          "thru": 5,
-          "total": -2
-        }
-      },
-      "startedAt": "2026-09-13T12:30:30.601Z",
-      "status": "open",
-      "updatedAt": "2026-09-13T12:30:30.601Z"
+      "startedAt": "2026-10-20T17:38:01.975Z",
+      "status": "final",
+      "updatedAt": "2026-10-20T19:44:09.082Z",
+      "weather": {
+        "desc": "Sunny",
+        "precipMm": 0,
+        "tempF": 62,
+        "windMph": 5
+      }
     }
   },
-  "liveRounds": {
-    "pr-mtzsjcx0t20k": {
-      "city": "Grand Rapids",
-      "course": "Johnson Park",
-      "id": "pr-mtzsjcx0t20k",
-      "keys": [
-        "will",
-        "kyle",
-        "gabe"
-      ],
-      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
-      "ownerKey": "will",
-      "players": [
-        "Will",
-        "Kyle",
-        "Gabe"
-      ],
-      "status": "open",
-      "thru": 5,
-      "toPar": -2,
-      "updatedAt": "2026-09-13T12:29:36.792Z"
-    },
-    "pr-mtzsl5u1sjgp": {
-      "city": "Grand Rapids",
-      "course": "Johnson Park",
-      "id": "pr-mtzsl5u1sjgp",
-      "keys": [
-        "will",
-        "kyle",
-        "gabe"
-      ],
-      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
-      "ownerKey": "will",
-      "players": [
-        "Will",
-        "Kyle",
-        "Gabe"
-      ],
-      "status": "open",
-      "thru": 0,
-      "toPar": 0,
-      "updatedAt": "2026-09-13T12:30:30.601Z"
-    }
-  }
+  "liveRounds": {}
 }
