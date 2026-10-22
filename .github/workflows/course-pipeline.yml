@@ -20,12 +20,14 @@ jobs:
           python-version: "3.12"
       - name: Collect from OpenStreetMap
         run: python pipeline/collect_osm_courses.py "${{ github.event.inputs.region || 'US' }}"
+      - name: Ingest hand-collected files (data/inbox)
+        run: python pipeline/ingest_inbox.py
       - name: Merge into the catalog
         run: python pipeline/merge_courses.py
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/courses.json data/sources data/geo/osm
+          git add data/courses.json data/sources data/geo data/inbox
           git diff --staged --quiet || git commit -m "Course pipeline (weekly): OSM → catalog"
           git push
