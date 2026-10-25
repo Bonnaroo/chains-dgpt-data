@@ -1,5 +1,5 @@
 {
-  "backed_up_at": "2026-10-24T10:12:15.505255+00:00",
+  "backed_up_at": "2026-10-25T10:36:59.863003+00:00",
   "source": "firebase chains-app-f38f8 /playRounds + /liveRounds",
   "playRounds": {
     "pr-mvgyv5o7w899": {
@@ -331,6 +331,106 @@
         "desc": "Partly Cloudy ",
         "precipMm": 0,
         "tempF": 53,
+        "windMph": 4
+      }
+    },
+    "pr-mvmnkhmsfhvb": {
+      "course": {
+        "city": "Swartz Creek",
+        "holes": 18,
+        "id": "mi-otterburn",
+        "name": "Otterburn Disc Golf Park",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-10-24",
+      "id": "pr-mvmnkhmsfhvb",
+      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "ownerKey": "will",
+      "participants": {
+        "kyle": true,
+        "will": true
+      },
+      "players": {
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            3,
+            3,
+            2,
+            2,
+            3,
+            3,
+            3,
+            2,
+            2,
+            2,
+            3,
+            3,
+            2,
+            3,
+            4,
+            3,
+            3,
+            3
+          ],
+          "name": "Kyle",
+          "thru": 18,
+          "total": -5
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            2,
+            4,
+            2,
+            3,
+            2,
+            3,
+            3,
+            2,
+            2,
+            4,
+            4,
+            3,
+            3,
+            3,
+            2,
+            3,
+            3,
+            3
+          ],
+          "name": "Will",
+          "thru": 18,
+          "total": -3
+        }
+      },
+      "startedAt": "2026-10-24T17:08:25.540Z",
+      "status": "final",
+      "updatedAt": "2026-10-24T19:07:19.414Z",
+      "weather": {
+        "desc": "Sunny",
+        "precipMm": 0,
+        "tempF": 56,
         "windMph": 4
       }
     }
