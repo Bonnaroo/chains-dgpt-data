@@ -1,6 +1,149 @@
 {
-  "updated_at": "2026-10-24T23:30:06.207291+00:00",
+  "updated_at": "2026-10-25T01:27:04.385125+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
-  "tournaments": []
+  "tournaments": [
+    {
+      "tournament": "2026 Powerball Cup",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLGVTldvJabKA",
+      "video_count": 9,
+      "round_count": 8,
+      "practice_count": 1,
+      "videos": [
+        {
+          "title": "2026 Powerball Cup | MPO R1F9 | Buhr, Wysocki, Heimburg, Hammes | Jomez Disc Golf",
+          "video_id": "ZWTYBxEBcrU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=ZWTYBxEBcrU",
+          "thumbnail": "https://i.ytimg.com/vi/ZWTYBxEBcrU/hqdefault.jpg",
+          "published": "2026-10-16T05:29:35Z"
+        },
+        {
+          "title": "2026 Powerball Cup | MPO R1B9 | Buhr, Wysocki, Heimburg, Hammes | Jomez Disc Golf",
+          "video_id": "AnVeorRucZU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=AnVeorRucZU",
+          "thumbnail": "https://i.ytimg.com/vi/AnVeorRucZU/hqdefault.jpg",
+          "published": "2026-10-16T05:31:31Z"
+        },
+        {
+          "title": "2026 Powerball Cup | MPO R2F9 | Buhr, Heimburg, Anttila, Tipton | Jomez Disc Golf",
+          "video_id": "1OOeQUtImyg",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=1OOeQUtImyg",
+          "thumbnail": "https://i.ytimg.com/vi/1OOeQUtImyg/hqdefault.jpg",
+          "published": "2026-10-17T05:40:29Z"
+        },
+        {
+          "title": "2026 Powerball Cup | MPO R2B9 | Buhr, Heimburg, Anttila, Tipton | Jomez Disc Golf",
+          "video_id": "K6CxBtpKLK0",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=K6CxBtpKLK0",
+          "thumbnail": "https://i.ytimg.com/vi/K6CxBtpKLK0/hqdefault.jpg",
+          "published": "2026-10-17T05:41:58Z"
+        },
+        {
+          "title": "2026 Powerball Cup | MPO R3F9 | Buhr, Anttila, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "DEPJMeHSKQU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=DEPJMeHSKQU",
+          "thumbnail": "https://i.ytimg.com/vi/DEPJMeHSKQU/hqdefault.jpg",
+          "published": "2026-10-18T05:22:43Z"
+        },
+        {
+          "title": "2026 Powerball Cup | MPO R3B9 | Buhr, Anttila, Heimburg, Robinson | Jomez Disc Golf",
+          "video_id": "BZrNwq-ZvFU",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=BZrNwq-ZvFU",
+          "thumbnail": "https://i.ytimg.com/vi/BZrNwq-ZvFU/hqdefault.jpg",
+          "published": "2026-10-18T05:23:36Z"
+        },
+        {
+          "title": "2026 Powerball Cup | MPO FINALF9 | Buhr, Wysocki, E. Robinson, I. Robinson | Jomez Disc Golf",
+          "video_id": "WobjNpBEEpQ",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=WobjNpBEEpQ",
+          "thumbnail": "https://i.ytimg.com/vi/WobjNpBEEpQ/hqdefault.jpg",
+          "published": "2026-10-19T05:36:11Z"
+        },
+        {
+          "title": "2026 Powerball Cup | MPO FINALB9 | Buhr, Wysocki, E. Robinson, I. Robinson | Jomez Disc Golf",
+          "video_id": "e8q51XKdm8Q",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=e8q51XKdm8Q",
+          "thumbnail": "https://i.ytimg.com/vi/e8q51XKdm8Q/hqdefault.jpg",
+          "published": "2026-10-19T05:37:00Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 Powerball Cup | Jomez Disc Golf",
+          "video_id": "LM-tjKFF8rE",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=LM-tjKFF8rE",
+          "thumbnail": "https://i.ytimg.com/vi/LM-tjKFF8rE/hqdefault.jpg",
+          "published": "2026-10-21T17:04:55Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2026 Doubles Championship @ The Preserve",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLWFjb0cmM-4k",
+      "video_count": 6,
+      "round_count": 4,
+      "practice_count": 2,
+      "videos": [
+        {
+          "title": "2026 Doubles Championship @ The Preserve | MPO R1F9 | Buhr/Heimburg, Lizotte/McMahon |Jomez DiscGolf",
+          "video_id": "I8Piw8e3Q6s",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=I8Piw8e3Q6s",
+          "thumbnail": "https://i.ytimg.com/vi/I8Piw8e3Q6s/hqdefault.jpg",
+          "published": "2026-08-15T06:15:55Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve | MPO R1B9 | Buhr/Heimburg, Lizotte/McMahon |Jomez DiscGolf",
+          "video_id": "mHox4Hwpv6s",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=mHox4Hwpv6s",
+          "thumbnail": "https://i.ytimg.com/vi/mHox4Hwpv6s/hqdefault.jpg",
+          "published": "2026-08-15T06:50:39Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPO R2F9| Oberholtzer Hess/Longenecker, White/Orum | Jomez",
+          "video_id": "iseVw2lQlNQ",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=iseVw2lQlNQ",
+          "thumbnail": "https://i.ytimg.com/vi/iseVw2lQlNQ/hqdefault.jpg",
+          "published": "2026-08-16T08:18:00Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPO R2B9| Oberholtzer Hess/Longenecker, White/Orum | Jomez",
+          "video_id": "r-RkSLDLy6Q",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=r-RkSLDLy6Q",
+          "thumbnail": "https://i.ytimg.com/vi/r-RkSLDLy6Q/hqdefault.jpg",
+          "published": "2026-08-16T08:19:20Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPOFINALF9| Robinson/Robinson, Buhr/Heimburg, Schultz/Love",
+          "video_id": "qrn1cBbSwMs",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=qrn1cBbSwMs",
+          "thumbnail": "https://i.ytimg.com/vi/qrn1cBbSwMs/hqdefault.jpg",
+          "published": "2026-08-17T08:10:04Z"
+        },
+        {
+          "title": "2026 Doubles Championship @ The Preserve |MPOFINALB9| Robinson/Robinson, Buhr/Heimburg, Schultz/Love",
+          "video_id": "oyMnNCRt9jg",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=oyMnNCRt9jg",
+          "thumbnail": "https://i.ytimg.com/vi/oyMnNCRt9jg/hqdefault.jpg",
+          "published": "2026-08-17T08:34:55Z"
+        }
+      ]
+    }
+  ]
 }
