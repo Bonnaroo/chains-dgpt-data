@@ -2,9 +2,8 @@
  "_meta": {
   "source": "DiscIt API (discit-api.fly.dev)",
   "count": 1207,
-  "built": "2026-10-19",
-  "fields": "brand, mold, type, speed/glide/turn/fade, stability, pic",
-  "note": "deduped by brand|mold"
+  "built": "2026-10-26",
+  "fields": "brand, mold, type, speed/glide/turn/fade, stability, pic"
  },
  "discs": [
   {
