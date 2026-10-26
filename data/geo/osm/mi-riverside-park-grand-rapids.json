@@ -1,0 +1,46 @@
+{
+ "source": "osm",
+ "attribution": "\u00a9 OpenStreetMap contributors (ODbL)",
+ "fetched": "2026-10-26",
+ "course": {
+  "id": "mi-riverside-park-grand-rapids",
+  "name": "Riverside Park",
+  "lat": 43.013169,
+  "lng": -85.670972
+ },
+ "holes": {},
+ "candidates": {
+  "tees": [
+   {
+    "lat": 43.0089245,
+    "lng": -85.6676923,
+    "osm": 674521308,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 43.0099623,
+    "lng": -85.6677353,
+    "osm": 674521470,
+    "by": "osm",
+    "at": 0
+   }
+  ],
+  "baskets": [
+   {
+    "lat": 43.0100504,
+    "lng": -85.6681376,
+    "osm": 674521309,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 43.0103805,
+    "lng": -85.6671572,
+    "osm": 674522382,
+    "by": "osm",
+    "at": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "source": "osm",
+ "attribution": "\u00a9 OpenStreetMap contributors (ODbL)",
+ "fetched": "2026-10-26",
+ "course": {
+  "id": "mi-ludington-links-escanaba",
+  "name": "Ludington Links",
+  "lat": 45.745322,
+  "lng": -87.070641
+ },
+ "holes": {},
+ "candidates": {
+  "tees": [
+   {
+    "lat": 45.7387654,
+    "lng": -87.0538145,
+    "osm": 2884389843,
+    "by": "osm",
+    "at": 0
+   }
+  ],
+  "baskets": [
+   {
+    "lat": 45.7371552,
+    "lng": -87.0559001,
+    "osm": 2884389838,
+    "by": "osm",
+    "at": 0
+   }
+  ]
+ }
+}

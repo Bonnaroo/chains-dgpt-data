@@ -1,0 +1,46 @@
+{
+ "source": "osm",
+ "attribution": "\u00a9 OpenStreetMap contributors (ODbL)",
+ "fetched": "2026-10-26",
+ "course": {
+  "id": "osm-node-8375720944",
+  "name": "Kensington Toboggan Course",
+  "lat": 42.5406067,
+  "lng": -83.6447843
+ },
+ "holes": {},
+ "candidates": {
+  "tees": [
+   {
+    "lat": 42.5443266,
+    "lng": -83.6437211,
+    "osm": 10726895466,
+    "by": "osm",
+    "at": 0
+   }
+  ],
+  "baskets": [
+   {
+    "lat": 42.5436269,
+    "lng": -83.64262,
+    "osm": 10726895465,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 42.5419838,
+    "lng": -83.6460462,
+    "osm": 10726896410,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 42.5418257,
+    "lng": -83.6431786,
+    "osm": 10726896411,
+    "by": "osm",
+    "at": 0
+   }
+  ]
+ }
+}

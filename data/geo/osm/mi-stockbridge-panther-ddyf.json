@@ -1,0 +1,45 @@
+{
+ "source": "osm",
+ "attribution": "\u00a9 OpenStreetMap contributors (ODbL)",
+ "fetched": "2026-10-26",
+ "course": {
+  "id": "mi-stockbridge-panther-ddyf",
+  "name": "Stockbridge Panther",
+  "lat": 42.451147,
+  "lng": -84.180515
+ },
+ "holes": {},
+ "candidates": {
+  "tees": [
+   {
+    "lat": 42.4497507,
+    "lng": -84.1851615,
+    "osm": 10879413786,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 42.4490771,
+    "lng": -84.1864041,
+    "osm": 10879413787,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 42.4490692,
+    "lng": -84.1856626,
+    "osm": 10879413788,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 42.4495954,
+    "lng": -84.1867101,
+    "osm": 10879413789,
+    "by": "osm",
+    "at": 0
+   }
+  ],
+  "baskets": []
+ }
+}

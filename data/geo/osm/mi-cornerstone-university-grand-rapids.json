@@ -1,0 +1,46 @@
+{
+ "source": "osm",
+ "attribution": "\u00a9 OpenStreetMap contributors (ODbL)",
+ "fetched": "2026-10-26",
+ "course": {
+  "id": "mi-cornerstone-university-grand-rapids",
+  "name": "Cornerstone University",
+  "lat": 42.980889,
+  "lng": -85.595742
+ },
+ "holes": {},
+ "candidates": {
+  "tees": [
+   {
+    "lat": 42.9807429,
+    "lng": -85.596759,
+    "osm": 11849829910,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 42.9807419,
+    "lng": -85.5967564,
+    "osm": 11850303123,
+    "by": "osm",
+    "at": 0
+   }
+  ],
+  "baskets": [
+   {
+    "lat": 42.9808497,
+    "lng": -85.5957317,
+    "osm": 11849834179,
+    "by": "osm",
+    "at": 0
+   },
+   {
+    "lat": 42.9805391,
+    "lng": -85.597672,
+    "osm": 11850303124,
+    "by": "osm",
+    "at": 0
+   }
+  ]
+ }
+}
