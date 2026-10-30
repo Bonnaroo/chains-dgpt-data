@@ -1,0 +1,439 @@
+{
+  "backed_up_at": "2026-10-30T12:02:44.374643+00:00",
+  "source": "firebase chains-app-f38f8 /playRounds + /liveRounds",
+  "playRounds": {
+    "pr-mvgyv5o7w899": {
+      "course": {
+        "city": "Swartz Creek",
+        "holes": 18,
+        "id": "mi-otterburn",
+        "name": "Otterburn Disc Golf Park",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-10-20",
+      "id": "pr-mvgyv5o7w899",
+      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "ownerKey": "will",
+      "participants": {
+        "will": true
+      },
+      "players": {
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            3,
+            3,
+            3,
+            4,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            2,
+            3,
+            3,
+            2,
+            3,
+            2,
+            3
+          ],
+          "name": "Will",
+          "thru": 18,
+          "total": -1
+        }
+      },
+      "practice": false,
+      "startedAt": "2026-10-20T17:38:01.975Z",
+      "status": "final",
+      "updatedAt": "2026-10-20T19:44:09.082Z",
+      "weather": {
+        "desc": "Sunny",
+        "precipMm": 0,
+        "tempF": 62,
+        "windMph": 5
+      }
+    },
+    "pr-mvi9ua393gkd": {
+      "course": {
+        "city": "Swartz Creek",
+        "holes": 18,
+        "id": "mi-otterburn",
+        "name": "Otterburn Disc Golf Park",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-10-21",
+      "id": "pr-mvi9ua393gkd",
+      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "ownerKey": "will",
+      "participants": {
+        "will": true
+      },
+      "players": {
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            3,
+            3,
+            2
+          ],
+          "name": "Will",
+          "thru": 18,
+          "total": -4
+        }
+      },
+      "startedAt": "2026-10-21T15:33:02.997Z",
+      "status": "final",
+      "updatedAt": "2026-10-21T18:48:38.768Z",
+      "weather": {
+        "desc": "Sunny",
+        "precipMm": 0,
+        "tempF": 53,
+        "windMph": 5
+      }
+    },
+    "pr-mvjunr6gseuj": {
+      "course": {
+        "city": "Swartz Creek",
+        "holes": 18,
+        "id": "mi-otterburn",
+        "name": "Otterburn Disc Golf Park",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-10-22",
+      "id": "pr-mvjunr6gseuj",
+      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "ownerKey": "will",
+      "participants": {
+        "kyle": true,
+        "will": true
+      },
+      "players": {
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            2,
+            3,
+            3,
+            2,
+            3,
+            2,
+            2,
+            3,
+            3
+          ],
+          "name": "Kyle",
+          "thru": 9,
+          "total": -4
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            3,
+            3,
+            3,
+            2,
+            3,
+            4,
+            3,
+            4,
+            3
+          ],
+          "name": "Will",
+          "thru": 9,
+          "total": 1
+        }
+      },
+      "startedAt": "2026-10-22T18:03:36.664Z",
+      "status": "final",
+      "updatedAt": "2026-10-23T11:14:10.757Z",
+      "verified": {
+        "will": 1792754103904
+      },
+      "weather": {
+        "desc": "Sunny",
+        "precipMm": 0,
+        "tempF": 62,
+        "windMph": 6
+      }
+    },
+    "pr-mvl4hx5bkhsz": {
+      "course": {
+        "city": "Swartz Creek",
+        "holes": 18,
+        "id": "mi-otterburn",
+        "name": "Otterburn Disc Golf Park",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-10-23",
+      "id": "pr-mvl4hx5bkhsz",
+      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "ownerKey": "will",
+      "participants": {
+        "kyle": true,
+        "will": true
+      },
+      "players": {
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            2,
+            3,
+            3,
+            2,
+            3,
+            3,
+            3,
+            2,
+            2,
+            3,
+            3,
+            2,
+            2,
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "name": "Kyle",
+          "thru": 18,
+          "total": -9
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            3,
+            2,
+            3,
+            3,
+            5,
+            3,
+            2,
+            2,
+            2,
+            3,
+            3,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ],
+          "name": "Will",
+          "thru": 18,
+          "total": -3
+        }
+      },
+      "startedAt": "2026-10-23T15:26:46.800Z",
+      "status": "final",
+      "updatedAt": "2026-10-23T17:52:50.873Z",
+      "weather": {
+        "desc": "Partly Cloudy ",
+        "precipMm": 0,
+        "tempF": 53,
+        "windMph": 4
+      }
+    },
+    "pr-mvmnkhmsfhvb": {
+      "course": {
+        "city": "Swartz Creek",
+        "holes": 18,
+        "id": "mi-otterburn",
+        "name": "Otterburn Disc Golf Park",
+        "parTotal": 54,
+        "pars": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "date": "2026-10-24",
+      "id": "pr-mvmnkhmsfhvb",
+      "owner": "wp1ywNFroiZzCOUqvezfuJYYAYd2",
+      "ownerKey": "will",
+      "participants": {
+        "kyle": true,
+        "will": true
+      },
+      "players": {
+        "kyle": {
+          "disc": "#FF5A1F",
+          "holeScores": [
+            3,
+            3,
+            2,
+            2,
+            3,
+            3,
+            3,
+            2,
+            2,
+            2,
+            3,
+            3,
+            2,
+            3,
+            4,
+            3,
+            3,
+            3
+          ],
+          "name": "Kyle",
+          "thru": 18,
+          "total": -5
+        },
+        "will": {
+          "disc": "#2A6FDB",
+          "holeScores": [
+            2,
+            4,
+            2,
+            3,
+            2,
+            3,
+            3,
+            2,
+            2,
+            4,
+            4,
+            3,
+            3,
+            3,
+            2,
+            3,
+            3,
+            3
+          ],
+          "name": "Will",
+          "thru": 18,
+          "total": -3
+        }
+      },
+      "startedAt": "2026-10-24T17:08:25.540Z",
+      "status": "final",
+      "updatedAt": "2026-10-24T19:07:19.414Z",
+      "weather": {
+        "desc": "Sunny",
+        "precipMm": 0,
+        "tempF": 56,
+        "windMph": 4
+      }
+    }
+  },
+  "liveRounds": {}
+}
