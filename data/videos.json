@@ -1,66 +1,6 @@
 {
-  "updated_at": "2026-10-30T00:57:20.367343+00:00",
+  "updated_at": "2026-10-30T06:42:24.916111+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
-  "tournaments": [
-    {
-      "tournament": "2026 Champions Landing Open",
-      "year": "2026",
-      "channel": "JomezPro",
-      "playlist_id": "PLHcN7LyGKnM4",
-      "video_count": 6,
-      "round_count": 6,
-      "practice_count": 0,
-      "videos": [
-        {
-          "title": "2026 Champions Landing Open | MPO R1F9 | Buhr, Orum, Welck, Rye | Jomez Disc Golf",
-          "video_id": "-DbhEWrGfrI",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=-DbhEWrGfrI",
-          "thumbnail": "https://i.ytimg.com/vi/-DbhEWrGfrI/hqdefault.jpg",
-          "published": "2026-07-25T04:41:14Z"
-        },
-        {
-          "title": "2026 Champions Landing Open  | MPO R1B9 | Buhr, Orum, Welck, Rye | Jomez Disc Golf",
-          "video_id": "QtNKuNi4RPk",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=QtNKuNi4RPk",
-          "thumbnail": "https://i.ytimg.com/vi/QtNKuNi4RPk/hqdefault.jpg",
-          "published": "2026-07-25T04:42:46Z"
-        },
-        {
-          "title": "2026 Champions Landing Open  | MPO R2F9 | Buhr, Hemstock, Burridge, Orum | Jomez Disc Golf",
-          "video_id": "0fHHzFkVY8Y",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=0fHHzFkVY8Y",
-          "thumbnail": "https://i.ytimg.com/vi/0fHHzFkVY8Y/hqdefault.jpg",
-          "published": "2026-07-26T05:24:55Z"
-        },
-        {
-          "title": "2026 Champions Landing Open  | MPO R2B9 | Buhr, Hemstock, Burridge, Orum | Jomez Disc Golf",
-          "video_id": "An749vxsNdg",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=An749vxsNdg",
-          "thumbnail": "https://i.ytimg.com/vi/An749vxsNdg/hqdefault.jpg",
-          "published": "2026-07-26T05:26:33Z"
-        },
-        {
-          "title": "2026 Champions Landing Open | MPO FINALF9 | Buhr, Orum, Reel, Edwards | Jomez Disc Golf",
-          "video_id": "IQFXCVJ44jE",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=IQFXCVJ44jE",
-          "thumbnail": "https://i.ytimg.com/vi/IQFXCVJ44jE/hqdefault.jpg",
-          "published": "2026-07-27T06:37:16Z"
-        },
-        {
-          "title": "2026 Champions Landing Open | MPO FINALB9 | Buhr, Orum, Reel, Edwards | Jomez Disc Golf",
-          "video_id": "NeDfhgvamQ4",
-          "kind": "round",
-          "link": "https://www.youtube.com/watch?v=NeDfhgvamQ4",
-          "thumbnail": "https://i.ytimg.com/vi/NeDfhgvamQ4/hqdefault.jpg",
-          "published": "2026-07-27T06:38:36Z"
-        }
-      ]
-    }
-  ]
+  "tournaments": []
 }
