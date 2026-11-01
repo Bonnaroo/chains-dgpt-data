@@ -1470,471 +1470,6 @@
   }
  },
  {
-  "osm": "node/8722629226",
-  "name": null,
-  "lat": 33.6326404,
-  "lng": -112.1264975,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/8796648700",
-  "name": null,
-  "lat": 33.4979872,
-  "lng": -112.0195094,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/11902419857",
-  "name": null,
-  "lat": 33.3193605,
-  "lng": -111.997228,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/11902419859",
-  "name": null,
-  "lat": 33.6026816,
-  "lng": -112.1116805,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12085982255",
-  "name": null,
-  "lat": 34.7482148,
-  "lng": -112.016629,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13728637889",
-  "name": null,
-  "lat": 34.3984369,
-  "lng": -110.5627383,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 4,
-   "baskets": 3
-  }
- },
- {
-  "osm": "way/140257385",
-  "name": null,
-  "lat": 33.2506736,
-  "lng": -111.8271054,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/976832772",
-  "name": null,
-  "lat": 33.1899776,
-  "lng": -111.5753883,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/976833180",
-  "name": null,
-  "lat": 33.1884214,
-  "lng": -111.5773523,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1275177655",
-  "name": null,
-  "lat": 33.4252498,
-  "lng": -112.5172364,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1280396994",
-  "name": null,
-  "lat": 34.7704047,
-  "lng": -112.4448694,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "relation/20447177",
-  "name": null,
-  "lat": 34.3997181,
-  "lng": -110.5640194,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 14,
-   "baskets": 15
-  }
- },
- {
-  "osm": "node/8703001656",
-  "name": "Buffalo Ridge Disc Golf Course",
-  "lat": 33.6609922,
-  "lng": -112.0470545,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Buffalo Ridge Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13307271280",
-  "name": "Desert Discs",
-  "lat": 32.1869698,
-  "lng": -110.9147435,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "addr:state": "AZ",
-   "addr:street": "South Dodge Boulevard",
-   "name": "Desert Discs",
-   "opening_hours": "Tu 10:00-16:00; We-Th,Sa 10:00-17:00; Fr 10:00-14:00"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/440539829",
-  "name": "Disc Golf",
-  "lat": 31.5413276,
-  "lng": -110.2902475,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/681651869",
-  "name": "Freestone Disc Golf Course",
-  "lat": 33.3635035,
-  "lng": -111.766302,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Freestone Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1172758667",
-  "name": "Hualapai Mountain Park Disc Golf Course",
-  "lat": 35.0958399,
-  "lng": -113.8876962,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Hualapai Mountain Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 18,
-   "baskets": 18
-  }
- },
- {
-  "osm": "node/13286531926",
-  "name": "Nine-Hole Disc Golf Course",
-  "lat": 32.7919795,
-  "lng": -109.6999386,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Nine-Hole Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 1
-  }
- },
- {
-  "osm": "relation/5407205",
-  "name": "Red Mountain North",
-  "lat": 33.4347485,
-  "lng": -111.6663075,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Red Mountain North",
-   "surface": "dirt"
-  },
-  "mapped": {
-   "tees": 10,
-   "baskets": 11
-  }
- },
- {
-  "osm": "relation/5407206",
-  "name": "Red Mountain South",
-  "lat": 33.4315337,
-  "lng": -111.6629282,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Red Mountain South",
-   "surface": "dirt"
-  },
-  "mapped": {
-   "tees": 19,
-   "baskets": 19
-  }
- },
- {
-  "osm": "way/1078831877",
-  "name": "Skyline Rach Disc Golf Course",
-  "lat": 33.183419,
-  "lng": -111.5865335,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Skyline Rach Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/11715529842",
-  "name": "Spinners on the Green",
-  "lat": 33.4645026,
-  "lng": -111.9164722,
-  "region": "AZ",
-  "country": "US",
-  "state": "AZ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Spinners on the Green"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/4812472563",
   "name": null,
   "lat": 38.6257219,
@@ -2353,6 +1888,28 @@
   "access": null,
   "wikidata": null,
   "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1572318680",
+  "name": null,
+  "lat": 37.3211346,
+  "lng": -121.8555712,
+  "region": "CA",
+  "country": "US",
+  "state": "CA",
+  "holes": null,
+  "website": null,
+  "operator": "San José Parks, Recreation and Neighborhood Services",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "lit": "no"
+  },
   "mapped": {
    "tees": 0,
    "baskets": 0
@@ -6853,112 +6410,6 @@
   }
  },
  {
-  "osm": "node/3192369977",
-  "name": null,
-  "lat": 41.1630451,
-  "lng": -73.4043449,
-  "region": "CT",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/469768799",
-  "name": null,
-  "lat": 41.6508705,
-  "lng": -73.6963637,
-  "region": "CT",
-  "country": "US",
-  "state": "NY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/9791495379",
-  "name": "11",
-  "lat": 41.1635905,
-  "lng": -73.4013306,
-  "region": "CT",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "11"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/9815820899",
-  "name": "14",
-  "lat": 41.1630322,
-  "lng": -73.40365,
-  "region": "CT",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "14"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/11741474910",
-  "name": "16",
-  "lat": 41.1928723,
-  "lng": -73.7213272,
-  "region": "CT",
-  "country": "US",
-  "state": "NY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "16"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/2398771816",
   "name": "Disc Golf Course",
   "lat": 38.8684356,
@@ -7770,6 +7221,48 @@
   }
  },
  {
+  "osm": "node/11922521595",
+  "name": null,
+  "lat": 33.9700505,
+  "lng": -83.7301702,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": "https://gastateparks.org/FortYargo/DiscGolf",
+  "operator": "Fort Yargo State Park",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "opening_hours": "07:00-sunset"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14106567052",
+  "name": null,
+  "lat": 34.0532474,
+  "lng": -83.8916473,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/14122809512",
   "name": null,
   "lat": 31.9752146,
@@ -7809,6 +7302,32 @@
   "mapped": {
    "tees": 0,
    "baskets": 0
+  }
+ },
+ {
+  "osm": "way/415831720",
+  "name": "Alexander Park Disc Golf Course",
+  "lat": 33.9131774,
+  "lng": -84.0048764,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": "Alexander Park",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "description": "A disc golf course in Alexander Park.",
+   "dog": "leashed",
+   "name": "Alexander Park Disc Golf Course",
+   "opening_hours": "sunrise-sunset",
+   "phone": "+1-678-277-0891"
+  },
+  "mapped": {
+   "tees": 3,
+   "baskets": 7
   }
  },
  {
@@ -8363,10 +7882,32 @@
   }
  },
  {
+  "osm": "node/11288711131",
+  "name": "North Georgia Canopy Tours Disc Golf Course",
+  "lat": 34.371323,
+  "lng": -83.6973931,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "North Georgia Canopy Tours Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 6,
+   "baskets": 3
+  }
+ },
+ {
   "osm": "node/13584953516",
   "name": "One Church",
-  "lat": 33.3660562,
-  "lng": -84.5177869,
+  "lat": 33.3655532,
+  "lng": -84.5184917,
   "region": "GA",
   "country": "US",
   "state": "GA",
@@ -8498,6 +8039,28 @@
   "mapped": {
    "tees": 0,
    "baskets": 0
+  }
+ },
+ {
+  "osm": "relation/18919658",
+  "name": "Wills Park Disc Golf Course",
+  "lat": 34.07095,
+  "lng": -84.307711,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Wills Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 17,
+   "baskets": 19
   }
  },
  {
@@ -10818,86 +10381,6 @@
   }
  },
  {
-  "osm": "relation/17392850",
-  "name": null,
-  "lat": 37.9553427,
-  "lng": -87.6797764,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": "University of Southern Indiana",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/2732976607",
-  "name": null,
-  "lat": 38.1585493,
-  "lng": -85.7788043,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/4448582545",
-  "name": null,
-  "lat": 39.1999645,
-  "lng": -86.2539127,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/4595172382",
-  "name": null,
-  "lat": 38.171842,
-  "lng": -85.5611888,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/6240325086",
   "name": null,
   "lat": 41.3572456,
@@ -10958,90 +10441,10 @@
   }
  },
  {
-  "osm": "node/11505942439",
-  "name": null,
-  "lat": 37.9320718,
-  "lng": -86.9847342,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13822416436",
-  "name": null,
-  "lat": 38.339162,
-  "lng": -85.7706692,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13846924131",
-  "name": null,
-  "lat": 38.3447468,
-  "lng": -85.8849816,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/13854931070",
   "name": null,
   "lat": 41.5730054,
   "lng": -85.8512402,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/14128785893",
-  "name": null,
-  "lat": 39.1507246,
-  "lng": -85.0401568,
   "region": "IN",
   "country": "US",
   "state": "IN",
@@ -11075,26 +10478,6 @@
   "mapped": {
    "tees": 9,
    "baskets": 8
-  }
- },
- {
-  "osm": "way/152934115",
-  "name": null,
-  "lat": 39.1765662,
-  "lng": -86.5483844,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
   }
  },
  {
@@ -11180,186 +10563,6 @@
   }
  },
  {
-  "osm": "way/1059315793",
-  "name": null,
-  "lat": 38.2190402,
-  "lng": -84.8206022,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 1
-  }
- },
- {
-  "osm": "way/1059315795",
-  "name": null,
-  "lat": 38.2184613,
-  "lng": -84.8224082,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 2
-  }
- },
- {
-  "osm": "way/1059315796",
-  "name": null,
-  "lat": 38.2202911,
-  "lng": -84.8200668,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 1
-  }
- },
- {
-  "osm": "way/1059315797",
-  "name": null,
-  "lat": 38.2178925,
-  "lng": -84.8197089,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 2
-  }
- },
- {
-  "osm": "way/1059315801",
-  "name": null,
-  "lat": 38.2192941,
-  "lng": -84.8206128,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 1
-  }
- },
- {
-  "osm": "way/1059315804",
-  "name": null,
-  "lat": 38.2169986,
-  "lng": -84.8220692,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 2
-  }
- },
- {
-  "osm": "way/1059321564",
-  "name": null,
-  "lat": 38.216835,
-  "lng": -84.8198006,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 5
-  }
- },
- {
-  "osm": "way/1059321565",
-  "name": null,
-  "lat": 38.2169806,
-  "lng": -84.8192452,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1059321566",
-  "name": null,
-  "lat": 38.2156054,
-  "lng": -84.822907,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 4
-  }
- },
- {
   "osm": "way/727134057",
   "name": "Big Walnut Sports Park Disc Golf Course",
   "lat": 39.6399361,
@@ -11426,33 +10629,6 @@
   }
  },
  {
-  "osm": "way/1483955958",
-  "name": "Chapel Lake Disc Golf Course",
-  "lat": 38.3628137,
-  "lng": -85.6817068,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": "City Of Jeffersonville Parks & Recreation",
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Jeffersonville",
-   "addr:postcode": "47130",
-   "addr:state": "IN",
-   "addr:street": "Lewman Way",
-   "description": "Jeffersonville Parks & Recreation Disc Golf Course. 18 holes with 2 practice holes. Beautiful scenery, please respect the animals and the course enjoy with family and friends. There are bathrooms at the entrance and trashcans throughout the course.",
-   "name": "Chapel Lake Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/11356990827",
   "name": "Coyote Trace Disc Golf Course",
   "lat": 39.3662381,
@@ -11494,29 +10670,6 @@
    "addr:state": "IL",
    "addr:street": "Dell Park Avenue",
    "name": "Dellwood Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/5782029828",
-  "name": "Disc Golf",
-  "lat": 37.9962652,
-  "lng": -86.1590075,
-  "region": "IN",
-  "country": "US",
-  "state": "KY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Disc Golf",
-   "surface": "grass"
   },
   "mapped": {
    "tees": 0,
@@ -11736,31 +10889,6 @@
   }
  },
  {
-  "osm": "way/152873636",
-  "name": "Karst Farm Park Disc Golf Course",
-  "lat": 39.1378488,
-  "lng": -86.5986825,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "description": "18 Hole public disc golf course with mostly paved tee boxes and well marked holes.",
-   "lit": "no",
-   "name": "Karst Farm Park Disc Golf Course",
-   "surface": "grass"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/14071030840",
   "name": "Kenney Park Disc Golf Course",
   "lat": 41.4606112,
@@ -11798,28 +10926,6 @@
   "wikidata": null,
   "tags": {
    "name": "Kickapoo Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/2192999826",
-  "name": "Kiwanis/Rotary Park DGC",
-  "lat": 38.758112,
-  "lng": -88.0527618,
-  "region": "IN",
-  "country": "US",
-  "state": "IL",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Kiwanis/Rotary Park DGC"
   },
   "mapped": {
    "tees": 0,
@@ -11877,28 +10983,6 @@
   }
  },
  {
-  "osm": "way/481898415",
-  "name": "Niehaus Disc Golf Course",
-  "lat": 38.2969792,
-  "lng": -86.963842,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Niehaus Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "way/1560560820",
   "name": "Pioneer Park Disc Golf Course",
   "lat": 39.6300969,
@@ -11936,32 +11020,6 @@
   "wikidata": null,
   "tags": {
    "name": "River's Edge Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/363541255",
-  "name": "Ruxer Disc Golf Course",
-  "lat": 38.3793296,
-  "lng": -86.9356675,
-  "region": "IN",
-  "country": "US",
-  "state": "IN",
-  "holes": null,
-  "website": "https://www.jasperindiana.gov/topic/subtopic.php?topicid=142",
-  "operator": "City of Jasper",
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Jasper",
-   "addr:postcode": "47546",
-   "addr:street": "Riverside Place",
-   "name": "Ruxer Disc Golf Course",
-   "phone": "+1 812 482 5554"
   },
   "mapped": {
    "tees": 0,
@@ -12966,6 +12024,841 @@
   }
  },
  {
+  "osm": "relation/17392850",
+  "name": null,
+  "lat": 37.9553427,
+  "lng": -87.6797764,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": "University of Southern Indiana",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/2732976607",
+  "name": null,
+  "lat": 38.1585493,
+  "lng": -85.7788043,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/4448582545",
+  "name": null,
+  "lat": 39.1999645,
+  "lng": -86.2539127,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/4595172382",
+  "name": null,
+  "lat": 38.171842,
+  "lng": -85.5611888,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11505942439",
+  "name": null,
+  "lat": 37.9320718,
+  "lng": -86.9847342,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13822416436",
+  "name": null,
+  "lat": 38.339162,
+  "lng": -85.7706692,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13846924131",
+  "name": null,
+  "lat": 38.3447468,
+  "lng": -85.8849816,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14128785893",
+  "name": null,
+  "lat": 39.1507246,
+  "lng": -85.0401568,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/152934115",
+  "name": null,
+  "lat": 39.1765662,
+  "lng": -86.5483844,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1059315793",
+  "name": null,
+  "lat": 38.2190402,
+  "lng": -84.8206022,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 1
+  }
+ },
+ {
+  "osm": "way/1059315795",
+  "name": null,
+  "lat": 38.2184613,
+  "lng": -84.8224082,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 2
+  }
+ },
+ {
+  "osm": "way/1059315796",
+  "name": null,
+  "lat": 38.2202911,
+  "lng": -84.8200668,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 1
+  }
+ },
+ {
+  "osm": "way/1059315797",
+  "name": null,
+  "lat": 38.2178925,
+  "lng": -84.8197089,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 2
+  }
+ },
+ {
+  "osm": "way/1059315801",
+  "name": null,
+  "lat": 38.2192941,
+  "lng": -84.8206128,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 1
+  }
+ },
+ {
+  "osm": "way/1059315804",
+  "name": null,
+  "lat": 38.2169986,
+  "lng": -84.8220692,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 2
+  }
+ },
+ {
+  "osm": "way/1059321564",
+  "name": null,
+  "lat": 38.216835,
+  "lng": -84.8198006,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 5
+  }
+ },
+ {
+  "osm": "way/1059321565",
+  "name": null,
+  "lat": 38.2169806,
+  "lng": -84.8192452,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1059321566",
+  "name": null,
+  "lat": 38.2156054,
+  "lng": -84.822907,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 4
+  }
+ },
+ {
+  "osm": "way/643934265",
+  "name": null,
+  "lat": 37.6156039,
+  "lng": -86.5018735,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1035116188",
+  "name": null,
+  "lat": 37.9518667,
+  "lng": -84.5038392,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 5,
+   "baskets": 5
+  }
+ },
+ {
+  "osm": "way/1035116189",
+  "name": null,
+  "lat": 37.9521355,
+  "lng": -84.5025063,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 4,
+   "baskets": 3
+  }
+ },
+ {
+  "osm": "way/1035116192",
+  "name": null,
+  "lat": 37.9554646,
+  "lng": -84.5015729,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 6,
+   "baskets": 5
+  }
+ },
+ {
+  "osm": "node/11867386637",
+  "name": "Camp Catalpa Disc Golf Course",
+  "lat": 37.7405065,
+  "lng": -84.2503906,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": 18,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "dog": "leashed",
+   "name": "Camp Catalpa Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 18,
+   "baskets": 18
+  }
+ },
+ {
+  "osm": "way/1483955958",
+  "name": "Chapel Lake Disc Golf Course",
+  "lat": 38.3628137,
+  "lng": -85.6817068,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": "City Of Jeffersonville Parks & Recreation",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Jeffersonville",
+   "addr:postcode": "47130",
+   "addr:state": "IN",
+   "addr:street": "Lewman Way",
+   "description": "Jeffersonville Parks & Recreation Disc Golf Course. 18 holes with 2 practice holes. Beautiful scenery, please respect the animals and the course enjoy with family and friends. There are bathrooms at the entrance and trashcans throughout the course.",
+   "name": "Chapel Lake Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5782029828",
+  "name": "Disc Golf",
+  "lat": 37.9962652,
+  "lng": -86.1590075,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Disc Golf",
+   "surface": "grass"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5634169041",
+  "name": "Disc Golf",
+  "lat": 36.9702553,
+  "lng": -86.4042627,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/4514561362",
+  "name": "Disc Golf Course",
+  "lat": 36.9961195,
+  "lng": -86.4163963,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13638197746",
+  "name": "Dr Thomas Walker State Park Disc Golf Course",
+  "lat": 36.839689,
+  "lng": -83.9193609,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Dr Thomas Walker State Park Disc Golf Course",
+   "opening_hours": "24/7"
+  },
+  "mapped": {
+   "tees": 9,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "way/955449021",
+  "name": "Greensburg Fitness Park",
+  "lat": 37.2460658,
+  "lng": -85.4914171,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": "City of greensburg",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Greensburg Fitness Park"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/152873636",
+  "name": "Karst Farm Park Disc Golf Course",
+  "lat": 39.1378488,
+  "lng": -86.5986825,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "description": "18 Hole public disc golf course with mostly paved tee boxes and well marked holes.",
+   "lit": "no",
+   "name": "Karst Farm Park Disc Golf Course",
+   "surface": "grass"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/2192999826",
+  "name": "Kiwanis/Rotary Park DGC",
+  "lat": 38.758112,
+  "lng": -88.0527618,
+  "region": "KY",
+  "country": "US",
+  "state": "IL",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Kiwanis/Rotary Park DGC"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11867399316",
+  "name": "Miller Park Disc Golf Course",
+  "lat": 36.9420207,
+  "lng": -84.1220846,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": 9,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Miller Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/481898415",
+  "name": "Niehaus Disc Golf Course",
+  "lat": 38.2969792,
+  "lng": -86.963842,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Niehaus Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11867386139",
+  "name": "River Hill Disc Golf Course",
+  "lat": 37.9690368,
+  "lng": -84.4871412,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "River Hill Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/363541255",
+  "name": "Ruxer Disc Golf Course",
+  "lat": 38.3793296,
+  "lng": -86.9356675,
+  "region": "KY",
+  "country": "US",
+  "state": "IN",
+  "holes": null,
+  "website": "https://www.jasperindiana.gov/topic/subtopic.php?topicid=142",
+  "operator": "City of Jasper",
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Jasper",
+   "addr:postcode": "47546",
+   "addr:street": "Riverside Place",
+   "name": "Ruxer Disc Golf Course",
+   "phone": "+1 812 482 5554"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11867386138",
+  "name": "Shillito Disc Golf Course",
+  "lat": 37.987569,
+  "lng": -84.5333734,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "dog": "leashed",
+   "name": "Shillito Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "relation/18243612",
+  "name": "Veterans Park Disc Golf Course",
+  "lat": 37.9532214,
+  "lng": -84.5035037,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": "https://www.lexingtonky.gov/sites/default/files/2016-08/Veterans%20Park%20Disk%20Golf.pdf",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Veterans Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 3,
+   "baskets": 5
+  }
+ },
+ {
+  "osm": "node/11867399317",
+  "name": "Whitley Branch Disc Golf Course",
+  "lat": 37.1191694,
+  "lng": -84.0837202,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": 18,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Whitley Branch Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/9880191567",
+  "name": "Wolf Knob Disc Golf Course at Hickory Cabins",
+  "lat": 37.2558384,
+  "lng": -86.139051,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": "Frank Hayes",
+  "fee": "yes",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Mammoth Cave",
+   "addr:postcode": "42259",
+   "addr:state": "KY",
+   "addr:street": "M Meredith Road",
+   "name": "Wolf Knob Disc Golf Course at Hickory Cabins",
+   "phone": "+1-270-597-7179"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/4576438269",
   "name": null,
   "lat": 30.0013852,
@@ -13096,46 +12989,6 @@
   }
  },
  {
-  "osm": "node/13461277701",
-  "name": null,
-  "lat": 41.9806152,
-  "lng": -73.5048128,
-  "region": "MA",
-  "country": "US",
-  "state": "NY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1554837130",
-  "name": null,
-  "lat": 41.5956916,
-  "lng": -72.0280072,
-  "region": "MA",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": "Sunfox Campground",
-  "fee": "no",
-  "access": "customers",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/13106396873",
   "name": null,
   "lat": 41.6969401,
@@ -13153,26 +13006,6 @@
   "mapped": {
    "tees": 0,
    "baskets": 0
-  }
- },
- {
-  "osm": "node/13260213655",
-  "name": null,
-  "lat": 42.3949024,
-  "lng": -72.5212667,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 1
   }
  },
  {
@@ -13196,86 +13029,6 @@
   }
  },
  {
-  "osm": "node/13920843741",
-  "name": "501 Disc Golf",
-  "lat": 42.2267048,
-  "lng": -72.1875789,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": "https://501discgolf.com/",
-  "operator": null,
-  "fee": "yes",
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Warren",
-   "addr:postcode": "01083",
-   "addr:state": "MA",
-   "addr:street": "Old West Brookfield Road",
-   "name": "501 Disc Golf",
-   "phone": "+14135757706"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1527617893",
-  "name": "501 Disc Golf Pro Shop",
-  "lat": 42.2266602,
-  "lng": -72.1877903,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": "https://501discgolf.com/",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Warren",
-   "addr:postcode": "01083",
-   "addr:state": "MA",
-   "addr:street": "Old West Brookfield Road",
-   "name": "501 Disc Golf Pro Shop",
-   "phone": "+1-413-575-7706"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13920809327",
-  "name": "Barre Falls Dam Disc Golf",
-  "lat": 42.427858,
-  "lng": -72.0237287,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Barre",
-   "addr:postcode": "01005",
-   "addr:state": "MA",
-   "addr:street": "Coldbrook Road",
-   "name": "Barre Falls Dam Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/13716414632",
   "name": "Billerica Recreation Disk Golf Course",
   "lat": 42.5504282,
@@ -13291,34 +13044,6 @@
   "wikidata": null,
   "tags": {
    "name": "Billerica Recreation Disk Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1274012431",
-  "name": "Clatter Valley Disc Golf",
-  "lat": 41.5460291,
-  "lng": -73.3906986,
-  "region": "MA",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": "https://www.facebook.com/groups/768768824454498",
-  "operator": "New Milford Parks & Rec",
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "addr:city": "New Milford",
-   "addr:postcode": "06776",
-   "addr:state": "CT",
-   "addr:street": "Town Farm Road",
-   "dog": "leashed",
-   "name": "Clatter Valley Disc Golf",
-   "opening_hours": "sunrise-sunset"
   },
   "mapped": {
    "tees": 0,
@@ -13350,77 +13075,6 @@
   }
  },
  {
-  "osm": "node/13898851314",
-  "name": "Cold Spring Disc Golf Course",
-  "lat": 42.2892523,
-  "lng": -72.3968624,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Cold Spring Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/5310729553",
-  "name": "Crane Hill Disc Golf Course",
-  "lat": 42.1460889,
-  "lng": -72.4009358,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Wilbraham",
-   "addr:postcode": "01095",
-   "addr:state": "MA",
-   "addr:street": "Crane Hill Road",
-   "name": "Crane Hill Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/9419703053",
-  "name": "Cross Farms DGC",
-  "lat": 41.8652139,
-  "lng": -72.3400402,
-  "region": "MA",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Cross Farms DGC",
-   "opening_hours": "sunrise-sunset"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/13894077729",
   "name": "Dacey Fields Disc Golf Course",
   "lat": 42.1198281,
@@ -13436,28 +13090,6 @@
   "wikidata": null,
   "tags": {
    "name": "Dacey Fields Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1223662071",
-  "name": "David Stidham Disc Golf Course",
-  "lat": 42.1174384,
-  "lng": -71.9063885,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": "United States Army Corps of Engineers",
-  "fee": "no",
-  "access": "yes",
-  "wikidata": "Q139803819",
-  "tags": {
-   "name": "David Stidham Disc Golf Course"
   },
   "mapped": {
    "tees": 0,
@@ -13537,72 +13169,6 @@
   }
  },
  {
-  "osm": "node/13962524385",
-  "name": "Flat Rock Disc Golf",
-  "lat": 42.5225088,
-  "lng": -72.2338669,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "yes",
-  "access": "private",
-  "wikidata": null,
-  "tags": {
-   "name": "Flat Rock Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/3116086261",
-  "name": "Flying Ace 18 Hole Disc Golf Course",
-  "lat": 41.4596225,
-  "lng": -72.8412683,
-  "region": "MA",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Flying Ace 18 Hole Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/29856738",
-  "name": "Green River Disc Golf",
-  "lat": 42.569606,
-  "lng": -72.5961384,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "yes",
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Green River Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/12800932828",
   "name": "Hillside Park Disc Golf",
   "lat": 42.3290664,
@@ -13629,28 +13195,6 @@
   }
  },
  {
-  "osm": "way/870835645",
-  "name": "Killingworth Recreational Park Disc Golf",
-  "lat": 41.4064822,
-  "lng": -72.5373395,
-  "region": "MA",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Killingworth Recreational Park Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/12800932827",
   "name": "Louisa Lake DiscGolfPark",
   "lat": 42.1570675,
@@ -13666,28 +13210,6 @@
   "wikidata": null,
   "tags": {
    "name": "Louisa Lake DiscGolfPark"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/7903697194",
-  "name": "Maple Hill Disc Golf",
-  "lat": 42.2762112,
-  "lng": -71.8954562,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "yes",
-  "access": "customers",
-  "wikidata": null,
-  "tags": {
-   "name": "Maple Hill Disc Golf"
   },
   "mapped": {
    "tees": 0,
@@ -13739,51 +13261,6 @@
   }
  },
  {
-  "osm": "node/13894075329",
-  "name": "Mile Marker 63 Disc Golf Course",
-  "lat": 42.2274189,
-  "lng": -72.0633323,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "yes",
-  "access": "private",
-  "wikidata": null,
-  "tags": {
-   "name": "Mile Marker 63 Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/5310728324",
-  "name": "Mountainside Disc Golf Course",
-  "lat": 42.103648,
-  "lng": -72.3237459,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": "https://www.facebook.com/Monsondiscgolf/",
-  "operator": "Monson, MA",
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Mountainside Disc Golf Course",
-   "opening_hours": "sunrise-sunset"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/13720732496",
   "name": "Nantucket Disc Golf Course",
   "lat": 41.2609298,
@@ -13799,75 +13276,6 @@
   "wikidata": null,
   "tags": {
    "name": "Nantucket Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13920747062",
-  "name": "Newton Hill Disc Golf",
-  "lat": 42.2680347,
-  "lng": -71.8183886,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "dog": "yes",
-   "name": "Newton Hill Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/5315035797",
-  "name": "Page Park Disc Golf",
-  "lat": 41.6822345,
-  "lng": -72.930697,
-  "region": "MA",
-  "country": "US",
-  "state": "CT",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Page Park Disc Golf",
-   "surface": "dirt"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/14068575102",
-  "name": "Pyramids Disc Golf",
-  "lat": 42.274123,
-  "lng": -71.8900302,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "yes",
-  "access": "customers",
-  "wikidata": null,
-  "tags": {
-   "name": "Pyramids Disc Golf",
-   "opening_hours": "Mo-Su 08:00-18:00"
   },
   "mapped": {
    "tees": 0,
@@ -13912,29 +13320,6 @@
   "wikidata": null,
   "tags": {
    "name": "Simonds Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13346992343",
-  "name": "The Rocks at Sheffield Park",
-  "lat": 42.1122563,
-  "lng": -73.3622786,
-  "region": "MA",
-  "country": "US",
-  "state": "MA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "The Rocks at Sheffield Park",
-   "opening_hours": "Mo-Su 08:00-20:00"
   },
   "mapped": {
    "tees": 0,
@@ -16591,7 +15976,7 @@
   "osm": "way/1569001315",
   "name": null,
   "lat": 44.8474486,
-  "lng": -93.2541035,
+  "lng": -93.2544716,
   "region": "MN",
   "country": "US",
   "state": "MN",
@@ -17472,6 +16857,28 @@
   "wikidata": null,
   "tags": {
    "opening_hours": "05:00-22:00",
+   "surface": "concrete"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14331622900",
+  "name": null,
+  "lat": 40.6445315,
+  "lng": -89.5701159,
+  "region": "MO",
+  "country": "US",
+  "state": "IL",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
    "surface": "concrete"
   },
   "mapped": {
@@ -19332,6 +18739,30 @@
   "wikidata": null,
   "tags": {
    "name": "Clover Dell Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14331622896",
+  "name": "Cole Hollow Monster Disc Golf Course",
+  "lat": 40.6432366,
+  "lng": -89.5696503,
+  "region": "MO",
+  "country": "US",
+  "state": "IL",
+  "holes": null,
+  "website": "https://fondulacpark.com/park-facilities/disc-golf/",
+  "operator": "Fon du Lac Park District",
+  "fee": "no",
+  "access": "permissive",
+  "wikidata": null,
+  "tags": {
+   "description": "wooded disc golf course, closed during and 48 hours after rain",
+   "name": "Cole Hollow Monster Disc Golf Course",
+   "surface": "concrete"
   },
   "mapped": {
    "tees": 0,
@@ -21468,887 +20899,6 @@
   }
  },
  {
-  "osm": "node/11922521595",
-  "name": null,
-  "lat": 33.9700505,
-  "lng": -83.7301702,
-  "region": "NC",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": "https://gastateparks.org/FortYargo/DiscGolf",
-  "operator": "Fort Yargo State Park",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "opening_hours": "07:00-sunset"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/14106567052",
-  "name": null,
-  "lat": 34.0532474,
-  "lng": -83.8916473,
-  "region": "NC",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/2641123476",
-  "name": null,
-  "lat": 35.9216771,
-  "lng": -79.1050584,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "surface": "dirt"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/3409741153",
-  "name": null,
-  "lat": 36.0542287,
-  "lng": -78.9622005,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": "City Of Durham",
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/3559272291",
-  "name": null,
-  "lat": 35.7624827,
-  "lng": -81.3558277,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 24,
-   "baskets": 23
-  }
- },
- {
-  "osm": "node/9653854335",
-  "name": null,
-  "lat": 35.6263502,
-  "lng": -77.3750387,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/10272098736",
-  "name": null,
-  "lat": 35.0604529,
-  "lng": -77.0452672,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/11738922799",
-  "name": null,
-  "lat": 35.9896738,
-  "lng": -79.4462724,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12037936471",
-  "name": null,
-  "lat": 36.004113,
-  "lng": -79.7620037,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12125226435",
-  "name": null,
-  "lat": 35.3626313,
-  "lng": -77.9577502,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 2
-  }
- },
- {
-  "osm": "node/12173692426",
-  "name": null,
-  "lat": 35.3482426,
-  "lng": -77.9452785,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12253767094",
-  "name": null,
-  "lat": 35.3713033,
-  "lng": -77.9389092,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12456901114",
-  "name": null,
-  "lat": 36.3037039,
-  "lng": -80.5031273,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12879213111",
-  "name": null,
-  "lat": 35.3708429,
-  "lng": -77.9410588,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/200456347",
-  "name": null,
-  "lat": 35.7654596,
-  "lng": -78.6758776,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": "http://www.ncsu.edu/facilities/buildings/disk_golf.html",
-  "operator": null,
-  "fee": null,
-  "access": "unknown",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 9,
-   "baskets": 9
-  }
- },
- {
-  "osm": "way/1270547109",
-  "name": null,
-  "lat": 35.8388306,
-  "lng": -80.0978232,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1270548088",
-  "name": null,
-  "lat": 34.1366198,
-  "lng": -77.9128652,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1373457624",
-  "name": null,
-  "lat": 35.8856064,
-  "lng": -78.8476915,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1408936390",
-  "name": null,
-  "lat": 35.3704441,
-  "lng": -77.9409088,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 1
-  }
- },
- {
-  "osm": "way/1503816899",
-  "name": null,
-  "lat": 36.39653,
-  "lng": -78.1614461,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 6,
-   "baskets": 8
-  }
- },
- {
-  "osm": "way/415831720",
-  "name": "Alexander Park Disc Golf Course",
-  "lat": 33.9131774,
-  "lng": -84.0048764,
-  "region": "NC",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": "Alexander Park",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "description": "A disc golf course in Alexander Park.",
-   "dog": "leashed",
-   "name": "Alexander Park Disc Golf Course",
-   "opening_hours": "sunrise-sunset",
-   "phone": "+1-678-277-0891"
-  },
-  "mapped": {
-   "tees": 3,
-   "baskets": 7
-  }
- },
- {
-  "osm": "way/204976707",
-  "name": "Buckhorn Disc Golf Course",
-  "lat": 35.6278667,
-  "lng": -78.9301605,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": "http://www.wakegov.com/parks/harrislake/Pages/discgolf.aspx",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Buckhorn Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 32,
-   "baskets": 18
-  }
- },
- {
-  "osm": "relation/21067562",
-  "name": "Camp Boddie 18 Hole Course",
-  "lat": 35.4388189,
-  "lng": -76.9428744,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Camp Boddie 18 Hole Course"
-  },
-  "mapped": {
-   "tees": 8,
-   "baskets": 9
-  }
- },
- {
-  "osm": "relation/21067438",
-  "name": "Camp Boddie 9 Hole Course",
-  "lat": 35.438831,
-  "lng": -76.9506139,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Camp Boddie 9 Hole Course"
-  },
-  "mapped": {
-   "tees": 9,
-   "baskets": 9
-  }
- },
- {
-  "osm": "node/2804981628",
-  "name": "Carolina Disc Golf",
-  "lat": 35.9061837,
-  "lng": -79.0370523,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": "http://cf.unc.edu/discgolf/",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Carolina Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/9525518303",
-  "name": "Cornwallis Road Disc Golf Course",
-  "lat": 35.9789482,
-  "lng": -78.9521072,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": "Durham Parks and Recreation",
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Cornwallis Road Disc Golf Course",
-   "opening_hours": "dawn-dusk"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/14013506915",
-  "name": "Disc Golf Course",
-  "lat": 35.7595978,
-  "lng": -78.8141577,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Disc Golf Course",
-   "opening_hours": "24/7"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13830752683",
-  "name": "East Carolina University",
-  "lat": 35.6310317,
-  "lng": -77.3198702,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "East Carolina University",
-   "surface": "asphalt"
-  },
-  "mapped": {
-   "tees": 20,
-   "baskets": 25
-  }
- },
- {
-  "osm": "way/887389456",
-  "name": "George Sappenfield Disc Golf Course",
-  "lat": 36.1275664,
-  "lng": -80.7272985,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "George Sappenfield Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13012978447",
-  "name": "Guilford Meadows Disc Golf Course",
-  "lat": 36.0988015,
-  "lng": -79.8884469,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": "Guilford College",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Guilford Meadows Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/669881739",
-  "name": "Horizons Park Disc Golf Course",
-  "lat": 36.2253955,
-  "lng": -80.2316818,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Horizons Park Disc Golf Course",
-   "surface": "ground"
-  },
-  "mapped": {
-   "tees": 22,
-   "baskets": 21
-  }
- },
- {
-  "osm": "node/14143484549",
-  "name": "Leland Disc Golf Park",
-  "lat": 34.2458976,
-  "lng": -78.0227589,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": 12,
-  "website": "https://www.townofleland.com/parks-recreation-cultural-resources/parks-facilities",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Leland",
-   "addr:state": "NC",
-   "addr:street": "Village Road",
-   "name": "Leland Disc Golf Park",
-   "opening_hours": "sunrise-sunset"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/288085419",
-  "name": "Middle Creek Disc Golf Course",
-  "lat": 35.6642103,
-  "lng": -78.764144,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": "http://www.townofcary.org/Departments/Parks__Recreation___Cultural_Resources/Parks_and_Greenways/Parks/Middle_Creek_School_Park/Middle_Creek_18-Hole_Disc_Golf_Course.htm",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Middle Creek Disc Golf Course",
-   "opening_hours": "sunrise-sunset"
-  },
-  "mapped": {
-   "tees": 16,
-   "baskets": 10
-  }
- },
- {
-  "osm": "way/1233573115",
-  "name": "Morrisville Dragonfly Pop-up Disc Golf Course.",
-  "lat": 35.8244514,
-  "lng": -78.8314974,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": "https://www.morrisvillenc.gov/government/departments-services/parks-recreation-cultural-resources/parks-and-greenways/pop-up-disc-golf",
-  "operator": "Town of Morrisville",
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Morrisville Dragonfly Pop-up Disc Golf Course."
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12434315688",
-  "name": "Nelson Acres Disc Golf Coarse",
-  "lat": 36.3995974,
-  "lng": -80.4810842,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Nelson Acres Disc Golf Coarse"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/11288711131",
-  "name": "North Georgia Canopy Tours Disc Golf Course",
-  "lat": 34.371323,
-  "lng": -83.6973931,
-  "region": "NC",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "North Georgia Canopy Tours Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 6,
-   "baskets": 3
-  }
- },
- {
-  "osm": "node/13453353235",
-  "name": "Pluck Farm Disc Golf Course",
-  "lat": 35.9509602,
-  "lng": -79.2516428,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": "Steel String Brewery LLC",
-  "fee": "no",
-  "access": "permissive",
-  "wikidata": null,
-  "tags": {
-   "dog": "leashed",
-   "name": "Pluck Farm Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/446345604",
-  "name": "Rock Ridge Park Disc Golf Course",
-  "lat": 35.6756582,
-  "lng": -79.1802484,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Rock Ridge Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 35,
-   "baskets": 18
-  }
- },
- {
-  "osm": "node/11969458061",
-  "name": "Trinity Disc Golf Course",
-  "lat": 34.041438,
-  "lng": -77.9049504,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": "Good Hops Brewery",
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Trinity Disc Golf Course",
-   "opening_hours": "dawn-dusk"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12988308598",
-  "name": "Williams Day Camp Disc Golf Course",
-  "lat": 35.7440161,
-  "lng": -77.9333853,
-  "region": "NC",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Williams Day Camp Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "relation/18919658",
-  "name": "Wills Park Disc Golf Course",
-  "lat": 34.07095,
-  "lng": -84.307711,
-  "region": "NC",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Wills Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 17,
-   "baskets": 19
-  }
- },
- {
   "osm": "node/793537428",
   "name": null,
   "lat": 47.9119022,
@@ -23534,50 +22084,6 @@
   }
  },
  {
-  "osm": "node/5774220678",
-  "name": "Browns Point/Buzzy's Creek Disc Golf Course",
-  "lat": 41.1536484,
-  "lng": -74.3470328,
-  "region": "NJ",
-  "country": "US",
-  "state": "NJ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Browns Point/Buzzy's Creek Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/5772078676",
-  "name": "Chimney Rock Disc Golf Course",
-  "lat": 40.5936653,
-  "lng": -74.5589936,
-  "region": "NJ",
-  "country": "US",
-  "state": "NJ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Chimney Rock Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/9530525290",
   "name": "Doc Cramer DGC",
   "lat": 39.7001537,
@@ -23616,138 +22122,6 @@
   "tags": {
    "name": "Doc Cramer Disc Golf Course",
    "opening_hours": "sunrise-sunset"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/617919427",
-  "name": "FDR Disc Golf Course - front 9",
-  "lat": 41.2814547,
-  "lng": -73.8167697,
-  "region": "NJ",
-  "country": "US",
-  "state": "NY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "FDR Disc Golf Course - front 9"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/5774212461",
-  "name": "Greenwood Meadows Disc Golf Course",
-  "lat": 40.6215114,
-  "lng": -74.5624574,
-  "region": "NJ",
-  "country": "US",
-  "state": "NJ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Greenwood Meadows Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 4
-  }
- },
- {
-  "osm": "node/5772087409",
-  "name": "Greystone Woods Disc Golf Course",
-  "lat": 40.8382077,
-  "lng": -74.5031577,
-  "region": "NJ",
-  "country": "US",
-  "state": "NJ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Greystone Woods Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 4,
-   "baskets": 18
-  }
- },
- {
-  "osm": "node/5772087408",
-  "name": "Harry Dunham Park Disc Golf Course",
-  "lat": 40.6644446,
-  "lng": -74.5918303,
-  "region": "NJ",
-  "country": "US",
-  "state": "NJ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Harry Dunham Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/10984463531",
-  "name": "Oak Ridge Park Disc Golf Course",
-  "lat": 40.6048306,
-  "lng": -74.3474121,
-  "region": "NJ",
-  "country": "US",
-  "state": "NJ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Oak Ridge Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 1
-  }
- },
- {
-  "osm": "node/5772087407",
-  "name": "Rutgers Disc Golf Course",
-  "lat": 40.4818863,
-  "lng": -74.4339189,
-  "region": "NJ",
-  "country": "US",
-  "state": "NJ",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Rutgers Disc Golf Course"
   },
   "mapped": {
    "tees": 0,
@@ -23865,26 +22239,6 @@
   }
  },
  {
-  "osm": "way/769000914",
-  "name": null,
-  "lat": 36.5409432,
-  "lng": -114.4414259,
-  "region": "NV",
-  "country": "US",
-  "state": "NV",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/11250338407",
   "name": null,
   "lat": 37.3787996,
@@ -23896,6 +22250,26 @@
   "website": null,
   "operator": null,
   "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/769000914",
+  "name": null,
+  "lat": 36.5409432,
+  "lng": -114.4414259,
+  "region": "NV",
+  "country": "US",
+  "state": "NV",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
   "access": null,
   "wikidata": null,
   "tags": {},
@@ -24121,6 +22495,1425 @@
   },
   "mapped": {
    "tees": 2,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/3192369977",
+  "name": null,
+  "lat": 41.1630451,
+  "lng": -73.4043449,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13461277701",
+  "name": null,
+  "lat": 41.9806152,
+  "lng": -73.5048128,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/469768799",
+  "name": null,
+  "lat": 41.6508705,
+  "lng": -73.6963637,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1554837130",
+  "name": null,
+  "lat": 41.5956916,
+  "lng": -72.0280072,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": "Sunfox Campground",
+  "fee": "no",
+  "access": "customers",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13260213655",
+  "name": null,
+  "lat": 42.3949024,
+  "lng": -72.5212667,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 1
+  }
+ },
+ {
+  "osm": "node/7903653523",
+  "name": null,
+  "lat": 43.1516652,
+  "lng": -77.5276223,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "Monroe County Department of Parks",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "opening_hours": "May-Oct"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12403737506",
+  "name": null,
+  "lat": 42.8870395,
+  "lng": -73.9372884,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12498720778",
+  "name": null,
+  "lat": 42.4256042,
+  "lng": -79.4316526,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 7,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "way/903176704",
+  "name": null,
+  "lat": 43.0461679,
+  "lng": -77.6177402,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/938600428",
+  "name": null,
+  "lat": 43.0552484,
+  "lng": -75.9671724,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 2,
+   "baskets": 8
+  }
+ },
+ {
+  "osm": "way/1374713895",
+  "name": null,
+  "lat": 41.4613793,
+  "lng": -74.4322953,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "relation/17476117",
+  "name": null,
+  "lat": 43.0042994,
+  "lng": -78.7846252,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "University at Buffalo",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "opening_hours": "24/7"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "node/9118901332",
+  "name": "1",
+  "lat": 43.0546922,
+  "lng": -75.9666205,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "1"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/9791495379",
+  "name": "11",
+  "lat": 41.1635905,
+  "lng": -73.4013306,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "11"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/9815820899",
+  "name": "14",
+  "lat": 41.1630322,
+  "lng": -73.40365,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "14"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/9118896513",
+  "name": "14",
+  "lat": 43.0310758,
+  "lng": -75.7423976,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "14"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11741474910",
+  "name": "16",
+  "lat": 41.1928723,
+  "lng": -73.7213272,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "16"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/6397235192",
+  "name": "5&20 Disc Golf Course",
+  "lat": 42.8725958,
+  "lng": -76.9709357,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "5&20 Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13920843741",
+  "name": "501 Disc Golf",
+  "lat": 42.2267048,
+  "lng": -72.1875789,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": "https://501discgolf.com/",
+  "operator": null,
+  "fee": "yes",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Warren",
+   "addr:postcode": "01083",
+   "addr:state": "MA",
+   "addr:street": "Old West Brookfield Road",
+   "name": "501 Disc Golf",
+   "phone": "+14135757706"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1527617893",
+  "name": "501 Disc Golf Pro Shop",
+  "lat": 42.2266602,
+  "lng": -72.1877903,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": "https://501discgolf.com/",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Warren",
+   "addr:postcode": "01083",
+   "addr:state": "MA",
+   "addr:street": "Old West Brookfield Road",
+   "name": "501 Disc Golf Pro Shop",
+   "phone": "+1-413-575-7706"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13920809327",
+  "name": "Barre Falls Dam Disc Golf",
+  "lat": 42.427858,
+  "lng": -72.0237287,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Barre",
+   "addr:postcode": "01005",
+   "addr:state": "MA",
+   "addr:street": "Coldbrook Road",
+   "name": "Barre Falls Dam Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/896794963",
+  "name": "Basil Marella Disc Golf Course",
+  "lat": 43.2333258,
+  "lng": -77.6761499,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "Town of Greece",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Basil Marella Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5648527854",
+  "name": "Blatnick Park Disc Golf Course",
+  "lat": 42.8146896,
+  "lng": -73.8611487,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Blatnick Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1393570768",
+  "name": "Bomber Disc Golf at Griffiss Park",
+  "lat": 43.2150027,
+  "lng": -75.4130851,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": "https://www.griffissbusinesspark.com/at-griffiss/bomber-disc-golf-at-griffiss-park/",
+  "operator": null,
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Bomber Disc Golf at Griffiss Park"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 18
+  }
+ },
+ {
+  "osm": "node/5774220678",
+  "name": "Browns Point/Buzzy's Creek Disc Golf Course",
+  "lat": 41.1536484,
+  "lng": -74.3470328,
+  "region": "NY",
+  "country": "US",
+  "state": "NJ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Browns Point/Buzzy's Creek Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12922426028",
+  "name": "Cadyville Disc Golf Course",
+  "lat": 44.7001397,
+  "lng": -73.6161202,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Cadyville Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5772078676",
+  "name": "Chimney Rock Disc Golf Course",
+  "lat": 40.5936653,
+  "lng": -74.5589936,
+  "region": "NY",
+  "country": "US",
+  "state": "NJ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Chimney Rock Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1274012431",
+  "name": "Clatter Valley Disc Golf",
+  "lat": 41.5460291,
+  "lng": -73.3906986,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": "https://www.facebook.com/groups/768768824454498",
+  "operator": "New Milford Parks & Rec",
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "addr:city": "New Milford",
+   "addr:postcode": "06776",
+   "addr:state": "CT",
+   "addr:street": "Town Farm Road",
+   "dog": "leashed",
+   "name": "Clatter Valley Disc Golf",
+   "opening_hours": "sunrise-sunset"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13898851314",
+  "name": "Cold Spring Disc Golf Course",
+  "lat": 42.2892523,
+  "lng": -72.3968624,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Cold Spring Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14027192706",
+  "name": "Colonial Acres Disc Golf Course",
+  "lat": 42.6052594,
+  "lng": -73.8063773,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "Town of Bethlehem",
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Colonial Acres Disc Golf Course",
+   "opening_hours": "dawn-dusk"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5310729553",
+  "name": "Crane Hill Disc Golf Course",
+  "lat": 42.1460889,
+  "lng": -72.4009358,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Wilbraham",
+   "addr:postcode": "01095",
+   "addr:state": "MA",
+   "addr:street": "Crane Hill Road",
+   "name": "Crane Hill Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/9419703053",
+  "name": "Cross Farms DGC",
+  "lat": 41.8652139,
+  "lng": -72.3400402,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Cross Farms DGC",
+   "opening_hours": "sunrise-sunset"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1223662071",
+  "name": "David Stidham Disc Golf Course",
+  "lat": 42.1174384,
+  "lng": -71.9063885,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": "United States Army Corps of Engineers",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": "Q139803819",
+  "tags": {
+   "name": "David Stidham Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14201525342",
+  "name": "Ellicott Creek Disc Golf Course",
+  "lat": 43.0202845,
+  "lng": -78.831942,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Ellicott Creek Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 18,
+   "baskets": 18
+  }
+ },
+ {
+  "osm": "way/617919427",
+  "name": "FDR Disc Golf Course - front 9",
+  "lat": 41.2814547,
+  "lng": -73.8167697,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "FDR Disc Golf Course - front 9"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13962524385",
+  "name": "Flat Rock Disc Golf",
+  "lat": 42.5225088,
+  "lng": -72.2338669,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "yes",
+  "access": "private",
+  "wikidata": null,
+  "tags": {
+   "name": "Flat Rock Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/3116086261",
+  "name": "Flying Ace 18 Hole Disc Golf Course",
+  "lat": 41.4596225,
+  "lng": -72.8412683,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Flying Ace 18 Hole Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/29856738",
+  "name": "Green River Disc Golf",
+  "lat": 42.569606,
+  "lng": -72.5961384,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "yes",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Green River Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5774212461",
+  "name": "Greenwood Meadows Disc Golf Course",
+  "lat": 40.6215114,
+  "lng": -74.5624574,
+  "region": "NY",
+  "country": "US",
+  "state": "NJ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Greenwood Meadows Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 4
+  }
+ },
+ {
+  "osm": "node/5772087409",
+  "name": "Greystone Woods Disc Golf Course",
+  "lat": 40.8382077,
+  "lng": -74.5031577,
+  "region": "NY",
+  "country": "US",
+  "state": "NJ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Greystone Woods Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 4,
+   "baskets": 18
+  }
+ },
+ {
+  "osm": "node/5772087408",
+  "name": "Harry Dunham Park Disc Golf Course",
+  "lat": 40.6644446,
+  "lng": -74.5918303,
+  "region": "NY",
+  "country": "US",
+  "state": "NJ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Harry Dunham Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/9902416327",
+  "name": "James W. Olley Park Disc Golf",
+  "lat": 41.5575812,
+  "lng": -74.1773485,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "Village of Walden",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "James W. Olley Park Disc Golf",
+   "surface": "ground"
+  },
+  "mapped": {
+   "tees": 9,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "way/870835645",
+  "name": "Killingworth Recreational Park Disc Golf",
+  "lat": 41.4064822,
+  "lng": -72.5373395,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Killingworth Recreational Park Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/7903697194",
+  "name": "Maple Hill Disc Golf",
+  "lat": 42.2762112,
+  "lng": -71.8954562,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "yes",
+  "access": "customers",
+  "wikidata": null,
+  "tags": {
+   "name": "Maple Hill Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13894075329",
+  "name": "Mile Marker 63 Disc Golf Course",
+  "lat": 42.2274189,
+  "lng": -72.0633323,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "yes",
+  "access": "private",
+  "wikidata": null,
+  "tags": {
+   "name": "Mile Marker 63 Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5310728324",
+  "name": "Mountainside Disc Golf Course",
+  "lat": 42.103648,
+  "lng": -72.3237459,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": "https://www.facebook.com/Monsondiscgolf/",
+  "operator": "Monson, MA",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Mountainside Disc Golf Course",
+   "opening_hours": "sunrise-sunset"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11272647277",
+  "name": "New York Disc Golf Supply",
+  "lat": 42.7297399,
+  "lng": -73.6941853,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "New York Disc Golf Supply",
+   "opening_hours": "Tu-Fr,Su 15:00-19:00; Sa 11:00-18:00"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13920747062",
+  "name": "Newton Hill Disc Golf",
+  "lat": 42.2680347,
+  "lng": -71.8183886,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "dog": "yes",
+   "name": "Newton Hill Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/10984463531",
+  "name": "Oak Ridge Park Disc Golf Course",
+  "lat": 40.6048306,
+  "lng": -74.3474121,
+  "region": "NY",
+  "country": "US",
+  "state": "NJ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Oak Ridge Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 1
+  }
+ },
+ {
+  "osm": "node/5315035797",
+  "name": "Page Park Disc Golf",
+  "lat": 41.6822345,
+  "lng": -72.930697,
+  "region": "NY",
+  "country": "US",
+  "state": "CT",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Page Park Disc Golf",
+   "surface": "dirt"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5543788601",
+  "name": "Panther Highlands",
+  "lat": 42.5027174,
+  "lng": -76.2890975,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "Tompkins Cortland Community College",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Panther Highlands"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/809191005",
+  "name": "Parma Disc Golf Course",
+  "lat": 43.2470285,
+  "lng": -77.7832232,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Parma Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11447441665",
+  "name": "Prospect Park Disc Golf Course",
+  "lat": 42.7247091,
+  "lng": -73.683098,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": "https://www.troyny.gov/1497/Disc-Golf-Course",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Prospect Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14068575102",
+  "name": "Pyramids Disc Golf",
+  "lat": 42.274123,
+  "lng": -71.8900302,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "yes",
+  "access": "customers",
+  "wikidata": null,
+  "tags": {
+   "name": "Pyramids Disc Golf",
+   "opening_hours": "Mo-Su 08:00-18:00"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/220475687",
+  "name": "Robison Disc Golf Course",
+  "lat": 42.4599991,
+  "lng": -76.4772994,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "Cornell University",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Robison Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/5772087407",
+  "name": "Rutgers Disc Golf Course",
+  "lat": 40.4818863,
+  "lng": -74.4339189,
+  "region": "NY",
+  "country": "US",
+  "state": "NJ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Rutgers Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "relation/13466735",
+  "name": "SUNY Geneseo Disc Golf Course",
+  "lat": 42.8022306,
+  "lng": -77.8256473,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": "SUNY Geneseo",
+  "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "SUNY Geneseo Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 18,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "way/1431720264",
+  "name": "Stephen P Wallace Disc Golf Course",
+  "lat": 42.6413804,
+  "lng": -73.9280336,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Stephen P Wallace Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14022216764",
+  "name": "The Ravine at Chestnut Ridge",
+  "lat": 42.7224949,
+  "lng": -78.7441001,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "The Ravine at Chestnut Ridge"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13346992343",
+  "name": "The Rocks at Sheffield Park",
+  "lat": 42.1122563,
+  "lng": -73.3622786,
+  "region": "NY",
+  "country": "US",
+  "state": "MA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "The Rocks at Sheffield Park",
+   "opening_hours": "Mo-Su 08:00-20:00"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11764493143",
+  "name": "Village of Bergen Disc Golf Course",
+  "lat": 43.0797499,
+  "lng": -77.9460338,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Village of Bergen Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1415048440",
+  "name": "Widener Park - Chili Disc Golf Course",
+  "lat": 43.0784591,
+  "lng": -77.7640804,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Widener Park - Chili Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14220036310",
+  "name": null,
+  "lat": 39.1098709,
+  "lng": -84.3307957,
+  "region": "OH",
+  "country": "US",
+  "state": "OH",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/48487385",
+  "name": null,
+  "lat": 39.1248339,
+  "lng": -84.5932774,
+  "region": "OH",
+  "country": "US",
+  "state": "OH",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "surface": "grass"
+  },
+  "mapped": {
+   "tees": 0,
    "baskets": 0
   }
  },
@@ -24602,48 +24395,6 @@
   "access": null,
   "wikidata": null,
   "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/14220036310",
-  "name": null,
-  "lat": 39.1098709,
-  "lng": -84.3307957,
-  "region": "OH",
-  "country": "US",
-  "state": "OH",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/48487385",
-  "name": null,
-  "lat": 39.1248339,
-  "lng": -84.5932774,
-  "region": "OH",
-  "country": "US",
-  "state": "OH",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "surface": "grass"
-  },
   "mapped": {
    "tees": 0,
    "baskets": 0
@@ -29830,7 +29581,7 @@
   "holes": null,
   "website": null,
   "operator": null,
-  "fee": null,
+  "fee": "no",
   "access": null,
   "wikidata": null,
   "tags": {},
@@ -29860,6 +29611,26 @@
   }
  },
  {
+  "osm": "node/6965083498",
+  "name": null,
+  "lat": 33.4668739,
+  "lng": -79.1160247,
+  "region": "SC",
+  "country": "US",
+  "state": "SC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/12758664698",
   "name": null,
   "lat": 35.2684356,
@@ -29876,26 +29647,6 @@
   "tags": {
    "surface": "ground"
   },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/6965083498",
-  "name": null,
-  "lat": 33.4668739,
-  "lng": -79.1160247,
-  "region": "SC",
-  "country": "US",
-  "state": "SC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
   "mapped": {
    "tees": 0,
    "baskets": 0
@@ -30110,7 +29861,7 @@
   "holes": null,
   "website": null,
   "operator": null,
-  "fee": null,
+  "fee": "no",
   "access": null,
   "wikidata": null,
   "tags": {
@@ -30841,10 +30592,50 @@
   }
  },
  {
+  "osm": "way/1539785145",
+  "name": null,
+  "lat": 36.5371692,
+  "lng": -85.8507091,
+  "region": "TN",
+  "country": "US",
+  "state": "TN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/11778282934",
   "name": null,
   "lat": 35.1732375,
   "lng": -83.3856978,
+  "region": "TN",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1232726186",
+  "name": null,
+  "lat": 35.1809421,
+  "lng": -83.3835421,
   "region": "TN",
   "country": "US",
   "state": "NC",
@@ -30903,46 +30694,6 @@
   }
  },
  {
-  "osm": "way/1023484982",
-  "name": null,
-  "lat": 36.2992342,
-  "lng": -82.3640516,
-  "region": "TN",
-  "country": "US",
-  "state": "TN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1232726186",
-  "name": null,
-  "lat": 35.1809421,
-  "lng": -83.3835421,
-  "region": "TN",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "way/869147967",
   "name": null,
   "lat": 35.5870164,
@@ -30963,18 +30714,18 @@
   }
  },
  {
-  "osm": "way/1037447765",
+  "osm": "way/1023484982",
   "name": null,
-  "lat": 36.0830049,
-  "lng": -86.3175938,
+  "lat": 36.2992342,
+  "lng": -82.3640516,
   "region": "TN",
   "country": "US",
   "state": "TN",
   "holes": null,
   "website": null,
   "operator": null,
-  "fee": null,
-  "access": null,
+  "fee": "no",
+  "access": "yes",
   "wikidata": null,
   "tags": {},
   "mapped": {
@@ -30983,10 +30734,10 @@
   }
  },
  {
-  "osm": "way/1539785145",
+  "osm": "way/1037447765",
   "name": null,
-  "lat": 36.5371692,
-  "lng": -85.8507091,
+  "lat": 36.0830049,
+  "lng": -86.3175938,
   "region": "TN",
   "country": "US",
   "state": "TN",
@@ -42782,6 +42533,66 @@
   }
  },
  {
+  "osm": "node/7618615722",
+  "name": null,
+  "lat": 39.1591834,
+  "lng": -83.2253,
+  "region": "VA",
+  "country": "US",
+  "state": "OH",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/8662883423",
+  "name": null,
+  "lat": 36.6435607,
+  "lng": -82.1150244,
+  "region": "VA",
+  "country": "US",
+  "state": "VA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/8662883424",
+  "name": null,
+  "lat": 36.6440227,
+  "lng": -82.1084059,
+  "region": "VA",
+  "country": "US",
+  "state": "VA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "way/492362035",
   "name": null,
   "lat": 38.7613365,
@@ -42869,86 +42680,6 @@
   "region": "VA",
   "country": "US",
   "state": "MD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/8662883423",
-  "name": null,
-  "lat": 36.6435607,
-  "lng": -82.1150244,
-  "region": "VA",
-  "country": "US",
-  "state": "VA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/8662883424",
-  "name": null,
-  "lat": 36.6440227,
-  "lng": -82.1084059,
-  "region": "VA",
-  "country": "US",
-  "state": "VA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/386971071",
-  "name": null,
-  "lat": 36.5820318,
-  "lng": -76.1445865,
-  "region": "VA",
-  "country": "US",
-  "state": "VA",
-  "holes": null,
-  "website": null,
-  "operator": "City of Chesapeake",
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/7618615722",
-  "name": null,
-  "lat": 39.1591834,
-  "lng": -83.2253,
-  "region": "VA",
-  "country": "US",
-  "state": "OH",
   "holes": null,
   "website": null,
   "operator": null,
@@ -43053,6 +42784,26 @@
   "website": null,
   "operator": null,
   "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/386971071",
+  "name": null,
+  "lat": 36.5820318,
+  "lng": -76.1445865,
+  "region": "VA",
+  "country": "US",
+  "state": "VA",
+  "holes": null,
+  "website": null,
+  "operator": "City of Chesapeake",
+  "fee": null,
   "access": "yes",
   "wikidata": null,
   "tags": {},
@@ -47707,6 +47458,26 @@
   }
  },
  {
+  "osm": "node/14322353957",
+  "name": null,
+  "lat": 45.4503735,
+  "lng": -92.4560961,
+  "region": "WI",
+  "country": "US",
+  "state": "WI",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "way/489875929",
   "name": null,
   "lat": 43.8181243,
@@ -48879,6 +48650,26 @@
   }
  },
  {
+  "osm": "way/488718188",
+  "name": null,
+  "lat": 38.4156636,
+  "lng": -82.3967491,
+  "region": "WV",
+  "country": "US",
+  "state": "WV",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "way/1531964983",
   "name": null,
   "lat": 39.1308075,
@@ -49226,26 +49017,6 @@
   "region": "WV",
   "country": "US",
   "state": "VA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/488718188",
-  "name": null,
-  "lat": 38.4156636,
-  "lng": -82.3967491,
-  "region": "WV",
-  "country": "US",
-  "state": "WV",
   "holes": null,
   "website": null,
   "operator": null,

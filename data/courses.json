@@ -36953,7 +36953,8 @@
    "osm_mapped": {
     "tees": 4,
     "baskets": 4
-   }
+   },
+   "fee": "no"
   },
   {
    "id": "osm-way-468507948",
@@ -39045,7 +39046,8 @@
    "geo_osm": {
     "holes_assigned": 0,
     "baskets": 9
-   }
+   },
+   "operator": "City of Grand Prairie Parks & Recreation"
   },
   {
    "id": "osm-way-1176386541",
@@ -44153,6 +44155,716 @@
    "geo_osm": {
     "holes_assigned": 0,
     "baskets": 9
+   }
+  },
+  {
+   "id": "osm-node-11867386637",
+   "name": "Camp Catalpa Disc Golf Course",
+   "lat": 37.7405065,
+   "lng": -84.2503906,
+   "state": "KY",
+   "country": "US",
+   "holes": 18,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11867386637",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 18,
+    "baskets": 18
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 18
+   }
+  },
+  {
+   "id": "osm-node-5634169041",
+   "name": "Disc Golf",
+   "lat": 36.9702553,
+   "lng": -86.4042627,
+   "state": "KY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/5634169041",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-4514561362",
+   "name": "Disc Golf Course",
+   "lat": 36.9961195,
+   "lng": -86.4163963,
+   "state": "KY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/4514561362",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-13638197746",
+   "name": "Dr Thomas Walker State Park Disc Golf Course",
+   "lat": 36.839689,
+   "lng": -83.9193609,
+   "state": "KY",
+   "country": "US",
+   "holes": 9,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/13638197746",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 9,
+    "baskets": 9
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 9
+   }
+  },
+  {
+   "id": "osm-way-955449021",
+   "name": "Greensburg Fitness Park",
+   "lat": 37.2460658,
+   "lng": -85.4914171,
+   "state": "KY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "way/955449021",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "City of greensburg",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-11867399316",
+   "name": "Miller Park Disc Golf Course",
+   "lat": 36.9420207,
+   "lng": -84.1220846,
+   "state": "KY",
+   "country": "US",
+   "holes": 9,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11867399316",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-11867386139",
+   "name": "River Hill Disc Golf Course",
+   "lat": 37.9690368,
+   "lng": -84.4871412,
+   "state": "KY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11867386139",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-11867386138",
+   "name": "Shillito Disc Golf Course",
+   "lat": 37.987569,
+   "lng": -84.5333734,
+   "state": "KY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11867386138",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-relation-18243612",
+   "name": "Veterans Park Disc Golf Course",
+   "lat": 37.9532214,
+   "lng": -84.5035037,
+   "state": "KY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "relation/18243612",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "website": "https://www.lexingtonky.gov/sites/default/files/2016-08/Veterans%20Park%20Disk%20Golf.pdf",
+   "osm_mapped": {
+    "tees": 3,
+    "baskets": 5
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 18
+   }
+  },
+  {
+   "id": "osm-node-11867399317",
+   "name": "Whitley Branch Disc Golf Course",
+   "lat": 37.1191694,
+   "lng": -84.0837202,
+   "state": "KY",
+   "country": "US",
+   "holes": 18,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11867399317",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-9880191567",
+   "name": "Wolf Knob Disc Golf Course at Hickory Cabins",
+   "lat": 37.2558384,
+   "lng": -86.139051,
+   "state": "KY",
+   "country": "US",
+   "holes": null,
+   "city": "Mammoth Cave",
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/9880191567",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "Frank Hayes",
+   "fee": "yes",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-14331622896",
+   "name": "Cole Hollow Monster Disc Golf Course",
+   "lat": 40.6432366,
+   "lng": -89.5696503,
+   "state": "IL",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/14331622896",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "website": "https://fondulacpark.com/park-facilities/disc-golf/",
+   "operator": "Fon du Lac Park District",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-12498720778",
+   "name": "Disc golf course (unnamed on OpenStreetMap)",
+   "lat": 42.4256042,
+   "lng": -79.4316526,
+   "state": "NY",
+   "country": "US",
+   "holes": 9,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/12498720778",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 7,
+    "baskets": 9
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 9
+   }
+  },
+  {
+   "id": "osm-relation-17476117",
+   "name": "Disc golf course (unnamed on OpenStreetMap)",
+   "lat": 43.0042994,
+   "lng": -78.7846252,
+   "state": "NY",
+   "country": "US",
+   "holes": 9,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "relation/17476117",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "University at Buffalo",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 9
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 9
+   }
+  },
+  {
+   "id": "osm-node-9118901332",
+   "name": "1",
+   "lat": 43.0546922,
+   "lng": -75.9666205,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/9118901332",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-9118896513",
+   "name": "14",
+   "lat": 43.0310758,
+   "lng": -75.7423976,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/9118896513",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-6397235192",
+   "name": "5&20 Disc Golf Course",
+   "lat": 42.8725958,
+   "lng": -76.9709357,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/6397235192",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-way-896794963",
+   "name": "Basil Marella Disc Golf Course",
+   "lat": 43.2333258,
+   "lng": -77.6761499,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "way/896794963",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "Town of Greece",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-5648527854",
+   "name": "Blatnick Park Disc Golf Course",
+   "lat": 42.8146896,
+   "lng": -73.8611487,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/5648527854",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-way-1393570768",
+   "name": "Bomber Disc Golf at Griffiss Park",
+   "lat": 43.2150027,
+   "lng": -75.4130851,
+   "state": "NY",
+   "country": "US",
+   "holes": 18,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "way/1393570768",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "website": "https://www.griffissbusinesspark.com/at-griffiss/bomber-disc-golf-at-griffiss-park/",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 18
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 18
+   }
+  },
+  {
+   "id": "osm-node-12922426028",
+   "name": "Cadyville Disc Golf Course",
+   "lat": 44.7001397,
+   "lng": -73.6161202,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/12922426028",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-14027192706",
+   "name": "Colonial Acres Disc Golf Course",
+   "lat": 42.6052594,
+   "lng": -73.8063773,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/14027192706",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "Town of Bethlehem",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-14201525342",
+   "name": "Ellicott Creek Disc Golf Course",
+   "lat": 43.0202845,
+   "lng": -78.831942,
+   "state": "NY",
+   "country": "US",
+   "holes": 18,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/14201525342",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 18,
+    "baskets": 18
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 18
+   }
+  },
+  {
+   "id": "osm-node-9902416327",
+   "name": "James W. Olley Park Disc Golf",
+   "lat": 41.5575812,
+   "lng": -74.1773485,
+   "state": "NY",
+   "country": "US",
+   "holes": 9,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/9902416327",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "Village of Walden",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 9,
+    "baskets": 9
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 9
+   }
+  },
+  {
+   "id": "osm-node-11272647277",
+   "name": "New York Disc Golf Supply",
+   "lat": 42.7297399,
+   "lng": -73.6941853,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11272647277",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-5543788601",
+   "name": "Panther Highlands",
+   "lat": 42.5027174,
+   "lng": -76.2890975,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/5543788601",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "Tompkins Cortland Community College",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-way-809191005",
+   "name": "Parma Disc Golf Course",
+   "lat": 43.2470285,
+   "lng": -77.7832232,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "way/809191005",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-11447441665",
+   "name": "Prospect Park Disc Golf Course",
+   "lat": 42.7247091,
+   "lng": -73.683098,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11447441665",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "website": "https://www.troyny.gov/1497/Disc-Golf-Course",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-way-220475687",
+   "name": "Robison Disc Golf Course",
+   "lat": 42.4599991,
+   "lng": -76.4772994,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "way/220475687",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "Cornell University",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-relation-13466735",
+   "name": "SUNY Geneseo Disc Golf Course",
+   "lat": 42.8022306,
+   "lng": -77.8256473,
+   "state": "NY",
+   "country": "US",
+   "holes": 9,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "relation/13466735",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "SUNY Geneseo",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 18,
+    "baskets": 9
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 9
+   }
+  },
+  {
+   "id": "osm-way-1431720264",
+   "name": "Stephen P Wallace Disc Golf Course",
+   "lat": 42.6413804,
+   "lng": -73.9280336,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "way/1431720264",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-14022216764",
+   "name": "The Ravine at Chestnut Ridge",
+   "lat": 42.7224949,
+   "lng": -78.7441001,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/14022216764",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-11764493143",
+   "name": "Village of Bergen Disc Golf Course",
+   "lat": 43.0797499,
+   "lng": -77.9460338,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "node/11764493143",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-way-1415048440",
+   "name": "Widener Park - Chili Disc Golf Course",
+   "lat": 43.0784591,
+   "lng": -77.7640804,
+   "state": "NY",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-01",
+   "osm": "way/1415048440",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
    }
   }
  ]
