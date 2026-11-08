@@ -1191,8 +1191,8 @@
    "wheelchair": "no"
   },
   "mapped": {
-   "tees": 0,
-   "baskets": 0
+   "tees": 25,
+   "baskets": 20
   }
  },
  {
@@ -1463,6 +1463,471 @@
   "wikidata": null,
   "tags": {
    "name": "Forest Home Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/8722629226",
+  "name": null,
+  "lat": 33.6326404,
+  "lng": -112.1264975,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/8796648700",
+  "name": null,
+  "lat": 33.4979872,
+  "lng": -112.0195094,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11902419857",
+  "name": null,
+  "lat": 33.3193605,
+  "lng": -111.997228,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11902419859",
+  "name": null,
+  "lat": 33.6026816,
+  "lng": -112.1116805,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12085982255",
+  "name": null,
+  "lat": 34.7482148,
+  "lng": -112.016629,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13728637889",
+  "name": null,
+  "lat": 34.3984369,
+  "lng": -110.5627383,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 4,
+   "baskets": 3
+  }
+ },
+ {
+  "osm": "way/140257385",
+  "name": null,
+  "lat": 33.2506736,
+  "lng": -111.8271054,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/976832772",
+  "name": null,
+  "lat": 33.1899776,
+  "lng": -111.5753883,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/976833180",
+  "name": null,
+  "lat": 33.1884214,
+  "lng": -111.5773523,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1275177655",
+  "name": null,
+  "lat": 33.4252498,
+  "lng": -112.5172364,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1280396994",
+  "name": null,
+  "lat": 34.7704047,
+  "lng": -112.4448694,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "relation/20447177",
+  "name": null,
+  "lat": 34.3997181,
+  "lng": -110.5640194,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 14,
+   "baskets": 15
+  }
+ },
+ {
+  "osm": "node/8703001656",
+  "name": "Buffalo Ridge Disc Golf Course",
+  "lat": 33.6609922,
+  "lng": -112.0470545,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Buffalo Ridge Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13307271280",
+  "name": "Desert Discs",
+  "lat": 32.1869698,
+  "lng": -110.9147435,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "addr:state": "AZ",
+   "addr:street": "South Dodge Boulevard",
+   "name": "Desert Discs",
+   "opening_hours": "Tu 10:00-16:00; We-Th,Sa 10:00-17:00; Fr 10:00-14:00"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/440539829",
+  "name": "Disc Golf",
+  "lat": 31.5413276,
+  "lng": -110.2902475,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/681651869",
+  "name": "Freestone Disc Golf Course",
+  "lat": 33.3635035,
+  "lng": -111.766302,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Freestone Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1172758667",
+  "name": "Hualapai Mountain Park Disc Golf Course",
+  "lat": 35.0958399,
+  "lng": -113.8876962,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Hualapai Mountain Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 18,
+   "baskets": 18
+  }
+ },
+ {
+  "osm": "node/13286531926",
+  "name": "Nine-Hole Disc Golf Course",
+  "lat": 32.7919795,
+  "lng": -109.6999386,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Nine-Hole Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 1
+  }
+ },
+ {
+  "osm": "relation/5407205",
+  "name": "Red Mountain North",
+  "lat": 33.4347485,
+  "lng": -111.6663075,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Red Mountain North",
+   "surface": "dirt"
+  },
+  "mapped": {
+   "tees": 10,
+   "baskets": 11
+  }
+ },
+ {
+  "osm": "relation/5407206",
+  "name": "Red Mountain South",
+  "lat": 33.4315337,
+  "lng": -111.6629282,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Red Mountain South",
+   "surface": "dirt"
+  },
+  "mapped": {
+   "tees": 19,
+   "baskets": 19
+  }
+ },
+ {
+  "osm": "way/1078831877",
+  "name": "Skyline Rach Disc Golf Course",
+  "lat": 33.183419,
+  "lng": -111.5865335,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Skyline Rach Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11715529842",
+  "name": "Spinners on the Green",
+  "lat": 33.4645026,
+  "lng": -111.9164722,
+  "region": "AZ",
+  "country": "US",
+  "state": "AZ",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Spinners on the Green"
   },
   "mapped": {
    "tees": 0,
@@ -7221,48 +7686,6 @@
   }
  },
  {
-  "osm": "node/11922521595",
-  "name": null,
-  "lat": 33.9700505,
-  "lng": -83.7301702,
-  "region": "GA",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": "https://gastateparks.org/FortYargo/DiscGolf",
-  "operator": "Fort Yargo State Park",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "opening_hours": "07:00-sunset"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/14106567052",
-  "name": null,
-  "lat": 34.0532474,
-  "lng": -83.8916473,
-  "region": "GA",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/14122809512",
   "name": null,
   "lat": 31.9752146,
@@ -7302,32 +7725,6 @@
   "mapped": {
    "tees": 0,
    "baskets": 0
-  }
- },
- {
-  "osm": "way/415831720",
-  "name": "Alexander Park Disc Golf Course",
-  "lat": 33.9131774,
-  "lng": -84.0048764,
-  "region": "GA",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": "Alexander Park",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "description": "A disc golf course in Alexander Park.",
-   "dog": "leashed",
-   "name": "Alexander Park Disc Golf Course",
-   "opening_hours": "sunrise-sunset",
-   "phone": "+1-678-277-0891"
-  },
-  "mapped": {
-   "tees": 3,
-   "baskets": 7
   }
  },
  {
@@ -7882,28 +8279,6 @@
   }
  },
  {
-  "osm": "node/11288711131",
-  "name": "North Georgia Canopy Tours Disc Golf Course",
-  "lat": 34.371323,
-  "lng": -83.6973931,
-  "region": "GA",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "North Georgia Canopy Tours Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 6,
-   "baskets": 3
-  }
- },
- {
   "osm": "node/13584953516",
   "name": "One Church",
   "lat": 33.3655532,
@@ -8039,28 +8414,6 @@
   "mapped": {
    "tees": 0,
    "baskets": 0
-  }
- },
- {
-  "osm": "relation/18919658",
-  "name": "Wills Park Disc Golf Course",
-  "lat": 34.07095,
-  "lng": -84.307711,
-  "region": "GA",
-  "country": "US",
-  "state": "GA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "no",
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Wills Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 17,
-   "baskets": 19
   }
  },
  {
@@ -18883,6 +19236,28 @@
   }
  },
  {
+  "osm": "node/5754688657",
+  "name": "Disc Golf Course",
+  "lat": 37.6500253,
+  "lng": -91.5467696,
+  "region": "MO",
+  "country": "US",
+  "state": "MO",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/10717944539",
   "name": "Duncan Park Disc Golf",
   "lat": 39.8061477,
@@ -19058,6 +19433,34 @@
   "mapped": {
    "tees": 9,
    "baskets": 9
+  }
+ },
+ {
+  "osm": "node/14353122555",
+  "name": "Indian Camp Creek",
+  "lat": 38.8804768,
+  "lng": -90.9465907,
+  "region": "MO",
+  "country": "US",
+  "state": "MO",
+  "holes": null,
+  "website": null,
+  "operator": "St. Charles County Parks Department",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Foristell",
+   "addr:postcode": "63348",
+   "addr:state": "MO",
+   "addr:street": "Dietrich Road",
+   "name": "Indian Camp Creek",
+   "opening_hours": "07:00-(sunset+00:30)",
+   "wheelchair": "no"
+  },
+  "mapped": {
+   "tees": 18,
+   "baskets": 18
   }
  },
  {
@@ -20899,6 +21302,887 @@
   }
  },
  {
+  "osm": "node/11922521595",
+  "name": null,
+  "lat": 33.9700505,
+  "lng": -83.7301702,
+  "region": "NC",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": "https://gastateparks.org/FortYargo/DiscGolf",
+  "operator": "Fort Yargo State Park",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "opening_hours": "07:00-sunset"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14106567052",
+  "name": null,
+  "lat": 34.0532474,
+  "lng": -83.8916473,
+  "region": "NC",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/2641123476",
+  "name": null,
+  "lat": 35.9216771,
+  "lng": -79.1050584,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "surface": "dirt"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/3409741153",
+  "name": null,
+  "lat": 36.0542287,
+  "lng": -78.9622005,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": "City Of Durham",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/3559272291",
+  "name": null,
+  "lat": 35.7624827,
+  "lng": -81.3558277,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 24,
+   "baskets": 23
+  }
+ },
+ {
+  "osm": "node/9653854335",
+  "name": null,
+  "lat": 35.6263502,
+  "lng": -77.3750387,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/10272098736",
+  "name": null,
+  "lat": 35.0604529,
+  "lng": -77.0452672,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11738922799",
+  "name": null,
+  "lat": 35.9896738,
+  "lng": -79.4462724,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12037936471",
+  "name": null,
+  "lat": 36.004113,
+  "lng": -79.7620037,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12125226435",
+  "name": null,
+  "lat": 35.3626313,
+  "lng": -77.9577502,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 2
+  }
+ },
+ {
+  "osm": "node/12173692426",
+  "name": null,
+  "lat": 35.3482426,
+  "lng": -77.9452785,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12253767094",
+  "name": null,
+  "lat": 35.3713033,
+  "lng": -77.9389092,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12456901114",
+  "name": null,
+  "lat": 36.3037039,
+  "lng": -80.5031273,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12879213111",
+  "name": null,
+  "lat": 35.3708429,
+  "lng": -77.9410588,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/200456347",
+  "name": null,
+  "lat": 35.7654596,
+  "lng": -78.6758776,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": "http://www.ncsu.edu/facilities/buildings/disk_golf.html",
+  "operator": null,
+  "fee": null,
+  "access": "unknown",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 9,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "way/1270547109",
+  "name": null,
+  "lat": 35.8388306,
+  "lng": -80.0978232,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1270548088",
+  "name": null,
+  "lat": 34.1366198,
+  "lng": -77.9128652,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1373457624",
+  "name": null,
+  "lat": 35.8856064,
+  "lng": -78.8476915,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1408936390",
+  "name": null,
+  "lat": 35.3704441,
+  "lng": -77.9409088,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 1
+  }
+ },
+ {
+  "osm": "way/1503816899",
+  "name": null,
+  "lat": 36.39653,
+  "lng": -78.1614461,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 6,
+   "baskets": 8
+  }
+ },
+ {
+  "osm": "way/415831720",
+  "name": "Alexander Park Disc Golf Course",
+  "lat": 33.9131774,
+  "lng": -84.0048764,
+  "region": "NC",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": "Alexander Park",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "description": "A disc golf course in Alexander Park.",
+   "dog": "leashed",
+   "name": "Alexander Park Disc Golf Course",
+   "opening_hours": "sunrise-sunset",
+   "phone": "+1-678-277-0891"
+  },
+  "mapped": {
+   "tees": 3,
+   "baskets": 7
+  }
+ },
+ {
+  "osm": "way/204976707",
+  "name": "Buckhorn Disc Golf Course",
+  "lat": 35.6278667,
+  "lng": -78.9301605,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": "http://www.wakegov.com/parks/harrislake/Pages/discgolf.aspx",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Buckhorn Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 32,
+   "baskets": 18
+  }
+ },
+ {
+  "osm": "relation/21067562",
+  "name": "Camp Boddie 18 Hole Course",
+  "lat": 35.4388189,
+  "lng": -76.9428744,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Camp Boddie 18 Hole Course"
+  },
+  "mapped": {
+   "tees": 8,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "relation/21067438",
+  "name": "Camp Boddie 9 Hole Course",
+  "lat": 35.438831,
+  "lng": -76.9506139,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Camp Boddie 9 Hole Course"
+  },
+  "mapped": {
+   "tees": 9,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "node/2804981628",
+  "name": "Carolina Disc Golf",
+  "lat": 35.9061837,
+  "lng": -79.0370523,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": "http://cf.unc.edu/discgolf/",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Carolina Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/9525518303",
+  "name": "Cornwallis Road Disc Golf Course",
+  "lat": 35.9789482,
+  "lng": -78.9521072,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": "Durham Parks and Recreation",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Cornwallis Road Disc Golf Course",
+   "opening_hours": "dawn-dusk"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14013506915",
+  "name": "Disc Golf Course",
+  "lat": 35.7595978,
+  "lng": -78.8141577,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Disc Golf Course",
+   "opening_hours": "24/7"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13830752683",
+  "name": "East Carolina University",
+  "lat": 35.6310317,
+  "lng": -77.3198702,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "East Carolina University",
+   "surface": "asphalt"
+  },
+  "mapped": {
+   "tees": 20,
+   "baskets": 25
+  }
+ },
+ {
+  "osm": "way/887389456",
+  "name": "George Sappenfield Disc Golf Course",
+  "lat": 36.1275664,
+  "lng": -80.7272985,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "George Sappenfield Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/13012978447",
+  "name": "Guilford Meadows Disc Golf Course",
+  "lat": 36.0988015,
+  "lng": -79.8884469,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": "Guilford College",
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Guilford Meadows Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/669881739",
+  "name": "Horizons Park Disc Golf Course",
+  "lat": 36.2253955,
+  "lng": -80.2316818,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Horizons Park Disc Golf Course",
+   "surface": "ground"
+  },
+  "mapped": {
+   "tees": 22,
+   "baskets": 21
+  }
+ },
+ {
+  "osm": "node/14143484549",
+  "name": "Leland Disc Golf Park",
+  "lat": 34.2458976,
+  "lng": -78.0227589,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": 12,
+  "website": "https://www.townofleland.com/parks-recreation-cultural-resources/parks-facilities",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Leland",
+   "addr:state": "NC",
+   "addr:street": "Village Road",
+   "name": "Leland Disc Golf Park",
+   "opening_hours": "sunrise-sunset"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/288085419",
+  "name": "Middle Creek Disc Golf Course",
+  "lat": 35.6642103,
+  "lng": -78.764144,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": "http://www.townofcary.org/Departments/Parks__Recreation___Cultural_Resources/Parks_and_Greenways/Parks/Middle_Creek_School_Park/Middle_Creek_18-Hole_Disc_Golf_Course.htm",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Middle Creek Disc Golf Course",
+   "opening_hours": "sunrise-sunset"
+  },
+  "mapped": {
+   "tees": 16,
+   "baskets": 10
+  }
+ },
+ {
+  "osm": "way/1233573115",
+  "name": "Morrisville Dragonfly Pop-up Disc Golf Course.",
+  "lat": 35.8244514,
+  "lng": -78.8314974,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": "https://www.morrisvillenc.gov/government/departments-services/parks-recreation-cultural-resources/parks-and-greenways/pop-up-disc-golf",
+  "operator": "Town of Morrisville",
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Morrisville Dragonfly Pop-up Disc Golf Course."
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12434315688",
+  "name": "Nelson Acres Disc Golf Coarse",
+  "lat": 36.3995974,
+  "lng": -80.4810842,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Nelson Acres Disc Golf Coarse"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11288711131",
+  "name": "North Georgia Canopy Tours Disc Golf Course",
+  "lat": 34.371323,
+  "lng": -83.6973931,
+  "region": "NC",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "North Georgia Canopy Tours Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 6,
+   "baskets": 3
+  }
+ },
+ {
+  "osm": "node/13453353235",
+  "name": "Pluck Farm Disc Golf Course",
+  "lat": 35.9509602,
+  "lng": -79.2516428,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": "Steel String Brewery LLC",
+  "fee": "no",
+  "access": "permissive",
+  "wikidata": null,
+  "tags": {
+   "dog": "leashed",
+   "name": "Pluck Farm Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/446345604",
+  "name": "Rock Ridge Park Disc Golf Course",
+  "lat": 35.6756582,
+  "lng": -79.1802484,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Rock Ridge Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 35,
+   "baskets": 18
+  }
+ },
+ {
+  "osm": "node/11969458061",
+  "name": "Trinity Disc Golf Course",
+  "lat": 34.041438,
+  "lng": -77.9049504,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": "Good Hops Brewery",
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "name": "Trinity Disc Golf Course",
+   "opening_hours": "dawn-dusk"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/12988308598",
+  "name": "Williams Day Camp Disc Golf Course",
+  "lat": 35.7440161,
+  "lng": -77.9333853,
+  "region": "NC",
+  "country": "US",
+  "state": "NC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Williams Day Camp Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "relation/18919658",
+  "name": "Wills Park Disc Golf Course",
+  "lat": 34.07095,
+  "lng": -84.307711,
+  "region": "NC",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Wills Park Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 17,
+   "baskets": 19
+  }
+ },
+ {
   "osm": "node/793537428",
   "name": null,
   "lat": 47.9119022,
@@ -22239,26 +23523,6 @@
   }
  },
  {
-  "osm": "node/11250338407",
-  "name": null,
-  "lat": 37.3787996,
-  "lng": -118.4913457,
-  "region": "NV",
-  "country": "US",
-  "state": "CA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "way/769000914",
   "name": null,
   "lat": 36.5409432,
@@ -22270,6 +23534,26 @@
   "website": null,
   "operator": null,
   "fee": "no",
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/11250338407",
+  "name": null,
+  "lat": 37.3787996,
+  "lng": -118.4913457,
+  "region": "NV",
+  "country": "US",
+  "state": "CA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
   "access": null,
   "wikidata": null,
   "tags": {},
@@ -25561,8 +26845,8 @@
  {
   "osm": "relation/19464188",
   "name": "Mt. Airy Forest Disc Golf Course",
-  "lat": 39.173775,
-  "lng": -84.5734317,
+  "lat": 39.1737905,
+  "lng": -84.5734785,
   "region": "OH",
   "country": "US",
   "state": "OH",
@@ -29214,6 +30498,28 @@
   }
  },
  {
+  "osm": "node/14352546547",
+  "name": "Roland Park Disc Golf",
+  "lat": 40.1600086,
+  "lng": -76.1980808,
+  "region": "PA",
+  "country": "US",
+  "state": "PA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Roland Park Disc Golf"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/7383601086",
   "name": "Scarboro Hills Disc Golf Course",
   "lat": 39.6360075,
@@ -29611,26 +30917,6 @@
   }
  },
  {
-  "osm": "node/6965083498",
-  "name": null,
-  "lat": 33.4668739,
-  "lng": -79.1160247,
-  "region": "SC",
-  "country": "US",
-  "state": "SC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/12758664698",
   "name": null,
   "lat": 35.2684356,
@@ -29647,6 +30933,26 @@
   "tags": {
    "surface": "ground"
   },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/6965083498",
+  "name": null,
+  "lat": 33.4668739,
+  "lng": -79.1160247,
+  "region": "SC",
+  "country": "US",
+  "state": "SC",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
   "mapped": {
    "tees": 0,
    "baskets": 0
@@ -30632,26 +31938,6 @@
   }
  },
  {
-  "osm": "way/1232726186",
-  "name": null,
-  "lat": 35.1809421,
-  "lng": -83.3835421,
-  "region": "TN",
-  "country": "US",
-  "state": "NC",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "way/487835001",
   "name": null,
   "lat": 35.9825813,
@@ -30694,13 +31980,33 @@
   }
  },
  {
-  "osm": "way/869147967",
+  "osm": "way/1023484982",
   "name": null,
-  "lat": 35.5870164,
-  "lng": -86.6911286,
+  "lat": 36.2992342,
+  "lng": -82.3640516,
   "region": "TN",
   "country": "US",
   "state": "TN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1232726186",
+  "name": null,
+  "lat": 35.1809421,
+  "lng": -83.3835421,
+  "region": "TN",
+  "country": "US",
+  "state": "NC",
   "holes": null,
   "website": null,
   "operator": null,
@@ -30714,18 +32020,18 @@
   }
  },
  {
-  "osm": "way/1023484982",
+  "osm": "way/869147967",
   "name": null,
-  "lat": 36.2992342,
-  "lng": -82.3640516,
+  "lat": 35.5870164,
+  "lng": -86.6911286,
   "region": "TN",
   "country": "US",
   "state": "TN",
   "holes": null,
   "website": null,
   "operator": null,
-  "fee": "no",
-  "access": "yes",
+  "fee": null,
+  "access": null,
   "wikidata": null,
   "tags": {},
   "mapped": {
@@ -42693,6 +43999,26 @@
   }
  },
  {
+  "osm": "way/386971071",
+  "name": null,
+  "lat": 36.5820318,
+  "lng": -76.1445865,
+  "region": "VA",
+  "country": "US",
+  "state": "VA",
+  "holes": null,
+  "website": null,
+  "operator": "City of Chesapeake",
+  "fee": null,
+  "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/9519245662",
   "name": null,
   "lat": 36.8688069,
@@ -42784,26 +44110,6 @@
   "website": null,
   "operator": null,
   "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/386971071",
-  "name": null,
-  "lat": 36.5820318,
-  "lng": -76.1445865,
-  "region": "VA",
-  "country": "US",
-  "state": "VA",
-  "holes": null,
-  "website": null,
-  "operator": "City of Chesapeake",
-  "fee": null,
   "access": "yes",
   "wikidata": null,
   "tags": {},
@@ -46670,25 +47976,25 @@
   }
  },
  {
-  "osm": "way/551295356",
+  "osm": "way/1576480927",
   "name": "Woodland Creek Disc Golf Course",
-  "lat": 47.0360753,
-  "lng": -122.7915925,
+  "lat": 47.0365937,
+  "lng": -122.7907699,
   "region": "WA",
   "country": "US",
   "state": "WA",
   "holes": null,
   "website": null,
   "operator": null,
-  "fee": null,
-  "access": null,
+  "fee": "no",
+  "access": "yes",
   "wikidata": null,
   "tags": {
    "name": "Woodland Creek Disc Golf Course"
   },
   "mapped": {
-   "tees": 0,
-   "baskets": 0
+   "tees": 16,
+   "baskets": 23
   }
  },
  {
@@ -48056,6 +49362,28 @@
    "name": "MadMando Discs",
    "opening_hours": "Tu-Fr 10:00-18:00; Sa-Su 09:00-17:00",
    "phone": "+1-608-286-1955"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/666992886",
+  "name": "Mahr's Disc Golf",
+  "lat": 44.963403,
+  "lng": -90.9510781,
+  "region": "WI",
+  "country": "US",
+  "state": "WI",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Mahr's Disc Golf"
   },
   "mapped": {
    "tees": 0,

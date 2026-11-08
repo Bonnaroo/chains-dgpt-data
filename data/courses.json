@@ -24831,8 +24831,12 @@
    "operator": "Enterprise Parks and Recreation",
    "fee": "no",
    "osm_mapped": {
-    "tees": 0,
-    "baskets": 0
+    "tees": 25,
+    "baskets": 20
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 20
    }
   },
   {
@@ -42284,12 +42288,17 @@
    "city": null,
    "needs_review": true,
    "added": "2026-10-25",
-   "osm": "way/551295356",
+   "osm": "way/1576480927",
    "source_osm": true,
    "attribution": "© OpenStreetMap contributors (ODbL)",
    "osm_mapped": {
-    "tees": 0,
-    "baskets": 0
+    "tees": 16,
+    "baskets": 23
+   },
+   "fee": "no",
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 23
    }
   },
   {
@@ -44860,6 +44869,88 @@
    "needs_review": true,
    "added": "2026-11-01",
    "osm": "way/1415048440",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-5754688657",
+   "name": "Disc Golf Course",
+   "lat": 37.6500253,
+   "lng": -91.5467696,
+   "state": "MO",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-08",
+   "osm": "node/5754688657",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-14353122555",
+   "name": "Indian Camp Creek",
+   "lat": 38.8804768,
+   "lng": -90.9465907,
+   "state": "MO",
+   "country": "US",
+   "holes": 18,
+   "city": "Foristell",
+   "needs_review": true,
+   "added": "2026-11-08",
+   "osm": "node/14353122555",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "St. Charles County Parks Department",
+   "fee": "no",
+   "osm_mapped": {
+    "tees": 18,
+    "baskets": 18
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 18
+   }
+  },
+  {
+   "id": "osm-node-14352546547",
+   "name": "Roland Park Disc Golf",
+   "lat": 40.1600086,
+   "lng": -76.1980808,
+   "state": "PA",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-08",
+   "osm": "node/14352546547",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-way-666992886",
+   "name": "Mahr's Disc Golf",
+   "lat": 44.963403,
+   "lng": -90.9510781,
+   "state": "WI",
+   "country": "US",
+   "holes": null,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-08",
+   "osm": "way/666992886",
    "source_osm": true,
    "attribution": "© OpenStreetMap contributors (ODbL)",
    "osm_mapped": {

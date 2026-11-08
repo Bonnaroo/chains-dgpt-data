@@ -1,15 +1,18 @@
 {
- "fetched": "2026-11-01T14:35:57.642301Z",
+ "fetched": "2026-11-08T14:37:33.520552Z",
  "regions": {
   "AL": {
    "courses": 30,
-   "nodes": 225
+   "nodes": 296
   },
   "AK": {
    "courses": 53,
    "nodes": 169
   },
-  "AZ": "FAILED",
+  "AZ": {
+   "courses": 26,
+   "nodes": 286
+  },
   "AR": {
    "courses": 25,
    "nodes": 130
@@ -24,7 +27,7 @@
   },
   "CT": {
    "courses": 12,
-   "nodes": 1
+   "nodes": 3
   },
   "DE": {
    "courses": 6,
@@ -36,7 +39,7 @@
   },
   "GA": {
    "courses": 70,
-   "nodes": 441
+   "nodes": 454
   },
   "HI": {
    "courses": 2,
@@ -47,8 +50,8 @@
    "nodes": 187
   },
   "IL": {
-   "courses": 79,
-   "nodes": 661
+   "courses": 81,
+   "nodes": 697
   },
   "IN": {
    "courses": 60,
@@ -80,14 +83,14 @@
   },
   "MA": {
    "courses": 54,
-   "nodes": 100
+   "nodes": 102
   },
   "MI": {
    "courses": 153,
    "nodes": 1139
   },
   "MN": {
-   "courses": 135,
+   "courses": 136,
    "nodes": 639
   },
   "MS": {
@@ -95,8 +98,8 @@
    "nodes": 38
   },
   "MO": {
-   "courses": 146,
-   "nodes": 602
+   "courses": 148,
+   "nodes": 638
   },
   "MT": {
    "courses": 37,
@@ -124,9 +127,12 @@
   },
   "NY": {
    "courses": 113,
-   "nodes": 548
+   "nodes": 550
   },
-  "NC": "FAILED",
+  "NC": {
+   "courses": 97,
+   "nodes": 603
+  },
   "ND": {
    "courses": 27,
    "nodes": 102
@@ -144,7 +150,7 @@
    "nodes": 388
   },
   "PA": {
-   "courses": 62,
+   "courses": 63,
    "nodes": 316
   },
   "RI": {
@@ -181,14 +187,14 @@
   },
   "WA": {
    "courses": 128,
-   "nodes": 440
+   "nodes": 482
   },
   "WV": {
    "courses": 61,
    "nodes": 212
   },
   "WI": {
-   "courses": 92,
+   "courses": 93,
    "nodes": 438
   },
   "WY": {
@@ -201,9 +207,9 @@
   }
  },
  "totals": {
-  "courses": 2309,
-  "named": 1459,
-  "nodes": 9364,
-  "courses_with_geometry": 180
+  "courses": 2371,
+  "named": 1491,
+  "nodes": 10101,
+  "courses_with_geometry": 196
  }
 }
