@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:40:57.210746+00:00",
+  "updated_at": "2026-11-09T21:05:37.957785+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,8 +8,8 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLCnRu3XWEB9I",
-      "video_count": 4,
-      "round_count": 4,
+      "video_count": 6,
+      "round_count": 6,
       "practice_count": 0,
       "videos": [
         {
@@ -43,6 +43,22 @@
           "link": "https://www.youtube.com/watch?v=kmUesKFgw-k",
           "thumbnail": "https://i.ytimg.com/vi/kmUesKFgw-k/hqdefault.jpg",
           "published": "2026-11-08T05:48:39Z"
+        },
+        {
+          "title": "2026 JomezPro Finale at Cactus Rock | MPO FINALF9 | Marwede, Barlow, Leiviska, Tipton |JomezDiscGolf",
+          "video_id": "Cvnvz0DUWCc",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=Cvnvz0DUWCc",
+          "thumbnail": "https://i.ytimg.com/vi/Cvnvz0DUWCc/hqdefault.jpg",
+          "published": "2026-11-09T05:47:33Z"
+        },
+        {
+          "title": "2026 JomezPro Finale at Cactus Rock | MPO FINALB9 | Marwede, Barlow, Leiviska, Tipton |JomezDiscGolf",
+          "video_id": "_jHQfRphv2U",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=_jHQfRphv2U",
+          "thumbnail": "https://i.ytimg.com/vi/_jHQfRphv2U/hqdefault.jpg",
+          "published": "2026-11-09T05:49:53Z"
         }
       ]
     },
