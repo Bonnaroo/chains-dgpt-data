@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:52:48.765827+00:00",
+  "updated_at": "2026-11-12T17:16:14.143405+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -8,9 +8,9 @@
       "year": "2026",
       "channel": "JomezPro",
       "playlist_id": "PLCnRu3XWEB9I",
-      "video_count": 6,
+      "video_count": 7,
       "round_count": 6,
-      "practice_count": 0,
+      "practice_count": 1,
       "videos": [
         {
           "title": "2026 JomezPro Finale at Cactus Rock | MPO R1F9 | Ulibarri, Orum, Tipton, Marwede | Jomez Disc Golf",
@@ -59,6 +59,14 @@
           "link": "https://www.youtube.com/watch?v=_jHQfRphv2U",
           "thumbnail": "https://i.ytimg.com/vi/_jHQfRphv2U/hqdefault.jpg",
           "published": "2026-11-09T05:49:53Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 JomezPro Finale at Cactus Rock | Jomez Disc Golf",
+          "video_id": "oQ_LdRB8DlU",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=oQ_LdRB8DlU",
+          "thumbnail": "https://i.ytimg.com/vi/oQ_LdRB8DlU/hqdefault.jpg",
+          "published": "2026-11-12T13:58:48Z"
         }
       ]
     },
