@@ -39064,7 +39064,7 @@
    "city": "Laredo",
    "needs_review": true,
    "added": "2026-10-25",
-   "osm": "way/1176386541",
+   "osm": "node/14372469182",
    "source_osm": true,
    "attribution": "© OpenStreetMap contributors (ODbL)",
    "operator": "City of Laredo",
@@ -42425,7 +42425,7 @@
    "operator": "City of Menomonie",
    "osm_mapped": {
     "tees": 0,
-    "baskets": 0
+    "baskets": 1
    }
   },
   {
@@ -44953,6 +44953,51 @@
    "osm": "way/666992886",
    "source_osm": true,
    "attribution": "© OpenStreetMap contributors (ODbL)",
+   "osm_mapped": {
+    "tees": 0,
+    "baskets": 0
+   }
+  },
+  {
+   "id": "osm-node-14360712072",
+   "name": "Fort Rucker Disc Golf Course",
+   "lat": 31.3385235,
+   "lng": -85.704852,
+   "state": "AL",
+   "country": "US",
+   "holes": 18,
+   "city": null,
+   "needs_review": true,
+   "added": "2026-11-15",
+   "osm": "node/14360712072",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "fee": "yes",
+   "osm_mapped": {
+    "tees": 18,
+    "baskets": 18
+   },
+   "geo_osm": {
+    "holes_assigned": 0,
+    "baskets": 18
+   }
+  },
+  {
+   "id": "osm-node-14372534172",
+   "name": "Independence Hills Disk Golf Course",
+   "lat": 27.4865962,
+   "lng": -99.4488689,
+   "state": "TX",
+   "country": "US",
+   "holes": null,
+   "city": "Laredo",
+   "needs_review": true,
+   "added": "2026-11-15",
+   "osm": "node/14372534172",
+   "source_osm": true,
+   "attribution": "© OpenStreetMap contributors (ODbL)",
+   "operator": "City of Laredo",
+   "fee": "no",
    "osm_mapped": {
     "tees": 0,
     "baskets": 0

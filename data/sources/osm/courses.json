@@ -1173,6 +1173,28 @@
   }
  },
  {
+  "osm": "node/14360712072",
+  "name": "Fort Rucker Disc Golf Course",
+  "lat": 31.3385235,
+  "lng": -85.704852,
+  "region": "AL",
+  "country": "US",
+  "state": "AL",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": "yes",
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Fort Rucker Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 18,
+   "baskets": 18
+  }
+ },
+ {
   "osm": "node/14057655368",
   "name": "LZ Disc Golf Course",
   "lat": 31.3482066,
@@ -12817,6 +12839,26 @@
   }
  },
  {
+  "osm": "way/1577599485",
+  "name": null,
+  "lat": 38.0865165,
+  "lng": -84.4997582,
+  "region": "KY",
+  "country": "US",
+  "state": "KY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/11867386637",
   "name": "Camp Catalpa Disc Golf Course",
   "lat": 37.7405065,
@@ -17234,6 +17276,26 @@
   "tags": {
    "surface": "concrete"
   },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14363834211",
+  "name": null,
+  "lat": 38.9361201,
+  "lng": -90.2897834,
+  "region": "MO",
+  "country": "US",
+  "state": "IL",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
   "mapped": {
    "tees": 0,
    "baskets": 0
@@ -23783,13 +23845,13 @@
   }
  },
  {
-  "osm": "node/3192369977",
+  "osm": "node/13260213655",
   "name": null,
-  "lat": 41.1630451,
-  "lng": -73.4043449,
+  "lat": 42.3949024,
+  "lng": -72.5212667,
   "region": "NY",
   "country": "US",
-  "state": "CT",
+  "state": "MA",
   "holes": null,
   "website": null,
   "operator": null,
@@ -23799,7 +23861,7 @@
   "tags": {},
   "mapped": {
    "tees": 0,
-   "baskets": 0
+   "baskets": 1
   }
  },
  {
@@ -23807,26 +23869,6 @@
   "name": null,
   "lat": 41.9806152,
   "lng": -73.5048128,
-  "region": "NY",
-  "country": "US",
-  "state": "NY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/469768799",
-  "name": null,
-  "lat": 41.6508705,
-  "lng": -73.6963637,
   "region": "NY",
   "country": "US",
   "state": "NY",
@@ -23863,13 +23905,13 @@
   }
  },
  {
-  "osm": "node/13260213655",
+  "osm": "node/3192369977",
   "name": null,
-  "lat": 42.3949024,
-  "lng": -72.5212667,
+  "lat": 41.1630451,
+  "lng": -73.4043449,
   "region": "NY",
   "country": "US",
-  "state": "MA",
+  "state": "CT",
   "holes": null,
   "website": null,
   "operator": null,
@@ -23879,7 +23921,7 @@
   "tags": {},
   "mapped": {
    "tees": 0,
-   "baskets": 1
+   "baskets": 0
   }
  },
  {
@@ -23942,6 +23984,26 @@
   "mapped": {
    "tees": 7,
    "baskets": 9
+  }
+ },
+ {
+  "osm": "way/469768799",
+  "name": null,
+  "lat": 41.6508705,
+  "lng": -73.6963637,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
   }
  },
  {
@@ -24071,13 +24133,13 @@
   }
  },
  {
-  "osm": "node/9815820899",
+  "osm": "node/9118896513",
   "name": "14",
-  "lat": 41.1630322,
-  "lng": -73.40365,
+  "lat": 43.0310758,
+  "lng": -75.7423976,
   "region": "NY",
   "country": "US",
-  "state": "CT",
+  "state": "NY",
   "holes": null,
   "website": null,
   "operator": null,
@@ -24093,13 +24155,13 @@
   }
  },
  {
-  "osm": "node/9118896513",
+  "osm": "node/9815820899",
   "name": "14",
-  "lat": 43.0310758,
-  "lng": -75.7423976,
+  "lat": 41.1630322,
+  "lng": -73.40365,
   "region": "NY",
   "country": "US",
-  "state": "NY",
+  "state": "CT",
   "holes": null,
   "website": null,
   "operator": null,
@@ -33486,6 +33548,26 @@
   }
  },
  {
+  "osm": "node/14373008663",
+  "name": null,
+  "lat": 36.4248449,
+  "lng": -99.4286875,
+  "region": "TX",
+  "country": "US",
+  "state": "OK",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "way/744395483",
   "name": null,
   "lat": 36.0994752,
@@ -40354,6 +40436,34 @@
   }
  },
  {
+  "osm": "node/14372534172",
+  "name": "Independence Hills Disk Golf Course",
+  "lat": 27.4865962,
+  "lng": -99.4488689,
+  "region": "TX",
+  "country": "US",
+  "state": "TX",
+  "holes": null,
+  "website": null,
+  "operator": "City of Laredo",
+  "fee": "no",
+  "access": "yes",
+  "wikidata": null,
+  "tags": {
+   "addr:city": "Laredo",
+   "addr:postcode": "78045",
+   "addr:state": "TX",
+   "addr:street": "North Merida Drive",
+   "dog": "yes",
+   "name": "Independence Hills Disk Golf Course",
+   "opening_hours": "sunrise-sunset"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "way/545124522",
   "name": "Jay Reynolds Disc Golf",
   "lat": 35.4496356,
@@ -40636,10 +40746,10 @@
   }
  },
  {
-  "osm": "way/1176386541",
+  "osm": "node/14372469182",
   "name": "North Central Park Disk Golf Course",
-  "lat": 27.5996562,
-  "lng": -99.474755,
+  "lat": 27.5997735,
+  "lng": -99.4718734,
   "region": "TX",
   "country": "US",
   "state": "TX",
@@ -48890,7 +49000,7 @@
   },
   "mapped": {
    "tees": 0,
-   "baskets": 0
+   "baskets": 1
   }
  },
  {
