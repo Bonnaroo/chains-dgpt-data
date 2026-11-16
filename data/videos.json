@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:16:49.534702+00:00",
+  "updated_at": "2026-11-16T21:00:20.076190+00:00",
   "source": "JomezPro playlists (YouTube Data API)",
   "note": "MPO only. Grouped by tournament, rounds in order. Links open YouTube.",
   "tournaments": [
@@ -225,6 +225,89 @@
           "link": "https://www.youtube.com/watch?v=LM-tjKFF8rE",
           "thumbnail": "https://i.ytimg.com/vi/LM-tjKFF8rE/hqdefault.jpg",
           "published": "2026-10-21T17:04:55Z"
+        }
+      ]
+    },
+    {
+      "tournament": "2026 USDGC",
+      "year": "2026",
+      "channel": "JomezPro",
+      "playlist_id": "PLSdp1-vBWXrM",
+      "video_count": 9,
+      "round_count": 8,
+      "practice_count": 1,
+      "videos": [
+        {
+          "title": "2026 USDGC | MPO R1F9 | Barela, Schultz, Balodis, Rye | Jomez Disc Golf",
+          "video_id": "BRAx4qVMOAw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=BRAx4qVMOAw",
+          "thumbnail": "https://i.ytimg.com/vi/BRAx4qVMOAw/hqdefault.jpg",
+          "published": "2026-10-09T06:57:53Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R1B9 | Barela, Schultz, Balodis, Rye | Jomez Disc Golf",
+          "video_id": "GNr_2jrAKuA",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=GNr_2jrAKuA",
+          "thumbnail": "https://i.ytimg.com/vi/GNr_2jrAKuA/hqdefault.jpg",
+          "published": "2026-10-09T07:14:00Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R2F9 | White, Davidsson, Barela, Heimburg | Jomez Disc Golf",
+          "video_id": "kZyi-aPYUUc",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=kZyi-aPYUUc",
+          "thumbnail": "https://i.ytimg.com/vi/kZyi-aPYUUc/hqdefault.jpg",
+          "published": "2026-10-10T06:45:46Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R2B9 | White, Davidsson, Barela, Heimburg | Jomez Disc Golf",
+          "video_id": "-rQ9Q-QHz7E",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=-rQ9Q-QHz7E",
+          "thumbnail": "https://i.ytimg.com/vi/-rQ9Q-QHz7E/hqdefault.jpg",
+          "published": "2026-10-10T06:46:44Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R3F9 | Buhr, Wysocki, Monn, Barela | Jomez Disc Golf",
+          "video_id": "9Fa850Z8ovc",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=9Fa850Z8ovc",
+          "thumbnail": "https://i.ytimg.com/vi/9Fa850Z8ovc/hqdefault.jpg",
+          "published": "2026-10-11T06:49:59Z"
+        },
+        {
+          "title": "2026 USDGC | MPO R3B9 | Buhr, Wysocki, Monn, Barela | Jomez Disc Golf",
+          "video_id": "zJtze6OLEpw",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=zJtze6OLEpw",
+          "thumbnail": "https://i.ytimg.com/vi/zJtze6OLEpw/hqdefault.jpg",
+          "published": "2026-10-11T07:00:36Z"
+        },
+        {
+          "title": "2026 USDGC | MPO FINALF9 | Buhr, Heimburg, Wysocki, Anttila | Jomez Disc Golf",
+          "video_id": "lns95ga7z9I",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=lns95ga7z9I",
+          "thumbnail": "https://i.ytimg.com/vi/lns95ga7z9I/hqdefault.jpg",
+          "published": "2026-10-12T06:41:58Z"
+        },
+        {
+          "title": "2026 USDGC | MPO FINALB9 | Buhr, Heimburg, Wysocki, Anttila | Jomez Disc Golf",
+          "video_id": "AINKAG7mG8Q",
+          "kind": "round",
+          "link": "https://www.youtube.com/watch?v=AINKAG7mG8Q",
+          "thumbnail": "https://i.ytimg.com/vi/AINKAG7mG8Q/hqdefault.jpg",
+          "published": "2026-10-12T09:18:30Z"
+        },
+        {
+          "title": "Top 10 MPO Shots from the 2026 USDGC | Jomez Disc Golf",
+          "video_id": "1qtNnqaC0X4",
+          "kind": "practice",
+          "link": "https://www.youtube.com/watch?v=1qtNnqaC0X4",
+          "thumbnail": "https://i.ytimg.com/vi/1qtNnqaC0X4/hqdefault.jpg",
+          "published": "2026-10-13T15:24:00Z"
         }
       ]
     },
