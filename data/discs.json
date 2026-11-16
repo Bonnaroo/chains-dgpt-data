@@ -1,8 +1,8 @@
 {
  "_meta": {
   "source": "DiscIt API (discit-api.fly.dev)",
-  "count": 1207,
-  "built": "2026-11-09",
+  "count": 1221,
+  "built": "2026-11-16",
   "fields": "brand, mold, type, speed/glide/turn/fade, stability, pic"
  },
  "discs": [
@@ -214,6 +214,17 @@
    "fade": 1,
    "stability": "Understable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/6568887.webp"
+  },
+  {
+   "brand": "AquaFlight",
+   "mold": "Osprey (AquaFlight)",
+   "type": "Distance Driver",
+   "speed": 12,
+   "glide": 4,
+   "turn": -1,
+   "fade": 2,
+   "stability": "Stable",
+   "pic": ""
   },
   {
    "brand": "AquaFlight",
@@ -959,6 +970,17 @@
    "speed": 6,
    "glide": 6,
    "turn": -1,
+   "fade": 1,
+   "stability": "Understable",
+   "pic": ""
+  },
+  {
+   "brand": "Climo Disc Golf",
+   "mold": "Osprey (Climo)",
+   "type": "Hybrid Driver",
+   "speed": 10,
+   "glide": 6,
+   "turn": -3,
    "fade": 1,
    "stability": "Understable",
    "pic": ""
@@ -2604,6 +2626,17 @@
   },
   {
    "brand": "Discraft",
+   "mold": "Captain's Caliber",
+   "type": "Approach Discs",
+   "speed": 4,
+   "glide": 4,
+   "turn": 0,
+   "fade": 2,
+   "stability": "Overstable",
+   "pic": ""
+  },
+  {
+   "brand": "Discraft",
    "mold": "Captain's Raptor",
    "type": "Control Driver",
    "speed": 9,
@@ -3286,6 +3319,17 @@
   },
   {
    "brand": "Discraft",
+   "mold": "Terminator",
+   "type": "Distance Driver",
+   "speed": 12,
+   "glide": 5,
+   "turn": -1,
+   "fade": 3,
+   "stability": "Overstable",
+   "pic": ""
+  },
+  {
+   "brand": "Discraft",
    "mold": "Thrasher",
    "type": "Distance Driver",
    "speed": 12,
@@ -3479,7 +3523,7 @@
    "glide": 4,
    "turn": -1,
    "fade": 2,
-   "stability": "Understable",
+   "stability": "Stable",
    "pic": ""
   },
   {
@@ -3803,6 +3847,17 @@
   },
   {
    "brand": "Doomsday Discs",
+   "mold": "Propaganda",
+   "type": "Control Driver",
+   "speed": 9,
+   "glide": 4,
+   "turn": -1,
+   "fade": 2,
+   "stability": "Stable",
+   "pic": ""
+  },
+  {
+   "brand": "Doomsday Discs",
    "mold": "Psyop",
    "type": "Control Driver",
    "speed": 9,
@@ -3888,6 +3943,17 @@
    "fade": 2,
    "stability": "Stable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/6929999.webp"
+  },
+  {
+   "brand": "Dynamic Discs",
+   "mold": "Cavalry",
+   "type": "Control Driver",
+   "speed": 9,
+   "glide": 6,
+   "turn": -2.5,
+   "fade": 1,
+   "stability": "Understable",
+   "pic": ""
   },
   {
    "brand": "Dynamic Discs",
@@ -4163,6 +4229,17 @@
    "fade": 2,
    "stability": "Understable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/0000539.webp"
+  },
+  {
+   "brand": "Dynamic Discs",
+   "mold": "Mutiny",
+   "type": "Midrange",
+   "speed": 5,
+   "glide": 4,
+   "turn": 0,
+   "fade": 3,
+   "stability": "Overstable",
+   "pic": ""
   },
   {
    "brand": "Dynamic Discs",
@@ -4870,6 +4947,17 @@
   },
   {
    "brand": "Gateway",
+   "mold": "Charm",
+   "type": "Putter",
+   "speed": 3,
+   "glide": 3,
+   "turn": 0,
+   "fade": 0,
+   "stability": "Stable",
+   "pic": ""
+  },
+  {
+   "brand": "Gateway",
    "mold": "Chief",
    "type": "Putter",
    "speed": 3,
@@ -4955,6 +5043,17 @@
    "fade": 1,
    "stability": "Understable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/0000346.webp"
+  },
+  {
+   "brand": "Gateway",
+   "mold": "Ghoul",
+   "type": "Putter",
+   "speed": 3,
+   "glide": 3,
+   "turn": 0,
+   "fade": 3,
+   "stability": "Overstable",
+   "pic": ""
   },
   {
    "brand": "Gateway",
@@ -5354,6 +5453,17 @@
   },
   {
    "brand": "Infinite Discs",
+   "mold": "Cavalier",
+   "type": "Midrange",
+   "speed": 5,
+   "glide": 5,
+   "turn": 0,
+   "fade": 2,
+   "stability": "Overstable",
+   "pic": ""
+  },
+  {
+   "brand": "Infinite Discs",
    "mold": "Centurion",
    "type": "Control Driver",
    "speed": 7,
@@ -5615,6 +5725,17 @@
    "fade": 1,
    "stability": "Understable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/3531799.webp"
+  },
+  {
+   "brand": "Infinite Discs",
+   "mold": "Squire",
+   "type": "Control Driver",
+   "speed": 8,
+   "glide": 6,
+   "turn": 0,
+   "fade": 1,
+   "stability": "Stable",
+   "pic": ""
   },
   {
    "brand": "Infinite Discs",
@@ -10997,6 +11118,17 @@
   },
   {
    "brand": "Prodigy",
+   "mold": "Rook",
+   "type": "Putter",
+   "speed": 3,
+   "glide": 5,
+   "turn": -1,
+   "fade": 1,
+   "stability": "Understable",
+   "pic": ""
+  },
+  {
+   "brand": "Prodigy",
    "mold": "Shadowfax",
    "type": "Control Driver",
    "speed": 9,
@@ -11624,6 +11756,17 @@
   },
   {
    "brand": "Streamline",
+   "mold": "Autopilot",
+   "type": "Putter",
+   "speed": 2,
+   "glide": 3,
+   "turn": 0,
+   "fade": 1.5,
+   "stability": "Overstable",
+   "pic": ""
+  },
+  {
+   "brand": "Streamline",
    "mold": "Boost",
    "type": "Hybrid Driver",
    "speed": 9.5,
@@ -11852,6 +11995,17 @@
    "fade": 2,
    "stability": "Understable",
    "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/0000490.webp"
+  },
+  {
+   "brand": "Thought Space Athletics",
+   "mold": "Machina",
+   "type": "Control Driver",
+   "speed": 9,
+   "glide": 5,
+   "turn": 0,
+   "fade": 2,
+   "stability": "Overstable",
+   "pic": ""
   },
   {
    "brand": "Thought Space Athletics",
@@ -12324,7 +12478,7 @@
    "turn": 0,
    "fade": 3,
    "stability": "Overstable",
-   "pic": "   https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/0000000.webp"
+   "pic": "https://s3.amazonaws.com/media.marshallstreetdiscgolf.com/inbounds/0000000.webp"
   },
   {
    "brand": "Viking",
