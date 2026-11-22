@@ -7568,6 +7568,66 @@
   }
  },
  {
+  "osm": "node/14381627510",
+  "name": null,
+  "lat": 31.4697574,
+  "lng": -84.9268812,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14381627511",
+  "name": null,
+  "lat": 31.4698945,
+  "lng": -84.9267412,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14381627515",
+  "name": null,
+  "lat": 31.4698982,
+  "lng": -84.9267575,
+  "region": "GA",
+  "country": "US",
+  "state": "GA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "way/879045314",
   "name": null,
   "lat": 34.2610625,
@@ -13742,299 +13802,6 @@
   }
  },
  {
-  "osm": "node/7363773656",
-  "name": null,
-  "lat": 43.9585722,
-  "lng": -70.0437052,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": "Enman Field",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Brunswick",
-   "addr:postcode": "04011",
-   "addr:state": "ME",
-   "addr:street": "River Road"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/12494899294",
-  "name": null,
-  "lat": 44.0243409,
-  "lng": -70.368865,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/317417348",
-  "name": null,
-  "lat": 44.9063727,
-  "lng": -68.6661065,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/817994473",
-  "name": null,
-  "lat": 44.1633425,
-  "lng": -70.2359748,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/868503405",
-  "name": null,
-  "lat": 43.701455,
-  "lng": -70.3747227,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": "yes",
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13429899814",
-  "name": "Enman Riverside Disc Golf",
-  "lat": 46.8067292,
-  "lng": -67.9934534,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Enman Riverside Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/7176521697",
-  "name": "Grant's Nonesuch Valley Farm Disc Golf",
-  "lat": 43.579631,
-  "lng": -70.4757282,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": "https://grantsnonesuchvalleyfarmdiscgolf.com/",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Saco",
-   "addr:postcode": "04072",
-   "addr:state": "ME",
-   "addr:street": "McKenney Road",
-   "name": "Grant's Nonesuch Valley Farm Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/13525602716",
-  "name": "Maple Ridge Disc Golf",
-  "lat": 46.5737245,
-  "lng": -67.9519378,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": "https://www.mapleridgediscgolf.com/",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Maple Ridge Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/6753463620",
-  "name": "Outdoor Center",
-  "lat": 43.9025563,
-  "lng": -70.2596145,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": "https://pinelandfarms.org/recreation/",
-  "operator": null,
-  "fee": null,
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "addr:city": "New Gloucester",
-   "addr:postcode": "04260",
-   "addr:state": "ME",
-   "addr:street": "Farm View Drive",
-   "name": "Outdoor Center"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/14022691898",
-  "name": "Payson Park Disc Golf Course",
-  "lat": 43.683823,
-  "lng": -70.2708755,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": "https://www.portlandmaine.gov/parks-recreation-facilities-0?contentId=021c99c4-f275-4ab8-9b14-3704e49ee246",
-  "operator": "City of Portland",
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Payson Park Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/455381486",
-  "name": "Pleasant Hill Disc Golf",
-  "lat": 43.5903152,
-  "lng": -70.3047732,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": "https://philldiscgolf.com/",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Pleasant Hill Disc Golf"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/410620401",
-  "name": "Quarry Run Disc Golf",
-  "lat": 44.2942759,
-  "lng": -69.767851,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "addr:city": "Augusta",
-   "addr:postcode": "04330",
-   "addr:state": "ME",
-   "addr:street": "Hospital Street",
-   "name": "Quarry Run Disc Golf"
-  },
-  "mapped": {
-   "tees": 6,
-   "baskets": 4
-  }
- },
- {
-  "osm": "node/8627462503",
-  "name": "The Beast",
-  "lat": 43.9595685,
-  "lng": -70.0449636,
-  "region": "ME",
-  "country": "US",
-  "state": "ME",
-  "holes": null,
-  "website": null,
-  "operator": "Enman Field",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "The Beast"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/2797217369",
   "name": null,
   "lat": 42.348763,
@@ -15801,6 +15568,66 @@
   }
  },
  {
+  "osm": "node/2469701314",
+  "name": null,
+  "lat": 43.5976501,
+  "lng": -96.5651574,
+  "region": "MN",
+  "country": "US",
+  "state": "SD",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1557256889",
+  "name": null,
+  "lat": 43.4377293,
+  "lng": -96.6993802,
+  "region": "MN",
+  "country": "US",
+  "state": "SD",
+  "holes": null,
+  "website": "https://www.facebook.com/hburgdiscgolf",
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 9,
+   "baskets": 9
+  }
+ },
+ {
+  "osm": "node/5538870231",
+  "name": null,
+  "lat": 44.5041423,
+  "lng": -96.4344156,
+  "region": "MN",
+  "country": "US",
+  "state": "MN",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "node/8000897279",
   "name": null,
   "lat": 45.1318605,
@@ -16368,6 +16195,26 @@
   }
  },
  {
+  "osm": "way/1436535010",
+  "name": null,
+  "lat": 45.4023464,
+  "lng": -96.6683803,
+  "region": "MN",
+  "country": "US",
+  "state": "SD",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
   "osm": "way/1569001315",
   "name": null,
   "lat": 44.8474486,
@@ -16455,6 +16302,28 @@
   },
   "mapped": {
    "tees": 1,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/244795382",
+  "name": "Bramble Links Disc Golf Course",
+  "lat": 44.9091612,
+  "lng": -97.1265389,
+  "region": "MN",
+  "country": "US",
+  "state": "SD",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "Bramble Links Disc Golf Course"
+  },
+  "mapped": {
+   "tees": 0,
    "baskets": 0
   }
  },
@@ -16966,6 +16835,28 @@
    "lit": "no",
    "name": "Riebe Park Disc Golf Course",
    "surface": "grass"
+  },
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/137240469",
+  "name": "SDSU Disc Golf Course",
+  "lat": 44.3178369,
+  "lng": -96.7745065,
+  "region": "MN",
+  "country": "US",
+  "state": "SD",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "name": "SDSU Disc Golf Course"
   },
   "mapped": {
    "tees": 0,
@@ -23209,28 +23100,6 @@
   }
  },
  {
-  "osm": "way/470881691",
-  "name": null,
-  "lat": 42.9442482,
-  "lng": -70.8560431,
-  "region": "NH",
-  "country": "US",
-  "state": "NH",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "description": "practice"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "node/4741450116",
   "name": null,
   "lat": 42.610767,
@@ -23265,6 +23134,28 @@
   "access": null,
   "wikidata": null,
   "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/470881691",
+  "name": null,
+  "lat": 42.9442482,
+  "lng": -70.8560431,
+  "region": "NH",
+  "country": "US",
+  "state": "NH",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {
+   "description": "practice"
+  },
   "mapped": {
    "tees": 0,
    "baskets": 0
@@ -23845,13 +23736,13 @@
   }
  },
  {
-  "osm": "node/13260213655",
+  "osm": "node/3192369977",
   "name": null,
-  "lat": 42.3949024,
-  "lng": -72.5212667,
+  "lat": 41.1630451,
+  "lng": -73.4043449,
   "region": "NY",
   "country": "US",
-  "state": "MA",
+  "state": "CT",
   "holes": null,
   "website": null,
   "operator": null,
@@ -23861,7 +23752,7 @@
   "tags": {},
   "mapped": {
    "tees": 0,
-   "baskets": 1
+   "baskets": 0
   }
  },
  {
@@ -23869,6 +23760,26 @@
   "name": null,
   "lat": 41.9806152,
   "lng": -73.5048128,
+  "region": "NY",
+  "country": "US",
+  "state": "NY",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/469768799",
+  "name": null,
+  "lat": 41.6508705,
+  "lng": -73.6963637,
   "region": "NY",
   "country": "US",
   "state": "NY",
@@ -23905,13 +23816,13 @@
   }
  },
  {
-  "osm": "node/3192369977",
+  "osm": "node/13260213655",
   "name": null,
-  "lat": 41.1630451,
-  "lng": -73.4043449,
+  "lat": 42.3949024,
+  "lng": -72.5212667,
   "region": "NY",
   "country": "US",
-  "state": "CT",
+  "state": "MA",
   "holes": null,
   "website": null,
   "operator": null,
@@ -23921,7 +23832,7 @@
   "tags": {},
   "mapped": {
    "tees": 0,
-   "baskets": 0
+   "baskets": 1
   }
  },
  {
@@ -23984,26 +23895,6 @@
   "mapped": {
    "tees": 7,
    "baskets": 9
-  }
- },
- {
-  "osm": "way/469768799",
-  "name": null,
-  "lat": 41.6508705,
-  "lng": -73.6963637,
-  "region": "NY",
-  "country": "US",
-  "state": "NY",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
   }
  },
  {
@@ -24133,13 +24024,13 @@
   }
  },
  {
-  "osm": "node/9118896513",
+  "osm": "node/9815820899",
   "name": "14",
-  "lat": 43.0310758,
-  "lng": -75.7423976,
+  "lat": 41.1630322,
+  "lng": -73.40365,
   "region": "NY",
   "country": "US",
-  "state": "NY",
+  "state": "CT",
   "holes": null,
   "website": null,
   "operator": null,
@@ -24155,13 +24046,13 @@
   }
  },
  {
-  "osm": "node/9815820899",
+  "osm": "node/9118896513",
   "name": "14",
-  "lat": 41.1630322,
-  "lng": -73.40365,
+  "lat": 43.0310758,
+  "lng": -75.7423976,
   "region": "NY",
   "country": "US",
-  "state": "CT",
+  "state": "NY",
   "holes": null,
   "website": null,
   "operator": null,
@@ -28331,26 +28222,6 @@
   }
  },
  {
-  "osm": "node/14060121412",
-  "name": null,
-  "lat": 43.1746298,
-  "lng": -124.1981462,
-  "region": "OR",
-  "country": "US",
-  "state": "OR",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
   "osm": "way/840335448",
   "name": null,
   "lat": 44.0863806,
@@ -29064,28 +28935,6 @@
   "mapped": {
    "tees": 0,
    "baskets": 0
-  }
- },
- {
-  "osm": "way/1571196801",
-  "name": "Illinois River Forks Disc Golf Park",
-  "lat": 42.1594415,
-  "lng": -123.6540824,
-  "region": "OR",
-  "country": "US",
-  "state": "OR",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Illinois River Forks Disc Golf Park"
-  },
-  "mapped": {
-   "tees": 21,
-   "baskets": 18
   }
  },
  {
@@ -31592,287 +31441,6 @@
   "wikidata": null,
   "tags": {
    "name": "hole 2"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/2469701314",
-  "name": null,
-  "lat": 43.5976501,
-  "lng": -96.5651574,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1557256889",
-  "name": null,
-  "lat": 43.4377293,
-  "lng": -96.6993802,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": "https://www.facebook.com/hburgdiscgolf",
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 9,
-   "baskets": 9
-  }
- },
- {
-  "osm": "node/5538870231",
-  "name": null,
-  "lat": 44.5041423,
-  "lng": -96.4344156,
-  "region": "SD",
-  "country": "US",
-  "state": "MN",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1436535010",
-  "name": null,
-  "lat": 45.4023464,
-  "lng": -96.6683803,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/244795382",
-  "name": "Bramble Links Disc Golf Course",
-  "lat": 44.9091612,
-  "lng": -97.1265389,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Bramble Links Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/11993138228",
-  "name": "Custer Disc Golf Course",
-  "lat": 43.7636814,
-  "lng": -103.5927247,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": "Harney Disc Golf Union",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "dog": "yes",
-   "name": "Custer Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 2,
-   "baskets": 3
-  }
- },
- {
-  "osm": "relation/17751844",
-  "name": "Custer Disc Golf Course",
-  "lat": 43.7622349,
-  "lng": -103.5932626,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": "Harney Disc Golf Union",
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "dog": "yes",
-   "name": "Custer Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 16,
-   "baskets": 15
-  }
- },
- {
-  "osm": "way/251118492",
-  "name": "Forest Drive Disc Golf Course",
-  "lat": 45.5426569,
-  "lng": -98.6169096,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Forest Drive Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/307747419",
-  "name": "Kiwanis Disc Golf Course",
-  "lat": 43.7331699,
-  "lng": -98.0306655,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Kiwanis Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "node/2574025912",
-  "name": "Practice Basket",
-  "lat": 45.543062,
-  "lng": -98.6144991,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Practice Basket"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/137240469",
-  "name": "SDSU Disc Golf Course",
-  "lat": 44.3178369,
-  "lng": -96.7745065,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "SDSU Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/206389319",
-  "name": "Spearfish Canyon Disc Golf Course",
-  "lat": 44.4723893,
-  "lng": -103.8523268,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {
-   "name": "Spearfish Canyon Disc Golf Course"
-  },
-  "mapped": {
-   "tees": 0,
-   "baskets": 0
-  }
- },
- {
-  "osm": "way/1264566181",
-  "name": "Wareing Motors Disc Golf Course",
-  "lat": 44.3902205,
-  "lng": -103.506214,
-  "region": "SD",
-  "country": "US",
-  "state": "SD",
-  "holes": null,
-  "website": null,
-  "operator": "Wareing Sturgis Ford",
-  "fee": "no",
-  "access": "yes",
-  "wikidata": null,
-  "tags": {
-   "name": "Wareing Motors Disc Golf Course",
-   "opening_hours": "sunrise-sunset"
   },
   "mapped": {
    "tees": 0,
@@ -45717,26 +45285,6 @@
   }
  },
  {
-  "osm": "node/14062979453",
-  "name": null,
-  "lat": 45.7046606,
-  "lng": -122.5011821,
-  "region": "WA",
-  "country": "US",
-  "state": "WA",
-  "holes": null,
-  "website": null,
-  "operator": null,
-  "fee": null,
-  "access": null,
-  "wikidata": null,
-  "tags": {},
-  "mapped": {
-   "tees": 5,
-   "baskets": 4
-  }
- },
- {
   "osm": "way/734323667",
   "name": null,
   "lat": 45.5348997,
@@ -46256,6 +45804,26 @@
   "mapped": {
    "tees": 0,
    "baskets": 0
+  }
+ },
+ {
+  "osm": "node/14062979453",
+  "name": null,
+  "lat": 45.7046606,
+  "lng": -122.5011821,
+  "region": "WA",
+  "country": "US",
+  "state": "WA",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 5,
+   "baskets": 4
   }
  },
  {
@@ -48426,6 +47994,26 @@
   "operator": null,
   "fee": null,
   "access": "yes",
+  "wikidata": null,
+  "tags": {},
+  "mapped": {
+   "tees": 0,
+   "baskets": 0
+  }
+ },
+ {
+  "osm": "way/1580307098",
+  "name": null,
+  "lat": 43.053069,
+  "lng": -89.0712572,
+  "region": "WI",
+  "country": "US",
+  "state": "WI",
+  "holes": null,
+  "website": null,
+  "operator": null,
+  "fee": null,
+  "access": null,
   "wikidata": null,
   "tags": {},
   "mapped": {
